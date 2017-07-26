@@ -1,0 +1,170 @@
+﻿ཀ	k a	
+ཁ	kʰ a	
+ག	ɡ a	
+ང	ŋ a
+ཅ	tʃ a	
+ཆ	tʃʰ a	
+ཇ	dʒ a	
+ཉ	ɲ a
+ཏ	t a	
+ཐ	tʰ a	
+ད	d a	
+ན	n a
+པ	p a	
+ཕ	pʰ a	
+བ	b a	
+མ	m a
+ཙ	ts a	
+ཚ	tsʰ a	
+ཛ	dz a	
+ཝ	w a
+ཞ	ʒ a	
+ཟ	z a	
+འ	ʔ a	
+ཡ	j a
+ར	r a	
+ལ	l a	
+ཤ	ʃ a	
+ས	s a
+ཧ	h a
+ཫ	q a
+ཬ	ɽ a
+གྷ	ɡʱ a
+ཛྷ	dʒʱ a
+ཊ	ʈ a
+ཋ	ʈʰ a
+ཌ	ɖ a
+ཌྷ	ɖʱ a
+ཎ	ɳ a
+དྷ	dʱ a
+བྷ	bʱ a
+ཥ	ʂ a
+ཀྵ	kʂ a
+ཀ	k
+ཁ	kʰ
+ག	ɡ
+ང	ŋ
+ཅ	tʃ
+ཆ	tʃʰ
+ཇ	dʒ
+ཉ	ɲ
+ཏ	t
+ཐ	tʰ
+ད	d
+ན	n
+པ	p
+ཕ	pʰ
+བ	b
+མ	m
+ཙ	ts
+ཚ	tsʰ
+ཛ	dz
+ཝ	w
+ཞ	ʒ
+ཟ	z
+འ	ʔ
+ཡ	j
+ར	r
+ལ	l
+ཤ	ʃ
+ས	s
+ཧ	h
+ཫ	q
+ཬ	ɽ
+གྷ	ɡʱ
+ཛྷ	dʒʱ
+ཊ	ʈ
+ཋ	ʈʰ
+ཌ	ɖ
+ཌྷ	ɖʱ
+ཎ	ɳ
+དྷ	dʱ
+བྷ	bʱ
+ཥ	ʂ
+ཀྵ	kʂ
+ཀ྄	k
+ཁ྄	kʰ
+ག྄	ɡ
+ང྄	ŋ
+ཅ྄	tʃ
+ཆ྄	tʃʰ
+ཇ྄	dʒ
+ཉ྄	ɲ
+ཏ྄	t
+ཐ྄	tʰ
+ད྄	d
+ན྄	n
+པ྄	p
+ཕ྄	pʰ
+བ྄	b
+མ྄	m
+ཙ྄	ts
+ཚ྄	tsʰ
+ཛ྄	dz
+ཝ྄	w
+ཞ྄	ʒ
+ཟ྄	z
+འ྄	ʔ
+ཡ྄	j
+ར྄	r
+ལ྄	l
+ཤ྄	ʃ
+ས྄	s
+ཧ྄	h
+ཫ྄	q
+ཬ྄	ɽ
+གྷ྄	ɡʱ
+ཛྷ྄	dʒʱ
+ཊ྄	ʈ
+ཋ྄	ʈʰ
+ཌ྄	ɖ
+ཌྷ྄	ɖʱ
+ཎ྄	ɳ
+དྷ྄	dʱ
+བྷ྄	bʱ
+ཥ྄	ʂ
+ཀྵ྄	kʂ
+ཨ	a
+ཨི	i
+ཨུ	u
+ཨེ	e
+ཨོ	o
+ི	i
+ུ	u
+ེ	e
+ོ	o
+ཱ	aː
+ཱི	iː
+ཱུ 	uː
+ཻ	ai
+ཽ	au
+ྲྀ	ṛ i
+ཷ	ṛ iː
+ླྀ	ḷ i
+ཹ	ḷ iː
+ཾ	ṃ
+ྃ	ṃ
+ཿ	ḥ
+྅	ː
+༠	0
+༡	1	
+༢	2
+༣	3
+༤	4
+༥	5
+༦	6
+༧	7
+༨	8
+༩	9
+༄	[document]
+༈	[section]
+༉	[item]
+་	[syllable]
+།	[sentence]
+༎	[topic]
+༴	[repetition]
+༺	[open-parenthesis]
+༻	[close-parenthesis]
+༼	[open-brace]
+༽	[close-brace]
+
