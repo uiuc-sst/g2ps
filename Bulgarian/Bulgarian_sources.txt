@@ -1,0 +1,8 @@
+language: https://en.wikipedia.org/wiki/Bulgarian_language
+iso639-1: bg
+iso639-3: bul
+glottolog: bulg1262
+alphabet: https://en.wikipedia.org/wiki/Bulgarian_alphabet
+SBS: http://www.sbs.com.au/podcasts/yourlanguage/bulgarian
+wikipedia: https://bg.wikipedia.org
+

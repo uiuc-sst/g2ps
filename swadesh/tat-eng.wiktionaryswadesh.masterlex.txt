@@ -1,0 +1,246 @@
+мин	N/A	N/A	N/A	N/A	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+син	N/A	N/A	N/A	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ул	N/A	N/A	N/A	N/A	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+без	N/A	N/A	N/A	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сез	N/A	N/A	N/A	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+алар	N/A	N/A	N/A	N/A	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бу	N/A	N/A	N/A	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+теге	N/A	N/A	N/A	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+шул	N/A	N/A	N/A	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+монда	N/A	N/A	N/A	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+биредә	N/A	N/A	N/A	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бу җирдә	N/A	N/A	N/A	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тегендә	N/A	N/A	N/A	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+анда	N/A	N/A	N/A	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+шул җирдә	N/A	N/A	N/A	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кем	N/A	N/A	N/A	N/A	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нәрсә	N/A	N/A	N/A	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ни	N/A	N/A	N/A	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кайда	N/A	N/A	N/A	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кайчан	N/A	N/A	N/A	N/A	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ничек	N/A	N/A	N/A	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+түгел	N/A	N/A	N/A	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бөтен	N/A	N/A	N/A	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бары	N/A	N/A	N/A	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+һәммә	N/A	N/A	N/A	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+күп	N/A	N/A	N/A	N/A	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+берничә	N/A	N/A	N/A	N/A	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+аз	N/A	N/A	N/A	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+башка	N/A	N/A	N/A	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бер	N/A	N/A	N/A	N/A	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ике	N/A	N/A	N/A	N/A	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өч	N/A	N/A	N/A	N/A	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+дүрт	N/A	N/A	N/A	N/A	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+биш	N/A	N/A	N/A	N/A	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+зур	N/A	N/A	N/A	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+озын	N/A	N/A	N/A	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+киң	N/A	N/A	N/A	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+калын	N/A	N/A	N/A	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+авыр	N/A	N/A	N/A	N/A	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кечкенә	N/A	N/A	N/A	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кече	N/A	N/A	N/A	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кыска	N/A	N/A	N/A	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тар	N/A	N/A	N/A	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нечкә	N/A	N/A	N/A	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нәзек	N/A	N/A	N/A	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хатын	N/A	N/A	N/A	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ир	N/A	N/A	N/A	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кеше	N/A	N/A	N/A	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бала	N/A	N/A	N/A	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сабый	N/A	N/A	N/A	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хатын	N/A	N/A	N/A	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ир	N/A	N/A	N/A	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ана	N/A	N/A	N/A	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ата	N/A	N/A	N/A	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хайван	N/A	N/A	N/A	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+җәнлек	N/A	N/A	N/A	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+балык	N/A	N/A	N/A	N/A	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кош	N/A	N/A	N/A	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+эт	N/A	N/A	N/A	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бет	N/A	N/A	N/A	N/A	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+елан	N/A	N/A	N/A	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+суалчан	N/A	N/A	N/A	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+чели	N/A	N/A	N/A	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+агач	N/A	N/A	N/A	N/A	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+урман	N/A	N/A	N/A	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+таяк	N/A	N/A	N/A	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+җимеш	N/A	N/A	N/A	N/A	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бөртек	N/A	N/A	N/A	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+орлык	N/A	N/A	N/A	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+яфрак	N/A	N/A	N/A	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тамыр	N/A	N/A	N/A	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кабык	N/A	N/A	N/A	N/A	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+чәчәк	N/A	N/A	N/A	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+гөл	N/A	N/A	N/A	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+үлән	N/A	N/A	N/A	N/A	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бау	N/A	N/A	N/A	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+аркан	N/A	N/A	N/A	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тире	N/A	N/A	N/A	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ит	N/A	N/A	N/A	N/A	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кан	N/A	N/A	N/A	N/A	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сөяк	N/A	N/A	N/A	N/A	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+май	N/A	N/A	N/A	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+йомырка	N/A	N/A	N/A	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+мөгез	N/A	N/A	N/A	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+койрык	N/A	N/A	N/A	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+каурый	N/A	N/A	N/A	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+чәч	N/A	N/A	N/A	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кыл	N/A	N/A	N/A	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+баш	N/A	N/A	N/A	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+колак	N/A	N/A	N/A	N/A	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+күз	N/A	N/A	N/A	N/A	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+борын	N/A	N/A	N/A	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+авыз	N/A	N/A	N/A	N/A	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+теш	N/A	N/A	N/A	N/A	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тел	N/A	N/A	N/A	N/A	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тырнак	N/A	N/A	N/A	N/A	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+аяк	N/A	N/A	N/A	N/A	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бот	N/A	N/A	N/A	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тез	N/A	N/A	N/A	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кул	N/A	N/A	N/A	N/A	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+канат	N/A	N/A	N/A	N/A	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+эч	N/A	N/A	N/A	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+корсак	N/A	N/A	N/A	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+эчәк	N/A	N/A	N/A	N/A	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+муен	N/A	N/A	N/A	N/A	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+арка	N/A	N/A	N/A	N/A	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+имчәк	N/A	N/A	N/A	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+йөрәк	N/A	N/A	N/A	N/A	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бавыр	N/A	N/A	N/A	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+эчәргә	N/A	N/A	N/A	N/A	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ашарга	N/A	N/A	N/A	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+җияргә	N/A	N/A	N/A	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+җию	N/A	N/A	N/A	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тешләргә	N/A	N/A	N/A	N/A	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+имәргә	N/A	N/A	N/A	N/A	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+төкерергә	N/A	N/A	N/A	N/A	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+костырырга	N/A	N/A	N/A	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өрергә	N/A	N/A	N/A	N/A	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+суларга	N/A	N/A	N/A	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тын алга	N/A	N/A	N/A	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+көлергә	N/A	N/A	N/A	N/A	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+күрергә	N/A	N/A	N/A	N/A	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ишетергә	N/A	N/A	N/A	N/A	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+белергә	N/A	N/A	N/A	N/A	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+уйларга	N/A	N/A	N/A	N/A	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+иснәргә	N/A	N/A	N/A	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+куркырга	N/A	N/A	N/A	N/A	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+йокларга	N/A	N/A	N/A	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+яшәргә	N/A	N/A	N/A	N/A	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+үләргә	N/A	N/A	N/A	N/A	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+үтерергә	N/A	N/A	N/A	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сугышырга	N/A	N/A	N/A	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ауларга	N/A	N/A	N/A	N/A	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сугарга	N/A	N/A	N/A	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бәрергә	N/A	N/A	N/A	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кисәргә	N/A	N/A	N/A	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ярырга	N/A	N/A	N/A	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+чәнчергә	N/A	N/A	N/A	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тырнарга	N/A	N/A	N/A	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+казырга	N/A	N/A	N/A	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+йөзәргә	N/A	N/A	N/A	N/A	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+очарга	N/A	N/A	N/A	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+барырга	N/A	N/A	N/A	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+йөрергә	N/A	N/A	N/A	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+атлау	N/A	N/A	N/A	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+килергә	N/A	N/A	N/A	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ятарга	N/A	N/A	N/A	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+утырырга	N/A	N/A	N/A	N/A	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+торырга	N/A	N/A	N/A	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+борырга	N/A	N/A	N/A	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+төшәргә	N/A	N/A	N/A	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+егылырга	N/A	N/A	N/A	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бирергә	N/A	N/A	N/A	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тотарга	N/A	N/A	N/A	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кысарга	N/A	N/A	N/A	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ышкырга	N/A	N/A	N/A	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+уарга	N/A	N/A	N/A	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+юарга	N/A	N/A	N/A	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сөртергә	N/A	N/A	N/A	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тартырга	N/A	N/A	N/A	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+этәргә	N/A	N/A	N/A	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ташларга	N/A	N/A	N/A	N/A	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бәйләргә	N/A	N/A	N/A	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тегәргә	N/A	N/A	N/A	N/A	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+санарга	N/A	N/A	N/A	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+әйтергә	N/A	N/A	N/A	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+җырларга	N/A	N/A	N/A	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+уйнарга	N/A	N/A	N/A	N/A	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+йөзәргә	N/A	N/A	N/A	N/A	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+агарга	N/A	N/A	N/A	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өшергә	N/A	N/A	N/A	N/A	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+туңырга	N/A	N/A	N/A	N/A	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+шешәргә	N/A	N/A	N/A	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кояш	N/A	N/A	N/A	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ай	N/A	N/A	N/A	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+йолдыз	N/A	N/A	N/A	N/A	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+су	N/A	N/A	N/A	N/A	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+яңгыр	N/A	N/A	N/A	N/A	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+елга	N/A	N/A	N/A	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+күл	N/A	N/A	N/A	N/A	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+диңгез	N/A	N/A	N/A	N/A	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тоз	N/A	N/A	N/A	N/A	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+таш	N/A	N/A	N/A	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ком	N/A	N/A	N/A	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тузан	N/A	N/A	N/A	N/A	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+җир	N/A	N/A	N/A	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+туфрак	N/A	N/A	N/A	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+болыт	N/A	N/A	N/A	N/A	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+томан	N/A	N/A	N/A	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+күк	N/A	N/A	N/A	N/A	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+җил	N/A	N/A	N/A	N/A	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кар	N/A	N/A	N/A	N/A	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+боз	N/A	N/A	N/A	N/A	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+төтен	N/A	N/A	N/A	N/A	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ут	N/A	N/A	N/A	N/A	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+көл	N/A	N/A	N/A	N/A	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+янарга	N/A	N/A	N/A	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+юл	N/A	N/A	N/A	N/A	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тау	N/A	N/A	N/A	N/A	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кызыл	N/A	N/A	N/A	N/A	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+яшел	N/A	N/A	N/A	N/A	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сары	N/A	N/A	N/A	N/A	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ак	N/A	N/A	N/A	N/A	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+кара	N/A	N/A	N/A	N/A	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+төн	N/A	N/A	N/A	N/A	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+көн	N/A	N/A	N/A	N/A	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ел	N/A	N/A	N/A	N/A	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+җылы	N/A	N/A	N/A	N/A	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+салкын	N/A	N/A	N/A	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+суык	N/A	N/A	N/A	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тулы	N/A	N/A	N/A	N/A	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+яңа	N/A	N/A	N/A	N/A	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+иске	N/A	N/A	N/A	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+карт	N/A	N/A	N/A	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+яхшы	N/A	N/A	N/A	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+начар	N/A	N/A	N/A	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+черек	N/A	N/A	N/A	N/A	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+пычрак	N/A	N/A	N/A	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+керле	N/A	N/A	N/A	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+туры	N/A	N/A	N/A	N/A	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+түгәрәк	N/A	N/A	N/A	N/A	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+йомры	N/A	N/A	N/A	N/A	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+үткен	N/A	N/A	N/A	N/A	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+үтмәс	N/A	N/A	N/A	N/A	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+шома; тигес	N/A	N/A	N/A	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+юеш	N/A	N/A	N/A	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+дымлы	N/A	N/A	N/A	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+коры	N/A	N/A	N/A	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+дөрес	N/A	N/A	N/A	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+туры	N/A	N/A	N/A	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+якын	N/A	N/A	N/A	N/A	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ерак	N/A	N/A	N/A	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+уң	N/A	N/A	N/A	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сул	N/A	N/A	N/A	N/A	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+да/-дә	N/A	N/A	N/A	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өстендә	N/A	N/A	N/A	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+да/-дә	N/A	N/A	N/A	N/A	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+эчендә	N/A	N/A	N/A	N/A	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+белəн	N/A	N/A	N/A	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+да/дә	N/A	N/A	N/A	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+һәм	N/A	N/A	N/A	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+са/-сә	N/A	N/A	N/A	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+әгәр	N/A	N/A	N/A	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+чөнки	N/A	N/A	N/A	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+исем	N/A	N/A	N/A	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ат	N/A	N/A	N/A	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

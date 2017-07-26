@@ -1,0 +1,14 @@
+Free: consonantal,click,sonorant,continuant,tap,trill,approximant,lateral
+Glottis: constricted glottis,spread glottis,epilaryngeal source
+Lips: labial,labiodental,round
+Tip: coronal,anterior,distributed,strident
+Body: dorsal,front,back,high,low
+Root: advanced tongue root,retracted tongue root
+Nasal: nasal
+Syllabic: syllabic,stress,tense
+
+Voicing:periodic glottal source,raised larynx ejective,lowered larynx implosive
+Timing:delayed release,fortis,long,short
+
+Tone:tone
+

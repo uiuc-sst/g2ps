@@ -1,0 +1,6 @@
+language: https://en.wikipedia.org/wiki/Assyrian_Neo-Aramaic
+iso639-1: -
+iso639-3: aii
+glottolog: assy1241
+alphabet: https://en.wikipedia.org/wiki/Syriac_alphabet
+SBS: http://www.sbs.com.au/podcasts/yourlanguage/assyrian

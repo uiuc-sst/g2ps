@@ -1,0 +1,269 @@
+eu	N/A	N/A	eu	eu	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tu	N/A	N/A	tu	tu	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+você	N/A	N/A	você	vɔˈse	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ele	N/A	N/A	ele	ˈeli	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nós	N/A	N/A	nós	ˈnɔʃ	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nós	N/A	N/A	nós	ˈnɔs	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eles	N/A	N/A	eles	ˈelɨʃ	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eles	N/A	N/A	eles	ˈelis	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+isto	N/A	N/A	isto	ˈiʃtu	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+isso	N/A	N/A	isso	ˈistu	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aquilo	N/A	N/A	aquilo	ɐˈkilu	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aquilo	N/A	N/A	aquilo	aˈkilu	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aqui	N/A	N/A	aqui	ɐˈki	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aqui	N/A	N/A	aqui	aˈki	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aí	N/A	N/A	aí	ɐˈi	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aí	N/A	N/A	aí	aˈi	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quem	N/A	N/A	quem	kɐ̃j̃	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quem	N/A	N/A	quem	kẽ̃j̃	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+onde	N/A	N/A	onde	ˈõdɨ	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+onde	N/A	N/A	onde	ˈõd͡ʒi	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quando	N/A	N/A	quando	ˈkwɐ̃du	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+como	N/A	N/A	como	ˈkomu	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+não	N/A	N/A	não	nɐ̃w̃	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+todo	N/A	N/A	todo	ˈtoðu	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+todo	N/A	N/A	todo	ˈtodu	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+muito	N/A	N/A	muito	ˈmũj̃tu	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+alguns	N/A	N/A	alguns	aɫˈɣũʃ	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+alguns	N/A	N/A	alguns	auˈgũs	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pouco	N/A	N/A	pouco	ˈpoku	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+outro	N/A	N/A	outro	ˈotɾu	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+um	N/A	N/A	um	ũ	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dois	N/A	N/A	dois	doiʃ	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dois	N/A	N/A	dois	dois	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+três	N/A	N/A	três	tɾeʃ	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+três	N/A	N/A	três	tɾes	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quatro	N/A	N/A	quatro	ˈkwatɾu	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cinco	N/A	N/A	cinco	ˈsĩku	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+grande	N/A	N/A	grande	ˈɡɾɐ̃dɨ	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+grande	N/A	N/A	grande	ˈɡɾɐ̃d͡ʒi	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+longo	N/A	N/A	longo	ˈlõgu	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+largo	N/A	N/A	largo	ˈlaɾɣu	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+largo	N/A	N/A	largo	ˈlaʁgu	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+espesso	N/A	N/A	espesso	ɨʃˈpesu	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+grosso	N/A	N/A	grosso	isˈpesu	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pesado	N/A	N/A	pesado	pɨˈzaðu	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pesado	N/A	N/A	pesado	peˈzadu	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pequeno	N/A	N/A	pequeno	pɨˈkenu	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pequeno	N/A	N/A	pequeno	piˈkenu	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+curto	N/A	N/A	curto	ˈkuɾtu	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+curto	N/A	N/A	curto	ˈkuʁtu	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+estreito	N/A	N/A	estreito	ɨʃˈtɾɐjtu	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+estreito	N/A	N/A	estreito	isˈtɾejtu	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fino	N/A	N/A	fino	ˈfinu	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mulher	N/A	N/A	mulher	muˈʎɛɾ	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+homem	N/A	N/A	homem	ˈɔmɐ̃j̃	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+homem	N/A	N/A	homem	ˈomẽj̃	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+homem	N/A	N/A	homem	ˈɔmɐ̃j̃	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+homem	N/A	N/A	homem	ˈomẽj̃	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+criança	N/A	N/A	criança	kɾiˈɐ̃sɐ	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mãe	N/A	N/A	mãe	mɐ̃j̃	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pai	N/A	N/A	pai	pai	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+animal	N/A	N/A	animal	ɐniˈmaɫ	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+animal	N/A	N/A	animal	aniˈmaw	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+peixe	N/A	N/A	peixe	ˈpɐjʃɨ	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+peixe	N/A	N/A	peixe	ˈpeʃi	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cão	N/A	N/A	cão	kɐ̃w̃	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+piolho	N/A	N/A	piolho	piˈoʎu	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+verme	N/A	N/A	verme	ˈvɛɾmɨ	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+verme	N/A	N/A	verme	ˈvɛʁmi	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+árvore	N/A	N/A	árvore	ˈaɾvuɾɨ	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+árvore	N/A	N/A	árvore	ˈaʁvoɾi	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+floresta	N/A	N/A	floresta	fluˈɾɛʃtɐ	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+floresta	N/A	N/A	floresta	floˈɾɛstɐ	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bastão	N/A	N/A	bastão	bɐʃˈtɐ̃w̃	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bastão	N/A	N/A	bastão	basˈtɐ̃w̃	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fruta	N/A	N/A	fruta	ˈfɾutɐ	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fruto	N/A	N/A	fruto	ˈfɾutu	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+semente	N/A	N/A	semente	sɨˈmẽtɨ	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+semente	N/A	N/A	semente	seˈmẽtʃi	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+folha	N/A	N/A	folha	ˈfoʎɐ	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+raiz	N/A	N/A	raiz	ɾɐˈiʃ	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+raiz	N/A	N/A	raiz	xa'is	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+casca	N/A	N/A	casca	ˈkaʃkɐ	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+casca	N/A	N/A	casca	ˈkaskɐ	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+flor	N/A	N/A	flor	floɾ	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+flor	N/A	N/A	flor	flox	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+grama	N/A	N/A	grama	ˈɛɾvɐ	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+grama	N/A	N/A	grama	ˈɛʁvɐ	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+corda	N/A	N/A	corda	ˈkɔɾðɐ	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+corda	N/A	N/A	corda	ˈkɔʁdɐ	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pele	N/A	N/A	pele	ˈpɛlɨ	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pele	N/A	N/A	pele	ˈpɛli	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+carne	N/A	N/A	carne	ˈkaɾnɨ	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+carne	N/A	N/A	carne	ˈkaʁni	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sangue	N/A	N/A	sangue	ˈsɐ̃gɨ	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sangue	N/A	N/A	sangue	ˈsɐ̃gi	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+osso	N/A	N/A	osso	ˈosu	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gordura	N/A	N/A	gordura	ɡuɾˈðuɾɐ	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gordura	N/A	N/A	gordura	ɡoʁˈduɾɐ	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ovo	N/A	N/A	ovo	ˈovu	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pena	N/A	N/A	pena	ˈpenɐ	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cabelo	N/A	N/A	cabelo	kɐˈβelu	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cabelo	N/A	N/A	cabelo	kaˈbelu	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cabeça	N/A	N/A	cabeça	kɐˈβesɐ	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cabeça	N/A	N/A	cabeça	kaˈbesɐ	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+orelha	N/A	N/A	orelha	oˈɾɐjʎɐ	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+orelha	N/A	N/A	orelha	oˈɾeʎɐ	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+olho	N/A	N/A	olho	ˈoʎu	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nariz	N/A	N/A	nariz	nɐˈɾiʃ	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nariz	N/A	N/A	nariz	naˈɾis	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+boca	N/A	N/A	boca	ˈbokɐ	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dente	N/A	N/A	dente	ˈdẽtɨ	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dente	N/A	N/A	dente	ˈdẽtʃi	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+língua	N/A	N/A	língua	ˈlĩgwɐ	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+unha	N/A	N/A	unha	ˈuɲɐ	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pé	N/A	N/A	pé	pɛ	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+perna	N/A	N/A	perna	ˈpɛɾnɐ	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+perna	N/A	N/A	perna	ˈpɛʁnɐ	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+joelho	N/A	N/A	joelho	ʒuˈɐʎu	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+joelho	N/A	N/A	joelho	ʒuˈeʎu	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mão	N/A	N/A	mão	mɐ̃w̃	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+asa	N/A	N/A	asa	ˈazɐ	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pescoço	N/A	N/A	pescoço	pɨʃˈkosu	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pescoço	N/A	N/A	pescoço	pesˈkosu	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+costas	N/A	N/A	costas	ˈkɔʃtɐʃ	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+costas	N/A	N/A	costas	ˈkɔstɐs	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+coração	N/A	N/A	coração	kuɾɐˈsɐ̃w̃	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+coração	N/A	N/A	coração	koɾaˈsɐ̃w̃	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fígado	N/A	N/A	fígado	ˈfiɣɐðu	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fígado	N/A	N/A	fígado	ˈfigɐdu	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+beber	N/A	N/A	beber	bɨˈβeɾ	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+comer	N/A	N/A	comer	kuˈmeɾ	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+morder	N/A	N/A	morder	muɾˈdeɾ	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sugar	N/A	N/A	sugar	suˈɡaɾ	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+chupar	N/A	N/A	chupar	ʃuˈpaɾ	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cuspir	N/A	N/A	cuspir	kuʃˈpiɾ	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vomitar	N/A	N/A	vomitar	vumiˈtaɾ	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+soprar	N/A	N/A	soprar	suˈpɾaɾ	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+respirar	N/A	N/A	respirar	ɾɨʃpiˈɾaɾ	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rir	N/A	N/A	rir	ɾiɾ	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ver	N/A	N/A	ver	veɾ	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ouvir	N/A	N/A	ouvir	oˈviɾ	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+saber	N/A	N/A	saber	sɐˈbeɾ	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pensar	N/A	N/A	pensar	pẽˈsaɾ	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cheirar	N/A	N/A	cheirar	ʃejˈɾaɾ	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+temer	N/A	N/A	temer	tɨˈmeɾ	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dormir	N/A	N/A	dormir	duɾˈmiɾ	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+viver	N/A	N/A	viver	viˈveɾ	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+morrer	N/A	N/A	morrer	muˈʁeɾ	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+matar	N/A	N/A	matar	mɐˈtaɾ	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lutar	N/A	N/A	lutar	luˈtaɾ	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+caçar	N/A	N/A	caçar	kɐˈsaɾ	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bater	N/A	N/A	bater	bɐˈteɾ	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cortar	N/A	N/A	cortar	kuɾˈtaɾ	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rachar	N/A	N/A	rachar	ʁɐˈʃaɾ	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+esfaquear	N/A	N/A	esfaquear	iʃfɐˈkjaɾ	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+apunhalar	N/A	N/A	apunhalar	ɐpuɲɐˈlaɾ	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+raspar	N/A	N/A	raspar	ʁɐʃˈpaɾ	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cavar	N/A	N/A	cavar	kɐˈvaɾ	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nadar	N/A	N/A	nadar	nɐˈðaɾ	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+voar	N/A	N/A	voar	vuˈaɾ	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+andar	N/A	N/A	andar	ɐ̃ˈdaɾ	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+caminhar	N/A	N/A	caminhar	kɐmiˈɲaɾ	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vir	N/A	N/A	vir	viɾ	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+deitar-se action	N/A	N/A	deitar-se action	dɐjˈtaɾse	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+estar deitado state	N/A	N/A	estar deitado state	ɨʃˈtaɾ dejˈtadu	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sentar-se action	N/A	N/A	sentar-se action	sẽˈtaɾse	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+estar sentado state	N/A	N/A	estar sentado state	ɨʃˈtaɾ sẽˈtadu	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pôr-se de pé action	N/A	N/A	pôr-se de pé action	poɾse dɨ pɛ	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+estar em pé state	N/A	N/A	estar em pé state	ɨʃˈtaɾ ɐ̃j pɛ	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+virar	N/A	N/A	virar	viˈɾaɾ	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+girar	N/A	N/A	girar	ʒiˈɾaɾ	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cair	N/A	N/A	cair	kɐˈiɾ	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dar	N/A	N/A	dar	daɾ	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+segurar	N/A	N/A	segurar	sɨɡuˈɾaɾ	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+apertar	N/A	N/A	apertar	ɐpɨɾˈtaɾ	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+esfregar	N/A	N/A	esfregar	ɨʃfɾɨˈɡaɾ	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lavar	N/A	N/A	lavar	lɐˈvaɾ	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+enxugar	N/A	N/A	enxugar	ẽʃuˈɡaɾ	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+puxar	N/A	N/A	puxar	puˈʃaɾ	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+empurrar	N/A	N/A	empurrar	ẽpuˈʀaɾ	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+atirar	N/A	N/A	atirar	ɐtiˈɾaɾ	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lançar	N/A	N/A	lançar	lɐ̃ˈsaɾ	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+atar	N/A	N/A	atar	ɐˈtaɾ	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+coser EP	N/A	N/A	coser ep	kuˈzeɾ	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+costurar BP	N/A	N/A	costurar bp	kostuʁaʁ bp	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+contar	N/A	N/A	contar	kõˈtaɾ	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dizer	N/A	N/A	dizer	diˈzeɾ	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cantar	N/A	N/A	cantar	kɐ̃ˈtaɾ	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+brincar	N/A	N/A	brincar	bɾĩˈkaɾ	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jogar	N/A	N/A	jogar	ʒuˈɡaɾ	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+flutuar	N/A	N/A	flutuar	flutuˈaɾ	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+boiar	N/A	N/A	boiar	bojˈaɾ	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fluir	N/A	N/A	fluir	fluˈiɾ	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gelar	N/A	N/A	gelar	ʒɨˈlaɾ	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+inchar	N/A	N/A	inchar	ĩˈʃaɾ	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sol	N/A	N/A	sol	sɔl	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lua	N/A	N/A	lua	ˈluɐ	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+estrela	N/A	N/A	estrela	ɨʃˈtɾelɐ	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+água	N/A	N/A	água	ˈaɡwɐ	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+chuva	N/A	N/A	chuva	ˈʃuvɐ	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rio	N/A	N/A	rio	ˈʀiu	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lago	N/A	N/A	lago	ˈlaɡu	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mar	N/A	N/A	mar	maɾ	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sal	N/A	N/A	sal	sal	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pedra	N/A	N/A	pedra	ˈpɛdɾɐ	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+areia	N/A	N/A	areia	ɐˈɾejɐ	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+poeira	N/A	N/A	poeira	puˈejɾɐ	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+terra	N/A	N/A	terra	ˈtɛʀɐ	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nuvem	N/A	N/A	nuvem	ˈnuvɐ̃j	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nevoeiro	N/A	N/A	nevoeiro	nɨvuˈejɾu	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+céu	N/A	N/A	céu	sɛw	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vento	N/A	N/A	vento	ˈvẽtu	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+neve	N/A	N/A	neve	ˈnɛvɨ	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gelo	N/A	N/A	gelo	ˈʒelu	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fumo EP	N/A	N/A	fumo ep	ˈfumu	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fumaça BP	N/A	N/A	fumaça bp	fumasa bp	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fogo	N/A	N/A	fogo	ˈfoɡu	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cinzas	N/A	N/A	cinzas	ˈsĩzɐʃ	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+arder	N/A	N/A	arder	ɐɾˈdeɾ	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+queimar	N/A	N/A	queimar	keiˈmaɾ	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+estrada	N/A	N/A	estrada	ɨʃˈtɾadɐ	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+montanha	N/A	N/A	montanha	mõˈtɐɲɐ	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vermelho	N/A	N/A	vermelho	vɨɾˈmɐjʎu	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+verde	N/A	N/A	verde	ˈveɾdɨ	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+amarelo	N/A	N/A	amarelo	ɐmɐˈɾɛlu	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+branco	N/A	N/A	branco	ˈbɾɐ̃ku	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+preto	N/A	N/A	preto	ˈpɾetu	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+negro	N/A	N/A	negro	ˈneɡɾu	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+noite	N/A	N/A	noite	ˈnɔjtɨ	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dia	N/A	N/A	dia	ˈdiɐ	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ano	N/A	N/A	ano	ˈɐnu	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quente	N/A	N/A	quente	kẽˈtɨ	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+frio	N/A	N/A	frio	ˈfɾiu	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cheio	N/A	N/A	cheio	ˈʃeju	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+novo	N/A	N/A	novo	ˈnovu	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+velho	N/A	N/A	velho	ˈvɛʎu	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bom	N/A	N/A	bom	bõ	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mau	N/A	N/A	mau	maw	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+podre	N/A	N/A	podre	ˈpodɾɨ	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sujo	N/A	N/A	sujo	ˈsuʒu	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+direito	N/A	N/A	direito	diˈɾɐjtu	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+redondo	N/A	N/A	redondo	ʀɨˈdõdu	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+afiado	N/A	N/A	afiado	ɐfiˈadu	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aguçado	N/A	N/A	aguçado	ɐɡuˈsadu	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cego	N/A	N/A	cego	ˈsɛɣu	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cego	N/A	N/A	cego	ˈsɛɡu	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+liso	N/A	N/A	liso	ˈlizu	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+húmido EP	N/A	N/A	húmido ep	ˈumiðu	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+úmido BP	N/A	N/A	úmido bp	ˈumidu	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+seco	N/A	N/A	seco	ˈseku	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+correcto EP	N/A	N/A	correcto ep	kuˈʁɛtu	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+correto BP	N/A	N/A	correto bp	koˈʁɛtu	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+perto	N/A	N/A	perto	ˈpɛɾtu	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+próximo	N/A	N/A	próximo	ˈpɛʁtu	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+longe	N/A	N/A	longe	ˈlõʒɨ	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+longe	N/A	N/A	longe	ˈlõʒi	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+direita	N/A	N/A	direita	diˈɾɐjtɐ	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+esquerda	N/A	N/A	esquerda	ɨʃˈkeɾðɐ	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+em	N/A	N/A	em	ɐ̃j̃	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+em	N/A	N/A	em	ẽj̃	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+com	N/A	N/A	com	kõ	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+e	N/A	N/A	e	i	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+se	N/A	N/A	se	sɨ	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+se	N/A	N/A	se	si	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+porque	N/A	N/A	porque	ˈpuɾkɨ	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+porque	N/A	N/A	porque	pʊɾˈke	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nome	N/A	N/A	nome	ˈnomɨ	name	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nome	N/A	N/A	nome	ˈnɔmi	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

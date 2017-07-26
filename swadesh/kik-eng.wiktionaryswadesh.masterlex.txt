@@ -1,0 +1,241 @@
+wee	N/A	N/A	wee	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+we	N/A	N/A	we	N/A	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ithuĩ	N/A	N/A	ithuĩ	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ĩnyui	N/A	N/A	ĩnyui	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nĩkĩo	N/A	N/A	nĩkĩo	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+haha	N/A	N/A	haha	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gũkũ	N/A	N/A	gũkũ	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+harĩa	N/A	N/A	harĩa	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hau	N/A	N/A	hau	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ho	N/A	N/A	ho	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kũrĩa	N/A	N/A	kũrĩa	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kũu	N/A	N/A	kũu	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kuo	N/A	N/A	kuo	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nĩkĩ	N/A	N/A	nĩkĩ	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rĩ	N/A	N/A	rĩ	N/A	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+atĩa	N/A	N/A	atĩa	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aca	N/A	N/A	aca	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ĩhĩ	N/A	N/A	ĩhĩ	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ciothe	N/A	N/A	ciothe	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ĩngi	N/A	N/A	ĩngi	N/A	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nini	N/A	N/A	nini	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ngĩ	N/A	N/A	ngĩ	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ĩmwe	N/A	N/A	ĩmwe	N/A	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+igĩrĩ	N/A	N/A	igĩrĩ	N/A	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ithatũ	N/A	N/A	ithatũ	N/A	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+inya	N/A	N/A	inya	N/A	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ithano	N/A	N/A	ithano	N/A	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nene	N/A	N/A	nene	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ndaya	N/A	N/A	ndaya	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+raya	N/A	N/A	raya	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+athamia	N/A	N/A	athamia	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ariĩ	N/A	N/A	ariĩ	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kũnora	N/A	N/A	kũnora	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tungu	N/A	N/A	tungu	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ritũ	N/A	N/A	ritũ	N/A	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nini	N/A	N/A	nini	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyinyi	N/A	N/A	nyinyi	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nguhĩ	N/A	N/A	nguhĩ	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kuhĩ	N/A	N/A	kuhĩ	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cecenia	N/A	N/A	cecenia	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ceke	N/A	N/A	ceke	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hinja	N/A	N/A	hinja	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ceke	N/A	N/A	ceke	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũtuma	N/A	N/A	mũtuma	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mwanake	N/A	N/A	mwanake	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũndũ	N/A	N/A	mũndũ	N/A	human	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mwana	N/A	N/A	mwana	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũka	N/A	N/A	mũka	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũrũme	N/A	N/A	mũrũme	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+maitũ	N/A	N/A	maitũ	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+baba	N/A	N/A	baba	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+awa	N/A	N/A	awa	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyamũ	N/A	N/A	nyamũ	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tega	N/A	N/A	tega	N/A	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kĩũngũyũ	N/A	N/A	kĩũngũyũ	N/A	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyoni	N/A	N/A	nyoni	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ngui	N/A	N/A	ngui	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ngitĩ	N/A	N/A	ngitĩ	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ndaa	N/A	N/A	ndaa	N/A	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũtĩ	N/A	N/A	mũtĩ	N/A	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kĩrĩti	N/A	N/A	kĩrĩti	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũtitũ	N/A	N/A	mũtitũ	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũkuanju	N/A	N/A	mũkuanju	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+itunda	N/A	N/A	itunda	N/A	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mbegũ	N/A	N/A	mbegũ	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ithangũ	N/A	N/A	ithangũ	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũri	N/A	N/A	mũri	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ikoni	N/A	N/A	ikoni	N/A	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ihũa	N/A	N/A	ihũa	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+muti	N/A	N/A	muti	N/A	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũmera	N/A	N/A	mũmera	N/A	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyeki	N/A	N/A	nyeki	N/A	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gĩkonde	N/A	N/A	gĩkonde	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ikoro	N/A	N/A	ikoro	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyama	N/A	N/A	nyama	N/A	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+thakame	N/A	N/A	thakame	N/A	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ihĩndĩ	N/A	N/A	ihĩndĩ	N/A	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+maguta	N/A	N/A	maguta	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+itumbĩ	N/A	N/A	itumbĩ	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+muguongo	N/A	N/A	muguongo	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rũhĩa	N/A	N/A	rũhĩa	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mutingoe	N/A	N/A	mutingoe	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũcuthi	N/A	N/A	mũcuthi	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ruoya	N/A	N/A	ruoya	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+njuĩrĩ	N/A	N/A	njuĩrĩ	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũtwe	N/A	N/A	mũtwe	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kĩongo	N/A	N/A	kĩongo	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gũtũ	N/A	N/A	gũtũ	N/A	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+riitho	N/A	N/A	riitho	N/A	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+iniũrũ	N/A	N/A	iniũrũ	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kanua	N/A	N/A	kanua	N/A	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+igego	N/A	N/A	igego	N/A	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rũrĩmĩ	N/A	N/A	rũrĩmĩ	N/A	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rwara	N/A	N/A	rwara	N/A	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kũgũrũ	N/A	N/A	kũgũrũ	N/A	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ikinya	N/A	N/A	ikinya	N/A	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kũgũrũ	N/A	N/A	kũgũrũ	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+iru	N/A	N/A	iru	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+guoko	N/A	N/A	guoko	N/A	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ithagu	N/A	N/A	ithagu	N/A	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nda	N/A	N/A	nda	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ngingo	N/A	N/A	ngingo	N/A	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũgongo	N/A	N/A	mũgongo	N/A	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyondo	N/A	N/A	nyondo	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ngoro	N/A	N/A	ngoro	N/A	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ini	N/A	N/A	ini	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyua	N/A	N/A	nyua	N/A	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rĩa	N/A	N/A	rĩa	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rũma	N/A	N/A	rũma	N/A	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+onga	N/A	N/A	onga	N/A	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tahika	N/A	N/A	tahika	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+huha	N/A	N/A	huha	N/A	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hũmũka	N/A	N/A	hũmũka	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+huhia	N/A	N/A	huhia	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+theka	N/A	N/A	theka	N/A	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ona	N/A	N/A	ona	N/A	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+igua	N/A	N/A	igua	N/A	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+menya	N/A	N/A	menya	N/A	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gwĩciria	N/A	N/A	gwĩciria	N/A	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ĩciria	N/A	N/A	ĩciria	N/A	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kununga	N/A	N/A	kununga	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ĩtigĩra	N/A	N/A	ĩtigĩra	N/A	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+koma	N/A	N/A	koma	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tũũra	N/A	N/A	tũũra	N/A	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kua	N/A	N/A	kua	N/A	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ũraga	N/A	N/A	ũraga	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rũa	N/A	N/A	rũa	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+guĩma	N/A	N/A	guĩma	N/A	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hurira	N/A	N/A	hurira	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tinia	N/A	N/A	tinia	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+acũhia	N/A	N/A	acũhia	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+atũra	N/A	N/A	atũra	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+theeca	N/A	N/A	theeca	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kũrũta	N/A	N/A	kũrũta	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cimba	N/A	N/A	cimba	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+enja	N/A	N/A	enja	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ũmbũka	N/A	N/A	ũmbũka	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ceera	N/A	N/A	ceera	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+thĩil	N/A	N/A	thĩil	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ũka	N/A	N/A	ũka	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ingĩra	N/A	N/A	ingĩra	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+koma	N/A	N/A	koma	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ikara	N/A	N/A	ikara	N/A	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rũgama	N/A	N/A	rũgama	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+inamia	N/A	N/A	inamia	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+thiũrũrũka	N/A	N/A	thiũrũrũka	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+garũra	N/A	N/A	garũra	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cenjia	N/A	N/A	cenjia	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gwa	N/A	N/A	gwa	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nengera	N/A	N/A	nengera	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+he	N/A	N/A	he	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kumbata	N/A	N/A	kumbata	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyita	N/A	N/A	nyita	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kama	N/A	N/A	kama	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kuhiha	N/A	N/A	kuhiha	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kuhura	N/A	N/A	kuhura	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+thambia	N/A	N/A	thambia	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+huura	N/A	N/A	huura	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+giria	N/A	N/A	giria	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gucia	N/A	N/A	gucia	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kururia	N/A	N/A	kururia	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gũtindika	N/A	N/A	gũtindika	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tindĩka	N/A	N/A	tindĩka	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gũithia	N/A	N/A	gũithia	N/A	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ikia	N/A	N/A	ikia	N/A	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oha	N/A	N/A	oha	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuma	N/A	N/A	tuma	N/A	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gera	N/A	N/A	gera	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ura	N/A	N/A	ura	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ĩra	N/A	N/A	ĩra	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ina	N/A	N/A	ina	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+thaka	N/A	N/A	thaka	N/A	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+therera	N/A	N/A	therera	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+imba	N/A	N/A	imba	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+riũa	N/A	N/A	riũa	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mweri	N/A	N/A	mweri	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+njata	N/A	N/A	njata	N/A	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+maĩ	N/A	N/A	maĩ	N/A	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mbura	N/A	N/A	mbura	N/A	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rũũĩ	N/A	N/A	rũũĩ	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+iria	N/A	N/A	iria	N/A	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũnyũ	N/A	N/A	mũnyũ	N/A	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cumbĩ	N/A	N/A	cumbĩ	N/A	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ihiga	N/A	N/A	ihiga	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũthanga	N/A	N/A	mũthanga	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rũkũngũ	N/A	N/A	rũkũngũ	N/A	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rubiri	N/A	N/A	rubiri	N/A	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tĩri	N/A	N/A	tĩri	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+thĩ	N/A	N/A	thĩ	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gĩthaka	N/A	N/A	gĩthaka	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũgũnda	N/A	N/A	mũgũnda	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+matu	N/A	N/A	matu	N/A	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+itu	N/A	N/A	itu	N/A	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+igũrũ	N/A	N/A	igũrũ	N/A	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+utheri	N/A	N/A	utheri	N/A	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rũhuho	N/A	N/A	rũhuho	N/A	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ndogo	N/A	N/A	ndogo	N/A	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mwaki	N/A	N/A	mwaki	N/A	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cina	N/A	N/A	cina	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+njĩra	N/A	N/A	njĩra	N/A	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kĩrĩma	N/A	N/A	kĩrĩma	N/A	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+njeru	N/A	N/A	njeru	N/A	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+erũ	N/A	N/A	erũ	N/A	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+irũ	N/A	N/A	irũ	N/A	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ũtukũ	N/A	N/A	ũtukũ	N/A	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mũthenya	N/A	N/A	mũthenya	N/A	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mwaka	N/A	N/A	mwaka	N/A	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oto	N/A	N/A	oto	N/A	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+heho	N/A	N/A	heho	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ũra	N/A	N/A	ũra	N/A	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+njerũ	N/A	N/A	njerũ	N/A	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ngũru	N/A	N/A	ngũru	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kũrũ	N/A	N/A	kũrũ	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ega	N/A	N/A	ega	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ũru	N/A	N/A	ũru	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+buthu	N/A	N/A	buthu	N/A	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gĩko	N/A	N/A	gĩko	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rũnga	N/A	N/A	rũnga	N/A	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+thiũrũrũka	N/A	N/A	thiũrũrũka	N/A	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ũhĩga	N/A	N/A	ũhĩga	N/A	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ritũ	N/A	N/A	ritũ	N/A	blunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nditũ	N/A	N/A	nditũ	N/A	blunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyoroka	N/A	N/A	nyoroka	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ihũga	N/A	N/A	ihũga	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+conjorira	N/A	N/A	conjorira	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyũmũ	N/A	N/A	nyũmũ	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ũmũ	N/A	N/A	ũmũ	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hakuhĩ	N/A	N/A	hakuhĩ	N/A	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+haraya	N/A	N/A	haraya	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ũrio	N/A	N/A	ũrio	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ũmotho	N/A	N/A	ũmotho	N/A	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gũtigara	N/A	N/A	gũtigara	N/A	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+na	N/A	N/A	na	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+na	N/A	N/A	na	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ongorũo	N/A	N/A	ongorũo	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+akorũo	N/A	N/A	akorũo	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+korũo	N/A	N/A	korũo	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kana	N/A	N/A	kana	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+amu	N/A	N/A	amu	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tondũ	N/A	N/A	tondũ	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rĩĩtwa	N/A	N/A	rĩĩtwa	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

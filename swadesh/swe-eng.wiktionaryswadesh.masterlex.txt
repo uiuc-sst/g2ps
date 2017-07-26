@@ -1,0 +1,232 @@
+jag	N/A	N/A	jag	N/A	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+du	N/A	N/A	du	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ni	N/A	N/A	ni	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+han	N/A	N/A	han	N/A	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vi	N/A	N/A	vi	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ni	N/A	N/A	ni	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+de	N/A	N/A	de	N/A	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+denna	N/A	N/A	denna	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+detta	N/A	N/A	detta	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+här	N/A	N/A	här	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+där	N/A	N/A	där	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vem	N/A	N/A	vem	N/A	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vad	N/A	N/A	vad	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+var	N/A	N/A	var	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+när	N/A	N/A	när	N/A	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hur	N/A	N/A	hur	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+inte	N/A	N/A	inte	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+alla	N/A	N/A	alla	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+många	N/A	N/A	många	N/A	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+några	N/A	N/A	några	N/A	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+få	N/A	N/A	få	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+andra	N/A	N/A	andra	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ett	N/A	N/A	ett	N/A	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+två	N/A	N/A	två	N/A	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tre	N/A	N/A	tre	N/A	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fyra	N/A	N/A	fyra	N/A	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fem	N/A	N/A	fem	N/A	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stor	N/A	N/A	stor	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lång	N/A	N/A	lång	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bred	N/A	N/A	bred	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vid	N/A	N/A	vid	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tjock	N/A	N/A	tjock	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tung	N/A	N/A	tung	N/A	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+liten	N/A	N/A	liten	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kort	N/A	N/A	kort	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+trång	N/A	N/A	trång	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tunn	N/A	N/A	tunn	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kvinna	N/A	N/A	kvinna	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+man	N/A	N/A	man	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+människa	N/A	N/A	människa	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+barn	N/A	N/A	barn	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fru	N/A	N/A	fru	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hustru	N/A	N/A	hustru	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+maka	N/A	N/A	maka	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+man	N/A	N/A	man	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+make	N/A	N/A	make	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mor	N/A	N/A	mor	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+far	N/A	N/A	far	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+djur	N/A	N/A	djur	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fisk	N/A	N/A	fisk	N/A	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fågel	N/A	N/A	fågel	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hund	N/A	N/A	hund	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lus	N/A	N/A	lus	N/A	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+orm	N/A	N/A	orm	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mask	N/A	N/A	mask	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+träd	N/A	N/A	träd	N/A	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skog	N/A	N/A	skog	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pinne	N/A	N/A	pinne	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+frukt	N/A	N/A	frukt	N/A	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+frö	N/A	N/A	frö	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+löv	N/A	N/A	löv	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+blad	N/A	N/A	blad	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rot	N/A	N/A	rot	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bark	N/A	N/A	bark	N/A	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+blomma	N/A	N/A	blomma	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gräs	N/A	N/A	gräs	N/A	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rep	N/A	N/A	rep	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hud	N/A	N/A	hud	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skinn	N/A	N/A	skinn	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kött	N/A	N/A	kött	N/A	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+blod	N/A	N/A	blod	N/A	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ben	N/A	N/A	ben	N/A	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fett	N/A	N/A	fett	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ägg	N/A	N/A	ägg	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+horn	N/A	N/A	horn	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+svans	N/A	N/A	svans	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stjärt	N/A	N/A	stjärt	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fjäder	N/A	N/A	fjäder	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hår	N/A	N/A	hår	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+huvud	N/A	N/A	huvud	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+öra	N/A	N/A	öra	N/A	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+öga	N/A	N/A	öga	N/A	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+näsa	N/A	N/A	näsa	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mun	N/A	N/A	mun	N/A	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tand	N/A	N/A	tand	N/A	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tunga	N/A	N/A	tunga	N/A	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nagel	N/A	N/A	nagel	N/A	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fot	N/A	N/A	fot	N/A	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ben	N/A	N/A	ben	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+knä	N/A	N/A	knä	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hand	N/A	N/A	hand	N/A	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vinge	N/A	N/A	vinge	N/A	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mage	N/A	N/A	mage	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+inälvor	N/A	N/A	inälvor	N/A	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hals	N/A	N/A	hals	N/A	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nacke	N/A	N/A	nacke	N/A	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rygg	N/A	N/A	rygg	N/A	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bröst	N/A	N/A	bröst	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hjärta	N/A	N/A	hjärta	N/A	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lever	N/A	N/A	lever	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dricka	N/A	N/A	dricka	N/A	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+äta	N/A	N/A	äta	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bita	N/A	N/A	bita	N/A	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+suga	N/A	N/A	suga	N/A	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+spotta	N/A	N/A	spotta	N/A	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kräkas	N/A	N/A	kräkas	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+spy	N/A	N/A	spy	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+blåsa	N/A	N/A	blåsa	N/A	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+andas	N/A	N/A	andas	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skratta	N/A	N/A	skratta	N/A	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+se	N/A	N/A	se	N/A	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+höra	N/A	N/A	höra	N/A	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+veta	N/A	N/A	veta	N/A	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tänka	N/A	N/A	tänka	N/A	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lukta	N/A	N/A	lukta	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+frukta	N/A	N/A	frukta	N/A	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sova	N/A	N/A	sova	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+leva	N/A	N/A	leva	N/A	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dö	N/A	N/A	dö	N/A	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+döda	N/A	N/A	döda	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kämpa	N/A	N/A	kämpa	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+slåss	N/A	N/A	slåss	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+strida	N/A	N/A	strida	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jaga	N/A	N/A	jaga	N/A	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+slå	N/A	N/A	slå	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skära	N/A	N/A	skära	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dela	N/A	N/A	dela	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hugga	N/A	N/A	hugga	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sticka	N/A	N/A	sticka	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+klia	N/A	N/A	klia	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gräva	N/A	N/A	gräva	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+simma	N/A	N/A	simma	N/A	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+flyga	N/A	N/A	flyga	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gå	N/A	N/A	gå	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+komma	N/A	N/A	komma	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ligga	N/A	N/A	ligga	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sitta	N/A	N/A	sitta	N/A	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stå	N/A	N/A	stå	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+svänga	N/A	N/A	svänga	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+falla	N/A	N/A	falla	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ge	N/A	N/A	ge	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hålla	N/A	N/A	hålla	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+klämma	N/A	N/A	klämma	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gnida	N/A	N/A	gnida	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tvätta	N/A	N/A	tvätta	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+torka	N/A	N/A	torka	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dra	N/A	N/A	dra	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skuffa	N/A	N/A	skuffa	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skjuta	N/A	N/A	skjuta	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+trycka	N/A	N/A	trycka	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kasta	N/A	N/A	kasta	N/A	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+knyta	N/A	N/A	knyta	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+binda	N/A	N/A	binda	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sy	N/A	N/A	sy	N/A	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+räkna	N/A	N/A	räkna	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+säga	N/A	N/A	säga	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sjunga	N/A	N/A	sjunga	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+leka	N/A	N/A	leka	N/A	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+spela	N/A	N/A	spela	N/A	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+flyta	N/A	N/A	flyta	N/A	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+flyta	N/A	N/A	flyta	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rinna	N/A	N/A	rinna	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+flöda	N/A	N/A	flöda	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+frysa	N/A	N/A	frysa	N/A	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+svälla	N/A	N/A	svälla	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sol	N/A	N/A	sol	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+måne	N/A	N/A	måne	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stjärna	N/A	N/A	stjärna	N/A	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vatten	N/A	N/A	vatten	N/A	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+regn	N/A	N/A	regn	N/A	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+flod	N/A	N/A	flod	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sjö	N/A	N/A	sjö	N/A	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hav	N/A	N/A	hav	N/A	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+salt	N/A	N/A	salt	N/A	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sten	N/A	N/A	sten	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sand	N/A	N/A	sand	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+damm	N/A	N/A	damm	N/A	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jord	N/A	N/A	jord	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+moln	N/A	N/A	moln	N/A	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dimma	N/A	N/A	dimma	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+himmel	N/A	N/A	himmel	N/A	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vind	N/A	N/A	vind	N/A	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+snö	N/A	N/A	snö	N/A	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+is	N/A	N/A	is	N/A	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rök	N/A	N/A	rök	N/A	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eld	N/A	N/A	eld	N/A	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aska	N/A	N/A	aska	N/A	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+brinna	N/A	N/A	brinna	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bränna	N/A	N/A	bränna	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+väg	N/A	N/A	väg	N/A	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+berg	N/A	N/A	berg	N/A	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+röd	N/A	N/A	röd	N/A	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+grön	N/A	N/A	grön	N/A	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gul	N/A	N/A	gul	N/A	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vit	N/A	N/A	vit	N/A	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+svart	N/A	N/A	svart	N/A	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+natt	N/A	N/A	natt	N/A	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dag	N/A	N/A	dag	N/A	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+år	N/A	N/A	år	N/A	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+varm	N/A	N/A	varm	N/A	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kall	N/A	N/A	kall	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+full	N/A	N/A	full	N/A	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ny	N/A	N/A	ny	N/A	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gammal	N/A	N/A	gammal	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bra	N/A	N/A	bra	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+god	N/A	N/A	god	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dålig	N/A	N/A	dålig	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rutten	N/A	N/A	rutten	N/A	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+smutsig	N/A	N/A	smutsig	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rak	N/A	N/A	rak	N/A	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rund	N/A	N/A	rund	N/A	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vass	N/A	N/A	vass	N/A	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+slö	N/A	N/A	slö	N/A	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+slät	N/A	N/A	slät	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+våt	N/A	N/A	våt	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+torr	N/A	N/A	torr	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rätt	N/A	N/A	rätt	N/A	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+riktig	N/A	N/A	riktig	N/A	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nära	N/A	N/A	nära	N/A	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+avlägsen	N/A	N/A	avlägsen	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fjärran	N/A	N/A	fjärran	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+höger	N/A	N/A	höger	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vänster	N/A	N/A	vänster	N/A	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+på	N/A	N/A	på	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vid	N/A	N/A	vid	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hos	N/A	N/A	hos	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+i	N/A	N/A	i	N/A	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+med	N/A	N/A	med	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+och	N/A	N/A	och	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+om	N/A	N/A	om	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eftersom	N/A	N/A	eftersom	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+namn	N/A	N/A	namn	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

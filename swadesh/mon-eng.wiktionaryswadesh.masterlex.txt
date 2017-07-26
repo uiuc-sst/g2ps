@@ -1,0 +1,160 @@
+би ‎	N/A	N/A	bi	N/A	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+чи ‎	N/A	N/A	či	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тэр ‎	N/A	N/A	ter	N/A	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бид ‎	N/A	N/A	bid	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+та ‎	N/A	N/A	ta	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тэд нар ‎	N/A	N/A	ted nar	N/A	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+энэ ‎	N/A	N/A	ene	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тэр ‎	N/A	N/A	ter	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+энд ‎	N/A	N/A	end	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тэнд ‎	N/A	N/A	tend	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хэн ‎	N/A	N/A	hen	N/A	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+юу ‎	N/A	N/A	juu	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хаан ‎	N/A	N/A	haan	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хэзээ ‎	N/A	N/A	hezee	N/A	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+яаж ‎	N/A	N/A	jaaž	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+гүй ‎	N/A	N/A	güj	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бүх ‎	N/A	N/A	büh	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+олон ‎	N/A	N/A	olon	N/A	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+зарим ‎	N/A	N/A	zarim	N/A	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+цөөн ‎	N/A	N/A	tsöön	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өөр ‎	N/A	N/A	öör	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нэг ‎	N/A	N/A	neg	N/A	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хоёр ‎	N/A	N/A	hojor	N/A	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+гурав ‎	N/A	N/A	gurav	N/A	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+дөрөв ‎	N/A	N/A	döröv	N/A	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тав ‎	N/A	N/A	tav	N/A	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+том ‎	N/A	N/A	tom	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+урт ‎	N/A	N/A	urt	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өргөн ‎	N/A	N/A	örgön	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+зузаан ‎	N/A	N/A	zuzaan	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хүнд ‎	N/A	N/A	hünd	N/A	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+жижиг ‎	N/A	N/A	žižig	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+богино ‎	N/A	N/A	bogino	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+цухал ‎	N/A	N/A	tsuhal	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нимгэн ‎	N/A	N/A	nimgen	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+эмэгтэй ‎	N/A	N/A	emegtej	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хүн ‎	N/A	N/A	hün	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хүний ‎	N/A	N/A	hünij	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хүүхэд ‎	N/A	N/A	hüühed	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+эхнэр ‎	N/A	N/A	ehner	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нөхөр ‎	N/A	N/A	nöhör	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ээж ‎	N/A	N/A	eež	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+аав ‎	N/A	N/A	aav	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+амьтан ‎	N/A	N/A	amʹtan	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+загас ‎	N/A	N/A	zagas	N/A	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+шувуу ‎	N/A	N/A	šuvuu	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нохой ‎	N/A	N/A	nohoj	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бөөс ‎	N/A	N/A	böös	N/A	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+могой ‎	N/A	N/A	mogoj	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хорхой ‎	N/A	N/A	horhoj	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+мод ‎	N/A	N/A	mod	N/A	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ой ‎	N/A	N/A	oj	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бороохой ‎	N/A	N/A	boroohoj	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+жимс ‎	N/A	N/A	žims	N/A	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+үр ‎	N/A	N/A	ür	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ногоо ‎	N/A	N/A	nogoo	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+үндэс ‎	N/A	N/A	ündes	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+холтос ‎	N/A	N/A	holtos	N/A	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+цэцэг ‎	N/A	N/A	tsetseg	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өвс ‎	N/A	N/A	övs	N/A	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+олс ‎	N/A	N/A	ols	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+арьс ‎	N/A	N/A	arʹs	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+мах ‎	N/A	N/A	mah	N/A	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+цус ‎	N/A	N/A	tsus	N/A	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+яс ‎	N/A	N/A	jas	N/A	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өөх ‎	N/A	N/A	ööh	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өндөг ‎	N/A	N/A	öndög	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+эвэр ‎	N/A	N/A	ever	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сүүл ‎	N/A	N/A	süül	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өд ‎	N/A	N/A	öd	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+үс ‎	N/A	N/A	üs	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+толгой ‎	N/A	N/A	tolgoj	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+чих ‎	N/A	N/A	čih	N/A	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нүд ‎	N/A	N/A	nüd	N/A	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хамар ‎	N/A	N/A	hamar	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ам ‎	N/A	N/A	am	N/A	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+шүд ‎	N/A	N/A	šüd	N/A	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хэл ‎	N/A	N/A	hel	N/A	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хумс ‎	N/A	N/A	hums	N/A	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хөл ‎	N/A	N/A	höl	N/A	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хөл ‎	N/A	N/A	höl	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өвдөг ‎	N/A	N/A	övdög	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+гар ‎	N/A	N/A	gar	N/A	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+далавч ‎	N/A	N/A	dalavč	N/A	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хэвлий ‎	N/A	N/A	hevlij	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+гэдэс ‎	N/A	N/A	gedes	N/A	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хүзүү ‎	N/A	N/A	hüzüü	N/A	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ар ‎	N/A	N/A	ar	N/A	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+суга ‎	N/A	N/A	suga	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+зүрх ‎	N/A	N/A	zürh	N/A	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+элэг ‎	N/A	N/A	eleg	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+уух ‎	N/A	N/A	uuh	N/A	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+идэх ‎	N/A	N/A	ideh	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+инээх ‎	N/A	N/A	ineeh	N/A	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+үзэх ‎	N/A	N/A	üzeh	N/A	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сонсох ‎	N/A	N/A	sonsoh	N/A	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+мэдэх ‎	N/A	N/A	medeh	N/A	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бодох ‎	N/A	N/A	bodoh	N/A	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+үнэрлэх ‎	N/A	N/A	ünerleh	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бодох ‎	N/A	N/A	bodoh	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+амьдрах ‎	N/A	N/A	amʹdrah	N/A	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нас барах ‎	N/A	N/A	nas barah	N/A	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+унтах ‎	N/A	N/A	untah	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сэлэх ‎	N/A	N/A	seleh	N/A	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нисэх ‎	N/A	N/A	niseh	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+алхах ‎	N/A	N/A	alhah	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ирэх ‎	N/A	N/A	ireh	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+суух ‎	N/A	N/A	suuh	N/A	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өгөх ‎	N/A	N/A	ögöh	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+угаах ‎	N/A	N/A	ugaah	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+оёх ‎	N/A	N/A	ojoh	N/A	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тоолох ‎	N/A	N/A	tooloh	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хэлэх ‎	N/A	N/A	heleh	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+дуулах ‎	N/A	N/A	duulah	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тоглох ‎	N/A	N/A	togloh	N/A	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нар ‎	N/A	N/A	nar	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сар ‎	N/A	N/A	sar	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+од ‎	N/A	N/A	od	N/A	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ус ‎	N/A	N/A	us	N/A	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бороо ‎	N/A	N/A	boroo	N/A	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+гол ‎	N/A	N/A	gol	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нуур ‎	N/A	N/A	nuur	N/A	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+далай ‎	N/A	N/A	dalaj	N/A	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+давс ‎	N/A	N/A	davs	N/A	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+чулуу ‎	N/A	N/A	čuluu	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+элс ‎	N/A	N/A	els	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+дэлхий ‎	N/A	N/A	delhij	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+үүл ‎	N/A	N/A	üül	N/A	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+манан ‎	N/A	N/A	manan	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+тэнгэр ‎	N/A	N/A	tenger	N/A	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+салхи ‎	N/A	N/A	salhi	N/A	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+цас ‎	N/A	N/A	tsas	N/A	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+мөс ‎	N/A	N/A	mös	N/A	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+утаа ‎	N/A	N/A	utaa	N/A	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+гал ‎	N/A	N/A	gal	N/A	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+үнс ‎	N/A	N/A	üns	N/A	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+шатаах ‎	N/A	N/A	šataah	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+зам ‎	N/A	N/A	zam	N/A	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+уул ‎	N/A	N/A	uul	N/A	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+улаан ‎	N/A	N/A	ulaan	N/A	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ногоон ‎	N/A	N/A	nogoon	N/A	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+шар ‎	N/A	N/A	šar	N/A	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+цагаан ‎	N/A	N/A	tsagaan	N/A	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хар ‎	N/A	N/A	har	N/A	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+шөнө ‎	N/A	N/A	šönö	N/A	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+өдөр ‎	N/A	N/A	ödör	N/A	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+жил ‎	N/A	N/A	žil	N/A	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+дулаан ‎	N/A	N/A	dulaan	N/A	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хүйтэн ‎	N/A	N/A	hüjten	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+шин ‎	N/A	N/A	šin	N/A	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+настай ‎	N/A	N/A	nastaj	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+сайн ‎	N/A	N/A	sajn	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+муу ‎	N/A	N/A	muu	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+бохир ‎	N/A	N/A	bohir	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+шулуун ‎	N/A	N/A	šuluun	N/A	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+дугуй ‎	N/A	N/A	duguj	N/A	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+хол ‎	N/A	N/A	hol	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+зүүн ‎	N/A	N/A	züün	N/A	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ба ‎	N/A	N/A	ba	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+нэр ‎	N/A	N/A	ner	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

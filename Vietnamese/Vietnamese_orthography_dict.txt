@@ -1,0 +1,58 @@
+b	ɓ
+c	k
+ch	c
+ch	t
+d	j
+đ	ɗ
+g	ɣ
+gh	ɣ
+gi	j
+h	h
+k	k
+kh	kʰ
+l	l
+m	m
+n	n
+ng	ŋ
+ngh	ŋ
+nh	ɲ
+nh	n
+p	p
+ph	f
+qu	w
+r	ɹ
+r	ʐ
+s	ʂ
+s	s
+t	t
+th	tʰ
+tr	ʈ͡ʂ
+tr	c
+v	v
+v	j
+x	s
+a	aː
+au	aw
+ay	ai
+ia	iə
+ă	a
+â	ə
+e	ɛ
+ê	e
+iê	iə 
+o	ɔ
+ong	aw ŋ
+oc	aw k
+oong	ɔ ŋ
+ooc	ɔ k
+ô	o
+ông	əw ŋ
+ôc	əw k
+ôông	o ŋ
+ôôc	o k
+ơ	əː
+u	u
+ư	ɨ
+i	i
+y	i
+

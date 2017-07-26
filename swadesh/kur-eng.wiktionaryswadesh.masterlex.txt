@@ -1,0 +1,348 @@
+ez	N/A	N/A	ez	ɛz	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+min	N/A	N/A	min	mɪn	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tu	N/A	N/A	tu	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+to	N/A	N/A	to	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ev	N/A	N/A	ev	N/A	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ew	N/A	N/A	ew	N/A	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+êm	N/A	N/A	êm	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ême	N/A	N/A	ême	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+êve	N/A	N/A	êve	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hîn	N/A	N/A	hîn	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+engo	N/A	N/A	engo	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+evan	N/A	N/A	evan	N/A	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ewan	N/A	N/A	ewan	N/A	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eve	N/A	N/A	eve	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ewe	N/A	N/A	ewe	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ew	N/A	N/A	ew	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+êre	N/A	N/A	êre	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vir	N/A	N/A	vir	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ewê	N/A	N/A	ewê	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kê	N/A	N/A	kê	N/A	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kî	N/A	N/A	kî	N/A	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çî	N/A	N/A	çî	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çi	N/A	N/A	çi	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kwê	N/A	N/A	kwê	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kêrê	N/A	N/A	kêrê	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kengi	N/A	N/A	kengi	N/A	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+key	N/A	N/A	key	N/A	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çewan	N/A	N/A	çewan	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çon	N/A	N/A	çon	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ku	N/A	N/A	ku	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+na	N/A	N/A	na	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ne	N/A	N/A	ne	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xirr	N/A	N/A	xirr	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pirrani	N/A	N/A	pirrani	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gişt	N/A	N/A	gişt	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hemu	N/A	N/A	hemu	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zor	N/A	N/A	zor	N/A	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mişe	N/A	N/A	mişe	N/A	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zaf	N/A	N/A	zaf	N/A	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hindek	N/A	N/A	hindek	N/A	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pîçek	N/A	N/A	pîçek	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+din	N/A	N/A	din	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dî	N/A	N/A	dî	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tir	N/A	N/A	tir	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ke	N/A	N/A	ke	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yêk	N/A	N/A	yêk	N/A	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+du	N/A	N/A	du	N/A	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sê	N/A	N/A	sê	N/A	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çar	N/A	N/A	çar	N/A	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çwar	N/A	N/A	çwar	N/A	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pênc	N/A	N/A	pênc	N/A	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gewre	N/A	N/A	gewre	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mezin	N/A	N/A	mezin	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dirêj	N/A	N/A	dirêj	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+berîn	N/A	N/A	berîn	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+e-stur	N/A	N/A	e-stur	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qurs	N/A	N/A	qurs	N/A	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gran	N/A	N/A	gran	N/A	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bçîk	N/A	N/A	bçîk	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çikole	N/A	N/A	çikole	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kurt	N/A	N/A	kurt	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qule	N/A	N/A	qule	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+barîk	N/A	N/A	barîk	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zirav	N/A	N/A	zirav	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+narîn	N/A	N/A	narîn	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tenik	N/A	N/A	tenik	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tesik	N/A	N/A	tesik	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jin	N/A	N/A	jin	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pîaw	N/A	N/A	pîaw	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mêr	N/A	N/A	mêr	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mirov	N/A	N/A	mirov	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zarok	N/A	N/A	zarok	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mindal	N/A	N/A	mindal	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jin	N/A	N/A	jin	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xêzan	N/A	N/A	xêzan	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mêr	N/A	N/A	mêr	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mêrd	N/A	N/A	mêrd	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dayk	N/A	N/A	dayk	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bav	N/A	N/A	bav	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bawk	N/A	N/A	bawk	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ajel	N/A	N/A	ajel	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+huvî	N/A	N/A	huvî	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+masî	N/A	N/A	masî	N/A	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çîvanok	N/A	N/A	çîvanok	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kêjule	N/A	N/A	kêjule	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mel	N/A	N/A	mel	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kuti	N/A	N/A	kuti	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+seg	N/A	N/A	seg	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qêç	N/A	N/A	qêç	N/A	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+espî	N/A	N/A	espî	N/A	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mar	N/A	N/A	mar	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kirm	N/A	N/A	kirm	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dar	N/A	N/A	dar	N/A	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lêrr	N/A	N/A	lêrr	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+darstan	N/A	N/A	darstan	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gopal	N/A	N/A	gopal	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+têlla	N/A	N/A	têlla	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fêqîh	N/A	N/A	fêqîh	N/A	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+terre	N/A	N/A	terre	N/A	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+danewêlle	N/A	N/A	danewêlle	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dank	N/A	N/A	dank	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pelk	N/A	N/A	pelk	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gella	N/A	N/A	gella	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+reh	N/A	N/A	reh	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nêrk	N/A	N/A	nêrk	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çîl	N/A	N/A	çîl	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tukl	N/A	N/A	tukl	N/A	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+berg	N/A	N/A	berg	N/A	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kulilk	N/A	N/A	kulilk	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gull	N/A	N/A	gull	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gîa	N/A	N/A	gîa	N/A	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+petk	N/A	N/A	petk	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gurîs	N/A	N/A	gurîs	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kndir	N/A	N/A	kndir	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kewl	N/A	N/A	kewl	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pêst	N/A	N/A	pêst	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pîst	N/A	N/A	pîst	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+goşt	N/A	N/A	goşt	N/A	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zux	N/A	N/A	zux	N/A	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xwîn	N/A	N/A	xwîn	N/A	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pêşe	N/A	N/A	pêşe	N/A	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+êsk	N/A	N/A	êsk	N/A	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bez	N/A	N/A	bez	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+êk	N/A	N/A	êk	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+êg	N/A	N/A	êg	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hêlke	N/A	N/A	hêlke	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stro	N/A	N/A	stro	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qoç	N/A	N/A	qoç	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+şax	N/A	N/A	şax	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kilk	N/A	N/A	kilk	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+duv	N/A	N/A	duv	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+perr	N/A	N/A	perr	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+perremuç	N/A	N/A	perremuç	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pirç	N/A	N/A	pirç	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+port	N/A	N/A	port	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ser	N/A	N/A	ser	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pope	N/A	N/A	pope	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+guh	N/A	N/A	guh	N/A	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gwê	N/A	N/A	gwê	N/A	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çav	N/A	N/A	çav	N/A	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çaw	N/A	N/A	çaw	N/A	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+difn	N/A	N/A	difn	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lut	N/A	N/A	lut	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kep	N/A	N/A	kep	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dev	N/A	N/A	dev	N/A	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dew	N/A	N/A	dew	N/A	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dem	N/A	N/A	dem	N/A	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dan	N/A	N/A	dan	N/A	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+didan	N/A	N/A	didan	N/A	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zar	N/A	N/A	zar	N/A	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ziman	N/A	N/A	ziman	N/A	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nînok	N/A	N/A	nînok	N/A	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pê	N/A	N/A	pê	N/A	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+laq	N/A	N/A	laq	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qaç	N/A	N/A	qaç	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çok	N/A	N/A	çok	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ejno	N/A	N/A	ejno	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pel	N/A	N/A	pel	N/A	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lip	N/A	N/A	lip	N/A	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dest	N/A	N/A	dest	N/A	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bal	N/A	N/A	bal	N/A	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nêk	N/A	N/A	nêk	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sik	N/A	N/A	sik	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+henav	N/A	N/A	henav	N/A	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wirg	N/A	N/A	wirg	N/A	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hevk	N/A	N/A	hevk	N/A	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mil	N/A	N/A	mil	N/A	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pişt	N/A	N/A	pişt	N/A	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+berok	N/A	N/A	berok	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sîng	N/A	N/A	sîng	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dil	N/A	N/A	dil	N/A	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cerg	N/A	N/A	cerg	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kezeb	N/A	N/A	kezeb	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vexar	N/A	N/A	vexar	N/A	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xwarewe	N/A	N/A	xwarewe	N/A	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xar	N/A	N/A	xar	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xwardî	N/A	N/A	xwardî	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gezî	N/A	N/A	gezî	N/A	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mijî	N/A	N/A	mijî	N/A	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mishtî	N/A	N/A	mishtî	N/A	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tifand	N/A	N/A	tifand	N/A	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+helawêşt	N/A	N/A	helawêşt	N/A	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+helawêşt	N/A	N/A	helawêşt	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rişawe	N/A	N/A	rişawe	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+helda	N/A	N/A	helda	N/A	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+frêda	N/A	N/A	frêda	N/A	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+henaseda	N/A	N/A	henaseda	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bêhnda	N/A	N/A	bêhnda	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+keni	N/A	N/A	keni	N/A	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pêkeni	N/A	N/A	pêkeni	N/A	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dît	N/A	N/A	dît	N/A	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bîst	N/A	N/A	bîst	N/A	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zanî	N/A	N/A	zanî	N/A	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bîr	N/A	N/A	bîr	N/A	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bon kird	N/A	N/A	bon kird	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tirsa	N/A	N/A	tirsa	N/A	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+toqî	N/A	N/A	toqî	N/A	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nust	N/A	N/A	nust	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xewt	N/A	N/A	xewt	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jîa	N/A	N/A	jîa	N/A	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mird	N/A	N/A	mird	N/A	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qirr	N/A	N/A	qirr	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kuşt	N/A	N/A	kuşt	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+şer kird	N/A	N/A	şer kird	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+raw kird	N/A	N/A	raw kird	N/A	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lêda	N/A	N/A	lêda	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qirta	N/A	N/A	qirta	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qut kir	N/A	N/A	qut kir	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+let kird	N/A	N/A	let kird	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+engawt	N/A	N/A	engawt	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ruçinand	N/A	N/A	ruçinand	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kolî	N/A	N/A	kolî	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kêla	N/A	N/A	kêla	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mele kird	N/A	N/A	mele kird	N/A	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+firrî	N/A	N/A	firrî	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pîase	N/A	N/A	pîase	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hat	N/A	N/A	hat	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+raza	N/A	N/A	raza	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+danîşt	N/A	N/A	danîşt	N/A	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hesta	N/A	N/A	hesta	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+westyîa	N/A	N/A	westyîa	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zivrrî	N/A	N/A	zivrrî	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+surawe	N/A	N/A	surawe	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+keft	N/A	N/A	keft	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+da	N/A	N/A	da	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+girt	N/A	N/A	girt	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quşî	N/A	N/A	quşî	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+glofî	N/A	N/A	glofî	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+firkand	N/A	N/A	firkand	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+perxand	N/A	N/A	perxand	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+germrand	N/A	N/A	germrand	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+şord	N/A	N/A	şord	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+şuşt	N/A	N/A	şuşt	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+malî	N/A	N/A	malî	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sirrîewe	N/A	N/A	sirrîewe	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rakêşa	N/A	N/A	rakêşa	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pal da	N/A	N/A	pal da	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+helda	N/A	N/A	helda	N/A	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+havêşt	N/A	N/A	havêşt	N/A	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+şetek da	N/A	N/A	şetek da	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+best	N/A	N/A	best	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+durî	N/A	N/A	durî	N/A	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jimard	N/A	N/A	jimard	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hejmard	N/A	N/A	hejmard	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+got	N/A	N/A	got	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bejî	N/A	N/A	bejî	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wut	N/A	N/A	wut	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+elê	N/A	N/A	elê	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çirrî	N/A	N/A	çirrî	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sitra	N/A	N/A	sitra	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+leîzî	N/A	N/A	leîzî	N/A	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yarî kird	N/A	N/A	yarî kird	N/A	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+serav bu	N/A	N/A	serav bu	N/A	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rîja	N/A	N/A	rîja	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tezî	N/A	N/A	tezî	N/A	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sirr bu	N/A	N/A	sirr bu	N/A	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bel bu	N/A	N/A	bel bu	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+penma	N/A	N/A	penma	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+roj	N/A	N/A	roj	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xor	N/A	N/A	xor	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mang	N/A	N/A	mang	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+heyv	N/A	N/A	heyv	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stêre	N/A	N/A	stêre	N/A	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+estêre	N/A	N/A	estêre	N/A	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+av	N/A	N/A	av	N/A	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aw	N/A	N/A	aw	N/A	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+baran	N/A	N/A	baran	N/A	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çom	N/A	N/A	çom	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çem	N/A	N/A	çem	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rubar	N/A	N/A	rubar	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gom	N/A	N/A	gom	N/A	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zerîa	N/A	N/A	zerîa	N/A	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xwê	N/A	N/A	xwê	N/A	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+berd	N/A	N/A	berd	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kevir	N/A	N/A	kevir	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zîx	N/A	N/A	zîx	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lim	N/A	N/A	lim	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+toz	N/A	N/A	toz	N/A	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xol	N/A	N/A	xol	N/A	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+erd	N/A	N/A	erd	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zevî	N/A	N/A	zevî	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+h-evwir	N/A	N/A	h-evwir	N/A	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tem	N/A	N/A	tem	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+muj	N/A	N/A	muj	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+asman	N/A	N/A	asman	N/A	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ba	N/A	N/A	ba	N/A	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+befr	N/A	N/A	befr	N/A	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+werf	N/A	N/A	werf	N/A	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sehol	N/A	N/A	sehol	N/A	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dukel	N/A	N/A	dukel	N/A	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+agir	N/A	N/A	agir	N/A	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xolemêş	N/A	N/A	xolemêş	N/A	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xoli	N/A	N/A	xoli	N/A	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+suta	N/A	N/A	suta	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sot	N/A	N/A	sot	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rê	N/A	N/A	rê	N/A	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rêge	N/A	N/A	rêge	N/A	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çîa	N/A	N/A	çîa	N/A	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+şax	N/A	N/A	şax	N/A	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sor	N/A	N/A	sor	N/A	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kesk	N/A	N/A	kesk	N/A	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sewz	N/A	N/A	sewz	N/A	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zerd	N/A	N/A	zerd	N/A	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+spî	N/A	N/A	spî	N/A	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+reş	N/A	N/A	reş	N/A	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+şev	N/A	N/A	şev	N/A	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+roj	N/A	N/A	roj	N/A	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sal	N/A	N/A	sal	N/A	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+germ	N/A	N/A	germ	N/A	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sar	N/A	N/A	sar	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sard	N/A	N/A	sard	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tije	N/A	N/A	tije	N/A	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pirr	N/A	N/A	pirr	N/A	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nû	N/A	N/A	nû	N/A	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kevn	N/A	N/A	kevn	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kon	N/A	N/A	kon	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+baş	N/A	N/A	baş	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bed	N/A	N/A	bed	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rizî	N/A	N/A	rizî	N/A	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pîs	N/A	N/A	pîs	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rêk	N/A	N/A	rêk	N/A	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xirr	N/A	N/A	xirr	N/A	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tîj	N/A	N/A	tîj	N/A	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ku-l	N/A	N/A	ku-l	N/A	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lus	N/A	N/A	lus	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+şil terr	N/A	N/A	şil terr	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zuha	N/A	N/A	zuha	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hîşk	N/A	N/A	hîşk	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wuşk	N/A	N/A	wuşk	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+drust	N/A	N/A	drust	N/A	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nizîk	N/A	N/A	nizîk	N/A	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dur	N/A	N/A	dur	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dur	N/A	N/A	dur	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+and	N/A	N/A	and	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rast	N/A	N/A	rast	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+çep	N/A	N/A	çep	N/A	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+le	N/A	N/A	le	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ji	N/A	N/A	ji	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+-da	N/A	N/A	-da	N/A	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+digel	N/A	N/A	digel	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+legel	N/A	N/A	legel	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wêrrai	N/A	N/A	wêrrai	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+u	N/A	N/A	u	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+we	N/A	N/A	we	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+heke	N/A	N/A	heke	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ji ber ku	N/A	N/A	ji ber ku	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nav	N/A	N/A	nav	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nam	N/A	N/A	nam	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

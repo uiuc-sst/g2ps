@@ -1,0 +1,10 @@
+language: https://en.wikipedia.org/wiki/Cook_Islands_M%C4%81ori
+iso639-1: -
+iso639-3: rar
+iso639-3: pnh
+iso639-3: rkh
+glottolog: raro1241
+glottolog: penr1237
+glottolog: raka1237
+alphabet: https://en.wikipedia.org/wiki/Cook_Islands_M%C4%81ori
+SBS: http://www.sbs.com.au/podcasts/yourlanguage/cookislands-maori

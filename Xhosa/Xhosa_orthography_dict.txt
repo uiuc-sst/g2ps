@@ -1,0 +1,92 @@
+﻿a	a
+á	a˥
+à	a˩
+â 	a˥ a˩
+ä	a˩ a˥
+e	ɛ
+é	ɛ˥
+è	ɛ˩
+ê	ɛ˥ ɛ˩
+ë	ɛ˩ ɛ˥
+i	i
+ì	i˩
+í	i˥
+î	i˥ i˩
+ï	i˩ i˥
+o	ɔ
+ó	ɔ˥
+ò	ɔ˩
+ô	ɔ˥ ɔ˩
+ö	ɔ˩ ɔ˥
+u	u
+ú	u˥
+ù	u˩
+û	u˥ u˩
+ü	u˩ u˥
+c	kǀ
+x	kǁ
+q	kǃ
+ch	kǀʰ
+xh	kǁʰ
+qh	kǃʰ
+gc	ɡ̊ǀʱ
+gx	ɡ̊ǁʱ
+gq	ɡ̊ǃʱ
+nc	ŋǀ
+nx	ŋǁ
+nq	ŋǃ
+ngc	ŋǀʱ
+ngx	ŋǁʱ
+ngq	ŋǃʱ
+nkc	ŋǀˀ
+nkx	ŋǁˀ
+nkq	ŋǃˀ
+p	pʼ
+t	tʼ
+ty	tʲʼ
+k	kʼ
+ph	pʰ
+th	tʰ
+tyh	tʲʰ
+kh	kʰ
+bh	bʱ
+d	dʱ
+dy	dʲʱ
+g	ɡ̊ʱ
+b	ɓ
+ts	tsʼ
+tsh	tʃʼ
+kr	kxʼ
+ths	tsʰ
+thsh	tʃʰ
+dz	dzʱ
+j	dʒʱ
+f	f
+s	s
+hl	ɬ
+sh	ʃ
+rh	x
+h	h
+v	v̤
+z	z̤
+dl	ɮ̈
+zh	ʒ̈
+gr	ɣ̈
+hh	ɦ
+m	m
+n	n
+ny	ɲ
+ng’	ŋ
+mh	m̤
+nh	n̤
+nyh	ɲ
+ngh	ŋ̈
+l	l
+y	j
+w	w
+lh	l̤
+yh	j̈
+wh	w̤
+r	r
+r	r̤
+

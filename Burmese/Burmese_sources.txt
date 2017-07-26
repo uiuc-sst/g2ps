@@ -1,0 +1,8 @@
+language: https://en.wikipedia.org/wiki/Burmese_language
+iso639-1: my
+iso639-3: mya
+glottolog: sout3159
+alphabet: https://en.wikipedia.org/wiki/Burmese_alphabet
+SBS: http://www.sbs.com.au/podcasts/yourlanguage/burmese
+wikipedia: https://my.wikipedia.org
+

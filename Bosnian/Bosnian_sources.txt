@@ -1,0 +1,8 @@
+language: https://en.wikipedia.org/wiki/Bosnian_language
+iso639-1: bs
+iso639-3: bos
+glottolog: bosn1245
+alphabet: https://en.wikipedia.org/wiki/Gaj%27s_Latin_alphabet
+SBS: http://www.sbs.com.au/podcasts/yourlanguage/bosnian
+wikipedia: https://bs.wikipedia.org
+

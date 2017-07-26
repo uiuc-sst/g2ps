@@ -1,0 +1,101 @@
+ア	a
+アエ	æ
+アェ	æ
+ー	ː
+イ	i
+ィ	ɪ
+ウ	u
+ゥ	ʊ
+エ	e
+オ	o
+カ	k a
+キ	k i
+ク	k u
+ㇰ	k
+ケ	k e
+コ	k o
+サ	s a
+シ	ʃ i
+ㇱ	ɕ
+シャ	ʃ a
+シュ	ʃ u
+シェ	ʃ e
+ショ	ʃ o
+ス	s u
+ㇲ	s
+セ	s e
+セ゚	ts	e
+ソ	s o
+タ	t a
+チ	tʃ i
+チャ	ts a
+チャ	tʃ a
+チュ	tʃ u
+チェ	tʃ e
+チョ	ts o
+チョ	tʃ o
+ツ	ts u
+ツ゚	t u
+ッ	t
+テ	t e
+ト	t o
+ト゚	t u
+ㇳ	t
+ナ	n a
+ニ	n i
+ヌ	n u
+ㇴ	n
+ネ	n e
+ノ	n o
+ン	n
+ン	m
+ン	ŋ
+ハ	h a
+ㇵ	x
+ヒ	ç i
+ㇶ	ç
+フ	ɸ u
+ㇷ	x
+ヘ	h e
+ㇸ	x
+ホ	h o
+ㇹ	x
+パ	p a
+ピ	p i
+プ	p u
+ㇷ゚	p
+ペ	p e
+ポ	p o
+マ	m a
+ミ	m i
+ム	m u
+メ	m e
+モ	m o
+ㇺ	m
+ヤ	j a
+ユ	j u
+イェ	j e
+ヨ	j o
+ラ	ɾ a
+リ	ɾ i
+ル	ɾ u
+レ	ɾ e
+ロ	ɾ o
+ㇻ	a ɾ
+ㇻ	ɾ
+ㇼ	i ɾ
+ㇼ	ɾ
+ㇽ	u ɾ
+ㇽ	ɾ
+ㇾ	e ɾ
+ㇾ	ɾ
+ㇿ	o ɾ
+ㇿ	ɾ
+ワ	w a
+ウィ	w i
+ヰ	w i
+ウェ	w e
+ヱ	w e
+ウォ	w o
+ヲ	w o
+

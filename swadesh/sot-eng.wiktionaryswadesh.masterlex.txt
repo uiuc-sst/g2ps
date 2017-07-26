@@ -1,0 +1,256 @@
+nna	N/A	N/A	nna	N/A	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wena	N/A	N/A	wena	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yona	N/A	N/A	yona	N/A	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rona	N/A	N/A	rona	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lona	N/A	N/A	lona	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bona	N/A	N/A	bona	N/A	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ana	N/A	N/A	ana	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ena	N/A	N/A	ena	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+enwa	N/A	N/A	enwa	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eo	N/A	N/A	eo	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hona	N/A	N/A	hona	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aa	N/A	N/A	aa	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ale	N/A	N/A	ale	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ane	N/A	N/A	ane	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ano	N/A	N/A	ano	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bono	N/A	N/A	bono	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+boo	N/A	N/A	boo	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ee	N/A	N/A	ee	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eno	N/A	N/A	eno	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hane	N/A	N/A	hane	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hono	N/A	N/A	hono	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hoo	N/A	N/A	hoo	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mona	N/A	N/A	mona	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+teng	N/A	N/A	teng	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ao	N/A	N/A	ao	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+boo	N/A	N/A	boo	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eo	N/A	N/A	eo	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eng	N/A	N/A	eng	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kae	N/A	N/A	kae	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+neng	N/A	N/A	neng	N/A	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jwang	N/A	N/A	jwang	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ha	N/A	N/A	ha	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ka	N/A	N/A	ka	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bohle	N/A	N/A	bohle	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hohle	N/A	N/A	hohle	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ngata	N/A	N/A	ngata	N/A	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bang	N/A	N/A	bang	N/A	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mmalwa	N/A	N/A	mmalwa	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+engwe	N/A	N/A	engwe	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nngwe	N/A	N/A	nngwe	N/A	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pedi	N/A	N/A	pedi	N/A	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tharo	N/A	N/A	tharo	N/A	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nne	N/A	N/A	nne	N/A	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hlano	N/A	N/A	hlano	N/A	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+holo	N/A	N/A	holo	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lelele	N/A	N/A	lelele	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+telele	N/A	N/A	telele	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+batsi	N/A	N/A	batsi	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tenya	N/A	N/A	tenya	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+boima	N/A	N/A	boima	N/A	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pitla	N/A	N/A	pitla	N/A	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyane	N/A	N/A	nyane	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kgutshwane	N/A	N/A	kgutshwane	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kgutshwanyane	N/A	N/A	kgutshwanyane	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tshesane	N/A	N/A	tshesane	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sesane	N/A	N/A	sesane	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mosadi	N/A	N/A	mosadi	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+monna	N/A	N/A	monna	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+motho	N/A	N/A	motho	N/A	human	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ngwana	N/A	N/A	ngwana	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mohatsa	N/A	N/A	mohatsa	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mosadi	N/A	N/A	mosadi	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mohatsa	N/A	N/A	mohatsa	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mme	N/A	N/A	mme	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntate	N/A	N/A	ntate	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+phoofolo	N/A	N/A	phoofolo	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hlapi	N/A	N/A	hlapi	N/A	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nonyana	N/A	N/A	nonyana	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntja	N/A	N/A	ntja	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+noha	N/A	N/A	noha	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+seboko	N/A	N/A	seboko	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sefate	N/A	N/A	sefate	N/A	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+moru	N/A	N/A	moru	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sekgwa	N/A	N/A	sekgwa	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+thupa	N/A	N/A	thupa	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tholwana	N/A	N/A	tholwana	N/A	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+peo	N/A	N/A	peo	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lehlaku	N/A	N/A	lehlaku	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+motso	N/A	N/A	motso	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lekgapetla	N/A	N/A	lekgapetla	N/A	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+palesa	N/A	N/A	palesa	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jwang	N/A	N/A	jwang	N/A	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mohala	N/A	N/A	mohala	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+letlalo	N/A	N/A	letlalo	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nama	N/A	N/A	nama	N/A	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+madi	N/A	N/A	madi	N/A	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lesapo	N/A	N/A	lesapo	N/A	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mafura	N/A	N/A	mafura	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lehe	N/A	N/A	lehe	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lenaka	N/A	N/A	lenaka	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mohatla	N/A	N/A	mohatla	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lesiba	N/A	N/A	lesiba	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+moriri	N/A	N/A	moriri	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hlooho	N/A	N/A	hlooho	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsebe	N/A	N/A	tsebe	N/A	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+leihlo	N/A	N/A	leihlo	N/A	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nko	N/A	N/A	nko	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+molomo	N/A	N/A	molomo	N/A	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+leino	N/A	N/A	leino	N/A	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+leleme	N/A	N/A	leleme	N/A	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lenala	N/A	N/A	lenala	N/A	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+leoto	N/A	N/A	leoto	N/A	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+moomo	N/A	N/A	moomo	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lengole	N/A	N/A	lengole	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+letsoho	N/A	N/A	letsoho	N/A	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lepheo	N/A	N/A	lepheo	N/A	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mpa	N/A	N/A	mpa	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dikahare	N/A	N/A	dikahare	N/A	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+molala	N/A	N/A	molala	N/A	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mokokotlo	N/A	N/A	mokokotlo	N/A	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+letswele	N/A	N/A	letswele	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sefuba	N/A	N/A	sefuba	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pelo	N/A	N/A	pelo	N/A	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sebete	N/A	N/A	sebete	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nwa	N/A	N/A	nwa	N/A	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ja	N/A	N/A	ja	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+loma	N/A	N/A	loma	N/A	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+monya	N/A	N/A	monya	N/A	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tshwela	N/A	N/A	tshwela	N/A	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hlatsa	N/A	N/A	hlatsa	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fefola	N/A	N/A	fefola	N/A	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+phefumoloha	N/A	N/A	phefumoloha	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsheha	N/A	N/A	tsheha	N/A	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bona	N/A	N/A	bona	N/A	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+utlwa	N/A	N/A	utlwa	N/A	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tseba	N/A	N/A	tseba	N/A	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nahana	N/A	N/A	nahana	N/A	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fofonela	N/A	N/A	fofonela	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tshaba	N/A	N/A	tshaba	N/A	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+robala	N/A	N/A	robala	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+phela	N/A	N/A	phela	N/A	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+shwa	N/A	N/A	shwa	N/A	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bolaya	N/A	N/A	bolaya	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lwana	N/A	N/A	lwana	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsoma	N/A	N/A	tsoma	N/A	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bata	N/A	N/A	bata	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+betsa	N/A	N/A	betsa	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+otla	N/A	N/A	otla	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+shapa	N/A	N/A	shapa	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+phoma	N/A	N/A	phoma	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+seha	N/A	N/A	seha	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+seta	N/A	N/A	seta	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+arohana	N/A	N/A	arohana	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+arola	N/A	N/A	arola	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+petsoha	N/A	N/A	petsoha	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hlaba	N/A	N/A	hlaba	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ngwapa	N/A	N/A	ngwapa	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+epa	N/A	N/A	epa	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tjheka	N/A	N/A	tjheka	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sesa	N/A	N/A	sesa	N/A	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fofa	N/A	N/A	fofa	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsamaya	N/A	N/A	tsamaya	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tla	N/A	N/A	tla	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+botha	N/A	N/A	botha	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lala	N/A	N/A	lala	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+phomola	N/A	N/A	phomola	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dula	N/A	N/A	dula	N/A	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ema	N/A	N/A	ema	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+reteleha	N/A	N/A	reteleha	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wa	N/A	N/A	wa	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fa	N/A	N/A	fa	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tshwara	N/A	N/A	tshwara	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tlhotla	N/A	N/A	tlhotla	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pikitla	N/A	N/A	pikitla	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hlatswa	N/A	N/A	hlatswa	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hlakola	N/A	N/A	hlakola	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hula	N/A	N/A	hula	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tosola	N/A	N/A	tosola	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+susumetsa	N/A	N/A	susumetsa	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+akga	N/A	N/A	akga	N/A	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fasa	N/A	N/A	fasa	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tlama	N/A	N/A	tlama	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsala	N/A	N/A	tsala	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+roka	N/A	N/A	roka	N/A	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bala	N/A	N/A	bala	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bolela	N/A	N/A	bolela	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+re	N/A	N/A	re	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tjho	N/A	N/A	tjho	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bina	N/A	N/A	bina	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsanyaola	N/A	N/A	tsanyaola	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bapala	N/A	N/A	bapala	N/A	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+phaphamala	N/A	N/A	phaphamala	N/A	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sesa	N/A	N/A	sesa	N/A	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+phalla	N/A	N/A	phalla	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ruruha	N/A	N/A	ruruha	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+letsatsi	N/A	N/A	letsatsi	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kgwedi	N/A	N/A	kgwedi	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+naledi	N/A	N/A	naledi	N/A	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+metsi	N/A	N/A	metsi	N/A	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pula	N/A	N/A	pula	N/A	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+noka	N/A	N/A	noka	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+letsha	N/A	N/A	letsha	N/A	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lewatle	N/A	N/A	lewatle	N/A	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+letswai	N/A	N/A	letswai	N/A	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lejwe	N/A	N/A	lejwe	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lehlabathe	N/A	N/A	lehlabathe	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lerole	N/A	N/A	lerole	N/A	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mobu	N/A	N/A	mobu	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lefatshe	N/A	N/A	lefatshe	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+leru	N/A	N/A	leru	N/A	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mohodi	N/A	N/A	mohodi	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lehodimo	N/A	N/A	lehodimo	N/A	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+moya	N/A	N/A	moya	N/A	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lehlwa	N/A	N/A	lehlwa	N/A	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+leqhwa	N/A	N/A	leqhwa	N/A	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aese	N/A	N/A	aese	N/A	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mosi	N/A	N/A	mosi	N/A	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mollo	N/A	N/A	mollo	N/A	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+molora	N/A	N/A	molora	N/A	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+besa	N/A	N/A	besa	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tjha	N/A	N/A	tjha	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tjhesa	N/A	N/A	tjhesa	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuka	N/A	N/A	tuka	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsela	N/A	N/A	tsela	N/A	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+thaba	N/A	N/A	thaba	N/A	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fubedu	N/A	N/A	fubedu	N/A	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tala	N/A	N/A	tala	N/A	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sehla	N/A	N/A	sehla	N/A	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sweu	N/A	N/A	sweu	N/A	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsho	N/A	N/A	tsho	N/A	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bosiu	N/A	N/A	bosiu	N/A	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mohla	N/A	N/A	mohla	N/A	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+selemo	N/A	N/A	selemo	N/A	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ngwahola	N/A	N/A	ngwahola	N/A	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+futhumetse	N/A	N/A	futhumetse	N/A	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+serame	N/A	N/A	serame	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tletse	N/A	N/A	tletse	N/A	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tjha	N/A	N/A	tjha	N/A	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+holo	N/A	N/A	holo	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tle	N/A	N/A	tle	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+be	N/A	N/A	be	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mpe	N/A	N/A	mpe	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bodileng	N/A	N/A	bodileng	N/A	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ditshila	N/A	N/A	ditshila	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+otlolohileng	N/A	N/A	otlolohileng	N/A	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tjhitja	N/A	N/A	tjhitja	N/A	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bohale	N/A	N/A	bohale	N/A	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tjhora	N/A	N/A	tjhora	N/A	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nthithi	N/A	N/A	nthithi	N/A	blunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+boreledi	N/A	N/A	boreledi	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+metsi	N/A	N/A	metsi	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+omisa	N/A	N/A	omisa	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oma	N/A	N/A	oma	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nepisa	N/A	N/A	nepisa	N/A	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+haufi	N/A	N/A	haufi	N/A	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pela	N/A	N/A	pela	N/A	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hole	N/A	N/A	hole	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lokisa	N/A	N/A	lokisa	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+leqele	N/A	N/A	leqele	N/A	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ka	N/A	N/A	ka	N/A	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+na	N/A	N/A	na	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+le	N/A	N/A	le	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mme	N/A	N/A	mme	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ha	N/A	N/A	ha	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hobane	N/A	N/A	hobane	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lebitso	N/A	N/A	lebitso	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

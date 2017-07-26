@@ -1,0 +1,180 @@
+kuv	N/A	N/A	kuv	ku	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+koj	N/A	N/A	koj	kɔ	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nws	N/A	N/A	nws	nɨ	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+peb	N/A	N/A	peb	pe	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wb	N/A	N/A	wb	ɨ	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nej	N/A	N/A	nej	ne	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+neb	N/A	N/A	neb	ne	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lawv	N/A	N/A	lawv	laɨ	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nkawd	N/A	N/A	nkawd	ᵑɡaɨ	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+no	N/A	N/A	no	nɔ	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nov	N/A	N/A	nov	nɔ	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntawd	N/A	N/A	ntawd	ⁿdaɨ	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntawd	N/A	N/A	ntawd	ⁿdaɨ	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dabtsi	N/A	N/A	dabtsi	da˥ʈʂi	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsis	N/A	N/A	tsis	ʈʂi	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntau	N/A	N/A	ntau	ⁿdau	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+coob	N/A	N/A	coob	cɔ̃	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qee	N/A	N/A	qee	qẽ	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mentsis	N/A	N/A	mentsis	me˦ᶯɖʐi	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsawg	N/A	N/A	tsawg	ʈʂaɨ̤	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lwm	N/A	N/A	lwm	lɨ̰	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ib	N/A	N/A	ib	i	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ob	N/A	N/A	ob	ɔ	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+peb	N/A	N/A	peb	pe	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plaub	N/A	N/A	plaub	pˡau	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsib	N/A	N/A	tsib	ʈʂi	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+loj	N/A	N/A	loj	lɔ	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntev	N/A	N/A	ntev	ⁿde	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dav	N/A	N/A	dav	da	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuab	N/A	N/A	tuab	tuə	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hnyav	N/A	N/A	hnyav	ɲ̥a	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+me	N/A	N/A	me	me	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+luv	N/A	N/A	luv	lu	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nqaim	N/A	N/A	nqaim	ᶰɢaḭ	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyias	N/A	N/A	nyias	ɲiə	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pojniam	N/A	N/A	pojniam	pɔ˥˨niə̰	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+neeg	N/A	N/A	neeg	nẽ̤	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+menyuam	N/A	N/A	menyuam	me˦ɲuə̰	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pojniam	N/A	N/A	pojniam	pɔ˥˨niə̰	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+txiv	N/A	N/A	txiv	tsi	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+niam	N/A	N/A	niam	niə̰	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+txiv	N/A	N/A	txiv	tsi	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsiaj	N/A	N/A	tsiaj	ʈʂiə	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntses	N/A	N/A	ntses	ᶯɖʐe	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+noog	N/A	N/A	noog	nɔ̤̃	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dev	N/A	N/A	dev	de	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuv	N/A	N/A	tuv	tu	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nab	N/A	N/A	nab	na	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntoo	N/A	N/A	ntoo	ⁿdɔ̃	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zoov	N/A	N/A	zoov	ʐɔ̃	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ceg	N/A	N/A	ceg	ce̤	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+txiv	N/A	N/A	txiv	tsi	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+noob	N/A	N/A	noob	nɔ̃	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nplooj	N/A	N/A	nplooj	ᵐbˡɔ̃	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cag	N/A	N/A	cag	ca̤	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tawv	N/A	N/A	tawv	taɨ	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+paj	N/A	N/A	paj	pa	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyom	N/A	N/A	nyom	ɲɔ̰	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hlua	N/A	N/A	hlua	ɬuə	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tawv	N/A	N/A	tawv	taɨ	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nqaij	N/A	N/A	nqaij	ᶰɢai	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntshav	N/A	N/A	ntshav	ᶯɖʐʱa	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+roj	N/A	N/A	roj	ʈɔ	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qe	N/A	N/A	qe	qe	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kub	N/A	N/A	kub	ku	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tw	N/A	N/A	tw	tɨ	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plaub	N/A	N/A	plaub	pˡau	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hniav	N/A	N/A	hniav	n̥iə	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nplaig	N/A	N/A	nplaig	ᵐbˡai̤	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ceg	N/A	N/A	ceg	ce̤	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+caug	N/A	N/A	caug	caṳ	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tes	N/A	N/A	tes	te	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tis	N/A	N/A	tis	ti	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plab	N/A	N/A	plab	pˡa	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hnyuv	N/A	N/A	hnyuv	ɲ̥u	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mis	N/A	N/A	mis	mi	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plawv	N/A	N/A	plawv	pˡaɨ	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+siab	N/A	N/A	siab	ʂiə	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+haus	N/A	N/A	haus	hau	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+noj	N/A	N/A	noj	nɔ	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tom	N/A	N/A	tom	tɔ̰	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntxais	N/A	N/A	ntxais	ⁿdzai	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nti	N/A	N/A	nti	ⁿdi	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nto	N/A	N/A	nto	ⁿdɔ	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntuav	N/A	N/A	ntuav	ⁿduə	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tshuab	N/A	N/A	tshuab	ʈʂʰuə	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+luag	N/A	N/A	luag	luə̤	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pom	N/A	N/A	pom	pɔ̰	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hnov	N/A	N/A	hnov	n̥ɔ	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+paub	N/A	N/A	paub	pau	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xav	N/A	N/A	xav	sa	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tsw	N/A	N/A	tsw	ʈʂɨ	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntshai	N/A	N/A	ntshai	ᶯɖʐʱai	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyob	N/A	N/A	nyob	ɲɔ	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuag	N/A	N/A	tuag	tuə̤	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tua	N/A	N/A	tua	tuə	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntaus	N/A	N/A	ntaus	ⁿdau	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+txiav	N/A	N/A	txiav	tsiə	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+phua	N/A	N/A	phua	pʰuə	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nkaug	N/A	N/A	nkaug	ᵑɡaṳ	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nplhos	N/A	N/A	nplhos	ᵐbˡᶾɔ	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+khawb	N/A	N/A	khawb	kʰaɨ	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+khawb	N/A	N/A	khawb	kʰaɨ	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ya	N/A	N/A	ya	ʝa	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuaj	N/A	N/A	tuaj	tuə	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pw	N/A	N/A	pw	pɨ	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zaum	N/A	N/A	zaum	ʐaṵ	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tig	N/A	N/A	tig	ti̤	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+poob	N/A	N/A	poob	pɔ̃	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuav	N/A	N/A	tuav	tuə	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+puag	N/A	N/A	puag	puə̤	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nyem	N/A	N/A	nyem	ɲḛ	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mos	N/A	N/A	mos	mɔ	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntxuav	N/A	N/A	ntxuav	ⁿdzuə	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+so	N/A	N/A	so	ʂɔ	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rub	N/A	N/A	rub	ʈu	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+thawb	N/A	N/A	thawb	tʰaɨ	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pov	N/A	N/A	pov	pɔ	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+khi	N/A	N/A	khi	kʰi	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xaws	N/A	N/A	xaws	saɨ	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+suav	N/A	N/A	suav	ʂuə	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hais	N/A	N/A	hais	hai	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntab	N/A	N/A	ntab	ⁿda	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntws	N/A	N/A	ntws	ⁿdɨ	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+khov	N/A	N/A	khov	kʰɔ	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+o	N/A	N/A	o	ɔ	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hnub	N/A	N/A	hnub	n̥u	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hli	N/A	N/A	hli	ɬi	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dej	N/A	N/A	dej	de	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nag	N/A	N/A	nag	na̤	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dej	N/A	N/A	dej	de	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntsev	N/A	N/A	ntsev	ᶯɖʐe	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+av	N/A	N/A	av	a	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+huab	N/A	N/A	huab	huə	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntuj	N/A	N/A	ntuj	ⁿdu	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cua	N/A	N/A	cua	cuə	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+npu	N/A	N/A	npu	ᵐbu	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+taws	N/A	N/A	taws	taɨ	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tshauv	N/A	N/A	tshauv	ʈʂʰau	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hlawv	N/A	N/A	hlawv	ɬaɨ	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kev	N/A	N/A	kev	ke	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+roob	N/A	N/A	roob	ʈɔ̃	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+toj	N/A	N/A	toj	tɔ	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+liab	N/A	N/A	liab	liə	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntsuab	N/A	N/A	ntsuab	ᶯɖʐuə	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+daj	N/A	N/A	daj	da	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dawb	N/A	N/A	dawb	daɨ	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dub	N/A	N/A	dub	du	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hnub	N/A	N/A	hnub	n̥u	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xyoo	N/A	N/A	xyoo	çɔ̃	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kub	N/A	N/A	kub	ku	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sov	N/A	N/A	sov	ʂɔ	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+no	N/A	N/A	no	nɔ	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+txias	N/A	N/A	txias	txiə	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+puv	N/A	N/A	puv	pu	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tshiab	N/A	N/A	tshiab	ʈʂʰiə	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+laus	N/A	N/A	laus	lau	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qub	N/A	N/A	qub	qu	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zoo	N/A	N/A	zoo	ʐɔ̃	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+phem	N/A	N/A	phem	pʰḛ	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lwj	N/A	N/A	lwj	lɨ	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+txab	N/A	N/A	txab	txa	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ceb	N/A	N/A	ceb	ce	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ncaj	N/A	N/A	ncaj	ᶮɟa	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntse	N/A	N/A	ntse	ᶯɖʐe	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+npub	N/A	N/A	npub	ᵐbu	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+du	N/A	N/A	du	du	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntub	N/A	N/A	ntub	ⁿdu	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qhuav	N/A	N/A	qhuav	qʰuə	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tseeb	N/A	N/A	tseeb	ʈʂẽ	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ze	N/A	N/A	ze	ʐe	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+deb	N/A	N/A	deb	de	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ntawm	N/A	N/A	ntawm	ⁿdaɨ̰	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tom	N/A	N/A	tom	tɔ̰	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hauv	N/A	N/A	hauv	hau	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nrog	N/A	N/A	nrog	ᶯɖɔ̤	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+thiab	N/A	N/A	thiab	tʰiə	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yog	N/A	N/A	yog	ʝɔ̤	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vim	N/A	N/A	vim	vḭ	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+npe	N/A	N/A	npe	ᵐbe	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

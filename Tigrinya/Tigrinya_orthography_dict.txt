@@ -1,0 +1,325 @@
+﻿ሀ h ə
+ሁ h u
+ሂ h i
+ሃ h a
+ሄ h e
+ህ h ɨ
+ህ h
+ሆ h o
+ለ l ə
+ሉ l u
+ሊ l i
+ላ l a
+ሌ l e
+ል l ɨ
+ል l
+ሎ l o
+ሏ l ʷa
+ሐ h ə
+ሑ h u
+ሒ h i
+ሓ h a
+ሔ h e
+ሕ h ɨ
+ሕ h
+ሖ h o
+ሗ h ʷa
+መ m ə
+ሙ m u
+ሚ m a
+ሜ m e
+ም m ɨ
+ም m
+ሞ m o
+ሟ m ʷa
+ሠ s ə
+ሡ s u
+ሢ s i
+ሣ s a
+ሤ s e
+ሥ s ɨ
+ሥ s
+ሦ s o
+ሧ s ʷa
+ረ r ə
+ሩ r u
+ሪ r i
+ራ r a
+ሬ r e
+ር r ɨ
+ር r
+ሮ r o
+ሯ r ʷa
+ሰ s ə
+ሱ s u
+ሲ s i
+ሳ s a
+ሴ s e
+ስ s ɨ
+ስ s
+ሶ s o
+ሷ s ʷa
+ሸ ʃ ə
+ሹ ʃ u
+ሺ ʃ i
+ሻ ʃ a
+ሼ ʃ e
+ሽ ʃ ɨ
+ሽ ʃ 
+ሾ ʃ o
+ሿ ʃ ʷa
+ቀ q ə
+ቁ q u
+ቂ q i
+ቃ q a
+ቄ q e
+ቅ q ɨ
+ቅ q
+ቆ q o
+ቈ q ʷə
+ቊ q ʷi
+ቋ q ʷa
+ቌ q ʷe
+ቍ q ʷɨ
+በ b ə
+ቡ b u
+ቢ b i
+ባ b a
+ቤ b e
+ብ b
+ብ b ɨ
+ቦ b o
+ቧ b ʷa
+ቨ v ə
+ቩ v u
+ቪ v i
+ቫ v a
+ቬ v e
+ቭ v
+ቭ v ɨ
+ቮ v o
+ቯ v ʷa
+ተ t ə
+ቱ t u
+ቲ t i
+ታ t a
+ቴ t e
+ት t
+ት t ɨ
+ቶ t o
+ቷ t ʷa
+ቸ tʃ ə
+ቹ tʃ u
+ቺ tʃ i
+ቻ tʃ a
+ቼ tʃ e
+ች tʃ
+ች tʃ ɨ
+ቾ tʃ o
+ቿ tʃ ʷa
+ኀ ħ ə
+ኁ ħ u
+ኂ ħ i
+ኃ ħ a
+ኄ ħ e
+ኅ ħ
+ኅ ħ ɨ
+ኆ ħ o
+ኈ ħ ʷə
+ኊ ħ ʷi
+ኋ ħ ʷa
+ኌ ħ ʷe
+ኍ ħ ʷɨ
+ነ n ə
+ኑ n u
+ኒ n i
+ና n a
+ኔ n e
+ን n
+ን n ɨ
+ኖ n o
+ኗ n ʷa
+ኘ ɲ ə
+ኙ ɲ u
+ኚ ɲ i
+ኛ ɲ a
+ኜ ɲ e
+ኝ ɲ
+ኝ ɲ ɨ
+ኞ ɲ o
+ኟ ɲ ʷa
+አ ʔ ə
+ኡ ʔ u
+ኢ ʔ i
+ኣ ʔ a
+ኤ ʔ e
+እ ʔ
+እ ʔ ɨ
+ኦ ʔ o
+ኧ ʔ ʷa
+ከ k ə
+ኩ k u
+ኪ k i
+ካ k a
+ኬ k e
+ክ k
+ክ k ɨ
+ኮ k o
+ኰ k ʷə
+ኲ k ʷi
+ኳ k ʷa
+ኴ k ʷe
+ኵ k ʷɨ
+ኸ x ə
+ኹ x u
+ኺ x i
+ኻ x a
+ኼ x e
+ኽ x
+ኽ x ɨ
+ኾ x o
+ወ w ə
+ዉ w u
+ዊ w i
+ዋ w a
+ዌ w e
+ው w
+ው w ɨ
+ዎ w o
+ዐ ʔ ə
+ዑ ʔ u
+ዒ ʔ i
+ዓ ʔ a
+ዔ ʔ e
+ዕ ʔ
+ዕ ʔ ɨ
+ዖ ʔ o
+ዘ z ə
+ዙ z u
+ዚ z i
+ዛ z a
+ዜ z e
+ዝ z
+ዝ z
+ዞ z ɨ
+ዟ z o
+ዠ ʒ ə
+ዡ ʒ u
+ዢ ʒ i
+ዣ ʒ a
+ዤ ʒ e
+ዥ ʒ
+ዥ ʒ
+ዦ ʒ o
+ዧ ʒ ʷa
+የ j ə
+ዩ j u
+ዪ j i
+ያ j a
+ዬ j e
+ይ j
+ይ j ɨ
+ዮ j o
+ደ d ə
+ዱ d u
+ዲ d i
+ዳ d a
+ዴ d e
+ድ d
+ድ d ɨ
+ዶ d o
+ዷ d ʷa
+ጀ dʒ ə
+ጁ dʒ u
+ጂ dʒ i
+ጃ dʒ a
+ጄ dʒ e
+ጅ dʒ
+ጅ dʒ ɨ
+ጆ dʒ o
+ጇ dʒ ʷa
+ገ g ə
+ጉ g u
+ጊ g i
+ጋ g a
+ጌ g e
+ግ g
+ግ g ɨ
+ጎ g o
+ጐ g ʷə
+ጒ g ʷi
+ጓ g ʷa
+ጔ g ʷe
+ጕ g ʷɨ
+ጠ t' ə 
+ጡ t' u
+ጢ t' i
+ጣ t' a
+ጤ t' e
+ጥ t'
+ጥ t' ɨ
+ጦ t' o
+ጧ t' ʷa
+ጨ tʃ' ə
+ጩ tʃ' u
+ጪ tʃ' i
+ጫ tʃ' a
+ጬ tʃ' e
+ጭ tʃ'
+ጭ tʃ' ɨ
+ጮ tʃ' o
+ጯ tʃ' ʷa
+ጰ p' ə
+ጱ p' u
+ጲ p' i
+ጳ p' a
+ጴ p' e
+ጵ p'
+ጵ p' ɨ
+ጶ p' o
+ጷ p' ʷa
+ጸ ts' ə
+ጹ ts' u
+ጺ ts' i
+ጻ ts' a
+ጼ ts' e
+ጽ ts'
+ጽ ts' ɨ
+ጾ ts' o
+ጿ ts' ʷa
+ፀ ts' ə
+ፁ ts' u
+ፂ ts' i
+ፃ ts' a
+ፄ ts' e
+ፅ ts'
+ፅ ts' ɨ
+ፆ ts' o
+ፈ f ə
+ፉ f u
+ፊ f i
+ፋ f a
+ፌ f e
+ፍ f
+ፍ f ɨ
+ፎ f o
+ፏ f ʷa
+ፐ p ə
+ፑ p u
+ፒ p i
+ፓ p a
+ፔ p e
+ፕ p
+ፕ p
+ፖ p ɨ
+ፗ p ʷa
+፠ [section]
+፡ [word]
+። [clause]
+፣ [phrase]
+፤ [semicolon]
+፥ [colon]
+፦ [preface_colon]
+፧ [question]
+፨ [paragraph]
+

@@ -1,0 +1,7 @@
+Base period (BP) languages: Pashto, Turkish, Tagalog, Cantonese, Vietnamese
+Optional Period One (OP1) languages: Haitian, Lao, Zulu, Assamese, Bengali, Tamil
+
+
+
+
+

@@ -1,0 +1,376 @@
+aš	N/A	N/A	aš	N/A	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tu	N/A	N/A	tu	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+Jūs	N/A	N/A	jūs	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jis	N/A	N/A	jis	N/A	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mes	N/A	N/A	mes	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jūs	N/A	N/A	jūs	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jie	N/A	N/A	jie	N/A	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šis	N/A	N/A	šis	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šitas	N/A	N/A	šitas	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tas	N/A	N/A	tas	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+anas	N/A	N/A	anas	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+čia	N/A	N/A	čia	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+čionai	N/A	N/A	čionai	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šičia	N/A	N/A	šičia	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ten	N/A	N/A	ten	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tenais	N/A	N/A	tenais	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kas	N/A	N/A	kas	N/A	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kuris	N/A	N/A	kuris	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kur	N/A	N/A	kur	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kame	N/A	N/A	kame	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kada	N/A	N/A	kada	N/A	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kaip	N/A	N/A	kaip	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ne	N/A	N/A	ne	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+viskas	N/A	N/A	viskas	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+visi	N/A	N/A	visi	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+daug	N/A	N/A	daug	N/A	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kažkiek	N/A	N/A	kažkiek	N/A	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+keli	N/A	N/A	keli	N/A	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+keletas	N/A	N/A	keletas	N/A	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+keletas	N/A	N/A	keletas	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nedaug	N/A	N/A	nedaug	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+truputis	N/A	N/A	truputis	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kitas	N/A	N/A	kitas	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+anas	N/A	N/A	anas	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vienas	N/A	N/A	vienas	N/A	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+du	N/A	N/A	du	N/A	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dvi	N/A	N/A	dvi	N/A	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+trys	N/A	N/A	trys	N/A	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+keturi	N/A	N/A	keturi	N/A	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+penki	N/A	N/A	penki	N/A	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+didelis	N/A	N/A	didelis	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ilgas	N/A	N/A	ilgas	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+platus	N/A	N/A	platus	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+storas	N/A	N/A	storas	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tankus	N/A	N/A	tankus	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tirštas	N/A	N/A	tirštas	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sunkus	N/A	N/A	sunkus	N/A	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mažas	N/A	N/A	mažas	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+trumpas	N/A	N/A	trumpas	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+siauras	N/A	N/A	siauras	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ankštas	N/A	N/A	ankštas	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plonas	N/A	N/A	plonas	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+liesas	N/A	N/A	liesas	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+moteris	N/A	N/A	moteris	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vyras	N/A	N/A	vyras	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žmogus	N/A	N/A	žmogus	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vaikas	N/A	N/A	vaikas	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kūdikis	N/A	N/A	kūdikis	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jauniklis	N/A	N/A	jauniklis	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+berniukas	N/A	N/A	berniukas	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žmona	N/A	N/A	žmona	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vyras	N/A	N/A	vyras	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+motina	N/A	N/A	motina	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tėvas	N/A	N/A	tėvas	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gyvulys	N/A	N/A	gyvulys	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gyvūnas	N/A	N/A	gyvūnas	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žvėris	N/A	N/A	žvėris	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žuvis	N/A	N/A	žuvis	N/A	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+paukštis	N/A	N/A	paukštis	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šuo	N/A	N/A	šuo	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šuva	N/A	N/A	šuva	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šunis	N/A	N/A	šunis	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+utėlė	N/A	N/A	utėlė	N/A	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gyvatė	N/A	N/A	gyvatė	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+angis	N/A	N/A	angis	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žaltys	N/A	N/A	žaltys	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kirminas	N/A	N/A	kirminas	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kirmėlė	N/A	N/A	kirmėlė	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sliekas	N/A	N/A	sliekas	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+medis	N/A	N/A	medis	N/A	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kuoka	N/A	N/A	kuoka	N/A	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+drėvė	N/A	N/A	drėvė	N/A	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+miškas	N/A	N/A	miškas	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+giria	N/A	N/A	giria	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lazda	N/A	N/A	lazda	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pagalys	N/A	N/A	pagalys	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žagaras	N/A	N/A	žagaras	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stabas	N/A	N/A	stabas	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vėzdas	N/A	N/A	vėzdas	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vaisius	N/A	N/A	vaisius	N/A	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sėkla	N/A	N/A	sėkla	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sėmuo	N/A	N/A	sėmuo	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lapas	N/A	N/A	lapas	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šaknis	N/A	N/A	šaknis	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žievė	N/A	N/A	žievė	N/A	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gėlė	N/A	N/A	gėlė	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žiedas	N/A	N/A	žiedas	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žolė	N/A	N/A	žolė	N/A	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+virvė	N/A	N/A	virvė	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oda	N/A	N/A	oda	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plėnė	N/A	N/A	plėnė	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mėsa	N/A	N/A	mėsa	N/A	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kraujas	N/A	N/A	kraujas	N/A	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kaulas	N/A	N/A	kaulas	N/A	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+riebalai	N/A	N/A	riebalai	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+taukai	N/A	N/A	taukai	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kiaušinis	N/A	N/A	kiaušinis	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pautas	N/A	N/A	pautas	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ragas	N/A	N/A	ragas	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+uodega	N/A	N/A	uodega	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plunksna	N/A	N/A	plunksna	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plaukai	N/A	N/A	plaukai	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+galva	N/A	N/A	galva	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ausis	N/A	N/A	ausis	N/A	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+akis	N/A	N/A	akis	N/A	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nosis	N/A	N/A	nosis	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+burna	N/A	N/A	burna	N/A	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dantis	N/A	N/A	dantis	N/A	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+liežuvis	N/A	N/A	liežuvis	N/A	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nagas	N/A	N/A	nagas	N/A	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pėda	N/A	N/A	pėda	N/A	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+koja	N/A	N/A	koja	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kelis	N/A	N/A	kelis	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+klupstis	N/A	N/A	klupstis	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ranka	N/A	N/A	ranka	N/A	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sparnas	N/A	N/A	sparnas	N/A	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pilvas	N/A	N/A	pilvas	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+viduriai	N/A	N/A	viduriai	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+viduriai	N/A	N/A	viduriai	N/A	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žarnos	N/A	N/A	žarnos	N/A	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kaklas	N/A	N/A	kaklas	N/A	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nugara	N/A	N/A	nugara	N/A	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+krūtis	N/A	N/A	krūtis	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+papas	N/A	N/A	papas	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+širdis	N/A	N/A	širdis	N/A	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kepenys	N/A	N/A	kepenys	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jeknos	N/A	N/A	jeknos	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gerti	N/A	N/A	gerti	N/A	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+valgyti	N/A	N/A	valgyti	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kąsti	N/A	N/A	kąsti	N/A	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+čiulpti	N/A	N/A	čiulpti	N/A	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žįsti	N/A	N/A	žįsti	N/A	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+spjauti	N/A	N/A	spjauti	N/A	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vemti	N/A	N/A	vemti	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+riaugėti	N/A	N/A	riaugėti	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pūsti	N/A	N/A	pūsti	N/A	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kvėpuoti	N/A	N/A	kvėpuoti	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+alsuoti	N/A	N/A	alsuoti	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+juoktis	N/A	N/A	juoktis	N/A	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+matyti	N/A	N/A	matyti	N/A	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+regėti	N/A	N/A	regėti	N/A	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+išvysti	N/A	N/A	išvysti	N/A	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+girdėti	N/A	N/A	girdėti	N/A	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+klausytis	N/A	N/A	klausytis	N/A	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žinoti	N/A	N/A	žinoti	N/A	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+išmanyti	N/A	N/A	išmanyti	N/A	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+galvoti	N/A	N/A	galvoti	N/A	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mąstyti	N/A	N/A	mąstyti	N/A	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+uostyti	N/A	N/A	uostyti	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+smirdėti	N/A	N/A	smirdėti	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kvepėti	N/A	N/A	kvepėti	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bijoti	N/A	N/A	bijoti	N/A	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+baidytis	N/A	N/A	baidytis	N/A	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+miegoti	N/A	N/A	miegoti	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+snausti	N/A	N/A	snausti	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gyventi	N/A	N/A	gyventi	N/A	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gyvuoti	N/A	N/A	gyvuoti	N/A	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mirti	N/A	N/A	mirti	N/A	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dvėsti	N/A	N/A	dvėsti	N/A	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žūti	N/A	N/A	žūti	N/A	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žudyti	N/A	N/A	žudyti	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+galabyti	N/A	N/A	galabyti	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+užmušti	N/A	N/A	užmušti	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kovoti	N/A	N/A	kovoti	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kautis	N/A	N/A	kautis	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+muštis	N/A	N/A	muštis	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+medžioti	N/A	N/A	medžioti	N/A	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+smogti	N/A	N/A	smogti	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mūšti	N/A	N/A	mūšti	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+duoti	N/A	N/A	duoti	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+trenkti	N/A	N/A	trenkti	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kirsti	N/A	N/A	kirsti	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plekštelėti	N/A	N/A	plekštelėti	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+liuobti	N/A	N/A	liuobti	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kulti	N/A	N/A	kulti	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pjauti	N/A	N/A	pjauti	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kirpti	N/A	N/A	kirpti	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kirsti	N/A	N/A	kirsti	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+riekti	N/A	N/A	riekti	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skelti	N/A	N/A	skelti	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dalinti	N/A	N/A	dalinti	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+durti	N/A	N/A	durti	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+smeigti	N/A	N/A	smeigti	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+besti	N/A	N/A	besti	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+drėksti	N/A	N/A	drėksti	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+brėžti	N/A	N/A	brėžti	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+draskyti	N/A	N/A	draskyti	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+brozdinti	N/A	N/A	brozdinti	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zulinti	N/A	N/A	zulinti	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kasyti	N/A	N/A	kasyti	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+krapštyti	N/A	N/A	krapštyti	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kasti	N/A	N/A	kasti	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rausti	N/A	N/A	rausti	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rakinėti	N/A	N/A	rakinėti	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plaukti	N/A	N/A	plaukti	N/A	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skristi	N/A	N/A	skristi	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lėkti	N/A	N/A	lėkti	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skrieti	N/A	N/A	skrieti	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skraidyti	N/A	N/A	skraidyti	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eiti	N/A	N/A	eiti	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žengti	N/A	N/A	žengti	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vaikščioti	N/A	N/A	vaikščioti	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ateiti	N/A	N/A	ateiti	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+atvykti	N/A	N/A	atvykti	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gulti	N/A	N/A	gulti	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gulėti	N/A	N/A	gulėti	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sėsti	N/A	N/A	sėsti	N/A	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sėdėti	N/A	N/A	sėdėti	N/A	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stoti	N/A	N/A	stoti	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stovėti	N/A	N/A	stovėti	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+apsisukti	N/A	N/A	apsisukti	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+krypti	N/A	N/A	krypti	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kreipti	N/A	N/A	kreipti	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gręžtis	N/A	N/A	gręžtis	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+verstis	N/A	N/A	verstis	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kristi	N/A	N/A	kristi	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pulti	N/A	N/A	pulti	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+virsti	N/A	N/A	virsti	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+griūti	N/A	N/A	griūti	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+duoti	N/A	N/A	duoti	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+teikti	N/A	N/A	teikti	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+laikyti	N/A	N/A	laikyti	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+turėti	N/A	N/A	turėti	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+spausti	N/A	N/A	spausti	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gręžti	N/A	N/A	gręžti	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+slėgti	N/A	N/A	slėgti	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mygti	N/A	N/A	mygti	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+trinti	N/A	N/A	trinti	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plauti	N/A	N/A	plauti	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skalbti	N/A	N/A	skalbti	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mazgoti	N/A	N/A	mazgoti	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šluoti	N/A	N/A	šluoti	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+valyti	N/A	N/A	valyti	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+traukti	N/A	N/A	traukti	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tempti	N/A	N/A	tempti	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vilkti	N/A	N/A	vilkti	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stumti	N/A	N/A	stumti	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+grūsti	N/A	N/A	grūsti	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mesti	N/A	N/A	mesti	N/A	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sviesti	N/A	N/A	sviesti	N/A	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rišti	N/A	N/A	rišti	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sieti	N/A	N/A	sieti	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+siūti	N/A	N/A	siūti	N/A	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skaičiuoti	N/A	N/A	skaičiuoti	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+skaityti	N/A	N/A	skaityti	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sakyti	N/A	N/A	sakyti	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+byloti	N/A	N/A	byloti	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tarti	N/A	N/A	tarti	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+teikti	N/A	N/A	teikti	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dainuoti	N/A	N/A	dainuoti	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+giedoti	N/A	N/A	giedoti	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žaisti	N/A	N/A	žaisti	N/A	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plūduriuoti	N/A	N/A	plūduriuoti	N/A	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tekėti	N/A	N/A	tekėti	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bėgti	N/A	N/A	bėgti	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+srūti	N/A	N/A	srūti	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plūsti	N/A	N/A	plūsti	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šalti	N/A	N/A	šalti	N/A	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tinti	N/A	N/A	tinti	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+brinkti	N/A	N/A	brinkti	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pursti	N/A	N/A	pursti	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tvinkti	N/A	N/A	tvinkti	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pūstis	N/A	N/A	pūstis	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+saulė	N/A	N/A	saulė	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mėnulis	N/A	N/A	mėnulis	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mėnuo	N/A	N/A	mėnuo	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mėnesis	N/A	N/A	mėnesis	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žvaigždė	N/A	N/A	žvaigždė	N/A	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vanduo	N/A	N/A	vanduo	N/A	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lietus	N/A	N/A	lietus	N/A	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+upė	N/A	N/A	upė	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ežeras	N/A	N/A	ežeras	N/A	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jūra	N/A	N/A	jūra	N/A	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+marios	N/A	N/A	marios	N/A	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+druska	N/A	N/A	druska	N/A	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+akmuo	N/A	N/A	akmuo	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kūlis	N/A	N/A	kūlis	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+smėlis	N/A	N/A	smėlis	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žvirgždas	N/A	N/A	žvirgždas	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+smiltys	N/A	N/A	smiltys	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dulkės	N/A	N/A	dulkės	N/A	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žemė	N/A	N/A	žemė	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+debesis	N/A	N/A	debesis	N/A	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rūkas	N/A	N/A	rūkas	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+migla	N/A	N/A	migla	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ūkas	N/A	N/A	ūkas	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dangus	N/A	N/A	dangus	N/A	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vėjas	N/A	N/A	vėjas	N/A	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vėtra	N/A	N/A	vėtra	N/A	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sniegas	N/A	N/A	sniegas	N/A	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ledas	N/A	N/A	ledas	N/A	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dūmai	N/A	N/A	dūmai	N/A	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ugnis	N/A	N/A	ugnis	N/A	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pelenai	N/A	N/A	pelenai	N/A	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+degti	N/A	N/A	degti	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kelias	N/A	N/A	kelias	N/A	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kalnas	N/A	N/A	kalnas	N/A	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+raudonas	N/A	N/A	raudonas	N/A	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+žalias	N/A	N/A	žalias	N/A	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+geltonas	N/A	N/A	geltonas	N/A	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+baltas	N/A	N/A	baltas	N/A	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+juodas	N/A	N/A	juodas	N/A	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+naktis	N/A	N/A	naktis	N/A	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+diena	N/A	N/A	diena	N/A	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+metai	N/A	N/A	metai	N/A	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šiltas	N/A	N/A	šiltas	N/A	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šaltas	N/A	N/A	šaltas	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pilnas	N/A	N/A	pilnas	N/A	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kupinas	N/A	N/A	kupinas	N/A	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+naujas	N/A	N/A	naujas	N/A	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jaunas	N/A	N/A	jaunas	N/A	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+senas	N/A	N/A	senas	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+geras	N/A	N/A	geras	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+labas	N/A	N/A	labas	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+blogas	N/A	N/A	blogas	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+prastas	N/A	N/A	prastas	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+varganas	N/A	N/A	varganas	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nelabas	N/A	N/A	nelabas	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+negeras	N/A	N/A	negeras	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+supuvęs	N/A	N/A	supuvęs	N/A	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sutrūnijęs	N/A	N/A	sutrūnijęs	N/A	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nešvarus	N/A	N/A	nešvarus	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+purvinas	N/A	N/A	purvinas	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+netyras	N/A	N/A	netyras	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tiesiai	N/A	N/A	tiesiai	N/A	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+apskritas	N/A	N/A	apskritas	N/A	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+apvalus	N/A	N/A	apvalus	N/A	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aštrus	N/A	N/A	aštrus	N/A	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bukas	N/A	N/A	bukas	N/A	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+atšipęs	N/A	N/A	atšipęs	N/A	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+neaštrus	N/A	N/A	neaštrus	N/A	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+glotnus	N/A	N/A	glotnus	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nugludintas	N/A	N/A	nugludintas	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+švelnus	N/A	N/A	švelnus	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lygus	N/A	N/A	lygus	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nešiurkštus	N/A	N/A	nešiurkštus	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+drėgnas	N/A	N/A	drėgnas	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šlapias	N/A	N/A	šlapias	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sausas	N/A	N/A	sausas	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+teisingas	N/A	N/A	teisingas	N/A	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tikras	N/A	N/A	tikras	N/A	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+arti	N/A	N/A	arti	N/A	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+šalia	N/A	N/A	šalia	N/A	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tolimas	N/A	N/A	tolimas	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+atokus	N/A	N/A	atokus	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+atstus	N/A	N/A	atstus	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dešinė	N/A	N/A	dešinė	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kairė	N/A	N/A	kairė	N/A	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+į	N/A	N/A	į	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+prie	N/A	N/A	prie	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pas	N/A	N/A	pas	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ties	N/A	N/A	ties	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ant	N/A	N/A	ant	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+į	N/A	N/A	į	N/A	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+in	N/A	N/A	in	N/A	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+su	N/A	N/A	su	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+san	N/A	N/A	san	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ir	N/A	N/A	ir	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bei	N/A	N/A	bei	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jei	N/A	N/A	jei	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kad	N/A	N/A	kad	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nes	N/A	N/A	nes	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kadangi	N/A	N/A	kadangi	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+todėl	N/A	N/A	todėl	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vardas	N/A	N/A	vardas	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pavadinimas	N/A	N/A	pavadinimas	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

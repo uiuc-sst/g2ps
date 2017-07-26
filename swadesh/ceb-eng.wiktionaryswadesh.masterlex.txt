@@ -1,0 +1,221 @@
+ako	N/A	N/A	ako	N/A	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ikaw	N/A	N/A	ikaw	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+siya	N/A	N/A	siya	N/A	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kita	N/A	N/A	kita	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kami	N/A	N/A	kami	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kamo	N/A	N/A	kamo	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sila	N/A	N/A	sila	N/A	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kini	N/A	N/A	kini	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kiri	N/A	N/A	kiri	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kana	N/A	N/A	kana	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kadto	N/A	N/A	kadto	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+didto	N/A	N/A	didto	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dinhi	N/A	N/A	dinhi	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+diha	N/A	N/A	diha	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+didto	N/A	N/A	didto	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kinsa	N/A	N/A	kinsa	N/A	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+unsa	N/A	N/A	unsa	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+asa	N/A	N/A	asa	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hain	N/A	N/A	hain	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+diin	N/A	N/A	diin	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+unsaon	N/A	N/A	unsaon	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+giunsa	N/A	N/A	giunsa	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dili	N/A	N/A	dili	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wala	N/A	N/A	wala	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tanan	N/A	N/A	tanan	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+daghan	N/A	N/A	daghan	N/A	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+uban	N/A	N/A	uban	N/A	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pipila	N/A	N/A	pipila	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dyutay	N/A	N/A	dyutay	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lain	N/A	N/A	lain	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+usa	N/A	N/A	usa	N/A	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+duha	N/A	N/A	duha	N/A	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tulo	N/A	N/A	tulo	N/A	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+upat	N/A	N/A	upat	N/A	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lima	N/A	N/A	lima	N/A	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dako	N/A	N/A	dako	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+taas	N/A	N/A	taas	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lapad	N/A	N/A	lapad	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+baga	N/A	N/A	baga	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gamay	N/A	N/A	gamay	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mubo	N/A	N/A	mubo	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+potot	N/A	N/A	potot	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nipis	N/A	N/A	nipis	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+babaye	N/A	N/A	babaye	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lalake	N/A	N/A	lalake	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tawo	N/A	N/A	tawo	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bata	N/A	N/A	bata	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+anak	N/A	N/A	anak	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+asawa	N/A	N/A	asawa	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bana	N/A	N/A	bana	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+inahan	N/A	N/A	inahan	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nanay	N/A	N/A	nanay	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+amahan	N/A	N/A	amahan	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tatay	N/A	N/A	tatay	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mananap	N/A	N/A	mananap	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+isda	N/A	N/A	isda	N/A	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+langgam	N/A	N/A	langgam	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+iro	N/A	N/A	iro	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kuto	N/A	N/A	kuto	N/A	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+biten	N/A	N/A	biten	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ihalas	N/A	N/A	ihalas	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ulod	N/A	N/A	ulod	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kahoy	N/A	N/A	kahoy	N/A	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lasang	N/A	N/A	lasang	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sungkod	N/A	N/A	sungkod	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bunga	N/A	N/A	bunga	N/A	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+binhi	N/A	N/A	binhi	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dahon	N/A	N/A	dahon	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gamut	N/A	N/A	gamut	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bulak	N/A	N/A	bulak	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sagbut	N/A	N/A	sagbut	N/A	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pisi	N/A	N/A	pisi	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+panit	N/A	N/A	panit	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+unod	N/A	N/A	unod	N/A	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dugo	N/A	N/A	dugo	N/A	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bukog	N/A	N/A	bukog	N/A	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tambok	N/A	N/A	tambok	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+itlog	N/A	N/A	itlog	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sangay	N/A	N/A	sangay	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ikog	N/A	N/A	ikog	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+balahibo	N/A	N/A	balahibo	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+buhok	N/A	N/A	buhok	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+balhibo	N/A	N/A	balhibo	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ulo	N/A	N/A	ulo	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dalunggan	N/A	N/A	dalunggan	N/A	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mata	N/A	N/A	mata	N/A	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ilong	N/A	N/A	ilong	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ngipon	N/A	N/A	ngipon	N/A	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dila	N/A	N/A	dila	N/A	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+koko	N/A	N/A	koko	N/A	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tiil	N/A	N/A	tiil	N/A	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+paa	N/A	N/A	paa	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bitiis	N/A	N/A	bitiis	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuhod	N/A	N/A	tuhod	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kamot	N/A	N/A	kamot	N/A	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pako	N/A	N/A	pako	N/A	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tiyan	N/A	N/A	tiyan	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tinae	N/A	N/A	tinae	N/A	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+likod	N/A	N/A	likod	N/A	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+suso	N/A	N/A	suso	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kasingkasing	N/A	N/A	kasingkasing	N/A	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+atay	N/A	N/A	atay	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+inom	N/A	N/A	inom	N/A	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kaon	N/A	N/A	kaon	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+paak	N/A	N/A	paak	N/A	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+supsup	N/A	N/A	supsup	N/A	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+luwa	N/A	N/A	luwa	N/A	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+suka	N/A	N/A	suka	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+huyop	N/A	N/A	huyop	N/A	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ginhawa	N/A	N/A	ginhawa	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+katawa	N/A	N/A	katawa	N/A	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kita	N/A	N/A	kita	N/A	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dungog	N/A	N/A	dungog	N/A	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kahibalo	N/A	N/A	kahibalo	N/A	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hunahuna	N/A	N/A	hunahuna	N/A	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+simhot	N/A	N/A	simhot	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hadlok	N/A	N/A	hadlok	N/A	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tulog	N/A	N/A	tulog	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+buhi	N/A	N/A	buhi	N/A	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+matay	N/A	N/A	matay	N/A	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+patay	N/A	N/A	patay	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+away	N/A	N/A	away	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mangayam	N/A	N/A	mangayam	N/A	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+igo	N/A	N/A	igo	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+putol	N/A	N/A	putol	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pikason	N/A	N/A	pikason	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+luba	N/A	N/A	luba	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuhog	N/A	N/A	tuhog	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+katol	N/A	N/A	katol	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kalot	N/A	N/A	kalot	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+langoy	N/A	N/A	langoy	N/A	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lupad	N/A	N/A	lupad	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lakaw	N/A	N/A	lakaw	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ari	N/A	N/A	ari	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+anhi	N/A	N/A	anhi	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+higda	N/A	N/A	higda	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+linkod	N/A	N/A	linkod	N/A	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+barug	N/A	N/A	barug	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tindog	N/A	N/A	tindog	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+liko	N/A	N/A	liko	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hulog	N/A	N/A	hulog	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hatag	N/A	N/A	hatag	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hawid	N/A	N/A	hawid	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kupot	N/A	N/A	kupot	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pisa	N/A	N/A	pisa	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+banyos	N/A	N/A	banyos	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hugas	N/A	N/A	hugas	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pahid	N/A	N/A	pahid	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bitad	N/A	N/A	bitad	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuklod	N/A	N/A	tuklod	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+labay	N/A	N/A	labay	N/A	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hikot	N/A	N/A	hikot	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tahi	N/A	N/A	tahi	N/A	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ihap	N/A	N/A	ihap	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sulti	N/A	N/A	sulti	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ingon	N/A	N/A	ingon	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+awit	N/A	N/A	awit	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dula	N/A	N/A	dula	N/A	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lutaw	N/A	N/A	lutaw	N/A	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+agas	N/A	N/A	agas	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bagtok	N/A	N/A	bagtok	N/A	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+burot	N/A	N/A	burot	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+adlaw	N/A	N/A	adlaw	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bulan	N/A	N/A	bulan	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bitoon	N/A	N/A	bitoon	N/A	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tubig	N/A	N/A	tubig	N/A	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ulan	N/A	N/A	ulan	N/A	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+suba	N/A	N/A	suba	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sapa	N/A	N/A	sapa	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lanaw	N/A	N/A	lanaw	N/A	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dagat	N/A	N/A	dagat	N/A	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+asin	N/A	N/A	asin	N/A	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bato	N/A	N/A	bato	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+basbas	N/A	N/A	basbas	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+abug	N/A	N/A	abug	N/A	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yuta	N/A	N/A	yuta	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+panganud	N/A	N/A	panganud	N/A	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gabon	N/A	N/A	gabon	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+langit	N/A	N/A	langit	N/A	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hangin	N/A	N/A	hangin	N/A	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aso	N/A	N/A	aso	N/A	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kalayo	N/A	N/A	kalayo	N/A	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+agiw	N/A	N/A	agiw	N/A	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sunog	N/A	N/A	sunog	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dalan	N/A	N/A	dalan	N/A	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bukid	N/A	N/A	bukid	N/A	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pula	N/A	N/A	pula	N/A	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dalag	N/A	N/A	dalag	N/A	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+puti	N/A	N/A	puti	N/A	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+itom	N/A	N/A	itom	N/A	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gabii	N/A	N/A	gabii	N/A	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+adlaw	N/A	N/A	adlaw	N/A	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuig	N/A	N/A	tuig	N/A	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+init	N/A	N/A	init	N/A	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tugnaw	N/A	N/A	tugnaw	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bugnaw	N/A	N/A	bugnaw	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+puno	N/A	N/A	puno	N/A	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+daan	N/A	N/A	daan	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+maayo	N/A	N/A	maayo	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dautan	N/A	N/A	dautan	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lata	N/A	N/A	lata	N/A	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hugaw	N/A	N/A	hugaw	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tarong	N/A	N/A	tarong	N/A	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+matuwid	N/A	N/A	matuwid	N/A	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hait	N/A	N/A	hait	N/A	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+habul	N/A	N/A	habul	N/A	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+basa	N/A	N/A	basa	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+uga	N/A	N/A	uga	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tinuod	N/A	N/A	tinuod	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+duol	N/A	N/A	duol	N/A	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+layo	N/A	N/A	layo	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+too	N/A	N/A	too	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wala	N/A	N/A	wala	N/A	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sa	N/A	N/A	sa	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sa	N/A	N/A	sa	N/A	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+uban	N/A	N/A	uban	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ug	N/A	N/A	ug	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kon	N/A	N/A	kon	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kay	N/A	N/A	kay	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tungod	N/A	N/A	tungod	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ngalan	N/A	N/A	ngalan	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

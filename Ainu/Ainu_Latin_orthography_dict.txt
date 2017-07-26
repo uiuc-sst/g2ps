@@ -1,0 +1,27 @@
+i	i
+í	i˦
+y	ɪ 
+u	u
+ú	u˦
+w	ʊ
+e	e
+é	e˦
+o	o
+ó	o˦
+a	a
+á	a˦
+p	p
+t	t
+ti	tʃ i
+k	k
+c	ts
+ci	tʃ i
+m	m
+n	n
+s	s
+si	ʃ i
+h	h
+w	w
+y	j
+r	ɾ
+=	#

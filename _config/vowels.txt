@@ -1,0 +1,13 @@
+Vowels,Place,high,low,front,labial
+y,Vowel,+,-,+,+
+i,Vowel,+,-,+,-
+ø,Vowel,-,-,+,+
+e,Vowel,-,-,+,-
+a,Vowel,-,+,+,-
+ɶ,Vowel,-,+,+,+
+u,Vowel,+,-,-,+
+ɨ,Vowel,+,-,-,-
+o,Vowel,-,-,-,+
+ə̰,Vowel,-,-,-,-
+ɑ,Vowel,-,+,-,-
+ɒ,Vowel,-,+,-,+

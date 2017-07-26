@@ -1,0 +1,8 @@
+language: https://en.wikipedia.org/wiki/Bengali_language
+iso639-1: bn
+iso639-3: ben
+glottolog: beng1280
+alphabet: https://en.wikipedia.org/wiki/Bengali_alphabet
+SBS: http://www.sbs.com.au/podcasts/yourlanguage/bangla
+wikipedia: https://bn.wikipedia.org
+

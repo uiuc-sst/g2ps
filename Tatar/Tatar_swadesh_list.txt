@@ -1,0 +1,61 @@
+Father, ancestor	Äti
+Mother	Äni
+Son	Ul
+Man	İr
+Girl	Qız
+Person	Keshe
+Bride	Kilen
+Mother-in-law	Qayın ana
+Heart	Yöräk
+Blood	Qan
+Head	Baş
+Hair	Şäş/kıl
+Eye	Küz
+Eyelash	Kerfek
+Ear	Qolaq
+Nose	Borın
+Arm	Qul
+Hand	
+Finger	Barmaq
+Fingernail	Tırnaq
+Knee	Tez
+Calf	Baltır
+Foot	Ayaq
+Belly	Qarın
+Horse	At
+Cattle	Sıyer
+Dog	Et
+Fish	Balıq
+Louse	Bet
+House	Öy
+Tent	
+Way	Yul
+Bridge	Küper
+Arrow	Uq
+Fire	Ut
+Ash	Köl
+Water	Su
+Ship, boat	Köymä
+Lake	Kül
+Sun/Day	Kön
+Cloud	Bolıt
+Star	Yoldız
+Earth	Tufraq
+Hilltop	Tübä
+Tree/Wood	Ağaş
+God (Tengri)	
+Tengri	Täñre
+Sky, Blue	Kük
+Long	Ozın
+New	Yaña
+Fat	Simez
+Full	Tulı
+White	Aq
+Black	Qara
+Red	Qızıl
+1	Ber
+2	İke
+4	Dürt
+7	Ğide
+10	Un
+100	Yöz

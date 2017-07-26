@@ -1,0 +1,5 @@
+language: https://en.wikipedia.org/wiki/Akan_language
+iso639-1: ak
+iso639-3: aka
+glottolog: akan1251
+alphabet: https://en.wikipedia.org/wiki/Akan_language

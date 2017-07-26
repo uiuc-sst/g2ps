@@ -1,0 +1,434 @@
+/*========================================================================
+Book Title:
+Lexical and Phonological Variation in Spoken Arabic in Amman
+
+Author:
+Hassan Rashi Abdel-Jawad
+
+School::
+Department of Linguistics, University of Pennsylvania
+
+Date:
+1981
+
+Chapter:
+Appendix C, A list of the lexical items containing the variable (Q)
+
+Pages:
+367-375
+
+Notes: Cognate items which exhibit similar distribution were combined
+together under one item; this combination was denoted by (+) following
+the word, e.g., baga+ stands for all items derived from the same root
+and having the same distribution.
+
+Notation:
+
+    	      Lab     InD Emph	Dent  Emph   Pal   Vel	  Uvu    Phar    Lar
+stop, vls           	  	t     T     	   k	  q    	         ?
+stop, vd      b			d     D      j^	   g
+spirants, vs  f	      8		s     S      s^	          x	 H       h
+spirants, vd          6   6_    z     Z                   G      9
+trill                           r      
+lateral                         l     
+nasals        m                 n                  
+semivowels    w                              y
+
+Vowels        Short   Long
+              a       aa
+              e       ee
+              i       ii
+              o       oo
+              u	      uu
+
+Columns:
+Lex.item	Gloss			q%	?%	g%	k%	N
+========================================================================*/
+wa8iiqa		document		100	-	-	-	14
+mawqi9		location		100	-	-	-	10
+9iqaab+		punishment		100	-	-	-	10
+8iqa		trust			100	-	-	-	12
+biTaaqa		card,ticket		100	-	-	-	14
+fariiq+		team			100	-	-	-	20
+qaa9idi		rule			100	-	-	-	22
+8aqaafa		culture			100	-	-	-	40
+qaraar+		decision		100	-	-	-	42
+qunbuli		bomb			100	-	-	-	15
+taqaliid	traditions		100	-	-	-	19
+9aqiida		faith			100	-	-	-	10
+qaanuun		law			100	-	-	-	29
+?istiqraar+	stability		100	-	-	-	28
+muqaawami	resistance		100	-	-	-	11
+?iqtiSaad	economy			100	-	-	-	22
+qaSr		palace			100	-	-	-	21
+?a9taqid	I.think			100	-	-	-	40
+qiyaama		rising			100	-	-	-	12
+qaa9a		hall			100	-	-	-	18
+9alaaqa		relation		100	-	-	-	59
+faqaT		only			100	-	-	-	11
+qibal		on.the.part.of		100	-	-	-	9
+niTaaq		scope			100	-	-	-	7
+9ariiq		old.dated,rooted	100	-	-	-	6
+liqaa?		meeting			100	-	-	-	10
+muqtaraHa	suggested,recommended	100	-	-	-	10
+biqadar		by.the.amount.of	100	-	-	-	10
+Sidqan		truly			100	-	-	-	10
+Haqiiqiyy	real			100	-	-	-	10
+taqliidiyy	traditional		100	-	-	-	10
+qaT9an		definitely,never	100	-	-	-	8
+muraaqib	watcher,observer	100	-	-	-	15
+raqaabi		observation		100	-	-	-	15
+tawqii9		signature		100	-	-	-	18
+?istiqlaal	independence		100	-	-	-	10
+?aqsaam		sections		100	-	-	-	10
+maqsam		switchboard		100	-	-	-	10
+?iqTaa9		feudalism		100	-	-	-	10
+Halaqaat	circles.of.people	100	-	-	-	10
+qiyaas		analogy,measurement	100	-	-	-	9
+qawmiyya	nationalism		100	-	-	-	10
+Hadiiqa		garden			100	-	-	-	10
+?iqaama		residency		100	-	-	-	10
+Haqad		bore.malice.against	100	-	-	-	20
+tanaaquD	contradiction		100	-	-	-	8
+qarD		loan			100	-	-	-	8
+qaa?im		standing.upright	100	-	-	-	9
+nifaaq		hypocrisy		100	-	-	-	12
+miqdaar		amount			100	-	-	-	10
+mus^taqqaat	derivatives		100	-	-	-	8
+aqfal		he.locked		100	-	-	-	9
+?irhaaq		exhaustion		100	-	-	-	9
+muraahaqa	adolescency		100	-	-	-	8
+qana(t)		canal			100	-	-	-	8
+yiltaqiT	to.pick.up		100	-	-	-	8
+?i9tiqaal	arrest			100	-	-	-	6
+taswiiq		marketing		100	-	-	-	3
+nuTq		speech			100	-	-	-	3
+qimmi		summit			100	-	-	-	3
+maqaal		essay			100	-	-	-	3
+yaqil		not.less,decrease	100	-	-	-	3
+mustaqiim	straight		100	-	-	-	3
+9aqiim		futile,fruitless	100	-	-	-	3
+taTbiiqaat	applications		100	-	-	-	3
+Tibq.il.aSl	replica			100	-	-	-	3
+Taaqa		energy			100	-	-	-	3
+qarTaasiyyi	stationary		100	-	-	-	3
+?assiqaaq	hardship,trouble	100	-	-	-	3
+?istiqaali	resignation		100	-	-	-	12
+(la)qad		assertion.particle	100	-	-	-	13
+qubuul		admission		100	-	-	-	19
+?ilwaaqi9	in.fact			100	-	-	-	24
+waaqi9iyyi	realism			100	-	-	-	10
+?iqtinaa9	contention		100	-	-	-	12
+(bi)qtani9	be.persuaded		100	-	-	-	17
+?iTlaaqan	absolutely		100	-	-	-	12
+muqayyad	limited,bound		100	-	-	-	13
+munaaqasa	discussion		100	-	-	-	34
+?aqaarib	relatives		100	-	-	-	11
+tata9allaq	related.to		100	-	-	-	20
+qaDaa?		law,district		100	-	-	-	20
+Sadaaqa		friendship		100	-	-	-	15
+quwwa(t)	power			100	-	-	-	10
+Tabaqa		social.class		100	-	-	-	30
+?aSdiqaa?	friends			100	-	-	-	10
+muqaabil	opposite,next.to	100	-	-	-	12
+qurb		closeness		100	-	-	-	8
+taqaarub	mutual.approachment	100	-	-	-	6
+MuTaalaq	divorced		100	-	-	-	13
+mu9aqqad	complicated		100	-	-	-	9
+qaa?id		leader			100	-	-	-	7
+qabiila		tribe			100	-	-	-	9
+qabaa?il	tribes			100	-	-	-	9
+9aqd		contract		100	-	-	-	4
+daqaa?iq	minutes,specifics	100	-	-	-	3
+qarawi		rural,villager		100	-	-	-	6
+qalaa?il	very.few		100	-	-	-	3
+baqiyat		remains			100	-	-	-	3
+taqa9		located			100	-	-	-	5
+intiqaa?+	selection		100	-	-	-	5
+yuqaal		it.is.said		100	-	-	-	19
+qawl		saying			100	-	-	-	14
+?qaawiil	sayings,gossip		100	-	-	-	3
+yaquul		he.says			100	-	-	-	9
+?aqwaal		sayings			100	-	-	-	13
+naqd		criticism,cash		100	-	-	-	16
+qaaDi		judge			100	-	-	-	17
+muqaSSir	negligent		100	-	-	-	7
+(li)yaqdira	to.be.able		100	-	-	-	8
+?aqwiyaa?	strong,pl.		100	-	-	-	8
+9aqliyyan	mentally		100	-	-	-	7
+maqha		cafe.house		100	-	-	-	6
+tanquSu(hu)	it.lacks		100	-	-	-	7
+qarn		century			100	-	-	-	7
+muqaarani	comparison		100	-	-	-	10
+qadam		foot			100	-	-	-	10
+muqaddas	holy			100	-	-	-	3
+mu?aqqat	temporal		100	-	-	-	3
+faqari		spinal,backbone		100	-	-	-	3
+mu9iiq		obstacle		100	-	-	-	3
+qaSf		bombing			100	-	-	-	3
+?it?aqlam	adapt.to,adjust.to	100	-	-	-	3
+muqaawil	contractor		100	-	-	-	3
+9abqari		talented,genius		100	-	-	-	3
+mufarqa9aat	explosions		100	-	-	-	3
+musaabaqa	competition		100	-	-	-	3
+?ufuq		range,horizon		100	-	-	-	3
+Talaaqa		fluency			100	-	-	-	3
+fiqh		philology		100	-	-	-	3
+laqab		nickname		100	-	-	-	3
+qadiiman	in.the.past		100	-	-	-	3
+tilqaa?i	spontaneous		100	-	-	-	3
+aqSa		remoter,ultimate	100	-	-	-	3
+?iqtabas	acquired,adopted	100	-	-	-	3
+musbaq		premeditated		100	-	-	-	3
+quduum		coming			100	-	-	-	3
+quTr		country,nation		100	-	-	-	3
+tanzaliq	to.slip.in		100	-	-	-	3
+qawaalib	molds,frames		100	-	-	-	3
+qiT		cat			100	-	-	-	3
+qaafila		caravan			100	-	-	-	7
+qadar		fate,destiny		100	-	-	-	8
+muSaddaqa	attested.certificate	100	-	-	-	8
+yutqin		to.make.perfect		100	-	-	-	8
+yaqra?		to.read			98	-	-	2	55
+taqaddum	progress		96	4	-	-	24
+qiyaada		leadership		94	-	6	-	16
+raqam		number			94	-	-	6	16
+arqa		superior.to		94	6	-	-	18
+muqaabali	interview		94	6	-	-	18
+taTbiiq		application		93	7	-	-	14
+issaabiq	previous		92	-	8	-	13
+qaDiyyi		case			91	9	-	-	33
+qism		section			89	-	6	5	38
+qaryi		village			89	-	11	-	83
+faqad		lost,missed		88	-	12	-	16
+waqqa9		he.signed		88	12	-	-	17
+qisim		section			88	-	8	3	78
+qiSSa		story			87	5	8	-	33
+Huquuq		rights			87	9	4	-	23
+9amiiq		deep			86	-	14	-	7
+qaTTa9		he.cut.to.pieces	83	-	17	-	12
+taqdiir		estimate,respect	81	13	-	6	16
+saabiqan	previously		81	-	19	-	16
+im9aqqad	complicated		80	20	-	-	10
+muqaddam	in.advance		80	20	-	-	8
+ittifaqiyyi	agreement,contract	80	20	-	-	8
+qaatil		killer			80	20	-	-	15
+naqS		shortage		77	8	15	-	13
+funduq		hotel			77	9	14	-	22
+quwwi		force,power		76	14	10	-	21
+qisT		installment		76	5	14	5	21
+qarT		cutting.by.teeth	75	25	-	-	8
+mutaqqa9id	retired			75	13	13	-	8
+xuluq(iyyi)	moral(ly)		75	13	13	-	10
+Sunduuq		box,chest		75	8	-	17	14
+qaa6_i		judge			73	-	27	-	25
+qa6_a		district		72	-	28	-	20
+tafriiq		separation		71	15	15	-	10
+taHqiiq		investigation,interro.	71	21	-	8	15
+qudra		ability			71	-	29	-	9
+faqiir/fuqr	poor/poverty		71	23	-	6	35
+Sadiiq		friend			71	19	10	-	34
+qaSiidi		poem			69	23	8	-	15
+naqil+		transportation		69	21	10	-	31
+manTiqa		area,district		69	4	25	2	188
+?istiqbaal	reception		67	17	17	-	10
+qa6_iyyi	case			67	-	33	-	20
+muwaafaqa	agreement		67	33	-	-	8
+qafaS		cage			67	33	-	-	3
+s^awq		desire			67	33	-	-	3
+qiTaar		train			67	16	16	-	3
+qundara		shoe			67	-	-	33	3
+qal9a		citadel			66	17	17	-	18
+Tallaq		he.divorced		65	12	12	12	17
+Taqiyyi		cap,hat			63	12	12	12	8
+qiT9a		piece			63	11	11	15	23
+maqbuul		accepted		62	38	-	-	18
+qaasi		hard,tough		60	-	40	-	8
+intiqaam	revenge			60	-	20	20	8
+qanaTiir	300kg			60	40	-	-	3
+mustaHaq	due			60	20	20	-	6
+naqd(an,iyyi)	cash			60	10	10	20	10
+?uqsim		I.swear			60	-	20	20	10
+aqrab		nearer,closer		59	24	14	3	29
+?is^s^arq	the.East,Orient		59	5	32	3	37
+aqall+		fewer,less		59	16	10	14	69
+?aqaabil	I.meet,interview	58	8	33	-	12
+Talaq		a.shot			56	6	38	-	16
+tawfiiq+	reconciliation		56	28	6	11	18
+mustaqbal	future			55	30	10	5	40
+nuqTa		point			55	25	20	-	20
+farq		difference		53	42	3	3	36
+qasam		vow,oath		53	29	6	12	17
+taqriiban	approximately		53	35	8	5	165
+qaSiir		short			52	41	7	-	29
+qaTa9		he.cut(pt)		52	24	17	7	42
+tuqs^ar+	be.peeled		50	38	12	-	8
+qaSab		reed			50	8	8	34	12
+laqqaTu		they.picked.the.fruit	50	17	33	-	12
+maq9ad		seat			50	38	12	-	8
+ilaqqin		to.dictate,instruct	50	-	50	-	8
+buqbu6_		to.get.paid		50	-	25	25	16
+raqS		dancing			50	25	25	-	8
+imqaSSir	negligent		50	50	-	-	16
+biqyu		they.stayed,remained	50	30	20	-	10
+iTabbiq		to.conform.with		50	50	-	-	6
+qool		saying			50	25	25	-	28
+qadiim		old			49	25	23	8	96
+Taabiq		floor,storey		47	35	6	12	34
+Diyyiq		narrow			46	23	23	8	13
+qamiiS		shirt			45	9	46	-	11
+luqmi		bite,morsel		43	14	29	14	7
+qarrab		approached		43	29	5	24	21
+9aql		mind,brain		42	23	14	21	51
+9aqid		contract		52	-	58	-	12
+qaSdi		my.intention		42	47	11	-	19
+qiimi		value,price		42	42	5	11	19
+qa6_6_eena	we.spent.time		42	-	58	-	19
+Tariiq		road,way		42	30	17	11	214
+nafaqa		expense,outlay		40	60	-	-	15
+iqyaas		measurement		40	60	-	-	5
+ittafaq		he.agreed.with		40	24	20	16	25
+saqaT		failed,fell.down	39	50	6	5	18
+Taqs		weather,climate		38	62	-	-	29
+ma9quul		reasonable		38	62	-	-	17
+Haraq		burnt			35	54	-	11	26
+?axlaaq		manners,morals		35	47	18	-	17
+qoom		nation,people		33	-	67	-	3
+imTawwaq	encircled		33	67	-	-	3
+biduq		to.tap,knock		33	33	33	-	3
+iqsaaT		belt			33	67	-	-	3
+s^ifiq		sympathized		33	-	-	67	3
+qamar		moon			33	50	17	-	6
+qabir		grave,tomb		33	-	67	-	6
+iyqaddir	evaluate,estimate	33	67	-	-	6
+qaaTi9+		cutter			33	40	20	7	15
+baqar		cows			33	3	48	15	33
+saqf		ceiling,roof		33	33	17	17	6
+qaddar		estimated,respected	33	50	-	17	6
+?i8qiil		heavy			33	-	11	56	9
+yisriq		to.steal		33	17	17	33	6
+wiqi9		fell.down		33	44	11	11	18
+?aqbal+		to.accept		31	37	15	17	54
+waqt		time			31	56	5	8	142
+qaabil		accepting		30	-	30	40	10
+qahar		subjugate,subdue	30	30	10	30	10
+qallad		imitated		30	60	10	-	10
+Haq+		right			30	25	27	17	102
+qaDD(eet,a)	I,he.spent.time		30	70	-	-	20
+qaraayib	relatives		29	29	32	10	29
+naaqiS		decreasing,reduced	27	37	36	-	11
+tiqba9		come.off,to.peel	25	25	-	50	4
+9iriq		root,vein		25	-	50	25	4
+baaqi+		remaining		25	45	27	3	60
+(d,6)uqit	I.tasted		25	38	12	25	8
+qaliil		little,few		25	59	12	4	83
+qabaayil	tribes			25	-	75	-	24
+naqal+		transfer		24	44	27	5	117
+xalaq		created			24	43	19	14	21
+suuq		market			24	44	18	15	34
+qaddam+		applied.for		23	29	40	8	92
+waqit		time			23	40	9	28	35
+qawi+		strong			23	34	38	4	47
+qariib		near,relative		23	50	19	8	62
+qadiir		capable			22	31	19	28	36
+qalam		pencil,pen		22	44	34	-	19
+bitqallab	turning.over		22	44	22	12	9
+qalb		heart			21	51	15	13	39
+biqdar		be.able			21	40	30	9	230
+faarqa		making.difference	20	40	40	-	15
+laziq		imposing.on		20	30	40	10	10
+rizq+		livelihood		20	20	32	28	25
+qaam+		erect,lift		20	28	24	28	148
+imqaaTa9a	follow.short.track	20	-	80	-	5
+qara+		read			19	38	38	4	78
+iqbaal		next.to,facing		19	6	47	28	32
+qatal+		killed			18	19	9	54	68
+waraq+		paper			18	36	30	16	50
+9atiiq		old,not.new		18	55	9	18	11
+qamiH		wheat			17	11	44	28	18
+qaaymiin	standing.upright	17	17	17	49	6
+saq9a		cold			17	34	17	33	6
+imwaafiq	I.agree,I.consent	17	83	-	-	6
+qaayil		saying			17	17	17	49	12
+ilHaqiiqa	the.truth		16	59	25	-	51
+9allaq+		hang,comment		16	64	16	4	25
+quSSa		story			15	85	-	-	13
+waqqaf+		stopped			15	44	24	18	102
+qabl		before			15	56	28	1	81
+uqu9du		sit.down		14	24	22	41	37
+(it,ba)quul	(I,you).say		14	39	27	20	547
+qabil		before			14	42	28	16	212
+naqqa		he.purified,selected	14	29	29	29	7
+tifriq		make.a.difference	14	72	14	-	7
+Tabaqa		layer			14	57	29	-	7
+fariq		difference		13	79	8	-	24
+buqbuD		to.receive.money	13	74	13	-	8
+is^taqt		longing.for		13	74	13	-	8
+qirs^		piaster			13	34	26	26	61
+qult		I.said			13	43	15	29	261
+Halaqt		I.shaved		12	35	24	29	17
+waafaq		he.agreed		12	52	24	12	17
+imSadqiin	we.believe		11	38	18	32	38
+zahqaan		bored			11	61	17	11	18
+qa9ad		he.sat.down,lived.in	11	49	19	21	191
+qal(li)		he.said.to.me		10	40	31	18	110
+liHiq+		followed,caught.up	10	35	38	17	40
+asqi		to.irrigate		10	60	-	30	10
+daqaayiq	minutes			9	52	26	13	23
+qahwi		coffee			9	44	26	13	23
+qaal		he.said			9	31	28	31	293
+qulna		we.said			8	71	19	2	59
+laqa+		he.found		8	52	25	16	399
+fooq		above,up		8	38	39	15	119
+itqaatal	he.fought.with		8	49	4	38	37
+s^aqqa		apartment		6	44	-	44	16
+halqeet		now			5	30	5	59	76
+qaraaba		relatives		4	22	43	30	23
+baqa+		be,v.aux.		2	30	9	59	328
+(hal)qad	this.size,like.this	1	49	22	27	112
+quddaam		in.front.of		1	38	46	15	72
+itfarraqat	it.dispersed		0	88	12	-	8
+s^aqfi		piece			0	41	5	54	22
+itqiil+		heavy			0	100	-	-	30
+liqraayi	reading			0	20	60	20	20
+qaayid		leader			0	-	100	-	19
+itraqqeet	was.promoted		0	100	-	-	19
+qaddees^	how.much,how.many	0	47	27	27	113
+maraq+		passed.by		0	53	6	41	34
+s^aqqit		direction,vicinity	0	46	-	54	13
+i9quud		necklaces		0	100	-	-	5
+qurmiyyi	log			0	-	100	-	4
+qas^		straw			0	66	17	17	6
+qinniyyi	bottle			0	-	50	50	4
+iqmaas^		cloth,fabric		0	56	22	22	9
+yusluq		to.boil			0	80	-	20	6
+qabbi		collar			0	80	-	20	5
+qird		monkey			0	50	-	50	8
+ibriiq		jug,jar			0	40	-	60	5
+iswaaqa		driving			0	53	31	16	49
+qaraf		disgust,loathing	0	100	-	-	8
+qafa		back			0	75	-	25	8
+daqq		to.crush,bruise		0	50	38	13	8
+miDDaayiq	vexed,annoyed		0	60	20	20	30
+nifqa9		to.burst.laughing	0	100	-	-	6
+riiq		saliva			0	-	100	-	8
+iwqiyyi		ounce			0	50	30	20	10
+izraq		blue			0	17	83	-	6
+s^aqi(yyi)	mischievous		0	83	17	-	6
+raqabi		neck			0	30	30	40	10
+biTTuq		to.crack		0	100	0	0	6
+inqaSdir	to.have.a.walk		0	-	100	-	5
+zaraq		to.pass.through		0	50	-	50	6
+im9allaq	hanging			0	20	30	50	10
+tuTruq		walk.long.distance	0	50	50	-	6
+im9aj^j^aq	colorful		0	100	-	-	6
+itnaaqarna	fought.by.words		0	100	-	-	3
+i9qaal		headband		0	-	100	-	3
+falaqa		beating.on.the.feet	0	-	100	-	3
+axnuq		to.strangle		0	67	33	-	3
+s^aqa		labor,hardship		0	67	-	33	3
+afiiq		to.wake.up		0	33	-	67	3
+qaa9		bottom			0	33	33	33	3
+qus^s^i		to.sweep		0	67	-	33	3
+
+

@@ -1,0 +1,235 @@
+ik	N/A	N/A	ik	ɪk	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jij	N/A	N/A	jij	jɛi	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+u	N/A	N/A	u	y	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hij	N/A	N/A	hij	hɛi	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wij	N/A	N/A	wij	ʋɛi	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+we	N/A	N/A	we	ʋə	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jullie	N/A	N/A	jullie	jʏli	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zij	N/A	N/A	zij	zɛiː	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ze	N/A	N/A	ze	zə	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+deze	N/A	N/A	deze	deːzə	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dit	N/A	N/A	dit	dɪt	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+die	N/A	N/A	die	di	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dat	N/A	N/A	dat	dɑt	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hier	N/A	N/A	hier	hiːr	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+daar	N/A	N/A	daar	daːr	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wie	N/A	N/A	wie	ʋi	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wat	N/A	N/A	wat	ʋɑt	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+waar	N/A	N/A	waar	ʋaːr	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wanneer	N/A	N/A	wanneer	ʋɑneːr	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hoe	N/A	N/A	hoe	hu	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+niet	N/A	N/A	niet	nit	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+al	N/A	N/A	al	ɑl	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+alle	N/A	N/A	alle	ˈɑlə	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+veel	N/A	N/A	veel	veːl	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+menig	N/A	N/A	menig	meːnəx	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+enkele	N/A	N/A	enkele	ˈɛŋkələ	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sommige	N/A	N/A	sommige	ˈsɔməɣə	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+weinig	N/A	N/A	weinig	ˈʋɛinəχ	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ander	N/A	N/A	ander	ˈandər	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+een	N/A	N/A	een	eːn	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+twee	N/A	N/A	twee	tʋeː	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+drie	N/A	N/A	drie	dri	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vier	N/A	N/A	vier	viːr	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vijf	N/A	N/A	vijf	vɛif	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+groot	N/A	N/A	groot	ɣroːt	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lang	N/A	N/A	lang	lɑŋ	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+breed	N/A	N/A	breed	breːt	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wijd	N/A	N/A	wijd	ʋɛit	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dik	N/A	N/A	dik	dɪk	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zwaar	N/A	N/A	zwaar	zʋaːr	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hevig	N/A	N/A	hevig	heːvəx	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+klein	N/A	N/A	klein	klɛin	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kort	N/A	N/A	kort	kɔrt	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+smal	N/A	N/A	smal	smɑl	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dun	N/A	N/A	dun	dʏn	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vrouw	N/A	N/A	vrouw	vrɔu	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+man	N/A	N/A	man	mɑn	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mens	N/A	N/A	mens	mɛns	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kind	N/A	N/A	kind	kɪnt	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vrouw	N/A	N/A	vrouw	vrɔu	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+echtgenote	N/A	N/A	echtgenote	ˈɛxtxənoːtə	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+man	N/A	N/A	man	mɑn	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+echtgenoot	N/A	N/A	echtgenoot	ˈɛxtxənoːt	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+moeder	N/A	N/A	moeder	ˈmudər	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vader	N/A	N/A	vader	ˈvaːdər	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dier	N/A	N/A	dier	diːr	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vis	N/A	N/A	vis	vɪs	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vogel	N/A	N/A	vogel	ˈvoːɣəl	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hond	N/A	N/A	hond	hont	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+luis	N/A	N/A	luis	lœys	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+slang	N/A	N/A	slang	slɑŋ	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+worm	N/A	N/A	worm	ʋɔrm	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+boom	N/A	N/A	boom	boːm	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+woud	N/A	N/A	woud	ʋɔut	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stok	N/A	N/A	stok	stɔk	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fruit	N/A	N/A	fruit	frœyt	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vrucht	N/A	N/A	vrucht	vrʏxt	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zaad	N/A	N/A	zaad	zaːt	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+blad	N/A	N/A	blad	blɑt	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wortel	N/A	N/A	wortel	ˈʋɔrtəl	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+schors	N/A	N/A	schors	sxɔrs	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bloem	N/A	N/A	bloem	blum	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gras	N/A	N/A	gras	ɣrɑs	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+touw	N/A	N/A	touw	tɔuw	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+koord	N/A	N/A	koord	koːrt	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+huid	N/A	N/A	huid	hœyt	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vlees	N/A	N/A	vlees	vleːs	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bloed	N/A	N/A	bloed	blut	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+been	N/A	N/A	been	beːn	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vet	N/A	N/A	vet	vɛt	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ei	N/A	N/A	ei	ɛi	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hoorn	N/A	N/A	hoorn	hoːrn	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+staart	N/A	N/A	staart	staːrt	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+veer	N/A	N/A	veer	veːr	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+haar	N/A	N/A	haar	haːr	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hoofd	N/A	N/A	hoofd	hoːft	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kop	N/A	N/A	kop	kɔp	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oor	N/A	N/A	oor	oːr	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oog	N/A	N/A	oog	oːx	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+neus	N/A	N/A	neus	nøːs	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mond	N/A	N/A	mond	mɔnt	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tand	N/A	N/A	tand	tɑnt	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tong	N/A	N/A	tong	tɔŋ	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vingernagel	N/A	N/A	vingernagel	ˈvɪŋərnaːɣəl	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+voet	N/A	N/A	voet	vut	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+been	N/A	N/A	been	beːn	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+knie	N/A	N/A	knie	kni	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hand	N/A	N/A	hand	hɑnt	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vleugel	N/A	N/A	vleugel	ˈvløːɣəl	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+buik	N/A	N/A	buik	bœyk	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+darmen	N/A	N/A	darmen	ˈdɑrmə	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nek	N/A	N/A	nek	nɛk	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rug	N/A	N/A	rug	rʏx	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+borst	N/A	N/A	borst	bɔrst	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hart	N/A	N/A	hart	hɑrt	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lever	N/A	N/A	lever	ˈleːvər	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+drinken	N/A	N/A	drinken	ˈdrɪŋkə	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eten	N/A	N/A	eten	ˈeːtə	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bijten	N/A	N/A	bijten	ˈbɛitə	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zuigen	N/A	N/A	zuigen	ˈzœyɣə	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+spuwen	N/A	N/A	spuwen	ˈspywə	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+braken	N/A	N/A	braken	braːkə	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+overgeven	N/A	N/A	overgeven	oːvərɣeːvə	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+blazen	N/A	N/A	blazen	ˈblaːzə	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ademen	N/A	N/A	ademen	ˈaːdəmə	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lachen	N/A	N/A	lachen	ˈlɑxə	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zien	N/A	N/A	zien	zin	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+horen	N/A	N/A	horen	ˈhoːrə	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+weten	N/A	N/A	weten	ˈʋeːtə	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+denken	N/A	N/A	denken	ˈdɛŋkə	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ruiken	N/A	N/A	ruiken	ˈrœykə	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vrezen	N/A	N/A	vrezen	ˈvreːzə	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+slapen	N/A	N/A	slapen	ˈslaːpə	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+leven	N/A	N/A	leven	ˈleːvə	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sterven	N/A	N/A	sterven	ˈstɛrvə	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+doden	N/A	N/A	doden	ˈdoːdə	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vechten	N/A	N/A	vechten	ˈvɛxtə	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jagen	N/A	N/A	jagen	ˈjaːɡə	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+slaan	N/A	N/A	slaan	slaːn	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+raken	N/A	N/A	raken	ˈraːkə	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+knippen	N/A	N/A	knippen	ˈknɪpə	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+snijden	N/A	N/A	snijden	ˈsnɛidə	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+splijten	N/A	N/A	splijten	ˈsplɛitə	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+steken	N/A	N/A	steken	ˈsteːkə	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+krabben	N/A	N/A	krabben	ˈkrɑbə	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+graven	N/A	N/A	graven	ˈɣraːvə	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zwemmen	N/A	N/A	zwemmen	ˈzʋɛmə	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vliegen	N/A	N/A	vliegen	ˈvliɣə	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lopen	N/A	N/A	lopen	loːpə	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stappen	N/A	N/A	stappen	ˈstɑpə	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+komen	N/A	N/A	komen	ˈkoːmə	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+liggen	N/A	N/A	liggen	ˈlɪɣə	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zitten	N/A	N/A	zitten	ˈzɪtə	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+staan	N/A	N/A	staan	staːn	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+draaien	N/A	N/A	draaien	ˈdraːjə	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vallen	N/A	N/A	vallen	ˈvɑlə	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+geven	N/A	N/A	geven	ˈɣeːvə	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+houden	N/A	N/A	houden	ˈhɔudə	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+knijpen	N/A	N/A	knijpen	ˈknɛipə	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wrijven	N/A	N/A	wrijven	ˈʋrɛivə	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wassen	N/A	N/A	wassen	ˈʋɑsə	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vegen	N/A	N/A	vegen	ˈveɣə	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+trekken	N/A	N/A	trekken	ˈtrɛkə	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+duwen	N/A	N/A	duwen	ˈdywə	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+werpen	N/A	N/A	werpen	ˈʋɛrpə	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gooien	N/A	N/A	gooien	ˈɣoːjə	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vastmaken	N/A	N/A	vastmaken	ˈvɑstmaːkə	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+binden	N/A	N/A	binden	bɪndə	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+naaien	N/A	N/A	naaien	ˈnaːjə	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tellen	N/A	N/A	tellen	ˈtɛlə	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zeggen	N/A	N/A	zeggen	ˈzɛɣə	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zingen	N/A	N/A	zingen	ˈzɪŋə	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+spelen	N/A	N/A	spelen	ˈspeːlə	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zweven	N/A	N/A	zweven	ˈzʋeːvə	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vloeien	N/A	N/A	vloeien	ˈvlujə	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vriezen	N/A	N/A	vriezen	ˈvrizə	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zwellen	N/A	N/A	zwellen	ˈzʋɛlə	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zon	N/A	N/A	zon	zɔn	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+maan	N/A	N/A	maan	maːn	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ster	N/A	N/A	ster	stɛr	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+water	N/A	N/A	water	ˈʋaːtər	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+regen	N/A	N/A	regen	ˈreːɣən	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rivier	N/A	N/A	rivier	riˈviːr	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+meer	N/A	N/A	meer	meːr	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zee	N/A	N/A	zee	zeː	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zout	N/A	N/A	zout	zɔut	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+steen	N/A	N/A	steen	steːn	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zand	N/A	N/A	zand	zɑnt	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stof	N/A	N/A	stof	stɔf	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aarde	N/A	N/A	aarde	ˈaːrdə	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wolk	N/A	N/A	wolk	ˈʋɔlk	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mist	N/A	N/A	mist	mɪst	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nevel	N/A	N/A	nevel	ˈneːvəl	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lucht	N/A	N/A	lucht	lʏxt	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hemel	N/A	N/A	hemel	ˈheːməl	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wind	N/A	N/A	wind	ʋɪnt	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sneeuw	N/A	N/A	sneeuw	sneːw	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ijs	N/A	N/A	ijs	ɛis	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rook	N/A	N/A	rook	roːk	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vuur	N/A	N/A	vuur	ˈvʏːr	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+as	N/A	N/A	as	ɑs	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+branden	N/A	N/A	branden	ˈbrɑndə	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+weg	N/A	N/A	weg	ʋɛx	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+berg	N/A	N/A	berg	bɛrx	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rood	N/A	N/A	rood	roːt	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+groen	N/A	N/A	groen	ɣrun	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+geel	N/A	N/A	geel	ɣeːl	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+wit	N/A	N/A	wit	ʋɪt	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+zwart	N/A	N/A	zwart	zʋɑrt	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nacht	N/A	N/A	nacht	nɑxt	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dag	N/A	N/A	dag	dɑx	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jaar	N/A	N/A	jaar	jaːr	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+warm	N/A	N/A	warm	ʋɑrm	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+koud	N/A	N/A	koud	kɔut	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vol	N/A	N/A	vol	vɔl	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nieuw	N/A	N/A	nieuw	niːw	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oud	N/A	N/A	oud	ɔut	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+goed	N/A	N/A	goed	ɣut	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+slecht	N/A	N/A	slecht	slɛxt	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rot	N/A	N/A	rot	rɔt	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vuil	N/A	N/A	vuil	vœyl	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+recht	N/A	N/A	recht	rɛxt	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rond	N/A	N/A	rond	rɔnt	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+scherp	N/A	N/A	scherp	sxɛrp	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+stomp	N/A	N/A	stomp	stɔmp	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bot	N/A	N/A	bot	bɔt	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+glad	N/A	N/A	glad	ɣlat	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nat	N/A	N/A	nat	nɑt	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+droog	N/A	N/A	droog	droːx	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+juist	N/A	N/A	juist	jœyst	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+correct	N/A	N/A	correct	kɔˈrɛkt	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dichtbij	N/A	N/A	dichtbij	dɪxtˈbɛi	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ver	N/A	N/A	ver	vɛr	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rechts	N/A	N/A	rechts	rɛxts	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+links	N/A	N/A	links	lɪŋks	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aan	N/A	N/A	aan	aːn	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+te	N/A	N/A	te	tə	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bij	N/A	N/A	bij	bɛi	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+in	N/A	N/A	in	ɪn	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+met	N/A	N/A	met	mɛt	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+en	N/A	N/A	en	ɛn	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+als	N/A	N/A	als	ɑls	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+indien	N/A	N/A	indien	ɪndin	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+omdat	N/A	N/A	omdat	ɔmdɑt	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+naam	N/A	N/A	naam	naːm	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

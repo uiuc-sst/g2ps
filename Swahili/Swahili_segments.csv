@@ -1,0 +1,38 @@
+IPA	IPA_Core	Place	advanced tongue root	anterior	approximant	back	click	consonantal	constricted glottis	continuant	coronal	delayed release	distributed	dorsal	epilaryngeal source	fortis	front	high	labial	labiodental	lateral	long	low	lowered larynx implosive	nasal	periodic glottal source	raised larynx ejective	retracted tongue root	round	short	sonorant	spread glottis	stress	strident	syllabic	tap	tense	tone	trill
+a	ɑ	Vowel	-		+	-		-	-	+	-			+	-		-	-	-		-	-	+	-	-	+	-	-		-	+	-	-		+	-			-
+b	p	Lips			-		-	+	-	-	-	-		-	-	-			+	-	-	-		-	-	+	-		-	-	-	-	-		-	-			-
+d	t	Tip		+	-		-	+	-	-	+	-	-	-	-	-			-		-	-		-	-	+	-			-	-	-	-	-	-	-			-
+f	f	Lips			-		-	+	-	+	-	+		-	-	-			+	+	-	-		-	-	-	-		-	-	-	-	-		-	-			-
+h	h	Guttural			-		-	-	-	+	-	+		-	-	-			-		-	-		-	-	-	-			-	-	+	-		-	-			-
+i	i	Vowel	-		+	-		-	-	+	-			+	-		+	+	-		-	-	-	-	-	+	-	-		-	+	-	-		+	-	+		-
+j	j	Body			+	-	-	-	-	+	-			+	-	-	+	+	-		-	-	-	-	-	+	-			-	+	-	-		-	-	+		-
+k	k	Body			-	-	-	+	-	-	-	-		+	-	-	-	+	-		-	-	-	-	-	-	-			-	-	-	-		-	-			-
+l	l	Tip		+	+		-	+	-	+	+		-	-	-	-			-		+	-		-	-	+	-			-	+	-	-	-	-	-			-
+m	m	Lips			-		-	+	-	-	-			-	-	-			+	-	-	-		-	+	+	-		-	-	+	-	-		-	-			-
+mb	p	Lips			-		-	+	-	-	-	-		-	-	-			+	-	-	-		-	+,-	+	-		-	-	+,-	-	-		-	-			-
+n	n	Tip		+	-		-	+	-	-	+		-	-	-	-			-		-	-		-	+	+	-			-	+	-	-	-	-	-			-
+nd	t	Tip		+	-		-	+	-	-	+	-	-	-	-	-			-		-	-		-	+,-	+	-			-	+,-	-	-	-	-	-			-
+nz	ts	Tip		+	-		-	+	-	-,+	+	+	-	-	-	-			-		-	-		-	+,-	+	-			-	+,-	-	-	-,+	-	-			-
+n̠d̠ʒ	ts	Tip		-	-		-	+	-	-	+	+	+	-	-	-			-		-	-		-	+,-	+	-			-	+,-	-	-	+	-	-			-
+p	p	Lips			-		-	+	-	-	-	-		-	-	-			+	-	-	-		-	-	-	-		-	-	-	-	-		-	-			-
+r	ɻ	Tip		+	+		-	+	-	+	+		-	-	-	-			-		-	-		-	-	+	-			-	+	-	-	-	-	-			+
+s	s	Tip		+	-		-	+	-	+	+	+	-	-	-	-			-		-	-		-	-	-	-			-	-	-	-	+	-	-			-
+t	t	Tip		+	-		-	+	-	-	+	-	-	-	-	-			-		-	-		-	-	-	-			-	-	-	-	-	-	-			-
+t̠ʃ	ts	Tip		-	-		-	+	-	-	+	+	+	-	-	-			-		-	-		-	-	-	-			-	-	-	-	+	-	-			-
+u	u	Vowel	-		+	+		-	-	+	-			+	-		-	+	+	-	-	-	-	-	-	+	-	-	+	-	+	-	-		+	-	+		-
+v	f	Lips			-		-	+	-	+	-	+		-	-	-			+	+	-	-		-	-	+	-		-	-	-	-	-		-	-			-
+w	w	Lips			+	+	-	-	-	+	-			+	-	-	-	+	+	-	-	-	-	-	-	+	-		+	-	+	-	-		-	-	+		-
+x	ç	Body			-	-	-	+	-	+	-	+		+	-	-	-	+	-		-	-	-	-	-	-	-			-	-	-	-		-	-			-
+z	s	Tip		+	-		-	+	-	+	+	+	-	-	-	-			-		-	-		-	-	+	-			-	-	-	-	+	-	-			-
+ð	s	Tip		+	-		-	+	-	+	+	+	+	-	-	-			-		-	-		-	-	+	-			-	-	-	-	-	-	-			-
+ŋ	ŋ	Body			-	-	-	+	-	-	-			+	-	-	-	+	-		-	-	-	-	+	+	-			-	+	-	-		-	-			-
+ŋɡ	k	Body			-	-	-	+	-	-	-	-		+	-	-	-	+	-		-	-	-	-	+,-	+	-			-	+,-	-	-		-	-			-
+ɔ	o	Vowel	-		+	+		-	-	+	-			+	-		-	-	+	-	-	-	-	-	-	+	-	-	+	-	+	-	-		+	-	-		-
+ɛ	e	Vowel	-		+	-		-	-	+	-			+	-		+	-	-		-	-	-	-	-	+	-	-		-	+	-	-		+	-	-		-
+ɟ	k	Body		-	-	-	-	+	-	-	+	-	+	+	-	-	+	+	-		-	-	-	-	-	+	-			-	-	-	-	-	-	-			-
+ɡ	k	Body			-	-	-	+	-	-	-	-		+	-	-	-	+	-		-	-	-	-	-	+	-			-	-	-	-		-	-			-
+ɣ	ç	Body			-	-	-	+	-	+	-	+		+	-	-	-	+	-		-	-	-	-	-	+	-			-	-	-	-		-	-			-
+ɱv	pf	Lips			-		-	+	-	-,+	-	+		-	-	-			+	+	-	-		-	+,-	+	-		-	-	+,-	-	-		-	-			-
+ɲ	ŋ	Body		-	-	-	-	+	-	-	+		+	+	-	-	+	+	-		-	-	-	-	+	+	-			-	+	-	-	-	-	-			-
+ʃ	s	Tip		-	-		-	+	-	+	+	+	+	-	-	-			-		-	-		-	-	-	-			-	-	-	-	+	-	-			-
+θ	s	Tip		+	-		-	+	-	+	+	+	+	-	-	-			-		-	-		-	-	-	-			-	-	-	-	-	-	-			-

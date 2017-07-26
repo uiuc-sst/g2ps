@@ -1,0 +1,207 @@
+እኔ	N/A	N/A	N/A	N/A	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አንተ አንቺ ርስዎ	N/A	N/A	N/A	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እርሱ	N/A	N/A	N/A	N/A	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እኛ	N/A	N/A	N/A	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እናንተ	N/A	N/A	N/A	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እነርሱ	N/A	N/A	N/A	N/A	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ይህ	N/A	N/A	N/A	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ያ	N/A	N/A	N/A	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እዚህ	N/A	N/A	N/A	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እዚያ	N/A	N/A	N/A	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ማን	N/A	N/A	N/A	N/A	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ምን	N/A	N/A	N/A	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+የት	N/A	N/A	N/A	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መቼ	N/A	N/A	N/A	N/A	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እንዴት	N/A	N/A	N/A	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አይደለም	N/A	N/A	N/A	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሁሉም	N/A	N/A	N/A	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ብዙ	N/A	N/A	N/A	N/A	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+የተወሰነ	N/A	N/A	N/A	N/A	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጥቂት	N/A	N/A	N/A	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሌላ	N/A	N/A	N/A	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አንድ	N/A	N/A	N/A	N/A	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሁለት	N/A	N/A	N/A	N/A	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሶስት	N/A	N/A	N/A	N/A	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አራት	N/A	N/A	N/A	N/A	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አምስት	N/A	N/A	N/A	N/A	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ትልቅ	N/A	N/A	N/A	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ረዝም	N/A	N/A	N/A	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሰፊ	N/A	N/A	N/A	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ደንዳና	N/A	N/A	N/A	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ከባድ	N/A	N/A	N/A	N/A	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ትንሽ	N/A	N/A	N/A	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አጭር	N/A	N/A	N/A	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጠባብ	N/A	N/A	N/A	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቀጭን	N/A	N/A	N/A	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሴትዮ	N/A	N/A	N/A	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጎልማሳ	N/A	N/A	N/A	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሰዉ	N/A	N/A	N/A	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ህጻን	N/A	N/A	N/A	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሚስት	N/A	N/A	N/A	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ባል	N/A	N/A	N/A	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እናት	N/A	N/A	N/A	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አባት	N/A	N/A	N/A	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እንስሳ	N/A	N/A	N/A	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አሳ	N/A	N/A	N/A	N/A	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ወፍ	N/A	N/A	N/A	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ዉሻ	N/A	N/A	N/A	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቅማል	N/A	N/A	N/A	N/A	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እባብ	N/A	N/A	N/A	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ትል	N/A	N/A	N/A	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ዛፍ	N/A	N/A	N/A	N/A	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ደን	N/A	N/A	N/A	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ልምጭ	N/A	N/A	N/A	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ፍራፍሬ	N/A	N/A	N/A	N/A	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ዘር	N/A	N/A	N/A	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቅጠል	N/A	N/A	N/A	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ስር	N/A	N/A	N/A	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቅርፊት	N/A	N/A	N/A	N/A	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አበባ	N/A	N/A	N/A	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሳር	N/A	N/A	N/A	N/A	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ገመድ	N/A	N/A	N/A	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቆዳ	N/A	N/A	N/A	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ስጋ	N/A	N/A	N/A	N/A	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ደም	N/A	N/A	N/A	N/A	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አጥንት	N/A	N/A	N/A	N/A	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሥብ	N/A	N/A	N/A	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እንቁላል	N/A	N/A	N/A	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቀንድ	N/A	N/A	N/A	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጅራት	N/A	N/A	N/A	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ላባ	N/A	N/A	N/A	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጸጉር	N/A	N/A	N/A	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጭንቅላት	N/A	N/A	N/A	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጆሮ	N/A	N/A	N/A	N/A	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አይን	N/A	N/A	N/A	N/A	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አፍንጫ	N/A	N/A	N/A	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አፍ	N/A	N/A	N/A	N/A	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጥርስ	N/A	N/A	N/A	N/A	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ምላስ	N/A	N/A	N/A	N/A	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጥፍር	N/A	N/A	N/A	N/A	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+የእግር መዳፍ	N/A	N/A	N/A	N/A	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እግር	N/A	N/A	N/A	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጉልበት	N/A	N/A	N/A	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እጅ	N/A	N/A	N/A	N/A	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ክንፍ	N/A	N/A	N/A	N/A	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሆድ	N/A	N/A	N/A	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጉሮሮ	N/A	N/A	N/A	N/A	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አንገት	N/A	N/A	N/A	N/A	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጀርባ	N/A	N/A	N/A	N/A	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጡት	N/A	N/A	N/A	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ልብ	N/A	N/A	N/A	N/A	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጉበት	N/A	N/A	N/A	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መጠጣት	N/A	N/A	N/A	N/A	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መብላት	N/A	N/A	N/A	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መንከስ	N/A	N/A	N/A	N/A	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መጥባት	N/A	N/A	N/A	N/A	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መትፋት	N/A	N/A	N/A	N/A	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ማስታወክ	N/A	N/A	N/A	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መንፈስ	N/A	N/A	N/A	N/A	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መተንፈስ	N/A	N/A	N/A	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መሳቅ	N/A	N/A	N/A	N/A	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ማየት	N/A	N/A	N/A	N/A	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መስማት	N/A	N/A	N/A	N/A	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ማዎቅ	N/A	N/A	N/A	N/A	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ማሰብ	N/A	N/A	N/A	N/A	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ማሽተት	N/A	N/A	N/A	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መፍራት	N/A	N/A	N/A	N/A	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መተኛት	N/A	N/A	N/A	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መኖር	N/A	N/A	N/A	N/A	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መሞት	N/A	N/A	N/A	N/A	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መግደል	N/A	N/A	N/A	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መታገል	N/A	N/A	N/A	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ማደን	N/A	N/A	N/A	N/A	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መምታት	N/A	N/A	N/A	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መቁረጥ	N/A	N/A	N/A	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መነጣጠል	N/A	N/A	N/A	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መዉጋት	N/A	N/A	N/A	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መፋቅ	N/A	N/A	N/A	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መቆፈር	N/A	N/A	N/A	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መዋኘት	N/A	N/A	N/A	N/A	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መብረር	N/A	N/A	N/A	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መሄድ	N/A	N/A	N/A	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መምጣት	N/A	N/A	N/A	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መጋደም	N/A	N/A	N/A	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መቀመጥ	N/A	N/A	N/A	N/A	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መቆም	N/A	N/A	N/A	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መታጠፍ	N/A	N/A	N/A	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መዉደቅ	N/A	N/A	N/A	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መስጠት	N/A	N/A	N/A	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መያዝ	N/A	N/A	N/A	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መጫን	N/A	N/A	N/A	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መቦረሽ	N/A	N/A	N/A	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ማጠብ	N/A	N/A	N/A	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ማሸት	N/A	N/A	N/A	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መጎተት	N/A	N/A	N/A	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መግፋት	N/A	N/A	N/A	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መወርወር	N/A	N/A	N/A	N/A	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ማሰር	N/A	N/A	N/A	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሰስፋት	N/A	N/A	N/A	N/A	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መቁጠር	N/A	N/A	N/A	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መናገር	N/A	N/A	N/A	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መዘመር	N/A	N/A	N/A	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መጫወት	N/A	N/A	N/A	N/A	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መንሳፈፍ	N/A	N/A	N/A	N/A	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መዉረድ	N/A	N/A	N/A	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መቀዝቀዝ	N/A	N/A	N/A	N/A	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ማበጥ	N/A	N/A	N/A	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጸሀይ	N/A	N/A	N/A	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጨረቃ	N/A	N/A	N/A	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ኮከብ	N/A	N/A	N/A	N/A	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ዉሃ	N/A	N/A	N/A	N/A	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ዝናብ	N/A	N/A	N/A	N/A	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ወንዝ	N/A	N/A	N/A	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሀይቅ	N/A	N/A	N/A	N/A	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ባህር	N/A	N/A	N/A	N/A	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጨዉ	N/A	N/A	N/A	N/A	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ድንጋይ	N/A	N/A	N/A	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አሸዋ	N/A	N/A	N/A	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አባራ	N/A	N/A	N/A	N/A	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መሬት	N/A	N/A	N/A	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ደመና	N/A	N/A	N/A	N/A	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጭጋግ	N/A	N/A	N/A	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሰማይ	N/A	N/A	N/A	N/A	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ነፋስ	N/A	N/A	N/A	N/A	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ብናኝ	N/A	N/A	N/A	N/A	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+በረዶ	N/A	N/A	N/A	N/A	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጭስ	N/A	N/A	N/A	N/A	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እሳት	N/A	N/A	N/A	N/A	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አመድ	N/A	N/A	N/A	N/A	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ማቃጠል	N/A	N/A	N/A	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መንገድ	N/A	N/A	N/A	N/A	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ተራራ	N/A	N/A	N/A	N/A	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቀይ	N/A	N/A	N/A	N/A	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አረንገዴ	N/A	N/A	N/A	N/A	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቢጫ	N/A	N/A	N/A	N/A	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ነጭ	N/A	N/A	N/A	N/A	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጥቁር	N/A	N/A	N/A	N/A	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሌሊት	N/A	N/A	N/A	N/A	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቀን	N/A	N/A	N/A	N/A	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አመት	N/A	N/A	N/A	N/A	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሙቅ	N/A	N/A	N/A	N/A	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቀዝቃዛ	N/A	N/A	N/A	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሙሉ	N/A	N/A	N/A	N/A	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አዲስ	N/A	N/A	N/A	N/A	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+አሮጌ	N/A	N/A	N/A	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ጥሩ	N/A	N/A	N/A	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+መጥፎ	N/A	N/A	N/A	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+የገማ	N/A	N/A	N/A	N/A	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቆሻሻ	N/A	N/A	N/A	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቀጥታ	N/A	N/A	N/A	N/A	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ክብ	N/A	N/A	N/A	N/A	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ስለት	N/A	N/A	N/A	N/A	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+የዶለዶመ	N/A	N/A	N/A	N/A	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ለስላሳ	N/A	N/A	N/A	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ርጥብ	N/A	N/A	N/A	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ደረቅ	N/A	N/A	N/A	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ትክክል	N/A	N/A	N/A	N/A	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቅርብ	N/A	N/A	N/A	N/A	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ሩቅ	N/A	N/A	N/A	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቀኝ	N/A	N/A	N/A	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ግራ	N/A	N/A	N/A	N/A	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ላይ	N/A	N/A	N/A	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ዉስጥ	N/A	N/A	N/A	N/A	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ከ.ጋር	N/A	N/A	N/A	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+እና	N/A	N/A	N/A	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ቢሆን	N/A	N/A	N/A	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ምክንያቱም	N/A	N/A	N/A	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ስም	N/A	N/A	N/A	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

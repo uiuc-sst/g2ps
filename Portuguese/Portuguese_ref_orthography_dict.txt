@@ -1,0 +1,103 @@
+a	a
+a	ɐ
+b	b
+c	k
+ce	s e
+ci	s i
+cy	s i
+d	d
+di	dʒ i
+e	e
+e	ɛ
+e	i
+e	ɨ
+e	ɐ
+e	ɐi
+f	f
+g	ɡ
+ge	ʒ e
+gi	ʒ i
+gy	ʒ i
+h	eps
+i	i
+j	ʒ
+k	k
+l	l
+l	ʊ̯
+m	m
+n	n
+o	o
+o	ɔ
+o	u
+p	p
+q	k
+r	ɾ
+r	ʁ
+s	s
+t	t
+ti	tʃ i
+u	u
+v	v
+w	w
+x	ʃ
+x	ks
+x	z
+x	s
+y	i
+z	z
+ch	ʃ
+lh	ʎ
+nh	ɲ
+rr	ʁ
+ss	s
+que	k ɛ
+qui	k i 
+qu	kʷ
+gue	ɡ ɛ
+gui	ɡ i
+gu	ɡʷ
+á	a
+â	ɐ
+â	ɐ̃
+ã	ɐ̃
+à	a
+ç	s
+é	ɛ
+ê	e
+ê	əj
+í	i
+ó	ɔ
+ô	o
+õ	õ
+ú	u
+ãe	ɐ̃ ĩ
+ãi	ɐ̃ ĩ
+ão	ɐ̃ ũ
+õe	õ ĩ
+an	ɐ̃
+am	ɐ̃
+ân	ɐ̃
+âm	ɐ̃
+am	ɐ̃ ũ
+en	ẽ
+em	ẽ
+ên	ẽ
+êm	ẽ	
+em	ẽ ĩ
+ém	ẽ ĩ
+in	ĩ
+im	ĩ
+ín	ĩ
+ím	ĩ	
+en	ẽ ĩ
+én	ẽ ĩ
+on	õ
+om	õ
+ôn	õ
+ôm	õ	
+êm	ẽ ĩ
+un	ũ
+um	ũ
+ún	ũ
+úm	ũ
+

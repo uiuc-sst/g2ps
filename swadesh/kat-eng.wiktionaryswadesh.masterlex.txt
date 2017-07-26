@@ -1,0 +1,216 @@
+მე ‎	N/A	N/A	me	N/A	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+შენ ‎	N/A	N/A	šen	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ის ‎	N/A	N/A	is	N/A	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ჩვენ ‎	N/A	N/A	čven	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თქვენ ‎	N/A	N/A	tkven	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ისინი ‎	N/A	N/A	isini	N/A	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ეს ‎	N/A	N/A	es	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ის ‎	N/A	N/A	is	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+აქ ‎	N/A	N/A	ak	N/A	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+იქ ‎	N/A	N/A	ik	N/A	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ვინ ‎	N/A	N/A	vin	N/A	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+რა ‎	N/A	N/A	ra	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სად ‎	N/A	N/A	sad	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+როდის ‎	N/A	N/A	rodis	N/A	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+როგორ ‎	N/A	N/A	rogor	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+არ ‎	N/A	N/A	ar	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ყველაფერი ‎	N/A	N/A	q̇velaperi	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ბევრი ‎	N/A	N/A	bevri	N/A	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+რამდენიმე ‎	N/A	N/A	ramdenime	N/A	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცოტა ‎	N/A	N/A	coṭa	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სხვა ‎	N/A	N/A	sxva	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ერთი ‎	N/A	N/A	erti	N/A	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ორი ‎	N/A	N/A	ori	N/A	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სამი ‎	N/A	N/A	sami	N/A	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ოთხი ‎	N/A	N/A	otxi	N/A	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ხუთი ‎	N/A	N/A	xuti	N/A	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+დიდი ‎	N/A	N/A	didi	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+გრძელი ‎	N/A	N/A	grʒeli	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ფართო	N/A	N/A	parto	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+განიერი	N/A	N/A	ganieri	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სქელი ‎	N/A	N/A	skeli	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მძიმე ‎	N/A	N/A	mʒime	N/A	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+პატარა ‎	N/A	N/A	ṗaṭara	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მოკლე ‎	N/A	N/A	moḳle	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ვიწრო ‎	N/A	N/A	vic̣ro	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თხელი ‎	N/A	N/A	txeli	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ქალი ‎	N/A	N/A	kali	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+კაცი ‎	N/A	N/A	ḳaci	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ადამიანი ‎	N/A	N/A	adamiani	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ბავშვი ‎	N/A	N/A	bavšvi	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცოლი ‎	N/A	N/A	coli	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ქმარი ‎	N/A	N/A	kmari	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+დედა ‎	N/A	N/A	deda	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მამა ‎	N/A	N/A	mama	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცხოველი ‎	N/A	N/A	cxoveli	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თევზი ‎	N/A	N/A	tevzi	N/A	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ჩიტი ‎	N/A	N/A	čiṭi	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ძაღლი ‎	N/A	N/A	ʒaɣli	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ტილი ‎	N/A	N/A	ṭili	N/A	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+გველი ‎	N/A	N/A	gveli	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ჭია ‎	N/A	N/A	č̣ia	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ხე ‎	N/A	N/A	xe	N/A	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ტყე ‎	N/A	N/A	ṭq̇e	N/A	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ჯოხი ‎	N/A	N/A	ǯoxi	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ხილი ‎	N/A	N/A	xili	N/A	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თესლი ‎	N/A	N/A	tesli	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ფოთოლი ‎	N/A	N/A	potoli	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ფესვი ‎	N/A	N/A	pesvi	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ქერქი ‎	N/A	N/A	kerki	N/A	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ყვავილი ‎	N/A	N/A	q̇vavili	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ბალახი ‎	N/A	N/A	balaxi	N/A	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თოკი ‎	N/A	N/A	toḳi	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+კანი ‎	N/A	N/A	ḳani	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ხორცი ‎	N/A	N/A	xorci	N/A	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სისხლი ‎	N/A	N/A	sisxli	N/A	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ძვალი ‎	N/A	N/A	ʒvali	N/A	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ქონი	N/A	N/A	koni	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცხიმი ‎	N/A	N/A	cximi	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+კვერცხი ‎	N/A	N/A	ḳvercxi	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+რქა ‎	N/A	N/A	rka	N/A	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+კუდი ‎	N/A	N/A	ḳudi	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ფრთა ‎	N/A	N/A	prta	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თმა ‎	N/A	N/A	tma	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თავი ‎	N/A	N/A	tavi	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ყური ‎	N/A	N/A	q̇uri	N/A	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თვალი ‎	N/A	N/A	tvali	N/A	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცხვირი ‎	N/A	N/A	cxviri	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+პირი ‎	N/A	N/A	ṗiri	N/A	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+კბილი ‎	N/A	N/A	ḳbili	N/A	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ენა ‎	N/A	N/A	ena	N/A	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ფრჩხილი ‎	N/A	N/A	prčxili	N/A	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ტერფი ‎	N/A	N/A	ṭerpi	N/A	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ფეხი ‎	N/A	N/A	pexi	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მუხლი ‎	N/A	N/A	muxli	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ხელი ‎	N/A	N/A	xeli	N/A	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ფრთა ‎	N/A	N/A	prta	N/A	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მუცელი ‎	N/A	N/A	muceli	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ნაწლავი ‎	N/A	N/A	nac̣lavi	N/A	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+კისერი ‎	N/A	N/A	ḳiseri	N/A	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ზურგი ‎	N/A	N/A	zurgi	N/A	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მკერდი ‎	N/A	N/A	mḳerdi	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+გული ‎	N/A	N/A	guli	N/A	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ღვიძლი ‎	N/A	N/A	ɣviʒli	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სმა ‎	N/A	N/A	sma	N/A	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ჭამა ‎	N/A	N/A	č̣ama	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+კბენა ‎	N/A	N/A	ḳbena	N/A	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+წოვა ‎	N/A	N/A	c̣ova	N/A	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ფურთხვა ‎	N/A	N/A	purtxva	N/A	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+რწყევა ‎	N/A	N/A	rc̣q̇eva	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ბერვა ‎	N/A	N/A	berva	N/A	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სუნთქვა ‎	N/A	N/A	suntkva	N/A	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სიცილი ‎	N/A	N/A	sicili	N/A	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ნახვა ‎	N/A	N/A	naxva	N/A	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სმენა ‎	N/A	N/A	smena	N/A	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცოდნა ‎	N/A	N/A	codna	N/A	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ფიქრი ‎	N/A	N/A	pikri	N/A	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ყნოსვა ‎	N/A	N/A	q̇nosva	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+შიში ‎	N/A	N/A	šiši	N/A	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ძილი ‎	N/A	N/A	ʒili	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცხოვრება ‎	N/A	N/A	cxovreba	N/A	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+კვდომა ‎	N/A	N/A	ḳvdoma	N/A	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+კვლა ‎	N/A	N/A	ḳvla	N/A	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ბრძოლა ‎	N/A	N/A	brʒola	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ნადირობა ‎	N/A	N/A	nadiroba	N/A	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+რტყმა ‎	N/A	N/A	rṭq̇ma	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ჭრა ‎	N/A	N/A	č̣ra	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მტვრევა ‎	N/A	N/A	mṭvreva	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ჩარტყმა	N/A	N/A	čarṭq̇ma	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ჩაცემა ‎	N/A	N/A	čacema	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ფხაჭნა ‎	N/A	N/A	pxač̣na	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ბარვა ‎	N/A	N/A	barva	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცურვა ‎	N/A	N/A	curva	N/A	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ფრენა ‎	N/A	N/A	prena	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სიარული ‎	N/A	N/A	siaruli	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მოსვლა ‎	N/A	N/A	mosvla	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+წოლა ‎	N/A	N/A	c̣ola	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ჯდომა	N/A	N/A	state ‎	N/A	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+დგომა ‎	N/A	N/A	dgoma	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ადგომა ‎	N/A	N/A	adgoma	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ტრიალი ‎	N/A	N/A	ṭriali	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+დაცემა ‎	N/A	N/A	dacema	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მიცემა ‎	N/A	N/A	micema	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ჭერა ‎	N/A	N/A	č̣era	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+დაწოლა ‎	N/A	N/A	dac̣ola	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+წმენდა ‎	N/A	N/A	c̣menda	N/A	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+რეცხვა ‎	N/A	N/A	recxva	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+წმენდა ‎	N/A	N/A	c̣menda	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თრევა ‎	N/A	N/A	treva	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ბიძგება ‎	N/A	N/A	biʒgeba	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+გადაგდება ‎	N/A	N/A	gadagdeba	N/A	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+შეხვევა ‎	N/A	N/A	šexveva	N/A	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+კერვა ‎	N/A	N/A	ḳerva	N/A	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თვლა ‎	N/A	N/A	tvla	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თქმა ‎	N/A	N/A	tkma	N/A	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მღერა ‎	N/A	N/A	mɣera	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თამაშობა ‎	N/A	N/A	tamašoba	N/A	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცურვა ‎	N/A	N/A	curva	N/A	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+დენა ‎	N/A	N/A	dena	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+გაყინვა ‎	N/A	N/A	gaq̇inva	N/A	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+გადიდება ‎	N/A	N/A	gadideba	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მზე ‎	N/A	N/A	mze	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მთვარე ‎	N/A	N/A	mtvare	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ვარსკვლავი ‎	N/A	N/A	varsḳvlavi	N/A	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+წყალი ‎	N/A	N/A	c̣q̇ali	N/A	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+წვიმა ‎	N/A	N/A	c̣vima	N/A	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მდინარე ‎	N/A	N/A	mdinare	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ტბა ‎	N/A	N/A	ṭba	N/A	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ზღვა ‎	N/A	N/A	zɣva	N/A	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მარილი ‎	N/A	N/A	marili	N/A	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ქვა ‎	N/A	N/A	kva	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სილა ‎	N/A	N/A	sila	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მტვერი ‎	N/A	N/A	mṭveri	N/A	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მიწა ‎	N/A	N/A	mic̣a	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ღრუბელი ‎	N/A	N/A	ɣrubeli	N/A	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ნისლი ‎	N/A	N/A	nisli	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცა ‎	N/A	N/A	ca	N/A	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ქარი ‎	N/A	N/A	kari	N/A	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თოვლი ‎	N/A	N/A	tovli	N/A	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ყინული ‎	N/A	N/A	q̇inuli	N/A	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+კვამლი ‎	N/A	N/A	ḳvamli	N/A	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცეცხლი	N/A	N/A	cecxli	N/A	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ხანძარი ‎	N/A	N/A	xanʒari	N/A	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ფერფლი ‎	N/A	N/A	perpli	N/A	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+წვა ‎	N/A	N/A	c̣va	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+გზა ‎	N/A	N/A	gza	N/A	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მთა ‎	N/A	N/A	mta	N/A	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+წითელი ‎	N/A	N/A	c̣iteli	N/A	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მწვანე ‎	N/A	N/A	mc̣vane	N/A	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ყვითელი ‎	N/A	N/A	q̇viteli	N/A	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თეთრი ‎	N/A	N/A	tetri	N/A	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+შავი ‎	N/A	N/A	šavi	N/A	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ღამე ‎	N/A	N/A	ɣame	N/A	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+დღე ‎	N/A	N/A	dɣe	N/A	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+წელი ‎	N/A	N/A	c̣eli	N/A	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თბილი ‎	N/A	N/A	tbili	N/A	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცივი ‎	N/A	N/A	civi	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სავსე ‎	N/A	N/A	savse	N/A	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ახალი ‎	N/A	N/A	axali	N/A	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ძველი ‎	N/A	N/A	ʒveli	N/A	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+კარგი ‎	N/A	N/A	ḳargi	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ცუდი ‎	N/A	N/A	cudi	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+დამპალი	N/A	N/A	damṗali	N/A	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+გაფუჭებული ‎	N/A	N/A	gapuč̣ebuli	N/A	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ჭუჭყიანი ‎	N/A	N/A	č̣uč̣q̇iani	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+პირდაპირი ‎	N/A	N/A	ṗirdaṗiri	N/A	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მრგვალი ‎	N/A	N/A	mrgvali	N/A	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ბასრი	N/A	N/A	basri	N/A	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მჭრელი ‎	N/A	N/A	mč̣reli	N/A	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ბლაგვი ‎	N/A	N/A	blagvi	N/A	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+გლუვი ‎	N/A	N/A	gluvi	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სველი ‎	N/A	N/A	sveli	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მშრალი ‎	N/A	N/A	mšrali	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ზუსტი ‎	N/A	N/A	zusṭi	N/A	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ახლო ‎	N/A	N/A	axlo	N/A	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+შორი ‎	N/A	N/A	šori	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მარჯვენა ‎	N/A	N/A	marǯvena	N/A	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+მარცხენა ‎	N/A	N/A	marcxena	N/A	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ში ‎	N/A	N/A	ši	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ში ‎	N/A	N/A	ši	N/A	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თან ‎	N/A	N/A	tan	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+და ‎	N/A	N/A	da	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+თუ	N/A	N/A	tu	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+რომ ‎	N/A	N/A	rom	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+რადგან ‎	N/A	N/A	radgan	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+სახელი	N/A	N/A	saxeli	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A
+გვარი ‎	N/A	N/A	gvari	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

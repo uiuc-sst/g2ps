@@ -1,0 +1,8 @@
+language: https://en.wikipedia.org/wiki/Czech_language
+iso639-1: cs
+iso639-3: ces
+glottolog: czec1258
+alphabet: https://en.wikipedia.org/wiki/Czech_orthography
+SBS: http://www.sbs.com.au/podcasts/yourlanguage/czech
+wikipedia: https://cs.wikipedia.org
+

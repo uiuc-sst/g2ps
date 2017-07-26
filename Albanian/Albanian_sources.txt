@@ -1,0 +1,7 @@
+language: https://en.wikipedia.org/wiki/Albanian_language
+iso639-1: sq
+iso639-3: sqi
+glottolog: alba1267
+alphabet: https://en.wikipedia.org/wiki/Albanian_alphabet
+SBS: http://www.sbs.com.au/podcasts/yourlanguage/albanian/
+wikipedia: https://sq.wikipedia.org

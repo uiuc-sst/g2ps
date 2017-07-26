@@ -1,0 +1,55 @@
+IPA	FID	Combined class:	Segment class:	advanced tongue root	anterior	approximant	back	click	consonantal	constricted glottis	continuant	coronal	delayed release	distributed	dorsal	epilaryngeal source	fortis	front	high	labial	labiodental	lateral	long	low	lowered larynx implosive	nasal	periodic glottal source	raised larynx ejective	retracted tongue root	round	short	sonorant	spread glottis	stress	strident	syllabic	tap	tense	tone	trill
+a	72FB536ACFF408163656BBCDAFCAC6F6	v	vowel	-		+	-		-	-	+	-			+	-		-	-	-		-	-	+	-	-	+	-	-		-	+	-	-		+	-			-
+b	694212B746622E482E0E58D50036100E	c	consonant			-		-	+	-	-	-	-		-	-	-			+	-	-	-		-	-	+	-		-	-	-	-	-		-	-			-
+b̤	584E53EB5DC897FE333F996BB3854365	c-d	consonant			-		-	+	-	-	-	-		-	-	-			+	-	-	-		-	-	+	-		-	-	-	+	-		-	-			-
+cç	8AD5C612764E127E084477DD1C52B817	c-c	consonant		-	-	-	-	+	-	-	+	+	+	+	-	-	+	+	-		-	-	-	-	-	-	-			-	-	-	-	-	-	-			-
+cçʰ	77FB1967C8D16A666F18E8A4E9CB2CFD	c-c-c	consonant		-	-	-	-	+	-	-	+	+	+	+	-	-	+	+	-		-	-	-	-	-	-	-			-	-	+	-	-	-	-			-
+d̪	198E3EBE25854A256D6C67EF286FA260	c-d	consonant		+	-		-	+	-	-	+	-	+	-	-	-			-		-	-		-	-	+	-			-	-	-	-	-	-	-			-
+d̪̤	8102B48ED662ED3BEC1E6C024596DF4F	c-d-d	consonant		+	-		-	+	-	-	+	-	+	-	-	-			-		-	-		-	-	+	-			-	-	+	-	-	-	-			-
+ẽ̞	9D43C0121B4098359DE849B298AD20F0	v-d-c	vowel	-		+	-		-	-	+	-			+	-		+	-	-		-	-	-	-	+	+	-	-		-	+	-	-		+	-	+		-
+f	86E80A7DA80F7F58CA76F85BACA48F86	c	consonant			-		-	+	-	+	-	+		-	-	-			+	+	-	-		-	-	-	-		-	-	-	-	-		-	-			-
+h	E7FBD92350B3CA8B7B5D77E36A607068	c	consonant			-		-	-	-	+	-	+		-	-	-			-		-	-		-	-	-	-			-	-	+	-		-	-			-
+i	F0585BB57111C322D6E7DABB0D01F9EA	v	vowel	-		+	-		-	-	+	-			+	-		+	+	-		-	-	-	-	-	+	-	-		-	+	-	-		+	-	+		-
+ĩ	A9F45477DAC8AB8BB14C84275ED3690F	v-c	vowel	-		+	-		-	-	+	-			+	-		+	+	-		-	-	-	-	+	+	-	-		-	+	-	-		+	-	+		-
+ĩː	70B73BACB06AB6CCEBE6E6710EBB7BE6	v-c-d	vowel	-		+	-		-	-	+	-			+	-		+	+	-		-	+	-	-	+	+	-	-		-	+	-	-		+	-	+		-
+j	ADF56B8E4119266843033E723A149AE2	c	consonant			+	-	-	-	-	+	-			+	-	-	+	+	-		-	-	-	-	-	+	-			-	+	-	-		-	-	+		-
+k	5A838FF4DABE1950734CFAFAB9383903	c	consonant			-	-	-	+	-	-	-	-		+	-	-	-	+	-		-	-	-	-	-	-	-			-	-	-	-		-	-			-
+kʰ	BD29F40254AA0996800A773122397C28	c-c	consonant			-	-	-	+	-	-	-	-		+	-	-	-	+	-		-	-	-	-	-	-	-			-	-	+	-		-	-			-
+m	5AE9663626770D1D4B97AAE5769AB83C	c	consonant			-		-	+	-	-	-			-	-	-			+	-	-	-		-	+	+	-		-	-	+	-	-		-	-			-
+n	E03DA215BAB0A158BA5D1CB5C4D5D6FD	c	consonant		+	-		-	+	-	-	+		-	-	-	-			-		-	-		-	+	+	-			-	+	-	-	-	-	-			-
+oː	08F6CE9332919F91E699096D433AC8BB	v-d	vowel	-		+	+		-	-	+	-			+	-		-	-	+	-	-	+	-	-	-	+	-	-	+	-	+	-	-		+	-	+		-
+õ	DF648A2DB863191981CA66654BFF6BF4	v-c	vowel	-		+	+		-	-	+	-			+	-		-	-	+	-	-	-	-	-	+	+	-	-	+	-	+	-	-		+	-	+		-
+p	2D6FB64B3CDC3549EF11DB98A66A9EAD	c	consonant			-		-	+	-	-	-	-		-	-	-			+	-	-	-		-	-	-	-		-	-	-	-	-		-	-			-
+pʰ	6E065D8A2F199BCBC7CA7074EC4DE834	c-c	consonant			-		-	+	-	-	-	-		-	-	-			+	-	-	-		-	-	-	-		-	-	-	+	-		-	-			-
+q	4AC7382217172B3821AE54CD38BD8698	c	consonant			-	+	-	+	-	-	-	-		+	-	-	-	-	-		-	-	-	-	-	-	-			-	-	-	-		-	-			-
+r	5D1D7FB69E1A3C0C60001FBC0C19ED87	c	consonant		+	+		-	+	-	+	+		-	-	-	-			-		-	-		-	-	+	-			-	+	-	-	-	-	-			+
+t̪	2DA484FF3408444AF11E01960C9C893A	c-d	consonant		+	-		-	+	-	-	+	-	+	-	-	-			-		-	-		-	-	-	-			-	-	-	-	-	-	-			-
+t̪ʰ	9EEEF6860B6442352B674A227C68B124	c-d-c	consonant		+	-		-	+	-	-	+	-	+	-	-	-			-		-	-		-	-	-	-			-	-	+	-	-	-	-			-
+u	58EB693AE523323410326D60806B9ADF	v	vowel	-		+	+		-	-	+	-			+	-		-	+	+	-	-	-	-	-	-	+	-	-	+	-	+	-	-		+	-	+		-
+ũː	BAC1076952BFA8DB102EB8888621C1B6	v-c-d	vowel	-		+	+		-	-	+	-			+	-		-	+	+	-	-	+	-	-	+	+	-	-	+	-	+	-	-		+	-	+		-
+w	501394D0E2658752D9DA624E7DEBE14B	c	consonant			+	+	-	-	-	+	-			+	-	-	-	+	+	-	-	-	-	-	-	+	-		+	-	+	-	-		-	-	+		-
+x	F62AFB705D2A2D30BB41CF3FBE917891	c	consonant			-	-	-	+	-	+	-	+		+	-	-	-	+	-		-	-	-	-	-	-	-			-	-	-	-		-	-			-
+z	E77FDA2EAABA78B3E55A968B2257CF26	c	consonant		+	-		-	+	-	+	+	+	-	-	-	-			-		-	-		-	-	+	-			-	-	-	-	+	-	-			-
+æ̞̃	E56425E977B5D58A6616F1E59B463073	v-d-c	vowel	-		+	-		-	-	+	-			+	-		+	-	-		-	-	+	-	+	+	-	-		-	+	-	-		+	-			-
+ç	A933E2A015DCF1AB1B946DBA04C1958C	c	consonant		-	-	-	-	+	-	+	+	+	+	+	-	-	+	+	-		-	-	-	-	-	-	-			-	-	-	-	-	-	-			-
+ŋ	941ED37AAF5E9C4E1B40D85008C6B2D9	c	consonant			-	-	-	+	-	-	-			+	-	-	-	+	-		-	-	-	-	+	+	-			-	+	-	-		-	-			-
+ɑ̃	55FDF5C7AED74ADA223A64EC6859373F	v-c	vowel	-		+	+		-	-	+	-			+	-		-	-	-		-	-	+	-	+	+	-	-		-	+	-	-		+	-			-
+ɑ̃ː	84FD9198ADD53CB38EF1B7A66DC0DB74	v-c-d	vowel	-		+	+		-	-	+	-			+	-		-	-	-		-	+	+	-	+	+	-	-		-	+	-	-		+	-			-
+ɔ	55C328C4539D138964636333EABA3949	v	vowel	-		+	+		-	-	+	-			+	-		-	-	+	-	-	-	-	-	-	+	-	-	+	-	+	-	-		+	-	-		-
+ɖ	BE81A18FCCFFEDC9ACF3B18F14E766BD	c	consonant		-	-		-	+	-	-	+	-	-	-	-	-			-		-	-		-	-	+	-			-	-	-	-	-	-	-			-
+ɖ̤	D32D22D7FB8C895910556E91EE6B372A	c-d	consonant		-	-		-	+	-	-	+	-	-	-	-	-			-		-	-		-	-	+	-			-	-	+	-	-	-	-			-
+ə	D9B28B2D674EBA4B03C38B36D77E563E	v	vowel	-		+	-		-	-	+	-			+	-		-	-	-		-	-	-	-	-	+	-	-		-	+	-	-		+	-	-		-
+ə̃	1709B3BEA8703B449759CCDB8CB0DE22	v-c	vowel	-		+	-		-	-	+	-			+	-		-	-	-		-	-	-	-	+	+	-	-		-	+	-	-		+	-	-		-
+ɛ	8A61A9B6039DB852CE150BEC6198AFE5	v	vowel	-		+	-		-	-	+	-			+	-		+	-	-		-	-	-	-	-	+	-	-		-	+	-	-		+	-	-		-
+ɟʝ	F326C3A9DEC331359D3C189A02B5F7E5	c-c	consonant		-	-	-	-	+	-	-	+	+	+	+	-	-	+	+	-		-	-	-	-	-	+	-			-	-	-	-	-	-	-			-
+ɟ̤ʝ	EE486D21447604BBEBF7051A45FA8684	c-d-c	consonant		-	-	-	-	+	-	-	+	+	+	+	-	-	+	+	-		-	-	-	-	-	+	-			-	-	+	-	-	-	-			-
+ɡ	ECC959553F23387998DAF88D69D7736C	c	consonant			-	-	-	+	-	-	-	-		+	-	-	-	+	-		-	-	-	-	-	+	-			-	-	-	-		-	-			-
+ɡʰ	6AA3FEA3758FF09B65D27B20D04B0660	c-c	consonant			-	-	-	+	-	-	-	-		+	-	-	-	+	-		-	-	-	-	-	+	-			-	-	+	-		-	-			-
+ɣ	1832D7834F81DD97E33C58D9F70EC5C6	c	consonant			-	-	-	+	-	+	-	+		+	-	-	-	+	-		-	-	-	-	-	+	-			-	-	-	-		-	-			-
+ɪ	CF50E15F866A7B9698A8F95C5C9B48B2	v	vowel	-		+	-		-	-	+	-			+	-		+	+	-		-	-	-	-	-	+	-	-		-	+	-	-		+	-	-		-
+ɽ	ECADEF8DC1141DC0002DA207736CC234	c	consonant		-	+		-	+	-	+	+		-	-	-	-			-		-	-		-	-	+	-			-	+	-	-	-	-	+			-
+ʈ	64EABC4FDF5DE0BE02E889701FD34147	c	consonant		-	-		-	+	-	-	+	-	-	-	-	-			-		-	-		-	-	-	-			-	-	-	-	-	-	-			-
+ʈʰ	4364823B8F03525E91440277AEC22689	c-c	consonant		-	-		-	+	-	-	+	-	-	-	-	-			-		-	-		-	-	-	-			-	-	+	-	-	-	-			-
+ʊ	10FD223095BD60FD89BEC828E5FD0A26	v	vowel	-		+	+		-	-	+	-			+	-		-	+	+	-	-	-	-	-	-	+	-	-	+	-	+	-	-		+	-	-		-
+ʊ̃	6841B71E9462950C2BADD3C7301D7092	v-c	vowel	-		+	+		-	-	+	-			+	-		-	+	+	-	-	-	-	-	+	+	-	-	+	-	+	-	-		+	-	-		-
+ʝ	A5176F73648084056F9A091440AB3FBB	c	consonant		-	-	-	-	+	-	+	+	+	+	+	-	-	+	+	-		-	-	-	-	-	+	-			-	-	-	-	-	-	-			-

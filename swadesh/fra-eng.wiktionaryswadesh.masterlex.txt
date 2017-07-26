@@ -1,0 +1,218 @@
+je	N/A	N/A	je	ʒə	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tu	N/A	N/A	tu	ty	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vous	N/A	N/A	vous	vu	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+il	N/A	N/A	il	il	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nous	N/A	N/A	nous	nu	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vous	N/A	N/A	vous	vu	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ils	N/A	N/A	ils	il	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+elles	N/A	N/A	elles	ɛl	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ceci	N/A	N/A	ceci	sə'si	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cela	N/A	N/A	cela	sə'la	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ici	N/A	N/A	ici	i'si	here	N/A	N/A	N/A	wiktionaryswadesh	N/A
+là	N/A	N/A	là	la	there	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qui	N/A	N/A	qui	ki	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quoi	N/A	N/A	quoi	kwa	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+où	N/A	N/A	où	u	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quand	N/A	N/A	quand	kã	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+comment	N/A	N/A	comment	kɔ'mã	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ne pas	N/A	N/A	ne pas	nə ... pɑ	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tout	N/A	N/A	tout	tu	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+beaucoup	N/A	N/A	beaucoup	bo'ku	many	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quelques	N/A	N/A	quelques	kɛlk	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+peu	N/A	N/A	peu	pø	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+autre	N/A	N/A	autre	otʁ	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+un	N/A	N/A	un	œ̃	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+deux	N/A	N/A	deux	dø	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+trois	N/A	N/A	trois	tʁwɑ	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quatre	N/A	N/A	quatre	katʁ	four	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cinq	N/A	N/A	cinq	sɛ̃k	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+grand	N/A	N/A	grand	ɡʁã	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+long	N/A	N/A	long	lõ	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+large	N/A	N/A	large	laʁʒ	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+épais	N/A	N/A	épais	e'pɛ	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lourd	N/A	N/A	lourd	luʁ	heavy	N/A	N/A	N/A	wiktionaryswadesh	N/A
+petit	N/A	N/A	petit	pə'ti	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+court	N/A	N/A	court	kuʁ	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+étroit	N/A	N/A	étroit	e'tʁwa	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mince	N/A	N/A	mince	mɛ̃s	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+femme	N/A	N/A	femme	fam	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+homme	N/A	N/A	homme	ɔm	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+homme	N/A	N/A	homme	ɔm	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+enfant	N/A	N/A	enfant	ɑ̃fɑ̃	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+femme	N/A	N/A	femme	fam	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+épouse	N/A	N/A	épouse	e'puz	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mari	N/A	N/A	mari	ma'ʁi	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+époux	N/A	N/A	époux	e'pu	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mère	N/A	N/A	mère	mɛʁ	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+père	N/A	N/A	père	pɛʁ	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+animal	N/A	N/A	animal	ani'mal	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+poisson	N/A	N/A	poisson	pwa'sõ	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oiseau	N/A	N/A	oiseau	wa'zo	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+chien	N/A	N/A	chien	ʃjɛ̃	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pou	N/A	N/A	pou	pu	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+serpent	N/A	N/A	serpent	sɛʁ'pɑ̃	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ver	N/A	N/A	ver	vɛʁ	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+arbre	N/A	N/A	arbre	aʁbʁ	tree	N/A	N/A	N/A	wiktionaryswadesh	N/A
+forêt	N/A	N/A	forêt	fɔ'ʁɛ	forest	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bâton	N/A	N/A	bâton	bɑ'tɔ̃	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fruit	N/A	N/A	fruit	fʁɥi	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+graine	N/A	N/A	graine	ɡʁɛn	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+feuille	N/A	N/A	feuille	fœj	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+racine	N/A	N/A	racine	ʁa'sin	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+écorce	N/A	N/A	écorce	e'kɔʁs	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fleur	N/A	N/A	fleur	flœʁ	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+herbe	N/A	N/A	herbe	ɛʁb	grass	N/A	N/A	N/A	wiktionaryswadesh	N/A
+corde	N/A	N/A	corde	kɔʁd	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+peau	N/A	N/A	peau	po	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+viande	N/A	N/A	viande	vjɑ̃d	meat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sang	N/A	N/A	sang	sɑ̃	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+os	N/A	N/A	os	ɔs	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+graisse	N/A	N/A	graisse	ɡʁɛs	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+œuf	N/A	N/A	œuf	œf	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+corne	N/A	N/A	corne	kɔʁn	horn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+queue	N/A	N/A	queue	kø	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plume	N/A	N/A	plume	plym	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cheveux	N/A	N/A	cheveux	ʃə'vø	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tête	N/A	N/A	tête	tɛt	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oreille	N/A	N/A	oreille	ɔ'ʁɛj	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+œil	N/A	N/A	œil	œj	eye	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nez	N/A	N/A	nez	ne	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bouche	N/A	N/A	bouche	buʃ	mouth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dent	N/A	N/A	dent	dɑ̃	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+langue	N/A	N/A	langue	lɑ̃ɡ	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ongle	N/A	N/A	ongle	ɔ̃ɡl	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pied	N/A	N/A	pied	pje	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jambe	N/A	N/A	jambe	ʒɑ̃b	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+genou	N/A	N/A	genou	ʒə'nu	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+main	N/A	N/A	main	mɛ̃	hand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aile	N/A	N/A	aile	ɛl	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ventre	N/A	N/A	ventre	vɑ̃tʁ	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+entrailles	N/A	N/A	entrailles	ɑ̃'tʁɑj	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+intestins	N/A	N/A	intestins	ɛ̃tɛs'tɛ̃	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cou	N/A	N/A	cou	ku	neck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dos	N/A	N/A	dos	do	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sein	N/A	N/A	sein	pwa'tʁin	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+poitrine	N/A	N/A	poitrine	pwatRin	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cœur	N/A	N/A	cœur	kœʁ	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+foie	N/A	N/A	foie	fwɑ	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+boire	N/A	N/A	boire	bwɑʁ	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+manger	N/A	N/A	manger	mɑ̃'ʒe	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mordre	N/A	N/A	mordre	mɔʁdʁ	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sucer	N/A	N/A	sucer	sy'se	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cracher	N/A	N/A	cracher	kʁa'ʃe	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vomir	N/A	N/A	vomir	vɔ'miʁ	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+souffler	N/A	N/A	souffler	su'fle	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+respirer	N/A	N/A	respirer	ʁɛspi'ʁe	to breathe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rire	N/A	N/A	rire	ʁiʁ	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+voir	N/A	N/A	voir	vwaʁ	to see	N/A	N/A	N/A	wiktionaryswadesh	N/A
+entendre	N/A	N/A	entendre	ɑ̃'tɑ̃dʁ	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+savoir	N/A	N/A	savoir	sa'vwaʁ	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+penser	N/A	N/A	penser	pɑ̃'se	to think	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sentir	N/A	N/A	sentir	sɑ̃'tiʁ	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+craindre	N/A	N/A	craindre	kʁɛ̃dʁ	to fear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dormir	N/A	N/A	dormir	dɔʁ'miʁ	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vivre	N/A	N/A	vivre	vivʁ	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mourir	N/A	N/A	mourir	muʁiʁ	to die	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuer	N/A	N/A	tuer	tɥe	to kill	N/A	N/A	N/A	wiktionaryswadesh	N/A
+se battre	N/A	N/A	se battre	sə'batʁ	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+chasser	N/A	N/A	chasser	ʃa'se	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+frapper	N/A	N/A	frapper	fʁa'pe	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+couper	N/A	N/A	couper	ku'pe	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fendre	N/A	N/A	fendre	fɑ̃dʁ	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+poignarder	N/A	N/A	poignarder	pwaɲaʁ'de	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gratter	N/A	N/A	gratter	ɡʁa'te	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+creuser	N/A	N/A	creuser	kʁø'ze	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nager	N/A	N/A	nager	na'ʒe	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+voler	N/A	N/A	voler	vɔ'le	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+marcher	N/A	N/A	marcher	maʁ'ʃe	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+venir	N/A	N/A	venir	və'niʁ	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+s'étendre	N/A	N/A	s'étendre	sé'tɑ̃dʁ	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+être étendu	N/A	N/A	être étendu	ɛtʁetɑ̃'dy	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+s'asseoir	N/A	N/A	s'asseoir	sa'swaʁ	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+être assis	N/A	N/A	être assis	ɛtʁa'si	to sit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+se lever	N/A	N/A	se lever	sələ've	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+se tenir debout	N/A	N/A	se tenir debout	sətə'niʁdə'bu	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tourner	N/A	N/A	tourner	tuʁ'ne	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tomber	N/A	N/A	tomber	tɔ̃'be	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+donner	N/A	N/A	donner	dɔ'ne	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tenir	N/A	N/A	tenir	tə'niʁ	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+serrer	N/A	N/A	serrer	se'ʁe	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+frotter	N/A	N/A	frotter	fʁɔ'te	to rub	N/A	N/A	N/A	wiktionaryswadesh	N/A
+laver	N/A	N/A	laver	la've	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+essuyer	N/A	N/A	essuyer	esɥi'je	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tirer	N/A	N/A	tirer	ti'ʁe	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pousser	N/A	N/A	pousser	pu'se	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jeter	N/A	N/A	jeter	ʒə'te	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lancer	N/A	N/A	lancer	lɑ̃'se	to throw	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lier	N/A	N/A	lier	lje	to tie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+coudre	N/A	N/A	coudre	kudʁ	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+compter	N/A	N/A	compter	kɔ̃'te	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dire	N/A	N/A	dire	diʁ	to say	N/A	N/A	N/A	wiktionaryswadesh	N/A
+chanter	N/A	N/A	chanter	ʃɑ̃'te	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jouer	N/A	N/A	jouer	ʒwe	to play	N/A	N/A	N/A	wiktionaryswadesh	N/A
+flotter	N/A	N/A	flotter	flɔ'te	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+couler	N/A	N/A	couler	ku'le	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+geler	N/A	N/A	geler	ʒə'le	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gonfler	N/A	N/A	gonfler	ɡɔ̃'fle	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+soleil	N/A	N/A	soleil	sɔ'lɛj	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lune	N/A	N/A	lune	lyn	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+étoile	N/A	N/A	étoile	e'twal	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eau	N/A	N/A	eau	o	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pluie	N/A	N/A	pluie	plɥi	rain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rivière	N/A	N/A	rivière	ʁi'vjɛʁ	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lac	N/A	N/A	lac	lak	lake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mer	N/A	N/A	mer	mɛʁ	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sel	N/A	N/A	sel	sɛl	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pierre	N/A	N/A	pierre	pjɛʁ	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sable	N/A	N/A	sable	sabl	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+poussière	N/A	N/A	poussière	pu'sjɛʁ	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+terre	N/A	N/A	terre	tɛʁ	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nuage	N/A	N/A	nuage	nɥaʒ	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+brouillard	N/A	N/A	brouillard	bʁu'jaʁ	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ciel	N/A	N/A	ciel	siɛl	sky	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vent	N/A	N/A	vent	vɑ̃	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+neige	N/A	N/A	neige	nɛʒ	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+glace	N/A	N/A	glace	ɡlas	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+fumée	N/A	N/A	fumée	fy'me	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+feu	N/A	N/A	feu	fø	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+cendre	N/A	N/A	cendre	sɑ̃dʁ	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+brûler	N/A	N/A	brûler	bʁy'le	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+route	N/A	N/A	route	ʁut	road	N/A	N/A	N/A	wiktionaryswadesh	N/A
+montagne	N/A	N/A	montagne	mɔ̃'taɲ	mountain	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rouge	N/A	N/A	rouge	ʁuʒ	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vert	N/A	N/A	vert	vɛʁ	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jaune	N/A	N/A	jaune	ʒon	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+blanc	N/A	N/A	blanc	blɑ̃	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+noir	N/A	N/A	noir	nwaʁ	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nuit	N/A	N/A	nuit	nɥi	night	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jour	N/A	N/A	jour	ʒuʁ	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+an	N/A	N/A	an	ɑ̃	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+année	N/A	N/A	année	a'ne	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+chaud	N/A	N/A	chaud	ʃo	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+froid	N/A	N/A	froid	fʁwa	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+plein	N/A	N/A	plein	plɛ̃	full	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nouveau	N/A	N/A	nouveau	nu'vo	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+vieux	N/A	N/A	vieux	vjø	old	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bon	N/A	N/A	bon	bɔ̃	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mauvais	N/A	N/A	mauvais	mo'vɛ	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pourri	N/A	N/A	pourri	pu'ri	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sale	N/A	N/A	sale	sal	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+droit	N/A	N/A	droit	dʁwa	straight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rond	N/A	N/A	rond	ʁɔ̃	round	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tranchant	N/A	N/A	tranchant	tʁɑ̃'ʃɑ̃	sharp	N/A	N/A	N/A	wiktionaryswadesh	N/A
+émoussé	N/A	N/A	émoussé	emu'se	dull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+lisse	N/A	N/A	lisse	lis	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+mouillé	N/A	N/A	mouillé	mu'je	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sec	N/A	N/A	sec	sɛk	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+juste	N/A	N/A	juste	ʒyst	correct	N/A	N/A	N/A	wiktionaryswadesh	N/A
+près	N/A	N/A	près	pʁɛ	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+loin	N/A	N/A	loin	lwɛ̃	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+droite	N/A	N/A	droite	dʁwat	right	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gauche	N/A	N/A	gauche	ɡoʃ	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+à	N/A	N/A	à	a	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dans	N/A	N/A	dans	dɑ̃	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+avec	N/A	N/A	avec	a'vɛk	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+et	N/A	N/A	et	e	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+si	N/A	N/A	si	si	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+parce que	N/A	N/A	parce que	paʁsə'kə	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nom	N/A	N/A	nom	nɔ̃	name	N/A	N/A	N/A	wiktionaryswadesh	N/A

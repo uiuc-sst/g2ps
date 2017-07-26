@@ -1,0 +1,14 @@
+language: https://en.wikipedia.org/wiki/Berber_languages
+iso639-1: -
+iso639-2: ber
+iso639-3: shi
+iso639-3: kab
+iso639-3: tzm
+iso639-3: rif
+iso639-3: shy
+iso639-3: tmh
+glottolog: berb1260
+alphabet: https://en.wikipedia.org/wiki/Tifinagh
+alphabet: https://en.wikipedia.org/wiki/Berber_Latin_alphabet
+SBS: http://www.sbs.com.au/podcasts/yourlanguage/berber
+

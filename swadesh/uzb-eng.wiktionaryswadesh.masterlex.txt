@@ -1,0 +1,219 @@
+men	N/A	N/A	men	N/A	I	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sen	N/A	N/A	sen	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+u	N/A	N/A	u	N/A	he	N/A	N/A	N/A	wiktionaryswadesh	N/A
+biz	N/A	N/A	biz	N/A	we	N/A	N/A	N/A	wiktionaryswadesh	N/A
+siz	N/A	N/A	siz	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sizlar	N/A	N/A	sizlar	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+senlar	N/A	N/A	senlar	N/A	you	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ular	N/A	N/A	ular	N/A	they	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bu	N/A	N/A	bu	N/A	this	N/A	N/A	N/A	wiktionaryswadesh	N/A
+shu	N/A	N/A	shu	N/A	that	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kim	N/A	N/A	kim	N/A	who	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nima	N/A	N/A	nima	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+na	N/A	N/A	na	N/A	what	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qayerda	N/A	N/A	qayerda	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qayda	N/A	N/A	qayda	N/A	where	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qachon	N/A	N/A	qachon	N/A	when	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qalay	N/A	N/A	qalay	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qanday	N/A	N/A	qanday	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nechik	N/A	N/A	nechik	N/A	how	N/A	N/A	N/A	wiktionaryswadesh	N/A
+emas	N/A	N/A	emas	N/A	not	N/A	N/A	N/A	wiktionaryswadesh	N/A
+barcha	N/A	N/A	barcha	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hamma	N/A	N/A	hamma	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+butun	N/A	N/A	butun	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bari	N/A	N/A	bari	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+borliq	N/A	N/A	borliq	N/A	all	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ayrim	N/A	N/A	ayrim	N/A	some	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oz	N/A	N/A	oz	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kam	N/A	N/A	kam	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+picha	N/A	N/A	picha	N/A	few	N/A	N/A	N/A	wiktionaryswadesh	N/A
+boshqa	N/A	N/A	boshqa	N/A	other	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bir	N/A	N/A	bir	N/A	one	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ikki	N/A	N/A	ikki	N/A	two	N/A	N/A	N/A	wiktionaryswadesh	N/A
+uch	N/A	N/A	uch	N/A	three	N/A	N/A	N/A	wiktionaryswadesh	N/A
+besh	N/A	N/A	besh	N/A	five	N/A	N/A	N/A	wiktionaryswadesh	N/A
+katta	N/A	N/A	katta	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+buyuk	N/A	N/A	buyuk	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ulkan	N/A	N/A	ulkan	N/A	big	N/A	N/A	N/A	wiktionaryswadesh	N/A
+uzun	N/A	N/A	uzun	N/A	long	N/A	N/A	N/A	wiktionaryswadesh	N/A
+keng	N/A	N/A	keng	N/A	wide	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qalin	N/A	N/A	qalin	N/A	thick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kichkina	N/A	N/A	kichkina	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kichik	N/A	N/A	kichik	N/A	small	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qisqa	N/A	N/A	qisqa	N/A	short	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tor	N/A	N/A	tor	N/A	narrow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ingichka	N/A	N/A	ingichka	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yupqa	N/A	N/A	yupqa	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nozik	N/A	N/A	nozik	N/A	thin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ayol	N/A	N/A	ayol	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xotin	N/A	N/A	xotin	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qiz	N/A	N/A	qiz	N/A	woman	N/A	N/A	N/A	wiktionaryswadesh	N/A
+erkak	N/A	N/A	erkak	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kishi	N/A	N/A	kishi	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+odam	N/A	N/A	odam	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+inson	N/A	N/A	inson	N/A	man	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bola	N/A	N/A	bola	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+chaqa	N/A	N/A	chaqa	N/A	child	N/A	N/A	N/A	wiktionaryswadesh	N/A
+xotin	N/A	N/A	xotin	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ayol	N/A	N/A	ayol	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+rafiqa	N/A	N/A	rafiqa	N/A	wife	N/A	N/A	N/A	wiktionaryswadesh	N/A
+er	N/A	N/A	er	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kuyov	N/A	N/A	kuyov	N/A	husband	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ona	N/A	N/A	ona	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+aya	N/A	N/A	aya	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oyi	N/A	N/A	oyi	N/A	mother	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ota	N/A	N/A	ota	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ada	N/A	N/A	ada	N/A	father	N/A	N/A	N/A	wiktionaryswadesh	N/A
+hayvon	N/A	N/A	hayvon	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jonivor	N/A	N/A	jonivor	N/A	animal	N/A	N/A	N/A	wiktionaryswadesh	N/A
+baliq	N/A	N/A	baliq	N/A	fish	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qush	N/A	N/A	qush	N/A	bird	N/A	N/A	N/A	wiktionaryswadesh	N/A
+it	N/A	N/A	it	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kuchuk	N/A	N/A	kuchuk	N/A	dog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bit	N/A	N/A	bit	N/A	louse	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ilon	N/A	N/A	ilon	N/A	snake	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qurt	N/A	N/A	qurt	N/A	worm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tayoq	N/A	N/A	tayoq	N/A	stick	N/A	N/A	N/A	wiktionaryswadesh	N/A
+meva	N/A	N/A	meva	N/A	fruit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuxum	N/A	N/A	tuxum	N/A	seed	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yaproq	N/A	N/A	yaproq	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+barg	N/A	N/A	barg	N/A	leaf	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ildiz	N/A	N/A	ildiz	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tomir	N/A	N/A	tomir	N/A	root	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qobiq	N/A	N/A	qobiq	N/A	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qobuq	N/A	N/A	qobuq	N/A	bark	N/A	N/A	N/A	wiktionaryswadesh	N/A
+gul	N/A	N/A	gul	N/A	flower	N/A	N/A	N/A	wiktionaryswadesh	N/A
+arqon	N/A	N/A	arqon	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ip	N/A	N/A	ip	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bog	N/A	N/A	bog	N/A	rope	N/A	N/A	N/A	wiktionaryswadesh	N/A
+teri	N/A	N/A	teri	N/A	skin	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qon	N/A	N/A	qon	N/A	blood	N/A	N/A	N/A	wiktionaryswadesh	N/A
+suyak	N/A	N/A	suyak	N/A	bone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+moy	N/A	N/A	moy	N/A	fat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuxum	N/A	N/A	tuxum	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yumurtqa	N/A	N/A	yumurtqa	N/A	egg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dum	N/A	N/A	dum	N/A	tail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jun	N/A	N/A	jun	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuk	N/A	N/A	tuk	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+pat	N/A	N/A	pat	N/A	feather	N/A	N/A	N/A	wiktionaryswadesh	N/A
+soch	N/A	N/A	soch	N/A	hair	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bosh	N/A	N/A	bosh	N/A	head	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quloq	N/A	N/A	quloq	N/A	ear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+burun	N/A	N/A	burun	N/A	nose	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tish	N/A	N/A	tish	N/A	tooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+til	N/A	N/A	til	N/A	tongue	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tirnoq	N/A	N/A	tirnoq	N/A	fingernail	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oyoq	N/A	N/A	oyoq	N/A	foot	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oyoq	N/A	N/A	oyoq	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+put	N/A	N/A	put	N/A	leg	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tizza	N/A	N/A	tizza	N/A	knee	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qanot	N/A	N/A	qanot	N/A	wing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qorin	N/A	N/A	qorin	N/A	belly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ichak	N/A	N/A	ichak	N/A	guts	N/A	N/A	N/A	wiktionaryswadesh	N/A
+orqa	N/A	N/A	orqa	N/A	back	N/A	N/A	N/A	wiktionaryswadesh	N/A
+emchak	N/A	N/A	emchak	N/A	breast	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yurak	N/A	N/A	yurak	N/A	heart	N/A	N/A	N/A	wiktionaryswadesh	N/A
+jigar	N/A	N/A	jigar	N/A	liver	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ichmoq	N/A	N/A	ichmoq	N/A	to drink	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yemoq	N/A	N/A	yemoq	N/A	to eat	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tishlamoq	N/A	N/A	tishlamoq	N/A	to bite	N/A	N/A	N/A	wiktionaryswadesh	N/A
+emmoq	N/A	N/A	emmoq	N/A	to suck	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuplamoq	N/A	N/A	tuplamoq	N/A	to spit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qusmoq	N/A	N/A	qusmoq	N/A	to vomit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+esmoq	N/A	N/A	esmoq	N/A	to blow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kulmoq	N/A	N/A	kulmoq	N/A	to laugh	N/A	N/A	N/A	wiktionaryswadesh	N/A
+eshitmoq	N/A	N/A	eshitmoq	N/A	to hear	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bilmoq	N/A	N/A	bilmoq	N/A	to know	N/A	N/A	N/A	wiktionaryswadesh	N/A
+isqamoq	N/A	N/A	isqamoq	N/A	to smell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+uxlamoq	N/A	N/A	uxlamoq	N/A	to sleep	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yashamoq	N/A	N/A	yashamoq	N/A	to live	N/A	N/A	N/A	wiktionaryswadesh	N/A
+urushmoq	N/A	N/A	urushmoq	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qurashmoq	N/A	N/A	qurashmoq	N/A	to fight	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ovlamoq	N/A	N/A	ovlamoq	N/A	to hunt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+urmoq	N/A	N/A	urmoq	N/A	to hit	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kesmoq	N/A	N/A	kesmoq	N/A	to cut	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yormoq	N/A	N/A	yormoq	N/A	to split	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sanchmoq	N/A	N/A	sanchmoq	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tiqmoq	N/A	N/A	tiqmoq	N/A	to stab	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tirnamoq	N/A	N/A	tirnamoq	N/A	to scratch	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qazimoq	N/A	N/A	qazimoq	N/A	to dig	N/A	N/A	N/A	wiktionaryswadesh	N/A
+suzmoq	N/A	N/A	suzmoq	N/A	to swim	N/A	N/A	N/A	wiktionaryswadesh	N/A
+uchmoq	N/A	N/A	uchmoq	N/A	to fly	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yurmoq	N/A	N/A	yurmoq	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bormoq	N/A	N/A	bormoq	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kezmoq	N/A	N/A	kezmoq	N/A	to walk	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kelmoq	N/A	N/A	kelmoq	N/A	to come	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yotmoq	N/A	N/A	yotmoq	N/A	to lie	N/A	N/A	N/A	wiktionaryswadesh	N/A
+turmoq	N/A	N/A	turmoq	N/A	to stand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+burmoq	N/A	N/A	burmoq	N/A	to turn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tushmoq	N/A	N/A	tushmoq	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yiqilmoq	N/A	N/A	yiqilmoq	N/A	to fall	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bermoq	N/A	N/A	bermoq	N/A	to give	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tutmoq	N/A	N/A	tutmoq	N/A	to hold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+siqmoq	N/A	N/A	siqmoq	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qismoq	N/A	N/A	qismoq	N/A	to squeeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yuvmoq	N/A	N/A	yuvmoq	N/A	to wash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+artmoq	N/A	N/A	artmoq	N/A	to wipe	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tortmoq	N/A	N/A	tortmoq	N/A	to pull	N/A	N/A	N/A	wiktionaryswadesh	N/A
+itarmoq	N/A	N/A	itarmoq	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+turtmoq	N/A	N/A	turtmoq	N/A	to push	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tikmoq	N/A	N/A	tikmoq	N/A	to sew	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sanamoq	N/A	N/A	sanamoq	N/A	to count	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kuylamoq	N/A	N/A	kuylamoq	N/A	to sing	N/A	N/A	N/A	wiktionaryswadesh	N/A
+suzmoq	N/A	N/A	suzmoq	N/A	to float	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oqmoq	N/A	N/A	oqmoq	N/A	to flow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+muzlamoq	N/A	N/A	muzlamoq	N/A	to freeze	N/A	N/A	N/A	wiktionaryswadesh	N/A
+shishmoq	N/A	N/A	shishmoq	N/A	to swell	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quyosh	N/A	N/A	quyosh	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kun	N/A	N/A	kun	N/A	sun	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oy	N/A	N/A	oy	N/A	moon	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yulduz	N/A	N/A	yulduz	N/A	star	N/A	N/A	N/A	wiktionaryswadesh	N/A
+suv	N/A	N/A	suv	N/A	water	N/A	N/A	N/A	wiktionaryswadesh	N/A
+daryo	N/A	N/A	daryo	N/A	river	N/A	N/A	N/A	wiktionaryswadesh	N/A
+dengiz	N/A	N/A	dengiz	N/A	sea	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuz	N/A	N/A	tuz	N/A	salt	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tosh	N/A	N/A	tosh	N/A	stone	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qum	N/A	N/A	qum	N/A	sand	N/A	N/A	N/A	wiktionaryswadesh	N/A
+chang	N/A	N/A	chang	N/A	dust	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuproq	N/A	N/A	tuproq	N/A	earth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bulut	N/A	N/A	bulut	N/A	cloud	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tuman	N/A	N/A	tuman	N/A	fog	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yel	N/A	N/A	yel	N/A	wind	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qor	N/A	N/A	qor	N/A	snow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+muz	N/A	N/A	muz	N/A	ice	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tutun	N/A	N/A	tutun	N/A	smoke	N/A	N/A	N/A	wiktionaryswadesh	N/A
+olov	N/A	N/A	olov	N/A	fire	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kul	N/A	N/A	kul	N/A	ash	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yonmoq	N/A	N/A	yonmoq	N/A	to burn	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qizil	N/A	N/A	qizil	N/A	red	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yashil	N/A	N/A	yashil	N/A	green	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sariq	N/A	N/A	sariq	N/A	yellow	N/A	N/A	N/A	wiktionaryswadesh	N/A
+oq	N/A	N/A	oq	N/A	white	N/A	N/A	N/A	wiktionaryswadesh	N/A
+qora	N/A	N/A	qora	N/A	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+siyoh	N/A	N/A	siyoh	N/A	black	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kun	N/A	N/A	kun	N/A	day	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yil	N/A	N/A	yil	N/A	year	N/A	N/A	N/A	wiktionaryswadesh	N/A
+iliq	N/A	N/A	iliq	N/A	warm	N/A	N/A	N/A	wiktionaryswadesh	N/A
+sovuq	N/A	N/A	sovuq	N/A	cold	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yangi	N/A	N/A	yangi	N/A	new	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yaxshi	N/A	N/A	yaxshi	N/A	good	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yomon	N/A	N/A	yomon	N/A	bad	N/A	N/A	N/A	wiktionaryswadesh	N/A
+chirik	N/A	N/A	chirik	N/A	rotten	N/A	N/A	N/A	wiktionaryswadesh	N/A
+kir	N/A	N/A	kir	N/A	dirty	N/A	N/A	N/A	wiktionaryswadesh	N/A
+tekis	N/A	N/A	tekis	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+silliq	N/A	N/A	silliq	N/A	smooth	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nam	N/A	N/A	nam	N/A	wet	N/A	N/A	N/A	wiktionaryswadesh	N/A
+quruq	N/A	N/A	quruq	N/A	dry	N/A	N/A	N/A	wiktionaryswadesh	N/A
+yaqin	N/A	N/A	yaqin	N/A	near	N/A	N/A	N/A	wiktionaryswadesh	N/A
+uzoq	N/A	N/A	uzoq	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+olis	N/A	N/A	olis	N/A	far	N/A	N/A	N/A	wiktionaryswadesh	N/A
+chap	N/A	N/A	chap	N/A	left	N/A	N/A	N/A	wiktionaryswadesh	N/A
+da	N/A	N/A	da	N/A	at	N/A	N/A	N/A	wiktionaryswadesh	N/A
+da	N/A	N/A	da	N/A	in	N/A	N/A	N/A	wiktionaryswadesh	N/A
+bilan	N/A	N/A	bilan	N/A	with	N/A	N/A	N/A	wiktionaryswadesh	N/A
+va	N/A	N/A	va	N/A	and	N/A	N/A	N/A	wiktionaryswadesh	N/A
+agar	N/A	N/A	agar	N/A	if	N/A	N/A	N/A	wiktionaryswadesh	N/A
+chunki	N/A	N/A	chunki	N/A	because	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ism	N/A	N/A	ism	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A
+nom	N/A	N/A	nom	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A
+ot	N/A	N/A	ot	N/A	name	N/A	N/A	N/A	wiktionaryswadesh	N/A
