@@ -1,6 +1,5 @@
+
 b	p
-b	p
-b	b̥
 cä	ts ɛ
 ce	ts e
 ce	ts ə
@@ -18,16 +17,13 @@ chs	x s
 ck	k
 d	t
 d	d
-d	d̥
 dsch	dʒ
-dsch	d̥ʒ̊
 dt	t
 f	f
 ig	i ç
 ig 	i k
 g	k
 g	ɡ
-g	ɡ̊
 h	h
 h	eps
 j	j
@@ -37,8 +33,6 @@ l	l
 m	m
 n	n
 ng	ŋ
-ng	ŋ ɡ
-ng	ŋ ɡ̊
 nk	ŋ k
 p	p
 pf	pf
@@ -48,7 +42,6 @@ qu	kw
 r	ʁ
 r	ɐ
 s	z
-s	z̥
 s	s
 sp	ʃ p
 st	ʃ t
