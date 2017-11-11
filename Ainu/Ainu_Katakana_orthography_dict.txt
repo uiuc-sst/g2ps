@@ -1,3 +1,4 @@
+﻿﻿ア	a
 ア	a
 アエ	æ
 アェ	æ
@@ -36,6 +37,7 @@
 チョ	tʃ o
 ツ	ts u
 ツ゚	t u
+ツ゜	t u
 ッ	t
 テ	t e
 ト	t o
@@ -54,12 +56,15 @@
 ㇵ	x
 ヒ	ç i
 ㇶ	ç
+ビ	b i
 フ	ɸ u
 ㇷ	x
 ヘ	h e
 ㇸ	x
+ベ	b e
 ホ	h o
 ㇹ	x
+ボ	b o
 パ	p a
 ピ	p i
 プ	p u
