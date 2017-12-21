@@ -80,7 +80,7 @@ tonedeadshort = ['˥','˩','˩']
 # (4) tone diacritic, (5) main vowel, (6) 
 # Phoneme string includes (1) onset consonant, (2) vowel,
 #
-
+maindict={}
 
 # (1) first vowel 
 fvs.each do |fv|
@@ -116,7 +116,7 @@ fvs.each do |fv|
                 
                 grapheme = [fv,oc,vd,td,mv,vt,ccg].join('')
                 phoneme = [ocipa[oc],vowel+tone,ccp].join(' ')
-                puts grapheme+" "+phoneme
+                maindict[grapheme] = phoneme
               end # ccipa each
             end # if vipa.has_key
           end # vowel termination index
@@ -126,4 +126,6 @@ fvs.each do |fv|
   end # onset consonant index
 end # first vowel index
 
-
+maindict.each do |grapheme,phoneme|
+  puts grapheme+" "+phoneme
+end

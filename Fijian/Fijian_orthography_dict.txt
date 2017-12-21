@@ -25,11 +25,11 @@ e e
 i i
 o o
 u u
-ei ei̯
-oi oi̯
-ai ai̯
-eu eu̯
-ou ou̯
-au au̯
-iu i̯u
+ei ei
+oi oi
+ai ai
+eu eu
+ou ou
+au au
+iu iu
 
