@@ -6,8 +6,13 @@
 <html><body bgcolor="#ffffff">
 <h1>Segment Inventories, Orthographies, Dictionaries and Text</h1>
 <p>All text files are UTF-8.  If they fail to display, try opening a command window and typing `export LC_ALL=en_US.UTF-8`</p>
-<p>For a reference table of the distinctive features of IPA symbols, I use
-<a href="https://github.com/phoible/dev/blob/master/raw-data/FEATURES/phoible-segments-features.tsv">PHOIBLE</a>.</p>
+<p>Validation code, for example <a href="_validate/g2ipa2asr.py">g2ipa2asr.py</a>, tests
+  to make sure that each IPA symbol has a feature vector defined in
+  <a href="_validate/phoibletable.csv">phoibletable.csv</a>.  That file is based on
+  <a href="https://github.com/phoible/dev/blob/master/raw-data/FEATURES/phoible-segments-features.tsv">PHOIBLE</a>,
+  but with extra versions of some phones added (extra diphthongs, phones with extra diacritics,
+  etc.) as necessary to parse our G2Ps.
+</p>
 <table border=1>
 <tr><th> Language Name</th><th> ISO 639-3</th><th> ISO 639-1</th><th> Segments - (Source)</th><th> Orthography - (Source)</th><th> Pronlex - (Source)</th><th> Podcast Transcripts - (Source)</th><th> Swadesh Texts  - (Source)</th><th> Wikitexts - (Source)</th></tr>
 <tr><td>Ainu</td><td>ain</td><td></td><td><a href="Ainu/Ainu_segments.html">Ainu Segments </a> - (<a href="http://phoible.org/inventories/view/196">Source</a>)</td><td><a href="Ainu/Ainu_Katakana_orthography_dict.html">Ainu Orthography </a>;<a href="Ainu/Ainu_Latin_orthography_dict.html">Ainu Orthography </a> - (<a href="https://en.wikipedia.org/wiki/Ainu_language">Source</a>)</td><td></td><td></td><td><a href="swadesh/ain-eng.wiktionaryswadesh.masterlex.html">Ainu Swadesh Texts  </a> - (<a href="https://en.wiktionary.org/wiki/Appendix:Paleosiberian_Swadesh_lists">Source</a>)</td><td></td></tr>
