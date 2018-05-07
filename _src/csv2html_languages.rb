@@ -29,9 +29,7 @@ htmlheader = <<ENDHEADER
     <h2>Acknowledgments</h2>
       <p>
         This project was funded from 2016-2019 as part of the 
-        <a href="http://www.isle.illinois.edu/sst/research/darpa2015/index.html">LanguageNet</a>
-        grant from the 
-        <a href="https://www.darpa.mil/program/low-resource-languages-for-emergent-incidents">DARPA LORELEIM/a> program.
+        <a href="http://www.isle.illinois.edu/sst/research/darpa2015/index.html">LanguageNet</a>.
       </p>
     <table border=1>
       <tr>
