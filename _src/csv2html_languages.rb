@@ -24,7 +24,7 @@ htmlheader = <<ENDHEADER
         The "Pronlexes" column, in the table below, is the main data being distributed
         by this site.  Other columns are used primarily for validation.
         This database is synchronized with its
-        <a href="https://github.com/uiuc-sst/g2ps">GitHub repository.</a>
+        <a href="https://github.com/uiuc-sst/g2ps">GitHub repository, which includes the validation code.</a>
       </p>
     <h2>Acknowledgments</h2>
       <p>
