@@ -1,0 +1,77 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"></head><body bgcolor="#ffffff"><pre>
+Notes on Thai alphabet
+
+A syllable is:
+
+first part of vowel symbol, if any, J
+
+onset consonant, K
+
+vowel diacritic, if any, L
+
+tone symbol, if any, M
+
+other diacritic, if any, N
+
+vowel symbol, if any, P
+
+coda consonant, if any, Q
+
+
+coda and vowel change the tone, so we need a complete
+JKLMNP  syllabary.  J=6, I think.  K=44 but in 3 classes.
+L=9.  M=4.  N=3.  P=11. Q=44.
+
+So, 6-digit state numbers.
+
+1st digit:
+0 = no initial vowel yet.
+1..5: corresponding initial vowel has been seen.
+  transitions into these generate no IPA.
+
+2nd digit:
+0 = no initial consonant yet.
+1..3: corresponding onset consonant class has been seen.
+  transitions into 1..3 generate the corresponding IPA consonant.
+
+3rd digit:
+0 = no vowel diacritic seen yet.
+1..8: corresponding vowel diacritic seen.
+  transitions into these generate no IPA.
+
+4th digit:
+0 = no tone diacritic seen yet.
+1..4: corresponding tone seen.
+  transitions into these generate no IPA.
+
+5th digit:
+0 = no other diacritic seen yet.
+1..2: corresponding diacritic seen.
+  transitions into these generate no IPA.
+
+6th digit:
+0 = no final vowel symbol seen yet.
+1..9: corresponding final vowel symbol seen.
+  transitions into these generate no IPA.
+
+7th digit:
+0 = no final shortener, r, or l seen yet
+1 = no final shortener.  transitions into this generate a vowel.
+2..4: corresponding final shortener or modifier seen; generate a vowel.
+
+For every state that is a possible combination of the above, there are
+45 output edges corresponding to the 44 possible final consonant
+symbols, and epsilon.  Each final consonant symbol necessarily
+generates the toneme symbol, and the final consonant symbol.
+
+Syllable may begin with a consonant cluster (or consonant, inherent
+vowel, consonant!), therefore from every state of the form xy00000,
+there are 44 edges leaving that symbol going to other states of the
+form xy00000, each corresponding to the append of another consonant to
+the initial cluster.  Not sure if I should also assume an inherent
+vowel here or not.
+
+
+
+
+</pre></body></html>
