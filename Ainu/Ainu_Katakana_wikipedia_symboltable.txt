@@ -1,106 +1,190 @@
 ア	a
+アー	aː
 ア	a
+アー	aː
 アエ	æ
+アエー	æː
 アェ	æ
-ー	ː
+アェー	æː
 イ	i
+イー	iː
 ィ	ɪ
+ィー	ɪː
 ウ	u
+ウー	uː
 ゥ	ʊ
+ゥー	ʊː
 エ	e
+エー	eː
 オ	o
+オー	oː
 カ	k a
+カー	k aː
 キ	k i
+キー	k iː
 ク	k u
-ㇰ	k
+クー	k uː
 ケ	k e
+ケー	k eː
 コ	k o
+コー	k oː
 サ	s a
+サー	s aː
 シ	ʃ i
+シー	ʃ iː
 ㇱ	ɕ
 シャ	ʃ a
+シャー	ʃ aː
 シュ	ʃ u
+シュー	ʃ uː
 シェ	ʃ e
+シェー	ʃ eː
 ショ	ʃ o
+ショー	ʃ oː
 ス	s u
+スー	s uː
 ㇲ	s
 セ	s e
+セー	s eː
 セ゚	ts	e
+セ゚ー	ts	eː
 ソ	s o
+ソー	s oː
 タ	t a
+ター	t aː
 チ	tʃ i
+チー	tʃ iː
 チャ	ts a
+チャー	ts aː
 チャ	tʃ a
+チャー	tʃ aː
 チュ	tʃ u
+チュー	tʃ uː
 チェ	tʃ e
+チェー	tʃ eː
 チョ	ts o
+チョー	ts oː
 チョ	tʃ o
+チョー	tʃ oː
 ツ	ts u
+ツー	ts uː
 ツ゚	t u
+ツ゚ー	t uː
 ツ゜	t u
+ツ゜ー	t uː
 ッ	t
 テ	t e
+テー	t eː
 ト	t o
+トー	t oː
 ト゚	t u
+ト゚ー	t uː
 ㇳ	t
 ナ	n a
+ナー	n aː
 ニ	n i
+ニー	n iː
 ヌ	n u
+ヌー	n uː
 ㇴ	n
 ネ	n e
+ネー	n eː
 ノ	n o
+ノー	n oː
 ン	n
+ンー	nː
 ン	m
+ンー	mː
 ン	ŋ
+ンー	ŋː
 ハ	h a
+ハー	h aː
 ㇵ	x
 ヒ	ç i
+ヒー	ç iː
 ㇶ	ç
 ビ	b i
+ビー	b iː
 フ	ɸ u
+フー	ɸ uː
 ㇷ	x
 ヘ	h e
+ヘー	h eː
 ㇸ	x
 ベ	b e
+ベー	b eː
 ホ	h o
+ホー	h oː
 ㇹ	x
 ボ	b o
+ボー	b oː
 パ	p a
+パー	p aː
 ピ	p i
+ピー	p iː
 プ	p u
+プー	p uː
 ㇷ゚	p
 ペ	p e
+ペー	p eː
 ポ	p o
+ポー	p oː
 マ	m a
+マー	m aː
 ミ	m i
+ミー	m iː
 ム	m u
+ムー	m uː
 メ	m e
+メー	m eː
 モ	m o
+モー	m oː
 ㇺ	m
 ヤ	j a
+ヤー	j aː
 ユ	j u
+ユー	j uː
 イェ	j e
+イェー	j eː
 ヨ	j o
+ヨー	j oː
 ラ	ɾ a
+ラー	ɾ aː
 リ	ɾ i
+リー	ɾ iː
 ル	ɾ u
+ルー	ɾ uː
 レ	ɾ e
+レー	ɾ eː
 ロ	ɾ o
-ㇻ	a ɾ
+ロー	ɾ oː
+ㇻ	ɾ a 
+ㇻー	ɾ aː
 ㇻ	ɾ
-ㇼ	i ɾ
+ㇼ	ɾ i 
+ㇼー	ɾ iː
 ㇼ	ɾ
-ㇽ	u ɾ
+ㇽ	ɾ u 
+ㇽー	ɾ uː
 ㇽ	ɾ
-ㇾ	e ɾ
+ㇾ	ɾ e 
+ㇾー	ɾ eː
 ㇾ	ɾ
-ㇿ	o ɾ
+ㇿ	ɾ o 
+ㇿー	ɾ oː
 ㇿ	ɾ
 ワ	w a
+ワー	w aː
 ウィ	w i
+ウィー	w iː
 ヰ	w i
+ヰー	w iː
 ウェ	w e
+ウェー	w eː
 ヱ	w e
+ヱー	w eː
 ウォ	w o
+ウォー	w oː
 ヲ	w o
+ヲー	w oː
 
