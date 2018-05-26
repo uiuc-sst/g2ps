@@ -41,7 +41,9 @@ for row in iter(table):
     urllist = [ x.get('href') for x in row[g2pcolumn] ]
     g2plist = [ x for x in urllist if isinstance(x,str) and 'http' not in x ]
 
-    for g2p in g2plist:
+    # Modified this so it only takes the first G2P, if there are several...
+    if len(g2plist) > 0:
+        g2p = g2plist[0]
         (filename, extension) = os.path.splitext(g2p)
         with open('../'+filename+'.txt') as f:
             for line in f:

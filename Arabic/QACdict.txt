@@ -57,7 +57,7 @@
 مليار m i l iː aː r 
 برميل b i r m iː l 
 هو h u n w a 
-ن- n a -
+ن n a 
 نسبته n i s b a t u h 
 ستون s i tː uː n 
 احتياطي aɪ ħ t iː aː tˤ iː 
@@ -145,7 +145,7 @@
 أدى ʔ a dː aː 
 زيادة z iː aː d t 
 مدخولات m a d x uː l aː t 
-المنتج ة aɪ l m u n t i dʒ a a 
+المنتجة aɪ l m u n t i dʒ a a 
 نفس n i f s 
 الوقت aɪ l w q i t 
 التضخم aː a l tː a dˤ a xː u m 
@@ -239,7 +239,7 @@
 الأساسي aɪ l ʔ a s aː s iː 
 ليست l aɪ s t 
 المنتجة aɪ l m u n t i ʒ a t 
-ألیوم ʔ a a l یuː m 
+ألیوم ʔ a a l  uː m 
 الذي aː a lː ð iː 
 يحدد iː ħ a dː i d 
 السعر aɪ l s i ّʕ r 
@@ -272,15 +272,15 @@
 إذا ʔ i ð aː a 
 عوامل ʕ aʊ aː m i l 
 أخرى ʔ a u x r aː 
-بال- b aː l -
+بال b aː l 
 بالإظافة b i aː l ʔ i ðˤ aː f a t 
 جزء ʒ u z ʔ 
 لكن l a k i n 
 الأخرى aɪ l ʔ a x r aː 
 إلمظاربة ʔ i l m u ðˤ aː r a b a a 
 ألعوامل ʔ a a l ʕ aʊ aː m i l 
-ال- aː lː -
-أت- ʔ a t a -
+ال aː lː 
+أت ʔ a t a 
 ألتوترات ʔ a a l tː a w a tː u r aː t 
 السياسية aɪ l s i i ّiː aː s i j a t 
 مما m i m aː 
@@ -300,8 +300,8 @@
 الأسهم aɪ l ʔ a s h u m 
 أسواق ʔ a a s w aː q i n 
 العقار aɪ l ʕ a q aː r 
-ا- aː -
-الل- aː l l -
+ا aː 
+الل aː l l 
 البولص aɪ l b uː l sˤ 
 غيره ɣ iː r u h 
 المظاربة aː l m u ðˤ aː r a b a a 
@@ -371,11 +371,11 @@
 الصيانة aɪ l sˤː iː aː n a a 
 دائما d aː ʔ m aː a n 
 بالنسبة b i aː l n i ّs b i a 
-الفت- aː l f a t -
+الفت aː l f a t 
 ينخفظ j a n x a f i ðˤ 
 الموسمي aɪ l m aʊ s i m iː 
 وظع w a ðˤ ʕ i n 
-م- mː -
+م mː 
 مثير m u θ iː r 
 متغير m i t ɣ a jː r 
 بشكل b ʃ a k i l 
@@ -403,14 +403,14 @@
 تغيرت t i ɣ a jː r t 
 أصبح ʔ a sˤ a b i ħ 
 هناك h n aː k 
--رت -r a t 
+رت r a t 
 كثيرا k a θ iː r aː a n 
 لما l m a ّaː 
 نرجع n r ʒ a ʕ 
 التقليدي aɪ l tː a q l iː d iː 
 الماظي aɪ l m aː ðˤ iː 
 كان k aː n 
-يتأ- j i t a ʔ a -
+يتأ j i t a ʔ a 
 يتأثر j a t a ʔ a θː a r 
 ب b a 
 ألعرظ ʔ a a l ʕ a r ðˤ 
@@ -432,11 +432,11 @@
 هزا h a z aː 
 الأمر aɪ l ʔ a m i r 
 إستقال ʔ i s t a q aː l 
-ألج نرال ʔ a a l dʒ i n i r aː l 
+ألجنرال ʔ a a l dʒ i n i r aː l 
 فالون f aː l uː n 
 قائد q aː ʔ i d 
 الوسطى aɪ l w i s tˤ aː 
-أب غانستان ʔ a a v ɣ aː n i s t aː n 
+أبغانستان ʔ a a v ɣ aː n i s t aː n 
 أثارت ʔ a a θ aː r a t 
 استقالته aɪ s t i q aː l a t u h 
 ردود r u d w d 
@@ -503,8 +503,8 @@
 ماذا m aː ð aː 
 يكون iː k uː n 
 يتفاعل j a t a f aː ʕ a l 
-فی f a ی
-معال- m a ʕ aː l i -
+فی f a 
+معال m a ʕ aː l i 
 البيت aɪ l b iː t 
 الأبيض aɪ l ʔ a a b j a dˤ 
 قال q aː l 
@@ -518,11 +518,11 @@
 تتم t a t m 
 لإيران l i ʔ i iː r aː n 
 أعاد ʔ a a ʕ aː d 
-ج و dʒ aʊ 
+جو dʒ aʊ 
 التوتر aɪ l t a ّw tː r 
 القموظ aɪ l q u m uː ðˤ 
 ألقموظ ʔ a a l q u m uː ðˤ 
-يت- j i t -
+يت j i t 
 تتفاعل t a t a f aː ʕ a l 
 معاها m a ʕ aː h aː 
 الأسواق aː l ʔ a s w aː q 
@@ -558,7 +558,7 @@
 أعطيك ʔ a ʕ tˤ iː k 
 خلال x i l aː a l 
 السبع aɪ l sː a b i ʕ 
-الس- aɪ l s a ّ-
+الس aɪ l s a ّ
 الأسابيع aː l ʔ a s aː b iː ʕ 
 الماظية aɪ l m aː ðˤ j a t 
 تزايد t u z aː j i d 
@@ -583,7 +583,7 @@
 آقول ʔ aː gː w l 
 عنده ʕ i n d a h 
 مخزون m a x z uː n 
-مریح m u r i یħ 
+مریح m u r i ħ 
 لأ l ʔ a 
 شوف ʃ uː f a 
 لي l j i 
@@ -594,7 +594,6 @@
 طوابير tˤ aʊ aː b iː r 
 أمام ʔ a m aː m 
 محطات m a ħ a tˤː aː t 
-Zل Zl 
 الصورة aː l sˤː uː r a a 
 المطمئنة aɪ l m u tˤ m a ʔ i nː a a 
 تتحدث t a t a ħ d a θ 
@@ -611,7 +610,7 @@ Zل Zl
 شي ʃ a j i n 
 الخطورة aɪ l x u tˤ uː r a a 
 يمثلها j u m a θː i l h aː 
-أس- ʔ a s -
+أس ʔ a s 
 قياسية q iː aː s i jː a a 
 الرقم aɪ l r a ّq m 
 ميتين m iː t iː n 
@@ -621,24 +620,24 @@ Zل Zl
 هذي h i ð iː 
 وصلت w i sˤ l a t 
 تورات t aʊ r aː t 
-ح- ħ a -
+ح ħ a 
 توترات t a w a tː u r aː t 
 لانه l aː nː a h 
-ق لت g a l t 
+قلت g a l t 
 انت aɪ n t i 
-أل- ʔ a a l -
+أل ʔ a a l 
 ألخليج ʔ a l x a l iː ʒ 
 بالمية b i aː lː i m i j a a 
 الاحتياطات aː l i aː ħ t iː aː tˤ aː t 
 أنت ʔ a a n t 
-هذ- h a ð a -
-ل- l a -
+هذ h a ð a 
+ل l a 
 يمثل j u m a θː i l 
 يمثلون j u m a θː i l uː n 
 لذلك l i ð l i k 
 اهو aʊ h uː 
-ت- t -
-أعت- ʔ a a ʕ t -
+ت t 
+أعت ʔ a a ʕ t 
 لو l w 
 تقع t a q a ʕ 
 حادثة ħ aː d i θ a a 
@@ -662,7 +661,7 @@ Zل Zl
 يعيش j a ʕ iː ʃ 
 تحت t a ħ i t 
 نفسية n a f s i j a ّa 
-يع- j a ʕ -
+يع j a ʕ 
 استقلوا aɪ s t a q a lː uː aː 
 وظعوا w a ðˤ a ʕ uː aː 
 انتقلوا aɪ n t a q a l uː aː 
@@ -680,9 +679,9 @@ Zل Zl
 لاء l aː ʔ 
 الشراء aɪ l ʃ i ّr aː ʔ 
 المستقبلي aɪ l m u s t a q b a l iː 
-الفيوك ر aɪ l f iː uː tʃ a r 
+الفيوكر aɪ l f iː uː tʃ a r 
 بالورق b i aː l w a r a q 
-ان- aː n -
+ان aː n 
 كلهم k i lː i h u m 
 مظاربات m u ðˤ aː r a b aː t 
 ورق w a r a q 
@@ -694,7 +693,7 @@ Zل Zl
 فيه f i j u h 
 فوق  f uː gː 
 مليون a m i l iː uː n 
-اليو- aː l iː uː -
+اليو aː l iː uː 
 القائمة aɪ l q aː ʔ i m a t 
 ترقب t a r a qː u b 
 إبريل ʔ i b r iː l 
@@ -706,7 +705,7 @@ Zل Zl
 يدفع j i d f a ʕ 
 هؤلاء h a ʔ a l aː ʔ 
 مزيد m a z iː d 
-الإرت- aɪ l ʔ i r t i -
+الإرت aɪ l ʔ i r t i 
 أتمنى ʔ a a t m a nː aː 
 كذبة k a ð b a a 
 ابريل aː b r iː l 
@@ -753,7 +752,7 @@ Zل Zl
 نستبق n a s t a b i q 
 الأحداث aː l ʔ a ħ d aː θ 
 لنرى l i n a r aː 
-س- s -
+س s 
 يحصل j a ħ sˤ i l 
 الكلام aː a l k a l aː m 
 فإبريل f a ʔ i b r iː l 
@@ -762,10 +761,10 @@ Zل Zl
 ندخل n d a x i l 
 السناريو aɪ l sː i n aː r iː uː 
 لأن i l ʔ a nː 
-السينا- aɪ l sː iː n aː -
+السينا aɪ l sː iː n aː 
 مكلف m u k a l i ّf 
-يد- j a d -
-أمريکا ʔ a a m r iː کaː 
+يد j a d 
+أمريکا ʔ a a m r iː aː 
 لن l a n 
 تتكلف t a t a k a lː f 
 أنتم ʔ a n t u m 
@@ -784,7 +783,7 @@ Zل Zl
 نتكلم n a t k a lː m 
 بوظوح b i w u ðˤ uː ħ 
 إنت ʔ i n tː 
-مق- m u q -
+مق m u q 
 مقدمتك m u q a d i m t i k 
 إحتياطات ʔ i ħ t iː aː tˤ aː t 
 يستوردون j a s t aʊ r i d uː n 
@@ -804,7 +803,7 @@ Zل Zl
 احتياطات aɪ ħ t iː aː tˤ aː t 
 مثبته m u θ a b a t a h 
 واحتياطات j aː ħ t iː aː tˤ aː t 
-تكا- t a k aː -
+تكا t a k aː 
 تكاليفه t a k aː l iː f a h 
 الإنتاجية aɪ l ʔ i n t i aː ʒ i jː a a 
 رخيصة r a x iː sˤ a a 
@@ -813,7 +812,7 @@ Zل Zl
 معظمها m u ʕ ðˤ a m h aː 
 الديب aɪ l d iː b 
 ووتر w u w t a r 
-اكت- aː k t -
+اكت aː k t 
 بإنتاج b i ʔ i n t i aː ʒ 
 البحر aɪ l b a ħ r 
 الأعماق aː a l ʔ a a ʕ m aː q 
@@ -830,7 +829,7 @@ Zل Zl
 آخره ʔ aː x i r h 
 تتذكر t i t i ðː k a r 
 القصة aɪ l q i sˤ a a 
-الت- aː l t a -
+الت aː l t a 
 الأحلام aɪ l ʔ a ħ l aː m 
 اعتبرها aː ʕ t i b r h aː 
 كأحلام k a ʔ a a ħ l aː m 
@@ -857,7 +856,7 @@ Zل Zl
 إنكم ʔ i i nː i k u m 
 تتكلمون t i t i k a l i m uː n 
 بيننا b iː n a n aː 
-الحج- aː l ħ i ʒ a -
+الحج aː l ħ i ʒ a 
 الغرف aɪ l ɣ u r a f 
 المغلقة aɪ l m u ɣ l a q a a 
 الإعلام aɪ l ʔ i ʕ l aː m 
@@ -882,7 +881,7 @@ Zل Zl
 احتياجات aɪ ħ t iː aː ʒ aː t 
 بالتأكيد b i aː l t a ّʔ a k iː d 
 أنو ʔ a a n uː 
-الأم- aː a l ʔ a a m -
+الأم aː a l ʔ a a m 
 الآمن aː a l ʔ aː m i n 
 الدخول aɪ l d i ّx uː l 
 ورغم w a r a ɣ m a 
@@ -921,7 +920,7 @@ Zل Zl
 دلوأتي d i l w a ʔ a t iː 
 اتفق aɪ t a f a q a 
 معاك m a ʕ aː k i 
-الع- aː l ʕ a -
+الع aː l ʕ a 
 عمل ʕ u m i l 
 خيري x aɪ r iː 
 التكرم aɪ l tː a k a rː u m 
@@ -947,7 +946,7 @@ Zل Zl
 قوسين q uː s iː n 
 أجل ʔ a ʒ i l 
 تضعوها t a dˤ a ʕ uː h aː 
-أج ل ʔ a a dʒ l 
+أجل ʔ a a dʒ l 
 عندي ʕ i n d iː 
 الدليل aɪ l d a ّl iː l 
 عندي ʕ a n d iː 
@@ -961,7 +960,7 @@ Zل Zl
 تصرون t u sˤ i rː uː n 
 ألخليجيين ʔ a a l x a l iː dʒ i jː iː n 
 أبيك ʔ a u b iː k 
-بالدرج ة b i aː l d a r a dʒ a t 
+بالدرجة b i aː l d a r a dʒ a t 
 الأولى aː l ʔ a uː l aː 
 كخليجيين k a x a l iː dʒ i jː iː n 
 وأبيك w a ʔ a u b iː k 
@@ -997,7 +996,7 @@ Zل Zl
 أخذنا ʔ a x a ð n aː 
 القياس aɪ l q iː aː s 
 انشوفهم aɪ n ʃ uː f h u m 
-تت- t t -
+تت t t 
 تتراوح t a t r aː w a ħ 
 الخمسة aɪ l x a m s a t 
 الستة aɪ l s i ّt a 
@@ -1005,7 +1004,7 @@ Zل Zl
 النسبة aː l n i ّs b a a 
 التناسب aɪ l tː a n aː s u b 
 هوه h u wː i h 
-الن- aː l n -
+الن aː l n 
 زاد z aː d 
 سعره s i ʕ r u h 
 محد m a ħ d 
@@ -1046,7 +1045,7 @@ Zل Zl
 ركود r u k uː d 
 الإقتصاد aɪ l ʔ i q t i sˤ aː d 
 تقيم t q aɪ m 
-قائ- q aː ʔ i -
+قائ q aː ʔ i 
 حدث ħ a d a θ 
 الظعف aɪ l ðˤː a ʕ f 
 الركود aː l rː u k uː d 
@@ -1070,23 +1069,23 @@ Zل Zl
 غطاء ɣ i tˤ aː ʔ 
 خلنا x a l n aː 
 نع n a ʕ 
-هي- h iː -
+هي h iː 
 هيه h iː h 
 حقبة ħ u q b a a 
 تاريخية t aː r iː x i jː a a 
 أول ʔ a a wː i l 
-ص- sˤ a -
+ص sˤ a 
 تصدير t a sˤ d iː r 
 صدر sˤ a d i r 
 ألقرن ʔ a a l q a r n 
 القرن aː l q a r n 
 العشرين aɪ l ʕ i ʃ r iː n 
 تسعير t a s ʕ iː r 
-الدولا- aɪ l dː uː l aː -
+الدولا aɪ l dː uː l aː 
 تاريخيا t aː r iː x iː aː a n 
 كله k u n lː u h 
-يتع- j a t ʕ -
-ي- j i -
+يتع j a t ʕ 
+ي j i 
 يسعر j u s a ʕː a r 
 ألبترول ʔ a l b i t r uː l 
 مشتقاته m u ʃ a t a qː aː t u h u 
@@ -1113,13 +1112,13 @@ Zل Zl
 إلغطاء ʔ i l ɣ i tˤ aː ʔ 
 للعملة l i l ʕ u m l a a 
 الغطاء aː l ɣ i tˤ aː ʔ 
-ش- ʃ -
+ش ʃ 
 صحيح sˤ a ħ iː ħ 
 الاتفاقات aː l i aː tː i f aː q aː t 
 تقوم t a q uː m u 
 يبقى j i b q aː 
 مقابل m u q aː b i l 
-بح- b i ħ a -
+بح b i ħ a 
 بحماية b i ħ i m aː j a a 
 هزه h a z h 
 الأنZمة aɪ l ʔ a a n Zm a a 
@@ -1141,7 +1140,7 @@ Zل Zl
 حصة ħ i sˤː a 
 يستهلك j a s t a h l i k 
 ثمانين θ a m aː n iː n 
-بر- b a r -
+بر b a r 
 كثيرة k θ iː r a t 
 خارج x aː r i ʒ 
 تتعامل t i t ʕ aː m a l 
@@ -1155,19 +1154,19 @@ Zل Zl
 التسعير aɪ l tː a s ʕ iː r 
 عشان ʕ a a ʃ aː n 
 اسعر aɪ sː a ʕː i r 
-المنت- aɪ l m u n t -
+المنت aɪ l m u n t 
 تتفق t a t a fː q 
 الكبار aɪ l kː u b aː r 
 ايقرروا aɪ iː q a rː a r uː aː 
 إنتو ʔ i n t aʊ 
 الخليق  aɪ l x a l iː g 
-الكبا- aɪ l k u b aː -
+الكبا aɪ l k u b aː 
 عندهم ʕ i n d h u m 
 الاحتياطي aː l i aː ħ t iː aː tˤ iː 
--تياط -t iː aː tˤ 
-آخ- ʔ aː x i -
+تياط t iː aː tˤ 
+آخ ʔ aː x i 
 آخذ ʔ aː x i ð 
-كإنت- k a ʔ i n t a -
+كإنت k a ʔ i n t a 
 كتصدير k a t a sˤ d iː r 
 ككل k a k u l 
 ظمنها ðˤ i m n h aː 
@@ -1184,7 +1183,7 @@ Zل Zl
 أرادت ʔ a r aː d a t 
 بنفسا b i n a f i sː aː 
 اتفاغ aɪ tː i f aː ɣ 
-للنف- l i l nː a f -
+للنف l i l nː a f 
 توجه t uː ʒː h 
 نية n i jː a 
 للتغيير l i l tː a ɣ j i iː r 
@@ -1222,7 +1221,7 @@ Zل Zl
 بستورد b i s t aʊ r i d 
 هم h u m 
 الخسارة aː l x a s aː r a a 
-يس- j a s -
+يس j a s 
 ايصدر aɪ iː sˤ a dː i r 
 الخسرانين aɪ l x a s r aː n iː n 
 انتو aɪ n t aʊ 
@@ -1267,7 +1266,7 @@ Zل Zl
 تتكلم t t k a lː m 
 الإنفكاك aɪ l ʔ i n f i k aː k 
 الانفكاك aɪ l aɪ n f i k aː k 
-بس- b i s -
+بس b i s 
 بسهولة b i s u h uː l a a 
 الزواج aː l z aʊ aː ʒ 
 تتزوج t a t a z a wː a ʒ 
@@ -1305,7 +1304,7 @@ Zل Zl
 البحرين aɪ l b a ħ r iː n 
 تعدل t u ʕ a dː i l 
 قرأت q a r a ʔ a t 
-تصري- t a sˤ r iː -
+تصري t a sˤ r iː 
 التصريح aɪ l tː a sˤ r iː ħ 
 دونجونز d uː n ʒ uː n z 
 أعتقد ʔ a a ʕ t i q i d 
@@ -1334,7 +1333,7 @@ Zل Zl
 بدراسة b i d i r aː s a a 
 تدخل t i dː x a l 
 ظمن ðˤ i m n a 
-فر- f a r -
+فر f a r 
 وحدكم w a ħ d a k u m 
 تنفردوا t a n f a r i d uː aː 
 بهزا b i h a z aː 
@@ -1357,8 +1356,8 @@ Zل Zl
 بجيب b a ʒ iː b 
 اقتصاديين aɪ q t i sˤ aː d i jː iː n 
 تعكس t a ʕ k i s 
-إحن- ʔ i ħ n a -
--لوبال -l uː b aː l 
+إحن ʔ i ħ n a 
+لوبال l uː b aː l 
 هاوس h aː w i s 
 أل ʔ a a l 
 بسيط b a s iː tˤ 
@@ -1390,7 +1389,7 @@ Zل Zl
 بفك b i f a k 
 الارتباط aː l i aː r t i b aː tˤ 
 أولا ʔ a aʊ l aː a n 
-للعملي- l i l ʕ a m l iː -
+للعملي l i l ʕ a m l iː 
 نظري n a ðˤ a r iː 
 الشخصي aɪ l ʃ a ّx sˤ iː 
 ألكل ʔ a l k u lː 
@@ -1600,7 +1599,7 @@ Zل Zl
 توازن t aʊ aː z u n 
 الإسنين aɪ l ʔ i s n iː n 
 ألمهم ʔ a a l m u h u m 
-ه- h -
+ه h 
 لجنة l ʒ a n a t 
 أصدر ʔ a sˤ d a r 
 سمو s i mː w 
@@ -1613,7 +1612,7 @@ Zل Zl
 اللجنة aɪ l l a ʒ n a a 
 تظع t a ðˤ a ʕ 
 أطر ʔ a a tˤ i rː 
-لح- l ħ -
+لح l ħ 
 قواعد q aʊ aː ʕ i d 
 لحل l i ħː l 
 القاعدة aɪ l q aː ʕ i d a a 
@@ -1646,9 +1645,9 @@ Zل Zl
 القطاعات aɪ l q i tˤ aː ʕ aː t 
 سيما s iː m aː 
 زووا z a w u j aː 
-الز- aː l z a -
-الوZ- aɪ l w a Z-
--Zائف -Zaː ʔ i f 
+الز aː l z a 
+الوZ aɪ l w a Z
+Zائف Zaː ʔ i f 
 رضى r i dˤ aː 
 وZیفي w a Zیf iː 
 حتعالق  ħ a t u ʕ aː l i g 
@@ -1691,7 +1690,7 @@ Zل Zl
 بل b a l 
 تزيدها t a z iː d a h aː 
 تزيد t a z iː d 
-ب- b -
+ب b 
 نرجو n a r ʒ uː 
 لمزيد l i m a z iː d 
 بعظ b a ʕ a ðˤ 
@@ -1704,7 +1703,7 @@ Zل Zl
 عام ʕ aː m u 
 مضى m a dˤ aː 
 سابق s aː b i q 
-حيح- ħ iː ħ -
+حيح ħ iː ħ 
 اQلدولة aː Ql dː aʊ l a a 
 جربت ʒ a rː i b a t 
 لأربعين l a ʔ a a r b ʕ iː n 
@@ -1762,20 +1761,20 @@ Zل Zl
 يعطي iː ʕ tˤ iː 
 جيدة ʒ a j i d a a 
 تعرف t ʕ a r f 
-ق- q -
+ق q 
 نرتبط n a r t a b i tˤ 
 بقوة b i q u wː t 
 للعمالة l i l ʕ a m aː l a a 
-نج- n ʒ i -
+نج n ʒ i 
 عندنا ʕ i n d i n aː 
 المهندسين aː a l m u h a n d i s iː n 
-ذو- ð aʊ -
+ذو ð aʊ 
 تخصصات t a x a sˤː u sˤ aː t 
 يأتوا j a ʔ a t uː aː 
 لقطر l a q a tˤ a r 
-تكل- t a k a l -
+تكل t a k a l 
 بالتكاليف b i aː l tː a k aː l iː f 
-نت- n t a -
+نت n t a 
 نتفاعل n a t a f aː ʕ a l 
 تفهمنا t a f a hː u m n aː 
 التام aɪ l tː aː m 
@@ -1826,7 +1825,7 @@ Zل Zl
 إلتظخم ʔ i l tː a ðˤ a xː u m 
 لولا l aʊ l aː 
 السيور aɪ l sː iː uː r 
-الق- aɪ l q -
+الق aɪ l q 
 المشاريع aː l m i ʃ aː r iː ʕ 
 اضلكبير aː dˤ l k a b iː r 
 كثرة k a θ r a t 
@@ -1866,7 +1865,7 @@ Zل Zl
 إلتنمية ʔ i l tː a n m i j a a 
 وجود w ʒ uː d 
 محاسبة m u ħ aː s a b a a 
-فسيب- f a s a j a b -
+فسيب f a s a j a b 
 فسيبغى f a s aɪ b ɣ aː 
 شكرا ʃ u k r i aː a n 
 سعد s a ʕ a d 
@@ -1936,7 +1935,7 @@ Zل Zl
 مواجهة m uː aː ʒ a h a a 
 ألمتقدم ʔ a a l m u t a q a dː i m 
 كالصين k aː l sˤː iː n 
-تص- t a sˤ -
+تص t a sˤ 
 تصبح t i sˤ b a ħ 
 المسألة aː a l m a s ʔ a l a a 
 عسكرية ʕ a s k a r i j a t 
@@ -2078,11 +2077,11 @@ Zل Zl
 الراق ل aɪ l r a ّaː g i l 
 بيؤل b iː ʔ a l 
 خليك x a lː iː k 
-سع- s a ʕ a -
+سع s a ʕ a 
 غلابة ɣ a l aː b a a 
 متأكدين m i t ʔ a a k d iː n 
 أصل ʔ a a sˤ i l 
-عن- ʕ i n -
+عن ʕ i n 
 عندوش ʕ a n d uː ʃ 
 غلبان ɣ a l b aː n 
 لل l i l 
@@ -2096,7 +2095,7 @@ Zل Zl
 للحاكم l a l ħ aː k i m 
 لدولة l i d aʊ l a a 
 ايشوف aɪ iː ʃ uː f 
-المؤث- aː l m u ʔ θ i -
+المؤث aː l m u ʔ θ i 
 المؤشرات aː l m u ʔ a ʃ i r aː t 
 مؤشرات m u ʔ a ʃː i r aː t 
 النمو aɪ l nː i m uː 
@@ -2110,7 +2109,7 @@ Zل Zl
 طلب tˤ i l a b 
 واقع w aː q i ʕ 
 الشخص aː l ʃ a x sˤ 
-بعي- b i ʕ aɪ -
+بعي b i ʕ aɪ 
 بأم b i ʔ a u mː i 
 عينه ʕ iː n u h 
 يستطيع iː s t a tˤ iː ʕ 
@@ -2168,13 +2167,13 @@ Zل Zl
 الاوسط aɪ l aː aʊ s a tˤ 
 التعليم aɪ l t a ʕ l iː m 
 المدينة aː a l m a d iː n a a 
-الثقا- aɪ l θ a q aː -
+الثقا aɪ l θ a q aː 
 التعليمية aɪ l t a ّʕ l i j i m i j a t 
 الإنجازات aɪ l ʔ i n ʒ aː z aː t 
 التاريخية aɪ l t a ّaː r iː x i j a t 
 جامعات ʒ aː m i ʕ aː t 
-للل- l l l -
-ات- aː t -
+للل l l l 
+ات aː t 
 التركيز aː a l t a ّr k iː z 
 إنشاء ʔ i i n ʃ aː ʔ 
 طبية tˤ i b jː t 
@@ -2183,9 +2182,9 @@ Zل Zl
 الكبير aɪ l k i b iː r 
 بتألدوش b i t ʔ a a lː i d uː ʃ 
 دبي d u b aɪ 
-ابتع- aː b t i ʕ -
+ابتع aː b t i ʕ 
 نقلد n u q a lː i d 
-خصو- x u sˤ uː -
+خصو x u sˤ uː 
 خصوصياتها x u sˤ uː sˤ i jː aː t h aː 
 ركزنا r a kː z n aː 
 الصحة aɪ l sˤ i ّħ a a 
@@ -2560,10 +2559,10 @@ Zل Zl
 تجمع t u ʒ a m a ّʕ 
 ايخالف aɪ iː x aː l i f 
 فيه f iː h 
--هل -h a l 
+هل h a l 
 بنيتم b a n aɪ t u m 
 العلا aɪ l ʕ u l aː 
-قه- q a h -
+قه q a h 
 تج نب t a dʒ n u b 
 أصلا ʔ a sˤ l aː 
 وثيقة w a θ iː q a t 
@@ -2706,8 +2705,8 @@ Zل Zl
 إنك ʔ i nː a k 
 بتؤول b i t ʔ w l 
 بنحترم b i n a ħ t a r i i m 
--خل -x a l i 
-ني- n iː -
+خل x a l i 
+ني n iː 
 أكمل ʔ a k m a l 
 كملت k a mː a l t 
 نقدر n u qː d i r 
@@ -3399,8 +3398,8 @@ Zام Zaː m
 وحتى w ħ a tː aː 
 تنازلنا t a n aː z a l n aː 
 نقبل n i q b a l 
--أن -ʔ a n 
-تم- t u m -
+أن ʔ a n 
+تم t u m 
 تتنازلوا t a t a n aː z a l uː aː 
 انوظحها aː n w a ðˤ ħ i h aː 
 نعول n u ʕ a wː l 
@@ -3410,14 +3409,14 @@ Zام Zaː m
 أكون ʔ a a k uː n 
 وياك w i jː aː k 
 صريح sˤ a r iː ħ 
--هل -h a l 
+هل h a l 
 الخلا aɪ l x i l aː 
-ف- f i -
+ف f i 
 شخصي ʃ a x sˤ iː 
 وهناك w h u n aː k 
 أم ʔ a u m 
--أر -ʔ a r 
-جو- ʒ uː -
+أر ʔ a r 
+جو ʒ uː 
 ق ت g u t 
 أرجو ʔ a a r ʒ uː 
 يحصر j u ħ sˤ a r 
@@ -3537,9 +3536,9 @@ Zام Zaː m
 فرنسا f a r a n s aː 
 الجج يرة aɪ l ʒ a dʒ iː r a t 
 العديد aɪ l ʕ a d iː d 
--إي -ʔ i iː 
+إي ʔ i iː 
 مانا m aː nː aː 
-بالله- b i aː l l h -
+بالله b i aː l l h 
 اتق ول aɪ t g aʊ l 
 إيمانا ʔ i iː m aː nː aː 
 بالله b aː l lː a h 
@@ -4164,8 +4163,8 @@ Zام Zaː m
 يدرس j u d r a ّs 
 صحوة sˤ a ħ w a t 
 للجامعة l i l ʒ aː m i ʕ a t 
--الجا -aɪ l ʒ aː 
-معه- m ʕ a h -
+الجا aɪ l ʒ aː 
+معه m ʕ a h 
 أداة ʔ a d aː t 
 للتتفيذ l l t a t f iː ð 
 نبيه n a bː iː h 
@@ -4586,8 +4585,8 @@ Zام Zaː m
 نشتمع n i ʃ t i m i ʕ 
 زعماء z u ʕ a m aː ʔ 
 تأديب t ʔ a d iː b 
--إحنا -ʔ i ħ n aː 
-قيقة- q iː q a t -
+إحنا ʔ i ħ n aː 
+قيقة q iː q a t 
 شرخ ʃ a r x 
 القاهرة aɪ l q aː h i r a t 
 إحدعشر ʔ i i ħ d a ʕ ʃ a r 
@@ -5397,8 +5396,8 @@ Zام Zaː m
 اتخلينا aː t x a l j i nː aː 
 نتجاوز n a t a ʒ aː w a z 
 خلافاتنا x i l aː f aː t n aː 
--ل -l a 
-فتني- f a t a n iː -
+ل l a 
+فتني f a t a n iː 
 شرط ʃ a r a tˤ 
 لبعض l i b a ʕ dˤ 
 صلاحيتا sˤ a l aː ħ iː t a ّaː 
@@ -6912,7 +6911,7 @@ Zام Zaː m
 إرتفاع ʔ i r t i f aː ʕ 
 يمكنكم j u m k i n u k u m 
 ألمشاركة ʔ a l m u ʃ aː r a k a a 
-ألخل- ʔ a l x a l -
+ألخل ʔ a l x a l 
 بالرقم b i aː l r a q m 
 المجاني aɪ l m a ʒː aː n iː 
 صفر sˤ i f r 
@@ -6952,7 +6951,7 @@ Zام Zaː m
 جودتها ʒ aʊ d a t h aː 
 سعرها s i ʕ r h aː 
 صلاحيتها sˤ a l aː ħ iː tː a h aː 
-يست- iː s t -
+يست iː s t 
 يسترجع j i s t a r ʒ i ʕ 
 قيمة q iː m a a 
 غش ɣ a ʃ 
@@ -6988,7 +6987,7 @@ Zام Zaː m
 المعقول aɪ l m a ʕ q uː l 
 مفتوح m a f t aʊ ħ 
 خاظع x aː ðˤ i ʕ 
-للأس- l i l ʔ a a s -
+للأس l i l ʔ a a s 
 سوق نا s uː g n aː 
 لنظرية l i n a ðˤ a r i jː a t 
 اتراقبها aɪ t r aː q i b h aː 
@@ -7005,7 +7004,7 @@ Zام Zaː m
 موظوعين m aʊ ðˤ uː ʕ iː n 
 الوزارة aː l w i z aː r a a 
 المؤسسين aː l m u ʔ s i s iː n 
--مؤسسين -m u ʔ a sː i s iː n 
+مؤسسين m u ʔ a sː i s iː n 
 للجمعية l i l ʒ a m ʕ i jː a a 
 ايكثفون aː iː k a θ f uː n 
 يستعجلون j i s t a ʕ ʒ i l uː n 
@@ -7034,7 +7033,7 @@ Zام Zaː m
 أمثلة ʔ a a m θ i l a a 
 تمت t a mː t 
 الموافقة aɪ l m uː aː f a q a a 
-الإج- aː l ʔ i ʒ -
+الإج aː l ʔ i ʒ 
 دورتها d aʊ r a t h aː 
 للصدور l i l sˤ u d uː r 
 أعيد ʔ a ʕ j i d 
@@ -7067,7 +7066,7 @@ Zام Zaː m
 للتاجر l l t aː ʒ i r 
 نظرت n i ðˤ a r t 
 مجموع m a ʒ m uː ʕ 
-بع- b a ʕ -
+بع b a ʕ 
 الأصل aɪ l ʔ a sˤ i l 
 الظن aɪ l ðˤː a n 
 يثبت j i θ b t 
@@ -12699,7 +12698,7 @@ Zام Zaː m
 بدال b i d aː l 
 اتكوني aɪ t k uː n iː 
 تقدمي t u q a dː i m iː 
--توح -t uː ħ 
+توح t uː ħ 
 طائرة tˤ aː ʔ i r a a 
 سلة s a l i ّa 
 بطولات b u tˤ uː l aː t 
@@ -12708,8 +12707,8 @@ Zام Zaː m
 انحب aɪ n ħ i b 
 ترج ع t i r dʒ a ʕ 
 تمنيت t i m a nː iː t 
-صرا- sˤ a r aː -
--حة -ħ a a 
+صرا sˤ a r aː 
+حة ħ a a 
 ايطالع aː iː tˤ aː l i ʕ 
 مباراة m u b aː r aː a 
 مستانس m i s t aː n i s 
@@ -12768,10 +12767,10 @@ Zام Zaː m
 منتخبنا m u n t a x b a n aː 
 يحصد j i ħ sˤ a d 
 الجوائز aː a l ʒ aʊ aː ʔ i z 
-مع- m a ʕ -
+مع m a ʕ 
 وظعك w a ðˤ ʕ a k 
 مرتاح m i r t aː ħ 
-ق - g a -
+ق  g a 
 الوكرة aː l w a k r a a 
 طفولتي tˤ u f uː l t iː 
 متواج د m u t aʊ aː dʒ i d 
@@ -12790,7 +12789,7 @@ Zام Zaː m
 الفريق aɪ l f a r iː q 
 وظعي w a ðˤ ʕ iː 
 حمدلله ħ a m d u l i lː a h 
-لا- l aː -
+لا l aː 
 إنشوف ʔ i i n ʃ uː f 
 إلحين ʔ i l ħ iː n 
 ج ريدة dʒ a r iː d a t 
@@ -12965,7 +12964,7 @@ Zام Zaː m
 سبقت s a b a q a t 
 ظهور ðˤ u h uː r 
 بئر b i ʔ i r 
-مس- m s -
+مس m s 
 الصحابي aɪ l sˤː a ħ aː b iː 
 الجليل aɪ l ʒ a l iː l 
 رظي r a ðˤ iː 
@@ -13006,10 +13005,10 @@ Zام Zaː m
 بلدية b a l d i j a t 
 بجهود b i ʒ u h uː d 
 جبارة ʒ a bː aː r a a 
-من- m u n -
+من m u n 
 منتزه m u n t a z a h 
 للأهالي l i l ʔ a h aː l iː 
-لم- l m -
+لم l m 
 أقطار ʔ a q tˤ aː r 
 الوليدي aɪ l w a l iː d i jː 
 سمي s u m i jː a 
@@ -13151,7 +13150,7 @@ Zام Zaː m
 ايتعب aː iː t a ʕ i b 
 مزبوط m a z b uː tˤ 
 صحيحة sˤ a ħ iː ħ a a 
--سلسل -s l s l 
+سلسل s l s l 
 ايركز aː iː r a k i z 
 ارمظان aɪ r m i ðˤ aː n 
 ايشوفها aː iː ʃ uː f h aː 
@@ -13163,7 +13162,7 @@ Zام Zaː m
 يسهر j i s h a r 
 ق الب g aː l i b 
 العبادة aɪ l ʕ i b aː d a a 
-خف- x a f -
+خف x a f 
 خففوا x a f i f uː aː 
 مسلسلات m u s a l s a l aː t 
 خلين x a l i j u n i 
@@ -13212,7 +13211,7 @@ Zام Zaː m
 الاستاذ aɪ l aɪ s t aː ð 
 حسين ħ s iː n 
 عبدالسلام ʕ a b d aɪ l s a ّl aː m 
-حيا- ħ jː aː -
+حيا ħ jː aː 
 حبيبتي ħ a b iː b t iː 
 سب ن s a v i n 
 ق ريد g r iː d 
@@ -13220,7 +13219,7 @@ grade grade
 نتمنا n i t m n aː 
 استاذ aː s t aː ð 
 تقديمها t a q d iː m a h aː 
-خم- x i m -
+خم x i m 
 لأبناءنا l i ʔ a a b n aː ʔ n aː 
 الأستاز aː l ʔ a a n s a t aː z 
 الأستازة aː l ʔ a u s t aː z a 
@@ -13278,9 +13277,9 @@ grade grade
 هاذي h aː ð iː 
 فاج أناهم f aː dʒ ʔ a n aː h u m 
 يصير iː sˤ iː r 
-يي- iː iː -
+يي iː iː 
 نبين n b a jː n 
-المر- aɪ l m a r -
+المر aɪ l m a r 
 ترجع t a r ʒ a ʕ 
 الجج ء aɪ l ʒ u dʒ ʔ 
 الج ء aɪ l dʒ u ʔ 
@@ -13300,7 +13299,7 @@ grade grade
 كركترات k a r a k t a r aː t 
 شيبه ʃ iː b a h 
 خباز x a bː aː z 
-حل- ħ a l -
+حل ħ a l 
 حلغات ħ a l ɣ aː t 
 تج ربة t dʒ r u b a a 
 هرم h a r a m 
@@ -13334,7 +13333,7 @@ grade grade
 إتحقق ʔ i t ħ a q i q 
 طموحك tˤ u m uː ħ a k 
 بالفن b i aː l f a n 
--ديت -d iː t 
+ديت d iː t 
 عليك  ʕ a l j i tʃ 
 فالواحد f aː l w aː ħ i d 
 مشهد m i ʃ h a d 
@@ -13343,8 +13342,8 @@ grade grade
 خذيته x a ð iː t a h 
 موهبة m aʊ h i b a a 
 خذيت x a ð iː t 
-ر- r -
-تب- t b -
+ر r 
+تب t b 
 تبناني t i b a n aː n iː 
 بدايتي b i d aː iː t iː 
 يعتبرني j i ʕ t i b r n iː 
@@ -13370,7 +13369,7 @@ grade grade
 طلعنا tˤ i l a ʕ n aː 
 شدينا ʃ a dː iː n aː 
 حيلنا ħ iː l n aː 
-لو- l aʊ -
+لو l aʊ 
 عطانا ʕ tˤ aː nː aː 
 بتقارنينا b i t q aː r n iː nː aː 
 يديد j i d iː d 
@@ -13380,7 +13379,7 @@ grade grade
 حكينا ħ a k iː n aː 
 شعور ʃ u ʕ uː r 
 غاتل ɣ aː t i l 
--مخرج -m u x r i ʒ 
+مخرج m u x r i ʒ 
 منير m u n iː r 
 الز aɪ l z u 
 أرض ʔ a r dˤ 
@@ -13566,7 +13565,7 @@ grade grade
 المتفتته aɪ l m i t f a t i t a h 
 اليد aɪ l j a d 
 رسمة r a s m a a 
-أح- ʔ a ħ -
+أح ʔ a ħ 
 جسمك ʒ i s m i k 
 مشاكلها m a ʃ aː k i l h aː 
 إرخ ʔ i r x 
@@ -13600,7 +13599,7 @@ grade grade
 إلتهاب ʔ i i l t i h aː b 
 الأذن aː l ʔ a ð i n 
 هه h a h 
-سو- s a w a -
+سو s a w a 
 الجيوب aɪ l ʒ iː uː b 
 الإذن aɪ l ʔ i ð i n 
 اخلقت aː x l u q t 
@@ -13642,12 +13641,12 @@ grade grade
 مشيت m i ʃ iː t 
 عالبحر ʕ aː l b a ħ a r 
 يفرغ j i f r i ɣ 
-كذ- k i ð -
+كذ k i ð 
 أرظيه ʔ a r ðˤ i j a ّh 
 متساوية m u t a s aː w j a ّa 
 طاقات tˤ aː q aː t 
 سلبية s a l b i j a ّa 
-الواح- aɪ l w aː ħ -
+الواح aɪ l w aː ħ 
 شغلات ʃ a ɣ l aː t 
 حضرته ħ a dˤ r i t a h 
 اندهش aː n d a h a ʃ 
@@ -13658,7 +13657,7 @@ grade grade
 الابهام aɪ l aː b h aː m 
 بمقاس b i m a q aː s 
 بطن b a tˤ i n 
-قد- q a d -
+قد q a d 
 مو m uː 
 اينامون aː iː n aː m uː n 
 اتشيليه aː t ʃ iː l iː h 
@@ -13680,7 +13679,7 @@ grade grade
 بيسكر b iː s a k i r 
 توماتيك t uː m aː t iː k 
 ايديك aː iː d iː k 
-يب- j i b -
+يب j i b 
 تبدي t i b d iː 
 تظغط t i ðˤ ɣ a tˤ 
 يسار j i s aː r 
@@ -13696,7 +13695,7 @@ grade grade
 تحذير t a ħ ð iː r 
 السيراميك aɪ l s i ّiː r aː m iː k 
 المتساوية aɪ l m t s aː w j a ّa 
-ع- ʕ -
+ع ʕ 
 حافين ħ aː f iː n 
 امشي aː m i ʃ iː 
 البيوت aɪ l i b iː uː t 
@@ -13735,7 +13734,7 @@ grade grade
 حافية ħ aː f i jː a 
 تنتبه t i n t i b h 
 رمل r a m i l 
-الش- aː l ʃ a -
+الش aː l ʃ a 
 تفطر t a f tˤ i r 
 رطبات r a tˤ a b aː t 
 رطب r a tˤ a b 
@@ -13773,7 +13772,7 @@ grade grade
 الأرحام aː l ʔ a r ħ aː m 
 النص aɪ l nː i sˤ 
 الأحشاء aɪ l ʔ a ħ ʃ aː ʔ 
-منا- m a n aː -
+منا m a n aː 
 لتسهيل l i t s h iː l 
 الجنين aː l ʒ a n iː n 
 يتعدل j i t ʕ a d a l 
@@ -13837,15 +13836,15 @@ grade grade
 تقيمكن t a qː iː m k u n 
 التج ربة aɪ l t a ّdʒ r u n b i a 
 السمنة aɪ l s u ّm n a a 
-اع- aː ʕ -
+اع aː ʕ 
 فخفنا f a x u f n aː 
 الخامسة aɪ l x aː m s a a 
 إستراتيجية ʔ i i s t r aː t iː ʒ iː a 
-د- d -
+د d 
 آخرى ʔ aː x r aː 
 خوفا x aʊ f aː a n 
 إنتشارها ʔ i n t i ʃ aː r h aː 
-فل- f i l -
+فل f i l 
 للحماية l i l ħ i m aː j a a 
 إنة ʔ i i n a a 
 جاءت ʒ aː ʔ t 
@@ -13858,8 +13857,8 @@ grade grade
 معا m a ʕ aː 
 مسابقة m u s aː b a q a a 
 فتك وف f a t tʃ uː f 
-اط- aː tˤ -
-ط- tˤ a -
+اط aː tˤ 
+ط tˤ a 
 مستواهم m u s t aʊ aː h u m 
 نبغيه n a b ɣ iː h 
 بأهمية b i ʔ a h a m i j a t 
@@ -13886,7 +13885,7 @@ grade grade
 يتعود iː t ʕ aʊ d 
 تعطش t ʕ tˤ a ʃ 
 إشرب ʔ i i ʃ r a b 
-الاسبو- aː l aː s b w -
+الاسبو aː l aː s b w 
 رياظتك r iː aː ðˤ t i k 
 المفظلة aɪ l m u f ðˤ a l a 
 ألعاب ʔ a l ʕ aː b 
@@ -13898,7 +13897,7 @@ grade grade
 نج بره n i dʒ b a r a h 
 رياظة r iː aː ðˤ a a 
 وجبتك w ʒ b i t a k 
-یع- یʕ -
+یع یʕ 
 عصفورين ʕ a sˤ f uː r iː n 
 ياكل iː aː k i l 
 وجبة w a ʒ b a a 
@@ -13915,10 +13914,10 @@ grade grade
 رقية r u n q aɪ a 
 أكاديمية ʔ a k aː d iː m iː t 
 بنجاحها b i n a ʒ aː ħ h aː 
-حن- ħ a n -
+حن ħ a n 
 حنزيد ħ a n z iː d 
 مستانسين m i s t aː n s iː n 
-مشاعر- m i ʃ aː ʕ r -
+مشاعر m i ʃ aː ʕ r 
 إحساسهم ʔ i i ħ s aː s h u m 
 نشاطنا n a ʃ aː tˤ n aː 
 معنوياتنا m ʕ n aʊ iː aː t n aː 
@@ -13928,8 +13927,8 @@ grade grade
 بشرتنا b a ʃ r t n aː 
 تحسنت t ħ a s i n a t 
 خف x a f 
-و- w a -
-او- aː w -
+و w a 
+او aː w 
 أخوانهم ʔ a x aʊ aː n h u n m 
 تحمسوا t i ħ a m i s uː aː 
 ياكلون iː aː k l u n w n 
@@ -13963,7 +13962,7 @@ grade grade
 سنتر s i n t a r 
 تعلموا t a ʕ a l m u n j aː 
 إتيكيت ʔ i i t iː k iː t 
-عل- ʕ a l -
+عل ʕ a l 
 طاولة tˤ aː w l a a 
 الطعام aɪ l tˤ a ّʕ aː m 
 بيترتبون b iː t r a t i b uː n 
@@ -14029,7 +14028,7 @@ grade grade
 لليبغيه l i l j a b ɣ iː h 
 العناوين aɪ l ʕ a n aː w i iː n 
 فقرتنا f a q r i t n aː 
-الف- aː l f -
+الف aː l f 
 منرج ع m n i r dʒ a ʕ 
 بنزكير b n z a k iː r 
 برنامج نا b a r n aː m a dʒ n aː 
@@ -14042,9 +14041,9 @@ grade grade
 إنشاالله ʔ i i n ʃ aː aː l l h 
 اختي aː x t iː 
 الفواكهة aɪ l f aʊ aː k i h a a 
-كل- k a l -
+كل k a l 
 فوايدها f aʊ aː aɪ d h aː 
-الفوا- aː l f j aː -
+الفوا aː l f j aː 
 الفواكه aɪ l f aʊ aː k i h 
 ب يتامين v iː t aː m iː n 
 تاخذه t aː x ð a h 
@@ -14087,12 +14086,12 @@ grade grade
 مبتكرة m u b t a k i r a a 
 يخرجون iː x r ʒ u n w n 
 عطينهم ʕ a tˤ iː n a h u n m 
-الص- aː l sˤ -
+الص aː l sˤ 
 يبدع j u b d i ʕ 
 هني h a n iː 
 يدربوا iː d a r b u n j aː 
 كادر k aː d i r 
-عند- ʕ i n d -
+عند ʕ i n d 
 ندربهم n d a r i b h u m 
 يضيفون iː dˤ iː f uː n 
 بنسويه b i n s a w i j a h 
@@ -14109,13 +14108,13 @@ grade grade
 نشربهم n i ʃ a rː i b h u m 
 يعطش j i ʕ tˤ a ʃ 
 يشتهي j i ʃ t i h iː 
-فتع- f t ʕ -
+فتع f t ʕ 
 سيحتاج s aɪ ħ t aː ʒ 
 يطهر j i tˤ a h i r 
-هل- h a l -
+هل h a l 
 هالمواد h aː l m aʊ aː d 
 السامة aɪ l s a ّaː m a ّa 
-تج- t ʒ i -
+تج t ʒ i 
 فحنا f a ħ n aː 
 رياظته r iː aː ðˤ t a h 
 دعمناه d i ʕ a m n aː h 
@@ -14123,14 +14122,14 @@ grade grade
 فحبهم f a ħ u b h u m 
 يلعبها j i l ʕ a b h aː 
 يحس iː ħ i s 
-يل- iː l -
+يل iː l 
 يتحرك j i t ħ a r k 
 يلعبوا j i l ʕ a b uː aː 
 بيعرف b iː ʕ a r f 
 بحبها b ħ i b h aː 
 لعبات l i ʕ b aː t 
 جماعية ʒ m aː ʕ i jː a a 
--كم -k u n m 
+كم k u n m 
 الرابطة aɪ l rː aː b i tˤ a a 
 لمرضى l i m a r dˤ aː 
 تصلب t a sˤ l u n b 
@@ -14156,7 +14155,7 @@ grade grade
 إنترفال ʔ i i n t i r f aː l 
 المصابات aɪ l m u n sˤ aː b aː t 
 المرض aɪ l m a r a dˤ 
-يو- iː uː -
+يو iː uː 
 للمرض l i l m a r a dˤ 
 لإصابته l i ʔ i i sˤ aː b t a h 
 النشيطة aɪ l n a ّʃ iː tˤ a a 
@@ -14188,7 +14187,7 @@ grade grade
 طبقة tˤ a b a q a t 
 النايلون aɪ l n a ّaː iː l u n w n 
 تغطي t u ɣ a tˤ iː 
-سب- s i b -
+سب s i b 
 الكهربه aɪ l k a h r a b a h 
 الخلايا aɪ l x a l aː aɪ aː 
 البيظاء aɪ l b iː ðˤ aː ʔ 
@@ -14201,7 +14200,7 @@ grade grade
 اختلالها aɪ x t i l aː a l h aː 
 إتزان ʔ i tː a z aː n 
 إزدواج ʔ i z d i w aː ʒ 
-الر- aɪ l r a ّ-
+الر aɪ l r a ّ
 الرؤية aɪ l r u ّʔ j a a 
 الهضمي aɪ l h a dˤ m iː 
 التنفسي aɪ l t a ّn f u n s iː 
@@ -14216,7 +14215,7 @@ grade grade
 تطور t a tˤ a wː u r 
 نج د n a dʒ i d 
 يج ينا j i dʒ iː n aː 
-مظ- m ðˤ -
+مظ m ðˤ 
 سركليشنز s u r k u n l aɪ ʃ i n z 
 لايف l aː aɪ f 
 يخلي iː x a l iː 
@@ -14237,7 +14236,7 @@ grade grade
 العلماء aɪ l ʕ u l m aː ʔ 
 يوصلون iː aʊ sˤ i l uː n 
 يوجدون iː uː ʒ i d w n 
-الح- aɪ l ħ a -
+الح aɪ l ħ a 
 عكسية ʕ a k s iː a 
 يحاولون iː ħ aː w l uː n 
 تفادي t f aː d iː 
@@ -14279,7 +14278,7 @@ grade grade
 لأربع l i ʔ a a r b a ʕ 
 مشخصة m u ʃ x sˤ a 
 شخصت ʃ a x a sˤ t 
-خس- x a s -
+خس x a s 
 رقمي r a q m iː 
 المسجل aɪ l m u s a ʒ a l 
 كثار k θ aː r 
@@ -15105,7 +15104,7 @@ grade grade
 الحابين aɪ l ħ aː bː iː n 
 برامج هم b a r aː m i dʒ h u m 
 تلفزيونهم t i l f i z iː uː n h u m 
-قط- q a tˤ a -
+قط q a tˤ a 
 ننتهي n i n t i h iː 
 ثمنطعشر θ i m a n tˤ a ʕ ʃ a r 
 بعدهم b a ʕ a d h u m 
@@ -15208,7 +15207,7 @@ grade grade
 يعطوا j u ʕ tˤ uː aː 
 لخيالهم l i x aɪ aː l h u m 
 مستقبلنا m u s t a q b a l n aː 
-مست- m u s t a -
+مست m u s t a 
 عشنا ʕ i ʃ n aː 
 نقلونا n a q a l uː n aː 
 نتجول n a t a ʒ a w a l 
@@ -15229,7 +15228,7 @@ grade grade
 بيكم b iː k u m 
 متعلقة m i t ʕ a lː q a a 
 بالواقع b i aː l w aː q i ʕ 
-تع- t a ʕ a -
+تع t a ʕ a 
 إختتم ʔ i x t a t a m 
 بالنادي b i aː l n a ّaː d iː 
 الدبلوماسي aɪ l d i ّb l uː m aː s iː 
@@ -15336,12 +15335,12 @@ grade grade
 الكرة aɪ l k u r a a 
 فيختلف f a j i x t i l i f 
 لونها l uː n h aː 
-أما- ʔ a m aː -
+أما ʔ a m aː 
 يراقب j u r aː q i b 
 تحركات t a ħ a r u k aː t 
 بالمستقبل b i aː l m u s t a q b a l 
--كار -k aː r 
-يستغر- iː s a t a ɣ r i -
+كار k aː r 
+يستغر iː s a t a ɣ r i 
 يسألنا j a s ʔ a l n aː 
 تكوين t a k w i iː n 
 آفاقهم ʔ aː f aː q h u m 
@@ -15365,7 +15364,7 @@ grade grade
 تسليط t a s l iː tˤ 
 الضوء aɪ l dˤ u ّw ʔ 
 صوتوا sˤ aʊ t uː aː 
--طبعا -tˤ a b ʕ aː a n 
+طبعا tˤ a b ʕ aː a n 
 حازت ħ aː z a t 
 الجائزة aɪ l ʒ aː ʔ i z a a 
 للمشروع l i l m a ʃ r uː ʕ 
@@ -15890,7 +15889,7 @@ grade grade
 وانا w aː a n aː 
 تستاهلين t i s t aː h l iː n 
 يا  iː aː 
-اشو- aɪ ʃ w a -
+اشو aɪ ʃ w a 
 ازعاج aɪ z ʕ aː ʒ 
 مشتمعين m i ʃ t a m ʕ iː n 
 أكم ʔ a u k u ّm 
@@ -15951,7 +15950,7 @@ grade grade
 الجيل aɪ l ʒ iː l 
 انهنئكم aː n h a nː i ʔ k u m 
 استغرق aɪ s t a ɣ r a q 
-مليو- m a l iː uː -
+مليو m a l iː uː 
 عطاءات ʕ a tˤ aː ʔ aː t 
 للأجيال l i l ʔ a a ʒ iː aː l 
 يديم j i d iː m 
@@ -16216,7 +16215,7 @@ grade grade
 اتوقعين aː t i wː q i ʕ iː n 
 اورق ة aː w r i g a a 
 تنازل t a n aː z i l 
-سم- s i m -
+سم s i m 
 سمعيني s i m ʕ iː n iː 
 طق ي tˤ i gː iː 
 راسك  r aː s i tʃ 
@@ -16732,7 +16731,7 @@ grade grade
 رقمك r a q m i k 
 اكلمك aː a k a l m i k 
 ق عدوا g i ʕ d uː aː 
-ق ع- g i ʕ -
+ق ع g i ʕ 
 تتصلين t i t a ّsˤ l iː n 
 فززتي f a z a z t iː 
 تخرعوا t i x a r a ّʕ aʊ aː 
@@ -16986,7 +16985,7 @@ grade grade
 بوسعيد b uː s ʕ iː d 
 شق ى ʃ i g aː 
 شتسوي ʃ i t s a wː iː 
-العيا- aɪ l ʕ iː aː -
+العيا aɪ l ʕ iː aː 
 يا iː aː 
 لا l aː 
 تخلص t x a lː sˤ 
@@ -17028,7 +17027,7 @@ grade grade
 دلة d a lː a a 
 ق قهوة g a q h w a a 
 اتميرة aː t m iː r a a 
-سلا- s a l aː -
+سلا s a l aː 
 اتصدق  aː t sˤ a dː g 
 طعمت tˤ i ʕ a m t 
 الخنفروش aɪ l x a n f u r uː ʃ 
@@ -17059,7 +17058,7 @@ grade grade
 بنرتاح b i n i r t aː ħ 
 معاملة m u ʕ aː m a l a a 
 المدنية aɪ l m a d a n j a a 
-تس- t i s -
+تس t i s 
 اتق صر aː t g sˤː r 
 أمون ʔ a a mː uː n 
 يختي j a x t iː 
@@ -17112,7 +17111,7 @@ grade grade
 حجرته ħ i ʒ r i t a h 
 اتمرمرني aː t m a r m i r n iː 
 أمرهم ʔ a a m i r h u m 
-إل- ʔ i l -
+إل ʔ i l 
 ظاعوا ðˤ aː ʕ a uː aː 
 بحرهم b a ħ a r h u m 
 بأمرهم b ʔ a m i r h u m 
@@ -17140,7 +17139,7 @@ grade grade
 فالك  f aː l a tʃː 
 بناكله b i n aː k l a h 
 ريحته r iː ħ t a h 
-خنفرو- x a n f a r uː -
+خنفرو x a n f a r uː 
 وداك w a dː aː k 
 بالفرع b i aː l f a r ʕ 
 يم j a m 
@@ -17151,13 +17150,13 @@ grade grade
 ظربة ðˤ a r b a t 
 رحمن r a ħ m a n 
 رحيم r a ħ iː m 
-تس- t i s i -
+تس t i s i 
 تسطر t i s a tˤː r 
 دليت d a lː iː t 
 اعرفتني aː ʕ r i i f a t n iː 
 الشغالة aɪ l ʃ a ّɣ aː l a a 
 إيلس ʔ i iː l i s 
-إيس- ʔ i iː s -
+إيس ʔ i iː s 
 حادك ħ aː dː a k 
 اق عد aɪ g ʕ i d 
 اعيالك aɪ ʕ iː aː l i k 
@@ -17568,7 +17567,7 @@ grade grade
 بمبعت b a m b a ʕ t 
 بتبرى b a t i bː a r aː 
 ليوم l iː uː m 
-افف- aː f f -
+افف aː f f 
 افتكينا aɪ f t a kː iː n aː 
 حس ħ a s 
 وطني w a tˤ n iː 
@@ -17656,7 +17655,7 @@ grade grade
 سمعناه s i m a ʕ n aː h 
 أتعرف ʔ a a t ʕ a rː a f 
 وق فت w a a gː i f a t 
-اش- aɪ ʃ -
+اش aɪ ʃ 
 مناظل m u n aː ðˤ i l 
 بالخيمة b i aː l x iː m a a 
 أمثالك ʔ a a m θ aː l i k 
@@ -17679,13 +17678,13 @@ grade grade
 شقلك ʃ a qː a l a k 
 مصلحتك m a sˤ l a ħ t i k 
 بيتكم b iː t k u m 
-اص- aː sˤ -
+اص aː sˤ 
 اصبر aɪ sˤ b u r 
 نتفاهم n i t f aː h a m 
 هونا h a wː a nː aː 
 كآخر k ʔ aː x i r 
-بو- b uː -
-اس- aː s -
+بو b uː 
+اس aː s 
 ايأنسه aɪ iː ʔ a n s a h 
 ايفظل aɪ iː f a ðˤː i l 
 يسمعه j i s m a ʕ a h 
@@ -17805,7 +17804,7 @@ grade grade
 نشتريه n i ʃ t i r j i h 
 بيطلع b i j i tˤ l a ʕ 
 ساحبه s aː ħ b a h 
-بب- b b -
+بب b b 
 ابحره aː b ħ a rː a h 
 نتفه n a tː i f a h 
 تكنسل t i k a n s a l 
@@ -17899,7 +17898,7 @@ grade grade
 المصيبة aɪ l m u sˤ iː b a a 
 راسنا r aː s n aː 
 معقوله m a ʕ q uː l a h 
-خ- x a -
+خ x a 
 كاني k aː n iː 
 امسامحه aɪ m s aː m a ħ a h 
 صايرة sˤ aː iː r a a 
@@ -17917,8 +17916,8 @@ grade grade
 الصاج aɪ l sˤ a ّaː ʒ 
 ايق طع aɪ iː g a tˤ i ّʕ 
 هالملابس h aː l m a l aː b i s 
-ك و- tʃ uː -
-به- b a h -
+ك و tʃ uː 
+به b a h 
 بهدل b a h d a l 
 الثياب aɪ l θː iː aː b 
 تبهدل t i b h d i l 
@@ -18045,7 +18044,7 @@ grade grade
 يستحون j i s t i ħ uː n 
 ويهم w a j i hː u m 
 ربكم r a b k u m 
-عط- ʕ a tˤ a -
+عط ʕ a tˤ a 
 دير d iː r 
 آخ ʔ aː x 
 آرويك ʔ aː r a w i iː k 
@@ -18087,7 +18086,7 @@ grade grade
 افلعوا aː f l a ʕ uː aː 
 ايهداك  aɪ iː h a d aː tʃ 
 وانتي w i aː n t iː 
-تق - t i g -
+تق  t i g 
 وخري w a x r iː 
 وخري w a x r aɪ 
 يه j a h 
@@ -18105,7 +18104,7 @@ grade grade
 ك ايفهم tʃ aː j i f a h u m 
 احذفوا aː ħ ð i f aʊ aː 
 ثلاثتهم θ a l aː θ a t h u m 
-هالث- h aː l θ -
+هالث h aː l θ 
 اتينني aː t j a n i nː iː 
 صغار sˤ ɣ aː r 
 ایفلتون aɪ یf a l t uː n 
@@ -18128,7 +18127,7 @@ grade grade
 العدو aː l ʕ a d uː 
 لعبه l i ʕ b a h 
 إيحذفنا ʔ i iː ħ a ð i f n aː 
-إي- ʔ i iː -
+إي ʔ i iː 
 إيوصل ʔ i iː w a sˤː l 
 فلاتيه f a l aː t i jː a h 
 ايحذف aɪ iː ħ a ðː f 
@@ -18306,7 +18305,7 @@ grade grade
 اسامي aː a s aː m iː 
 بننقلهم b n a n q i l h u m 
 ويني w i iː n iː 
-وي- w i iː -
+وي w i iː 
 بيتحدد b iː t i ħ a dː a d 
 ننقلك n a n q i l i k 
 اختارتك aː x t aː r i t i k 
@@ -18415,7 +18414,7 @@ grade grade
 ق ويه g uː jː a h 
 بغينا b a ɣ iː n aː 
 هالله h aː l lː a h 
-فين- f iː n -
+فين f iː n 
 ايعز aɪ iː ʕ i z 
 تبونه t a b uː n a h 
 أييبه ʔ a j i iː b a h 
@@ -18450,7 +18449,7 @@ grade grade
 كشخه k a ʃ x a h 
 ق دها g a d h aː 
 أحق ك  ʔ a a ħ i gː i tʃ 
-ها- h aː -
+ها h aː 
 امريتي aɪ m r aɪ t iː 
 اطولت aɪ tˤ w a l i t 
 ازرق ت aɪ z r a gː a t 
@@ -18506,7 +18505,7 @@ grade grade
 أهده ʔ a h dː h 
 أيوده ʔ a aɪ w a d a h 
 يتسكر j i t s a kː a r 
-يز- j a z -
+يز j a z 
 يزنطني j a z n i tˤ n iː 
 عود ʕ uː d 
 إليمين ʔ i l j a m iː n 
@@ -18518,8 +18517,8 @@ grade grade
 أزرار ʔ a z r aː r 
 عطوك ʕ a tˤ uː k 
 إنحط ʔ i n ħ i tˤ 
-الي- aɪ lː iː -
--سار -s aː r 
+الي aɪ lː iː 
+سار s aː r 
 اليمين aɪ l j i m iː n 
 اك وفها aɪ tʃ uː f h aː 
 نتفارق  n a t f aː r a g 
@@ -18629,12 +18628,12 @@ grade grade
 اتغار aɪ t ɣ aː r 
 أق عد ʔ a g ʕ a d 
 أبطل ʔ a b a tˤ i l 
-أ- ʔ a a -
+أ ʔ a a 
 أفره ʔ a f i r a ّh 
 أخاف ʔ a a x aː f 
-ق اع- g aː ʕ i -
+ق اع g aː ʕ i 
 حاك ها ħ aː tʃː a h aː 
-ع-عادي ʕ -ʕ aː d iː 
+ععادي ʕ ʕ aː d iː 
 سدت s a dː a t 
 صكت sˤ a kː a t 
 امحاك يها aɪ m ħ aː tʃ iː h aː 
@@ -18651,7 +18650,7 @@ grade grade
 اموصيتني aɪ m w a sˤ j a t n iː 
 إدور ʔ i dː w i r 
 اتق رب aɪ t g a rː b 
-خل- x a l -
+خل x a l 
 ناق ص n aː g sˤ 
 نيتك n i jː i t i k 
 نيتي n iː t iː 
@@ -18676,7 +18675,7 @@ grade grade
 أطلق  ʔ a tˤ a lː g 
 أتفاهم ʔ a t f aː h a m 
 عندج ʕ i n d a ʒ 
-ق و- g uː -
+ق و g uː 
 تتفاهم t i t f aː h a m 
 رفيجنا r i f iː ʒ n aː 
 يالس iː aː l i s 
@@ -18718,16 +18717,16 @@ grade grade
 متلايم m i t l aː j i m 
 تانكي t aː n k iː 
 الماي aɪ l m aː iː 
-ك - tʃ -
-ك- k -
+ك  tʃ 
+ك k 
 آقر ʔ aː q i r 
-آق- ʔ aː q -
+آق ʔ aː q 
 مسحت m i s a ħ t 
 خماس x a mː aː s 
 خميس x a m iː s 
 شكت ʃ a kː t 
 أحاك ي ʔ a ħ aː tʃ iː 
-فال- f i aː l -
+فال f i aː l 
 صدق تني sˤ a d i g a t n iː 
 طردتني tˤ i r i d a t n iː 
 هالعيشة h aː l ʕ iː ʃ a t 
@@ -18789,9 +18788,9 @@ grade grade
 تالبة t aː l b a a 
 هيدا h aɪ d aː 
 تيلفوني t iː l i f uː n iː 
-آل-ل-ل-ل-ل-ل-ل-ل-ل-ل- ʔ aː l -l -l -l -l -l -l -l -l -l -
+آلللللللللل ʔ aː l l l l l l l l l l 
 آ ʔ aː 
-ل-ل-لو l -l -l uː 
+لللو l l l uː 
 استوت aɪ s t i w a t 
 بيتهم b iː t h u m 
 أغمى ʔ a u ɣ m aː 
@@ -18821,7 +18820,7 @@ grade grade
 طلبها tˤ a l a b h aː 
 عطها ʕ a tˤ h aː 
 إعنبوه ʔ i ʕ n i b uː h 
-اتت- aː t t -
+اتت aː t t 
 اتوافق  aː t w aː f i g 
 وافق ت w aː f i g a t 
 انشالله aː n ʃ aː l l h 
@@ -18834,7 +18833,7 @@ grade grade
 تأشيرة t a ʔ a ʃ iː r a a 
 اليمين aɪ l j i m j i n 
 الاخت aɪ l aː x i t 
-نع- n a ʕ a -
+نع n a ʕ a 
 ايسلم aɪ iː s a lː i m 
 بلغونا b a l i ّɣ uː nː aː 
 مكتبك m a k t i b i k 
@@ -18959,7 +18958,7 @@ grade grade
 الحديقة aɪ l ħ a d iː q a a 
 حيروح ħ aɪ r uː ħ 
 ب لتين v l i ّt iː n 
-شي- ʃ iː -
+شي ʃ iː 
 متنفس m u t a n a fː a s 
 ابيسكنون aɪ b j a s k i n uː n 
 مجمع m u ʒ a mː a ʕ 
@@ -19180,10 +19179,10 @@ grade grade
 مكاتبكم m i k aː t i b k u m 
 حرارة ħ a r aː r a t 
 الشعيرة aɪ l ʃ a ّʕ iː r a a 
-طل- tˤ a l -
-عم- ʕ m -
-مم- m m -
--رك  -r i tʃ 
+طل tˤ a l 
+عم ʕ m 
+مم m m 
+رك  r i tʃ 
 صب sˤ i bː 
 ايحفظها aɪ iː ħ a f i ðˤ h aː 
 سيات s iː aː tː 
@@ -19217,7 +19216,7 @@ grade grade
 احمار aː ħ m aː r 
 كوعك k uː ʕ i k 
 بوعك b uː ʕ i k 
-تا- t aː -
+تا t aː 
 ق لها g u l h aː 
 اطردوني aɪ tˤ r i d uː n iː 
 بملك  b a m l i tʃ 
@@ -19398,7 +19397,7 @@ grade grade
 تائهه t aː ʔ i h a h 
 مسلسلنا m u s a l s a l n aː 
 ابنشتغله aɪ b n i ʃ t a ɣ l a h 
-آن- ʔ aː n -
+آن ʔ aː n 
 متشابه m i t ʃ aː b h a 
 مسلسلاتنا m u s a l s a l aː t n aː 
 الموظة aɪ l m uː ðˤ a a 
@@ -19879,7 +19878,7 @@ grade grade
 فريأك f a r iː ʔ a k 
 فريئ f a r iː ʔ 
 العZيم aː l ʕ a Zj i m 
-ايبارك- aː iː b aː r i k -
+ايبارك aː iː b aː r i k 
 امسك aɪ m s i k 
 صوره sˤ uː r a h 
 لرعايتكم l i r ʕ aː j i t k u m 
@@ -20060,11 +20059,11 @@ grade grade
 زينا z a jː a n aː 
 برعم b u r ʕ u m 
 شرينا ʃ a r iː nː aː 
-هال- h aː l -
+هال h aː l 
 هالبرعم h aː l b u r ʕ a m 
 دعاية d i ʕ aː j a a 
 إخذه ʔ i x ð a h 
-خذ- x a ð -
+خذ x a ð 
 آشيله ʔ aː ʃ iː l a h 
 البيك aɪ l b iː k 
 اب aː b
@@ -20148,7 +20147,7 @@ grade grade
 هيتاوالا h iː t aː w aː l aː 
 حاواوا ħ aː w aː w aː 
 ايخليه aː iː x a lː iː h 
-حت- ħ a t -
+حت ħ a t 
 شولولو ʃ uː l uː l uː 
 حبوبو ħ u bː uː b uː 
 تابا t aː b aː 
@@ -20170,7 +20169,7 @@ grade grade
 اتوصلونه aɪ t w a sˤ l uː n a h 
 ابسيارة aː b s a jː aː r a a 
 تكسي t i k s iː 
-وال- w i aː l -
+وال w i aː l 
 وانت j aː n t a 
 دكة d i kː a a 
 الاحتياط aː l i aː ħ t iː aː tˤ 
@@ -20187,7 +20186,7 @@ grade grade
 مادري m aː d r iː 
 ايطلق ك  aː iː tˤ a l g i tʃ 
 تزوجتي t i z a wː ʒ t aɪ 
-ماد- m aː d -
+ماد m aː d 
 طالق  tˤ aː l i g 
 أهلك  ʔ a h l i tʃ 
 طلق تك  tˤ a lː g t a tʃ 
@@ -20444,7 +20443,7 @@ grade grade
 إيعنة ʔ i iː ʕ a n a 
 اتصكين aː t sˤː k iː n 
 عصبي ʕ a sˤ a b iː 
-ماشا- m aː ʃ aː -
+ماشا m aː ʃ aː 
 فديتك f i d iː t i k 
 يشيل j i ʃ iː l 
 منيره m n iː r a h 
@@ -20570,7 +20569,7 @@ grade grade
 اللوزتين aɪ l lː uː z t iː n 
 لعبته l i ʕ b i t a h 
 العشيات aɪ l ʕ i ʃ iː aː t 
-ال-- aɪ l --
+ال aɪ l 
 تسلمون t i s l i m uː n 
 يفداك j i f d aː k 
 الك ذب aɪ l tʃ a ð i b 
@@ -20669,7 +20668,7 @@ grade grade
 ياخزها iː aː x i z h aː 
 بارد b aː r i d 
 مبرد m i b a rː a d 
-إنزي- ʔ i n z iː -
+إنزي ʔ i n z iː 
 الذاهر aɪ l ð a ّaː h i r 
 يمر j i m u r 
 المهل aɪ l m a h a l 
@@ -20805,7 +20804,7 @@ grade grade
 بيده b i j a d i h 
 تبرعاتها t a b a r u ّʕ aː t h aː 
 اتحدثنا aɪ t ħ a dː i θ n aː 
-الم- aː l m -
+الم aː l m 
 أهدافكم ʔ a a h d aː f k u m 
 تسعون t i s ʕ uː n 
 اتوصلونها aɪ t w a sˤ l uː n h aː 
@@ -20845,7 +20844,7 @@ grade grade
 باجلا b aː ʒ i lː aː 
 هار h aː r 
 نخل n u x u l 
-باجل- b aː ʒ i l -
+باجل b aː ʒ i l 
 غواويص ɣ uː aː w i iː sˤ 
 النوخذة aɪ l n u ّw x i ð a a 
 الريوق  aː l r iː uː g 
@@ -21190,9 +21189,9 @@ grade grade
 يبونك j a bː uː n i ّk 
 ابيرفعون aː b j i r f i ʕ uː n 
 ظغطي ðˤ a ɣ tˤ iː 
-بيذبحو- b i j i ð b i ħ uː -
+بيذبحو b i j i ð b i ħ uː 
 بيشلوني b iː ʃ i lː uː n iː 
-النجو- aː l n u ʒ uː -
+النجو aː l n u ʒ uː 
 النجوم aɪ l nː i ʒ uː m 
 هالكمبارس h aː l k u m b aː r s 
 اندورهم aɪ n d a wː i r h u m 
@@ -21203,7 +21202,7 @@ grade grade
 ظرف ðˤ a r f 
 أذوني ʔ a a ð uː n iː 
 عورتني ʕ a w a ّr a t n iː 
-لك- l a k i -
+لك l a k i 
 احمد aː ħ m a d 
 آعد ʔ aː ʕ i d 
 سايب s aː j i b 
@@ -21217,7 +21216,7 @@ grade grade
 النهرضة aɪ l nː a h a r dˤ a a 
 ابتعملوش aɪ b t i ʕ m i l uː ʃ 
 ادماغي aɪ d m aː ɣ iː 
-با- b aː -
+با b aː 
 باحط b aː ħ i tˤː 
 الحرة aɪ l ħ a rː a a 
 وخر w a xː a r 
@@ -21227,7 +21226,7 @@ grade grade
 انركز aɪ n r a kː i z 
 أدوارنا ʔ a a d w aː r n aː 
 هدوا h a dː j aː 
-شت- ʃ i t -
+شت ʃ i t 
 اعمل aː a ʕ m i l 
 حيخلص ħ aɪ x a lː a sˤ 
 المشهد aɪ l m a ʃ h a d 
@@ -21246,9 +21245,9 @@ grade grade
 متأخر m i t ʔ a a xː i r 
 متوهق ين m i t w a h g iː n 
 حالتنا ħ aː l a t n aː 
-آآ- ʔ aː ʔ aː -
+آآ ʔ aː ʔ aː 
 ادبر aɪ d a ّb i ّr 
-اب- aː b -
+اب aː b 
 ابيششتغل aɪ b j i ʃ i ʃ t i ɣ i l 
 هالمشهد h aː l m a ʃ h a d 
 هيبة h aɪ b a t 
@@ -21368,9 +21367,9 @@ grade grade
 تقعد t i q ʕ a d 
 جعفر ʒ a ʕ f a r 
 اللماع aɪ l lː a mː aː ʕ 
-فاط- f aː tˤ -
+فاط f aː tˤ 
 اشلونك aː ʃ l uː n a k 
-العب- aː l ʕ u b u -
+العب aː l ʕ u b u 
 اركد aː r k i d 
 اهيع aɪ h j a ʕ 
 يعطونك j a ʕ tˤ uː n a k 
@@ -21381,7 +21380,7 @@ grade grade
 اتلق ط aɪ t l a gː i tˤ 
 يشفيها j i ʃ f iː h aː 
 ربيع r i b iː ʕ 
-ارك- aː r k i -
+ارك aː r k i 
 إهيع ʔ i h j a ʕ 
 نظارة n a ðˤː aː r a a 
 شيبت ʃ a jː a b t 
@@ -21410,7 +21409,7 @@ grade grade
 للدور l i l d u ّw r 
 بساعدكم b a s aː ʕ i d k u m 
 مشاهد m a ʃ aː h i d 
-مشا- m ʃ aː -
+مشا m ʃ aː 
 شارينه ʃ aː r iː n a h 
 باخذك b aː x ð i k 
 بدربك b a d r b i k 
@@ -21586,9 +21585,9 @@ grade grade
 اثيابك aɪ θ iː aː b i k 
 امسح aɪ m s i ħ 
 أأجرها ʔ a a ʔ a a ʒː i r h aː 
-سس- s s -
+سس s s 
 أجرك ʔ a a ʒ r i k 
-امسد- aɪ m s i dː i -
+امسد aɪ m s i dː i 
 فالح f aː l i ħ 
 ملك  m a l a tʃ 
 ليتك  l iː t i tʃ 
@@ -21932,7 +21931,7 @@ grade grade
 إسألوه ʔ i s ʔ a l uː h 
 يتصرف j i t sˤ a rː f 
 أختلس ʔ a x t i l s 
-ع- ʕ -
+ع ʕ 
 إختلاس ʔ i x t i l aː s 
 تأجيل t ʔ a ʒ iː l 
 تبريد t a b r iː d 
@@ -22212,14 +22211,14 @@ grade grade
 لاب  l aː v 
 تو t uː 
 إختفيت ʔ i x t a f iː t 
-إح- ʔ i ħ -
+إح ʔ i ħ 
 بابوك b u aː b uː k 
 ياخذك iː aː x ð i k 
 أساسا ʔ a a s aː s aː a n 
 ماي m aː iː 
 فاذر f aː ð a r 
 إهناك ʔ i h n aː k 
-اي- aɪ iː -
+اي aɪ iː 
 ايولول aɪ iː w a l w i l 
 بالغترة b i aː l ɣ i t r a a 
 شقراء ʃ a q r aː ʔ 
@@ -22391,13 +22390,13 @@ grade grade
 متفرص m i t f a rː sˤ 
 اتحصله aː t ħ a sˤ l a h 
 الكراسي aɪ l k a r aː s iː 
-الك- aː l k a -
-الط- aɪ l tˤ -
+الك aː l k a 
+الط aɪ l tˤ 
 الأسكريم aː l ʔ a s k a r iː m 
 بالحليب b i aː l ħ a l iː b 
 للخطأ l i l x a tˤ a ʔ a 
 غشمرة ɣ a ʃ m a r a a 
-ل-ل-ل- l -l -l -
+للل l l l 
 تغشمروا t i ɣ a ʃ m i r uː aː 
 تغشمرني t i ɣ ʃ a m r n iː 
 بيرد b iː rː d 
@@ -22411,7 +22410,7 @@ grade grade
 شنطتي ʃ a n tˤ i t iː 
 ونطتك w a n tˤ t i k 
 ييبها j i iː b h aː 
-م-م- m -m -
+مم m m 
 شالوا ʃ aː l uː aː 
 قشه g a ʃː h 
 سفروه s a f r uː h 
@@ -22479,7 +22478,7 @@ grade grade
 ريلك r iː l i k 
 حاطها ħ aː tˤ h aː 
 عالكرسي ʕ aː l k i r s iː 
-ش-ش- ʃ -ʃ -
+شش ʃ ʃ 
 انهدد aː n h a dː d 
 أريحك ʔ a r aɪ ħ i k 
 ادروس aː d r uː s 
@@ -22777,9 +22776,9 @@ grade grade
 اختيارات aɪ x i t iː aː r aː t 
 اختار aː a x t aː r 
 الأنسب aɪ l ʔ a n s a b 
-تسل- t i s l a -
+تسل t i s l a 
 يبلغ j i b l a ɣ 
-علي- ʕ a l iː -
+علي ʕ a l iː 
 ارتاحيت aɪ r t aː ħ iː t 
 المكالمات aɪ l m u k aː l a m aː t 
 ياتني iː aː t n iː 
@@ -22895,7 +22894,7 @@ grade grade
 يصق ل j a sˤ g i l 
 آدور ʔ aː d a wː i r 
 اللمعة aɪ l lː a m ʕ a a 
-انش- aː n ʃ -
+انش aː n ʃ 
 السياكل aɪ l sː aɪ aː k i l 
 ايكيك aɪ iː tʃ a jː i k 
 فلي f i lː iː 
@@ -23254,7 +23253,7 @@ grade grade
 سواقة s i w aː g a a 
 ايحن aɪ iː ħ i nː 
 كرهت k i r a h t 
-بتصر- b a t sˤ a r -
+بتصر b a t sˤ a r 
 ساجد s aː ʒ i d 
 ايروه aɪ iː r uː h 
 هجرة h u ʒ r a a 
@@ -23390,7 +23389,7 @@ grade grade
 تير t iː r 
 فاز f aː z 
 فزتوا f i z t uː aː 
-ناق - n aː g -
+ناق  n aː g 
 درزن d a r z a n 
 ثنين θ i n iː n 
 سيم s iː m 

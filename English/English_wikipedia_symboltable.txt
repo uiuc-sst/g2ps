@@ -33,14 +33,14 @@ ce	ʃ
 ch	tʃ
 ch	ʃ
 ch	k
-ch	Ø
+ch	∅
 ci	s ɪ
 ci	ʃ
 ck	k
 cy	s ɪ
 d	d
 dd	d
-e	Ø
+e	∅
 e	ɛ
 e	i
 ear 	ɝ
@@ -82,7 +82,7 @@ ger	dʒ ɝ
 gere	dʒ ɪ ɚ
 gg	ɡ
 gh	ɡ
-gh	Ø
+gh	∅
 gh	f
 gi	dʒ ɪ
 gi	dʒ aɪ
@@ -95,7 +95,7 @@ gn	n
 gu	g
 gu	g w
 h	h
-h	Ø
+h	∅
 i	ɪ
 i	aɪ
 ie	i
