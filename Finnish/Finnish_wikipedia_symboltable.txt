@@ -1,7 +1,7 @@
 A ɑ
 a ɑ
-B b̥
-b b̥
+B p
+b p
 C s
 c s
 C k
@@ -50,8 +50,8 @@ V ʋ
 v ʋ
 W ʋ
 w ʋ
-X ks
-x ks
+X k s
+x k s
 Y y
 y y
 Z ts

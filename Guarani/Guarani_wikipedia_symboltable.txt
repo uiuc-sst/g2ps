@@ -1,10 +1,10 @@
 a	a
 á	a
-ã	ã
+ã	ã
 ch	ɕ
 e	ɛ
 é	ɛ
-ẽ	ẽ
+ẽ	ẽ
 g 	ɰ
 g̃	ɰ̃
 gu	w
@@ -13,7 +13,7 @@ h	x
 h	h
 i	i
 í	i
-ĩ	ĩ
+ĩ	ĩ
 j	dʒ
 k	k
 ku	kʷ
@@ -30,7 +30,7 @@ ngu	ŋɡʷ
 nt	nt
 ñ 	ɲ
 o	ɔ
-õ	õ
+õ	õ
 ó	ɔ
 p	p
 r 	ɾ
@@ -40,9 +40,8 @@ s	s
 t	t
 u	u
 ú	u
-ũ	ũ
+ũ	ũ
 v	ʋ
-v	ʋ̃
 y	ɨ
 ý	ɨ
 ỹ	ɨ

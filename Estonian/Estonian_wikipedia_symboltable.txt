@@ -1,17 +1,17 @@
 ﻿A ɑ	
 a ɑ
-B b̥
-b b̥
+B p
+b p
 C ts
 c ts
-D d̥
-d d̥
+D t
+d t
 E e
 e e
 F f
 f f
-G ɡ̊
-g ɡ̊
+G k
+g k
 H h
 h h
 I i
@@ -58,7 +58,7 @@ w v
 ö ø
 Ü y
 ü y
-X ks
-x ks
+X k s
+x k s
 Y y
 y y

@@ -30,14 +30,14 @@ K k
 k k
 L l
 l l
-M M
+M m
 m m
 N n
 n n
 Ñ ɲ
 ñ ɲ
-Ñ nj
-ñ nj
+Ñ ɲ
+ñ ɲ
 Ng ŋ
 ng ŋ
 O o
@@ -50,7 +50,7 @@ Q kʷ
 Q kʷ
 R ɾ
 R ɾ
-S S
+S s
 s s
 T t
 t t
@@ -60,8 +60,8 @@ V v
 v v
 W w
 w w
-X ks
-x ks
+X k s
+x k s
 Y j
 y j
 Z z
