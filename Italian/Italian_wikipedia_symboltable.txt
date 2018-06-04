@@ -19,7 +19,7 @@ gi	dʒ
 gh	ɡ
 gl	ʎ
 gn	ɲ
-h	eps
+h	∅
 i	i
 ì	i
 í	i

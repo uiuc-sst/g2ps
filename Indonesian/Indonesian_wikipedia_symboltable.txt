@@ -1,7 +1,7 @@
 a	a
 a	ə
 b	b
-c	t͡ʃ
+c	tʃ
 d	d
 e	e
 e	ə
@@ -41,7 +41,7 @@ z	s
 ai	ai̯
 au	au̯
 oi	oi̯
-oi	ʊi̯
+oi	ʊi
 gh	ɣ
 gh	x
 kh	x

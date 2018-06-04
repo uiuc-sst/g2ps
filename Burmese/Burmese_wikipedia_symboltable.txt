@@ -185,21 +185,3 @@ eps	ə
 ဿ ss
 လ္လ ll
 ဠ္ဠ ll
-၀ 0
-၁ 1
-၂ 2
-၃ 3
-၄ 4
-၅ 5
-၆ 6
-၇ 7
-၈ 8
-၉ 9
-၊ [phrase]
-။ [clause]
-၏ [clause]
-၍ [semicolon]
-၌ [at]
-၎င်း [ditto]
-
-

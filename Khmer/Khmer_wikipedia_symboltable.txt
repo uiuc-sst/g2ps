@@ -156,15 +156,7 @@
 ់ ∅
 ៌ ∅
 ៍ ∅
-៎ [exclamation]
 ៏ ∅
 ័ ∅
 ៑ ∅
-។ [clause]
-៘ [ellipses]
-ៗ [repeat]
-៕ [chapter]
-៚ [chapter]
-៙ [chapter]
-៖ [colon]
 
