@@ -10,7 +10,7 @@ ng’ 	ŋ
 mb 	ᵐb
 nd 	ⁿd
 nj	ⁿdʒ
-ng 	ⁿɡ
+ng 	ᵑɡ
 b 	ɓ
 d 	ɗ	
 j 	ɗʒ
@@ -39,12 +39,12 @@ r 	r
 l 	l
 y 	j	
 w 	w
-rw	ɾɡw
-pw	pk
+rw	ɾ ɡʷ
+pw	p k
 bw	bɡ
-mw	mŋ
-my	mɲ
-tw	tkw
-dw	dɡw
-cw	tʃkw
-by	bɟ
+mw	m ŋ
+my	m ɲ
+tw	t kʷ
+dw	d ɡʷ
+cw	tʃ kʷ
+by	b ɟ

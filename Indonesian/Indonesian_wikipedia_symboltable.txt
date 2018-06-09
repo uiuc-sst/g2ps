@@ -38,8 +38,8 @@ x	z
 y	j
 z	z
 z	s
-ai	ai̯
-au	au̯
+ai	ai
+au	au
 oi	oi̯
 oi	ʊi
 gh	ɣ

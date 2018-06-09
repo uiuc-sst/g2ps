@@ -1,6 +1,6 @@
 a	ɐ
-a	äː
-ą	äː
+a	aː
+ą	aː
 e	ɛ
 e	æː
 ę	æː
@@ -36,12 +36,12 @@ v	v
 z	z̪
 ž	ʒ
 b	bʲ
-c	tsʲ
-č	tʃʲ
+c	t̠ʃʲ
+č	t̠ʃʲ
 ch	xʲ
 d	dʲ
-dz	dzʲ
-dž	dʒʲ
+dz	d̠ʒʲ
+dž	d̠ʒʲ
 f	fʲ
 g	ɡʲ
 h	ɣʲ

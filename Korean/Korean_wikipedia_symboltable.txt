@@ -5,8 +5,8 @@
 ㅁ	l
 ㅂ	p
 ㅅ	s
-ㅇ eps
-ㅇ ŋ
+ㅇ 	∅
+ㅇ 	ŋ
 ㅈ	t̠ʃ
 ㅊ	t̠ʃʰ
 ㅋ	kʰ
@@ -18,12 +18,12 @@
 ㅃ	pˀ
 ㅆ	sˀ
 ㅉ	t̠ʃˀ
-ㄳ gs
+ㄳ 	g s
 ㄵ	n t̠ʃ
 ㄶ	n h
 ㄺ	l k
 ㄻ	l m
-ㄼl p
+ㄼl 	p
 ㄽ	l s
 ㄾ	l tʰ
 ㄿ	l pʰ
