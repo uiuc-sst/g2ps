@@ -37,9 +37,9 @@ Z z
 z z
 a ɑ
 aa aː
-i i̯
-u u̯
-uw u̯
+i i
+u u
+uw u
 e ɛ
 e ə
 ee eː
@@ -47,7 +47,7 @@ eu øː
 i ɪ
 i ə
 ie iː
-ij ɛi̯
+ij ɛi
 ij iː
 ij ə
 o ɔ
@@ -55,6 +55,6 @@ oo oː
 oe uː
 u ʏ
 uu yː
-ui œy̯
-uw yu̯
+ui œy
+uw yu
 
