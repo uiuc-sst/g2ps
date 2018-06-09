@@ -14,7 +14,7 @@ h	h
 mp	mp
 nt	nt
 nts	nts
-ntr	ɳ ʈʳ
+ntr	ɳʈ
 b	b
 d	d
 j	dz
@@ -22,7 +22,7 @@ dr	ɖʐ
 mb	mb
 nd	nd
 nj	ndz
-ndr	ɳ ɖʳ
+ndr	ɳɖ
 f	f
 s	s
 v	v
