@@ -26,7 +26,7 @@ bz	b zʲ
 py	pʲ
 ps	p sʲ
 mbz	ᵐb zʲ
-mps	ᵐp sʲ
+mps	mp sʲ
 my	mʲ	
 d	ɗ
 t	t
@@ -58,7 +58,7 @@ h	h
 gw	ɡʷ
 kw	kʷ
 khw	kʷʰ
-ngw	ᵑgʷ
+ngw	ŋɡʷ
 nkhw	ᵑkʷʰ
 ng'w	ŋʷ	
 j	dʒ

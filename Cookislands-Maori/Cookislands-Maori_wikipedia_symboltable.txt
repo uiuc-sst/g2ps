@@ -1,7 +1,7 @@
 ﻿m m
 n n
 n ŋ
-g eps
+g  ∅
 p p
 t t
 k k
@@ -24,7 +24,7 @@ a a
 M m
 N n
 N ŋ
-g eps
+g  ∅
 P p
 T t
 K k

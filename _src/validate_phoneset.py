@@ -5,7 +5,8 @@ from collections import deque
 from lxml import etree
 
 USAGE='''USAGE: validate_phoneset.py
-  Check to make sure that all IPA symbols of all G2Ps in ../index.html are found in phoibletable.csv.
+  Check to make sure that all IPA symbols of all G2Ps in ../index.html are found in 
+   ../_config/phoibletable.csv.
   Assumes that ../index.html has just one table, with:
    ISO 639-3 code in 2nd column
    G2P files are named in every local URL (no "http") of the 5th column.
@@ -18,7 +19,7 @@ if len(sys.argv) > 1:
 htmlfilename = '../index.html'
 isocolumn = 0
 g2pcolumn = 2
-phoiblefilename = 'phoibletable.csv'
+phoiblefilename = '../_config/phoibletable.csv'
 
 ############################################################3
 # Read the phoible table

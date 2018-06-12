@@ -1,7 +1,7 @@
 a	ɑ
 b	b
-bj	bʒ
-bj	bj
+bj	b ʒ
+bj	b j
 ch	tʃʰ
 d	d
 e	ɪ

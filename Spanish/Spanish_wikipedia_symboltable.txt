@@ -15,7 +15,7 @@ gue	ɡ e
 gui	ɡ i
 guo	ɡ w o
 gü	ɡ w
-h	eps
+h	∅
 i	i
 j	x
 k	k
@@ -36,7 +36,7 @@ t	t
 tx	tʃ
 u	u
 v	b
-w	ɡw
+w	ɡ w
 w	b
 x	s
 x	k s
