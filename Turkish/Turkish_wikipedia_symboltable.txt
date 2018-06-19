@@ -10,7 +10,7 @@ ge	ɟ e
 gi	ɟ i
 gö	ɟ ø
 gü	ɟ y
-ğ	eps
+ğ	∅
 h	h
 ı	ɯ
 i	i

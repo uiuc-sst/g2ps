@@ -76,7 +76,7 @@ ng	ŋ̩
 aa1	aː˥
 aai1	aːi˥
 aau1	aːu˥
-aam1	aː1 m
+aam1	aː˥ m
 aan1	aː˥ n
 aang1	aː˥ ŋ
 aap1	aː˥ p
@@ -91,7 +91,7 @@ ap1	ɐ˥ p
 at1	ɐ˥ t
 ak1	ɐ˥ k
 e1	ɛː˥
-ei1	ei˥
+ei1	eɪ˥
 eu1	ɛːu˥
 em1	ɛː˥ m
 eng1	ɛː˥ ŋ
@@ -107,7 +107,7 @@ it1	iː˥ t
 ik1	ɪ˥ k
 o1	ɔː˥
 oi1	ɔːi˥
-ou1	ou˥
+ou1	oʊ˥
 on1	ɔː˥ n
 ong1	ɔː˥ ŋ
 ot1	ɔː˥ t

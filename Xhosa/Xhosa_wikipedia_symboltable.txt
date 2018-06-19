@@ -29,14 +29,14 @@ q	kǃ
 ch	kǀʰ
 xh	kǁʰ
 qh	kǃʰ
-gc	ɡ̊ǀʱ
-gx	ɡ̊ǁʱ
-gq	ɡ̊ǃʱ
+gc	ɡǀʱ
+gx	ɡǁʱ
+gq	ɡǃʱ
 nc	ŋǀ
 nx	ŋǁ
 nq	ŋǃ
-ngc	ŋǀʱ
-ngx	ŋǁʱ
+ngc	ŋǀʰ
+ngx	ŋ̥ǁ͓ʰ
 ngq	ŋǃʱ
 nkc	ŋǀˀ
 nkx	ŋǁˀ
@@ -52,7 +52,7 @@ kh	kʰ
 bh	bʱ
 d	dʱ
 dy	dʲʱ
-g	ɡ̊ʱ
+g	k
 b	ɓ
 ts	tsʼ
 tsh	tʃʼ
@@ -70,7 +70,7 @@ h	h
 v	v̤
 z	z̤
 dl	ɮ̈
-zh	ʒ̈
+zh	ʒ
 gr	ɣ̈
 hh	ɦ
 m	m

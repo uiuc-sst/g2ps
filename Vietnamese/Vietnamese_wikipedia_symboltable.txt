@@ -26,7 +26,7 @@ s	ʂ
 s	s
 t	t
 th	tʰ
-tr	ʈ͡ʂ
+tr	ʈʂ
 tr	c
 v	v
 v	j
@@ -46,8 +46,8 @@ oc	aw k
 oong	ɔ ŋ
 ooc	ɔ k
 ô	o
-ông	əw ŋ
-ôc	əw k
+ông	əu ŋ
+ôc	əu k
 ôông	o ŋ
 ôôc	o k
 ơ	əː

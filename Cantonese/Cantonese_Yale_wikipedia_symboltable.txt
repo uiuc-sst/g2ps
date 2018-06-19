@@ -43,7 +43,7 @@ eng	ɛ ŋ
 ek	ɛ k
 i	i
 iu	iu	
-im	im
+im	i m
 in	i n	
 ing	ɪ ŋ
 ip	i p
@@ -76,7 +76,7 @@ ng	ŋ̩
 a1	aː˥
 aai1	aːi˥
 aau1	aːu˥
-aam1	aː1 m
+aam1	aː˥ m
 aan1	aː˥ n
 aang1	aː˥ ŋ
 aap1	aː˥ p
