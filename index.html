@@ -3,23 +3,55 @@
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
   </head>
   <body bgcolor="#ffffff">
-    <h1>LanguageNet Grapheme-to-Phoneme Tables</h1>
+    <h1>LanguageNet Grapheme-to-Phoneme Transducers</h1>
     <h2>Usage</h2>
-      <p>
-        The "Pronlexes" column, in the table below, is the main data being distributed
-        by this site.  Other columns are used primarily for validation.
-        This database is synchronized with its
-        <a href="https://github.com/uiuc-sst/g2ps">GitHub repository, which includes the validation code.</a>
-      </p>
+    <ol>
+    <li>Download and install 
+    <a href="https://github.com/AdolfVonKleist/Phonetisaurus">Phonetisaurus</a></li>
+    <li>Get your own copy of the G2Ps:
+    <code>git clone https://uiuc-sst/g2ps</code></li>
+    <li>Test the installation:
+    <code>phonetisaurus-g2pfst --model=g2ps/models/akan.fst --word=ahyiakwa</code><br />
+    You should see the answer "ahyiakwa	21.7336	a ç i a ɥ a˥".</li>
+    </ol>   
+    <h2>Description</h2>
+    <ul>
+    <li>The column "FSTs" is a trained grapheme-to-phoneme transducer for use with
+    phonetisaurus.   If the available lexicons were large enough to test the phone error
+    rate (PER), then it is listed in parentheses.  As of this writing, PERs range from
+    7% to 45%.  Note: some of the trained models exceed git's file size limit, so
+    they're not available on the github page; you can still find them at 
+    <a href="http://isle.illinois.edu/sst/data/g2ps/">http://isle.illinois.edu/sst/data/g2ps/</a>.
+    Currently those are (american-english, arabic, dutch, french, german, 
+    portuguese, russian, spanish, turkish).
+    </li>
+    <li>The column "Pronlexes" lists pronunciation lexicons distributed on this
+    site; most are just short symbol tables, but a few are longer.</li>
+    <li>Other columns are just pointers to sources.</li>  
+    </ul>
     <h2>Acknowledgments</h2>
       <p>
-        This project was funded from 2016-2019 as part of the 
-        <a href="http://www.isle.illinois.edu/sst/research/darpa2015/index.html">LanguageNet</a>.
+        This project was funded from 2016-2019 as part of the <a
+        href="http://www.isle.illinois.edu/sst/research/darpa2015/index.html">LanguageNet</a>.
+        Phonetisaurus G2Ps were trained using the lexicons listed
+        here, and the lexicons in the LanguageNet.  Some languages had
+        other sources: <a
+        href="https://www.iarpa.gov/index.php/research-programs/babel">Appen
+        BABEL</a> lexicons (amharic, assamese, bengali, cebuano,
+        georgian, guarani, haitian, igbo, javanese, kurdish, lao,
+        lithuanian, luo, mongolian, pushto, swahili, tagalog, tamil,
+        tok-pisin, turkish, vietnamese, yue, zulu), <a
+        href="https://catalog.ldc.upenn.edu/ldc96l14">CELEX</a>
+        (dutch, english, german), CALLHOME (<a
+        href="https://catalog.ldc.upenn.edu/LDC99L22">egyptian-arabic</a>,
+        <a href="https://catalog.ldc.upenn.edu/LDC96L15">mandarin</a>,
+        <a href="https://catalog.ldc.upenn.edu/LDC96L16">spanish</a>).
       </p>
     <table border=1>
       <tr>
         <th>Codes</th>
         <th>Names</th>
+        <th>FSTs</th>
         <th>Pronlexes</th>
         <th>Texts</th>
         <th>Sources</th>
@@ -30,6 +62,9 @@
         </td>
         <td>
           Gulf-Arabic<br />
+        </td>
+        <td>
+          <a href="models/gulf-arabic.fst">models/gulf-arabic.fst</a>(15.6)<br />
         </td>
         <td>
           <a href="Gulf-Arabic/QACdict.html">Gulf-Arabic/QACdict.html</a><br />
@@ -46,6 +81,9 @@
         </td>
         <td>
           Assyrian Neo-Aramaic<br />
+        </td>
+        <td>
+          <a href="models/assyrian-neo-aramaic.fst">models/assyrian-neo-aramaic.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Assyrian-Neo-Aramaic/Assyrian-Neo-Aramaic_wikipedia_symboltable.html">Assyrian-Neo-Aramaic/Assyrian-Neo-Aramaic_wikipedia_symboltable.html</a><br />
@@ -68,6 +106,9 @@
           Ainu<br />
         </td>
         <td>
+          <a href="models/ainu.fst">models/ainu.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Ainu/Ainu_Katakana_wikipedia_symboltable.html">Ainu/Ainu_Katakana_wikipedia_symboltable.html</a><br />
           <a href="Ainu/Ainu_Latin_wikipedia_symboltable.html">Ainu/Ainu_Latin_wikipedia_symboltable.html</a><br />
         </td>
@@ -86,6 +127,9 @@
         </td>
         <td>
           Levantine Arabic<br />
+        </td>
+        <td>
+          <a href="models/levantine-arabic.fst">models/levantine-arabic.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Levantine-Arabic/Levantine-Arabic_wikipedia_symboltable.html">Levantine-Arabic/Levantine-Arabic_wikipedia_symboltable.html</a><br />
@@ -111,6 +155,9 @@
           Akan<br />
         </td>
         <td>
+          <a href="models/akan.fst">models/akan.fst</a>(20.8)<br />
+        </td>
+        <td>
           <a href="Akan/Akan_wikipedia_symboltable.html">Akan/Akan_wikipedia_symboltable.html</a><br />
           <a href="Akan/CABCCAD_dict.html">Akan/CABCCAD_dict.html</a><br />
         </td>
@@ -131,6 +178,9 @@
         </td>
         <td>
           Amharic<br />
+        </td>
+        <td>
+          <a href="models/amharic.fst">models/amharic.fst</a>(9.4)<br />
         </td>
         <td>
           <a href="Amharic/Amharic_wikipedia_symboltable.html">Amharic/Amharic_wikipedia_symboltable.html</a><br />
@@ -157,6 +207,9 @@
           Arabic<br />
         </td>
         <td>
+          <a href="models/arabic.fst">models/arabic.fst</a>(13.0)<br />
+        </td>
+        <td>
           <a href="Arabic/Arabic_wikipedia_symboltable.html">Arabic/Arabic_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -179,6 +232,8 @@
           Moroccan Arabic<br />
         </td>
         <td>
+        </td>
+        <td>
           <a href="Moroccan-Arabic/talmoudi84lex.html">Moroccan-Arabic/talmoudi84lex.html</a><br />
         </td>
         <td>
@@ -195,6 +250,9 @@
         </td>
         <td>
           Egyptian Arabic<br />
+        </td>
+        <td>
+          <a href="models/egyptian-arabic.fst">models/egyptian-arabic.fst</a>(15.6)<br />
         </td>
         <td>
           <a href="Egyptian-Arabic/Egyptian-Arabic_wikipedia_symboltable.html">Egyptian-Arabic/Egyptian-Arabic_wikipedia_symboltable.html</a><br />
@@ -219,6 +277,9 @@
           Assamese<br />
         </td>
         <td>
+          <a href="models/assamese.fst">models/assamese.fst</a>(13.0)<br />
+        </td>
+        <td>
           <a href="Assamese/Assamese_wikipedia_symboltable.html">Assamese/Assamese_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -239,6 +300,9 @@
           Aymara<br />
         </td>
         <td>
+          <a href="models/aymara.fst">models/aymara.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Aymara/Aymara_wikipedia_symboltable.html">Aymara/Aymara_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -255,6 +319,9 @@
         </td>
         <td>
           Azerbaijani<br />
+        </td>
+        <td>
+          <a href="models/azerbaijani.fst">models/azerbaijani.fst</a>(17.6)<br />
         </td>
         <td>
           <a href="Azerbaijani/Azerbaijani_wikipedia_symboltable.html">Azerbaijani/Azerbaijani_wikipedia_symboltable.html</a><br />
@@ -277,6 +344,9 @@
           Bambara<br />
         </td>
         <td>
+          <a href="models/bambara.fst">models/bambara.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Bambara/Bambara_wikipedia_symboltable.html">Bambara/Bambara_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -294,6 +364,9 @@
         </td>
         <td>
           Belarusian<br />
+        </td>
+        <td>
+          <a href="models/belarusian.fst">models/belarusian.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Belarusian/Belarusian_wikipedia_symboltable.html">Belarusian/Belarusian_wikipedia_symboltable.html</a><br />
@@ -314,6 +387,9 @@
         <td>
           Bengali<br />
           Bangla<br />
+        </td>
+        <td>
+          <a href="models/bengali.fst">models/bengali.fst</a>(14.3)<br />
         </td>
         <td>
           <a href="Bengali/Bengali_wikipedia_symboltable.html">Bengali/Bengali_wikipedia_symboltable.html</a><br />
@@ -338,6 +414,9 @@
           Berber<br />
         </td>
         <td>
+          <a href="models/berber.fst">models/berber.fst</a>(29.7)<br />
+        </td>
+        <td>
           <a href="Berber/Berber_Latin_wikipedia_symboltable.html">Berber/Berber_Latin_wikipedia_symboltable.html</a><br />
           <a href="Berber/Berber_Tifinagh_wikipedia_symboltable.html">Berber/Berber_Tifinagh_wikipedia_symboltable.html</a><br />
         </td>
@@ -357,6 +436,9 @@
           Tibetan<br />
         </td>
         <td>
+          <a href="models/tibetan.fst">models/tibetan.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Tibetan/Tibetan_wikipedia_symboltable.html">Tibetan/Tibetan_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -372,6 +454,9 @@
         </td>
         <td>
           Bosnian<br />
+        </td>
+        <td>
+          <a href="models/bosnian.fst">models/bosnian.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Bosnian/Bosnian_wikipedia_symboltable.html">Bosnian/Bosnian_wikipedia_symboltable.html</a><br />
@@ -397,6 +482,9 @@
           Bulgarian<br />
         </td>
         <td>
+          <a href="models/bulgarian.fst">models/bulgarian.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Bulgarian/Bulgarian_wikipedia_symboltable.html">Bulgarian/Bulgarian_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -420,6 +508,9 @@
           Cebuano<br />
         </td>
         <td>
+          <a href="models/cebuano.fst">models/cebuano.fst</a>(12.5)<br />
+        </td>
+        <td>
           <a href="Cebuano/Cebuano_wikipedia_symboltable.html">Cebuano/Cebuano_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -437,6 +528,9 @@
         </td>
         <td>
           Czech<br />
+        </td>
+        <td>
+          <a href="models/czech.fst">models/czech.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Czech/Czech_wikipedia_symboltable.html">Czech/Czech_wikipedia_symboltable.html</a><br />
@@ -463,6 +557,9 @@
           Mandarin<br />
         </td>
         <td>
+          <a href="models/mandarin.fst">models/mandarin.fst</a>(18.1)<br />
+        </td>
+        <td>
           <a href="Mandarin/Mandarin_Pinyin_wikipedia_symboltable.html">Mandarin/Mandarin_Pinyin_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -485,6 +582,9 @@
         </td>
         <td>
           Danish<br />
+        </td>
+        <td>
+          <a href="models/danish.fst">models/danish.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Danish/Danish_wikipedia_symboltable.html">Danish/Danish_wikipedia_symboltable.html</a><br />
@@ -511,6 +611,9 @@
           German<br />
         </td>
         <td>
+          <a href="models/german.fst">models/german.fst</a>(10.0)<br />
+        </td>
+        <td>
           <a href="German/German_wikipedia_symboltable.html">German/German_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -534,6 +637,9 @@
           Dinka<br />
         </td>
         <td>
+          <a href="models/dinka.fst">models/dinka.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Dinka/Dinka_wikipedia_symboltable.html">Dinka/Dinka_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -552,6 +658,9 @@
         </td>
         <td>
           Greek<br />
+        </td>
+        <td>
+          <a href="models/greek.fst">models/greek.fst</a>(18.0)<br />
         </td>
         <td>
           <a href="Greek/Greek_wikipedia_symboltable.html">Greek/Greek_wikipedia_symboltable.html</a><br />
@@ -575,6 +684,10 @@
         </td>
         <td>
           English<br />
+        </td>
+        <td>
+          <a href="models/english.fst">models/english.fst</a>(15.3)<br />
+          <a href="models/american-english.fst">models/american-english.fst</a>(9.8)<br />
         </td>
         <td>
           <a href="English/American-English_wikipedia_symboltable.html">English/American-English_wikipedia_symboltable.html</a><br />
@@ -601,6 +714,9 @@
           Estonian<br />
         </td>
         <td>
+          <a href="models/estonian.fst">models/estonian.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Estonian/Estonian_wikipedia_symboltable.html">Estonian/Estonian_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -621,6 +737,9 @@
         </td>
         <td>
           Fijian<br />
+        </td>
+        <td>
+          <a href="models/fijian.fst">models/fijian.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Fijian/Fijian_wikipedia_symboltable.html">Fijian/Fijian_wikipedia_symboltable.html</a><br />
@@ -644,6 +763,9 @@
         </td>
         <td>
           Filipino<br />
+        </td>
+        <td>
+          <a href="models/filipino.fst">models/filipino.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Filipino/Filipino_wikipedia_symboltable.html">Filipino/Filipino_wikipedia_symboltable.html</a><br />
@@ -670,6 +792,9 @@
           Finnish<br />
         </td>
         <td>
+          <a href="models/finnish.fst">models/finnish.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Finnish/Finnish_wikipedia_symboltable.html">Finnish/Finnish_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -692,6 +817,9 @@
         </td>
         <td>
           French<br />
+        </td>
+        <td>
+          <a href="models/french.fst">models/french.fst</a>(12.1)<br />
         </td>
         <td>
           <a href="French/French_wikipedia_symboltable.html">French/French_wikipedia_symboltable.html</a><br />
@@ -717,6 +845,9 @@
           Fulah<br />
         </td>
         <td>
+          <a href="models/fulah.fst">models/fulah.fst</a>(15.8)<br />
+        </td>
+        <td>
           <a href="Fulah/Fulah_wikipedia_symboltable.html">Fulah/Fulah_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -734,6 +865,9 @@
         </td>
         <td>
           Guarani<br />
+        </td>
+        <td>
+          <a href="models/guarani.fst">models/guarani.fst</a>(10.0)<br />
         </td>
         <td>
           <a href="Guarani/Guarani_wikipedia_symboltable.html">Guarani/Guarani_wikipedia_symboltable.html</a><br />
@@ -754,6 +888,9 @@
         </td>
         <td>
           Gujarati<br />
+        </td>
+        <td>
+          <a href="models/gujarati.fst">models/gujarati.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Gujarati/Gujarati_wikipedia_symboltable.html">Gujarati/Gujarati_wikipedia_symboltable.html</a><br />
@@ -780,6 +917,9 @@
           Haitian Creole<br />
         </td>
         <td>
+          <a href="models/haitian.fst">models/haitian.fst</a>(17.8)<br />
+        </td>
+        <td>
           <a href="Haitian/Haitian_wikipedia_symboltable.html">Haitian/Haitian_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -794,6 +934,9 @@
         </td>
         <td>
           Hausa<br />
+        </td>
+        <td>
+          <a href="models/hausa.fst">models/hausa.fst</a>(15.7)<br />
         </td>
         <td>
           <a href="Hausa/Hausa_Ajami_wikipedia_symboltable.html">Hausa/Hausa_Ajami_wikipedia_symboltable.html</a><br />
@@ -815,6 +958,9 @@
         </td>
         <td>
           Hebrew<br />
+        </td>
+        <td>
+          <a href="models/hebrew.fst">models/hebrew.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Hebrew/Hebrew_wikipedia_symboltable.html">Hebrew/Hebrew_wikipedia_symboltable.html</a><br />
@@ -841,6 +987,9 @@
           Hindi<br />
         </td>
         <td>
+          <a href="models/hindi.fst">models/hindi.fst</a>(19.4)<br />
+        </td>
+        <td>
           <a href="Hindi/Hindi_wikipedia_symboltable.html">Hindi/Hindi_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -864,6 +1013,9 @@
           Hmong<br />
         </td>
         <td>
+          <a href="models/hmong-dô.fst">models/hmong-dô.fst</a>(44.5)<br />
+        </td>
+        <td>
           <a href="Hmong-Dô/Hmong-Dô_wikipedia_symboltable.txt">Hmong-Dô/Hmong-Dô_wikipedia_symboltable.txt</a><br />
         </td>
         <td>
@@ -883,6 +1035,9 @@
         </td>
         <td>
           Croatian<br />
+        </td>
+        <td>
+          <a href="models/croatian.fst">models/croatian.fst</a>(13.5)<br />
         </td>
         <td>
           <a href="Croatian/Croatian_wikipedia_symboltable.html">Croatian/Croatian_wikipedia_symboltable.html</a><br />
@@ -909,6 +1064,9 @@
           Hungarian<br />
         </td>
         <td>
+          <a href="models/hungarian.fst">models/hungarian.fst</a>(8.5)<br />
+        </td>
+        <td>
           <a href="Hungarian/Hungarian_wikipedia_symboltable.html">Hungarian/Hungarian_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -931,6 +1089,9 @@
         </td>
         <td>
           Armenian<br />
+        </td>
+        <td>
+          <a href="models/armenian.fst">models/armenian.fst</a>(24.3)<br />
         </td>
         <td>
           <a href="Armenian/Armenian_wikipedia_symboltable.html">Armenian/Armenian_wikipedia_symboltable.html</a><br />
@@ -957,6 +1118,9 @@
           Igbo<br />
         </td>
         <td>
+          <a href="models/igbo.fst">models/igbo.fst</a>(13.8)<br />
+        </td>
+        <td>
           <a href="Igbo/Igbo_wikipedia_symboltable.html">Igbo/Igbo_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -975,6 +1139,9 @@
         </td>
         <td>
           Indonesian<br />
+        </td>
+        <td>
+          <a href="models/indonesian.fst">models/indonesian.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Indonesian/Indonesian_wikipedia_symboltable.html">Indonesian/Indonesian_wikipedia_symboltable.html</a><br />
@@ -1001,6 +1168,9 @@
           Italian<br />
         </td>
         <td>
+          <a href="models/italian.fst">models/italian.fst</a>(14.3)<br />
+        </td>
+        <td>
           <a href="Italian/Italian_wikipedia_symboltable.html">Italian/Italian_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1025,6 +1195,9 @@
           Javanese<br />
         </td>
         <td>
+          <a href="models/javanese.fst">models/javanese.fst</a>(14.0)<br />
+        </td>
+        <td>
           <a href="Javanese/Javanese_Latin_wikipedia_symboltable.html">Javanese/Javanese_Latin_wikipedia_symboltable.html</a><br />
           <a href="Javanese/Javanese_Hanacarakan_wikipedia_symboltable.html">Javanese/Javanese_Hanacarakan_wikipedia_symboltable.html</a><br />
         </td>
@@ -1044,6 +1217,9 @@
         </td>
         <td>
           Japanese<br />
+        </td>
+        <td>
+          <a href="models/japanese.fst">models/japanese.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Japanese/Japanese_wikipedia_symboltable.html">Japanese/Japanese_wikipedia_symboltable.html</a><br />
@@ -1070,6 +1246,9 @@
           Kannada<br />
         </td>
         <td>
+          <a href="models/kannada.fst">models/kannada.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Kannada/Kannada_wikipedia_symboltable.html">Kannada/Kannada_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1094,6 +1273,9 @@
           Georgian<br />
         </td>
         <td>
+          <a href="models/georgian.fst">models/georgian.fst</a>(10.5)<br />
+        </td>
+        <td>
           <a href="Georgian/Georgian_Mkhedruli_wikipedia_symboltable.html">Georgian/Georgian_Mkhedruli_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1112,6 +1294,9 @@
         </td>
         <td>
           Kazakh<br />
+        </td>
+        <td>
+          <a href="models/kazakh.fst">models/kazakh.fst</a>(13.8)<br />
         </td>
         <td>
           <a href="Kazakh/Kazakh_Arabic_wikipedia_symboltable.html">Kazakh/Kazakh_Arabic_wikipedia_symboltable.html</a><br />
@@ -1134,6 +1319,9 @@
         </td>
         <td>
           Khmer<br />
+        </td>
+        <td>
+          <a href="models/khmer.fst">models/khmer.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Khmer/Khmer_wikipedia_symboltable.html">Khmer/Khmer_wikipedia_symboltable.html</a><br />
@@ -1160,6 +1348,9 @@
           Kikuyu<br />
         </td>
         <td>
+          <a href="models/kikuyu.fst">models/kikuyu.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Kikuyu/Kikuyu_wikipedia_symboltable.html">Kikuyu/Kikuyu_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1179,6 +1370,9 @@
           Kinyarwanda<br />
         </td>
         <td>
+          <a href="models/kinyarwanda.fst">models/kinyarwanda.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Kinyarwanda/Kinyarwanda_wikipedia_symboltable.html">Kinyarwanda/Kinyarwanda_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1194,8 +1388,11 @@
           kir<br />
         </td>
         <td>
-          Kyrgyz<br />
           Kirghiz<br />
+          Kyrgyz<br />
+        </td>
+        <td>
+          <a href="models/kirghiz.fst">models/kirghiz.fst</a>(14.7)<br />
         </td>
         <td>
           <a href="Kirghiz/Kirghiz_Cyrillic_wikipedia_symboltable.html">Kirghiz/Kirghiz_Cyrillic_wikipedia_symboltable.html</a><br />
@@ -1220,6 +1417,9 @@
           Kongo<br />
         </td>
         <td>
+          <a href="models/kongo.fst">models/kongo.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Kongo/Kongo_wikipedia_symboltable.html">Kongo/Kongo_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1237,6 +1437,9 @@
         </td>
         <td>
           Korean<br />
+        </td>
+        <td>
+          <a href="models/korean.fst">models/korean.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Korean/Korean_wikipedia_symboltable.html">Korean/Korean_wikipedia_symboltable.html</a><br />
@@ -1263,6 +1466,9 @@
           Kurdish<br />
         </td>
         <td>
+          <a href="models/kurdish.fst">models/kurdish.fst</a>(14.0)<br />
+        </td>
+        <td>
           <a href="Kurdish/Kurdish_wikipedia_symboltable.html">Kurdish/Kurdish_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1285,6 +1491,9 @@
         </td>
         <td>
           Lao<br />
+        </td>
+        <td>
+          <a href="models/lao.fst">models/lao.fst</a>(20.1)<br />
         </td>
         <td>
           <a href="Lao/Lao_wikipedia_symboltable.html">Lao/Lao_wikipedia_symboltable.html</a><br />
@@ -1311,6 +1520,9 @@
           Latvian<br />
         </td>
         <td>
+          <a href="models/latvian.fst">models/latvian.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Latvian/Latvian_wikipedia_symboltable.html">Latvian/Latvian_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1332,6 +1544,9 @@
         </td>
         <td>
           Lithuanian<br />
+        </td>
+        <td>
+          <a href="models/lithuanian.fst">models/lithuanian.fst</a>(11.5)<br />
         </td>
         <td>
           <a href="Lithuanian/Lithuanian_wikipedia_symboltable.html">Lithuanian/Lithuanian_wikipedia_symboltable.html</a><br />
@@ -1357,11 +1572,38 @@
           Luba-Lulua<br />
         </td>
         <td>
+          <a href="models/luba-lulua.fst">models/luba-lulua.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Luba-Lulua/Luba-Lulua_wikipedia_symboltable.html">Luba-Lulua/Luba-Lulua_wikipedia_symboltable.html</a><br />
         </td>
         <td>
         </td>
         <td>
+          <a href="https://en.wikipedia.org/wiki/Luba-Kasai_language">https://en.wikipedia.org/wiki/Luba-Kasai_language</a><br />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          luo<br />
+        </td>
+        <td>
+          Luo<br />
+          Dholuo<br />
+        </td>
+        <td>
+          <a href="models/luo.fst">models/luo.fst</a>(15.5)<br />
+        </td>
+        <td>
+          <a href="Luo/Luo_wikipedia_symboltable.html">Luo/Luo_wikipedia_symboltable.html</a><br />
+        </td>
+        <td>
+        </td>
+        <td>
+          <a href="http://phoible.org/inventories/view/448">http://phoible.org/inventories/view/448</a><br />
+          <a href="http://phoible.org/inventories/view/694">http://phoible.org/inventories/view/694</a><br />
+          <a href="http://phoible.org/inventories/view/153">http://phoible.org/inventories/view/153</a><br />
+          <a href="https://en.wikipedia.org/wiki/Luo_dialect">https://en.wikipedia.org/wiki/Luo_dialect</a><br />
         </td>
       </tr>
       <tr>
@@ -1371,6 +1613,9 @@
         </td>
         <td>
           Malayalam<br />
+        </td>
+        <td>
+          <a href="models/malayalam.fst">models/malayalam.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Malayalam/Malayalam_wikipedia_symboltable.html">Malayalam/Malayalam_wikipedia_symboltable.html</a><br />
@@ -1397,6 +1642,9 @@
           Marathi<br />
         </td>
         <td>
+          <a href="models/marathi.fst">models/marathi.fst</a>(17.1)<br />
+        </td>
+        <td>
           <a href="Marathi/Marathi_Balbodh_wikipedia_symboltable.html">Marathi/Marathi_Balbodh_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1415,6 +1663,9 @@
         </td>
         <td>
           Macedonian<br />
+        </td>
+        <td>
+          <a href="models/macedonian.fst">models/macedonian.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Macedonian/Macedonian_wikipedia_symboltable.html">Macedonian/Macedonian_wikipedia_symboltable.html</a><br />
@@ -1441,6 +1692,9 @@
           Malagasy<br />
         </td>
         <td>
+          <a href="models/malagasy.fst">models/malagasy.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Malagasy/Malagasy_wikipedia_symboltable.html">Malagasy/Malagasy_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1457,6 +1711,9 @@
         </td>
         <td>
           Maltese<br />
+        </td>
+        <td>
+          <a href="models/maltese.fst">models/maltese.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Maltese/Maltese_wikipedia_symboltable.html">Maltese/Maltese_wikipedia_symboltable.html</a><br />
@@ -1482,6 +1739,9 @@
           Mandinka<br />
         </td>
         <td>
+          <a href="models/mandinka.fst">models/mandinka.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Mandinka/Mandinka_wikipedia_symboltable.html">Mandinka/Mandinka_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1498,6 +1758,9 @@
         </td>
         <td>
           Mongolian<br />
+        </td>
+        <td>
+          <a href="models/mongolian.fst">models/mongolian.fst</a>(13.5)<br />
         </td>
         <td>
           <a href="Mongolian/Mongolian_wikipedia_symboltable.html">Mongolian/Mongolian_wikipedia_symboltable.html</a><br />
@@ -1519,6 +1782,9 @@
           Maori<br />
         </td>
         <td>
+          <a href="models/maori.fst">models/maori.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Maori/Maori_wikipedia_symboltable.html">Maori/Maori_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1537,7 +1803,11 @@
           my<br />
         </td>
         <td>
+          Burmese<br />
           Myanmar<br />
+        </td>
+        <td>
+          <a href="models/burmese.fst">models/burmese.fst</a>(32.8)<br />
         </td>
         <td>
           <a href="Burmese/Burmese_wikipedia_symboltable.html">Burmese/Burmese_wikipedia_symboltable.html</a><br />
@@ -1557,11 +1827,36 @@
       </tr>
       <tr>
         <td>
+          nan<br />
+        </td>
+        <td>
+          Min<br />
+          Hokkien<br />
+        </td>
+        <td>
+        </td>
+        <td>
+          <a href="Min/Min_Hokkien_symboltable.html">Min/Min_Hokkien_symboltable.html</a><br />
+          <a href="Min/Min-Chinese_pronunciations.html">Min/Min-Chinese_pronunciations.html</a><br />
+        </td>
+        <td>
+        </td>
+        <td>
+          <a href="http://phoible.org/inventories/view/481">http://phoible.org/inventories/view/481</a><br />
+          <a href="https://repository.ntu.edu.sg/handle/10356/50847">https://repository.ntu.edu.sg/handle/10356/50847</a><br />
+          <a href="https://en.wikipedia.org/wiki/Hokkien">https://en.wikipedia.org/wiki/Hokkien</a><br />
+        </td>
+      </tr>
+      <tr>
+        <td>
           nde<br />
           nd<br />
         </td>
         <td>
           Ndebele<br />
+        </td>
+        <td>
+          <a href="models/ndebele.fst">models/ndebele.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Ndebele/Ndebele_wikipedia_symboltable.html">Ndebele/Ndebele_wikipedia_symboltable.html</a><br />
@@ -1581,6 +1876,9 @@
         </td>
         <td>
           Nepali<br />
+        </td>
+        <td>
+          <a href="models/nepali.fst">models/nepali.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Nepali/Nepali_wikipedia_symboltable.html">Nepali/Nepali_wikipedia_symboltable.html</a><br />
@@ -1607,6 +1905,9 @@
           Dutch<br />
         </td>
         <td>
+          <a href="models/dutch.fst">models/dutch.fst</a>(11.8)<br />
+        </td>
+        <td>
           <a href="Dutch/Dutch_wikipedia_symboltable.html">Dutch/Dutch_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1631,6 +1932,9 @@
           Norwegian<br />
         </td>
         <td>
+          <a href="models/norwegian.fst">models/norwegian.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Norwegian/Norwegian_wikipedia_symboltable.html">Norwegian/Norwegian_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1651,8 +1955,11 @@
           ny<br />
         </td>
         <td>
-          Chewa<br />
           Nyanja<br />
+          Chewa<br />
+        </td>
+        <td>
+          <a href="models/nyanja.fst">models/nyanja.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Nyanja/Nyanja_wikipedia_symboltable.html">Nyanja/Nyanja_wikipedia_symboltable.html</a><br />
@@ -1671,6 +1978,9 @@
         </td>
         <td>
           Oromo<br />
+        </td>
+        <td>
+          <a href="models/oromo.fst">models/oromo.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Oromo/Oromo_wikipedia_symboltable.html">Oromo/Oromo_wikipedia_symboltable.html</a><br />
@@ -1693,6 +2003,9 @@
           Ossetian<br />
         </td>
         <td>
+          <a href="models/ossetian.fst">models/ossetian.fst</a>(23.5)<br />
+        </td>
+        <td>
           <a href="Ossetian/Ossetian_wikipedia_symboltable.html">Ossetian/Ossetian_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1710,8 +2023,11 @@
           pa<br />
         </td>
         <td>
-          Punjabi<br />
           Panjabi<br />
+          Punjabi<br />
+        </td>
+        <td>
+          <a href="models/panjabi.fst">models/panjabi.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Panjabi/Panjabi_wikipedia_symboltable.html">Panjabi/Panjabi_wikipedia_symboltable.html</a><br />
@@ -1736,6 +2052,9 @@
           Papiamento<br />
         </td>
         <td>
+          <a href="models/papiamento.fst">models/papiamento.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Papiamento/Papiamento_wikipedia_symboltable.html">Papiamento/Papiamento_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1751,6 +2070,9 @@
         </td>
         <td>
           Persian<br />
+        </td>
+        <td>
+          <a href="models/persian.fst">models/persian.fst</a>(14.0)<br />
         </td>
         <td>
           <a href="Persian/Persian_wikipedia_symboltable.html">Persian/Persian_wikipedia_symboltable.html</a><br />
@@ -1777,6 +2099,9 @@
           Polish<br />
         </td>
         <td>
+          <a href="models/polish.fst">models/polish.fst</a>(18.9)<br />
+        </td>
+        <td>
           <a href="Polish/Polish_wikipedia_symboltable.html">Polish/Polish_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1799,6 +2124,9 @@
         </td>
         <td>
           Portuguese<br />
+        </td>
+        <td>
+          <a href="models/portuguese.fst">models/portuguese.fst</a>(10.6)<br />
         </td>
         <td>
           <a href="Portuguese/Portuguese_wikipedia_symboltable.html">Portuguese/Portuguese_wikipedia_symboltable.html</a><br />
@@ -1825,6 +2153,9 @@
           Dari<br />
         </td>
         <td>
+          <a href="models/dari.fst">models/dari.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Dari/Dari_wikipedia_symboltable.html">Dari/Dari_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1845,8 +2176,11 @@
           ps<br />
         </td>
         <td>
-          Pashto<br />
           Pushto<br />
+          Pashto<br />
+        </td>
+        <td>
+          <a href="models/pushto.fst">models/pushto.fst</a>(14.1)<br />
         </td>
         <td>
           <a href="Pushto/Pushto_wikipedia_symboltable.html">Pushto/Pushto_wikipedia_symboltable.html</a><br />
@@ -1873,6 +2207,9 @@
           Quechua<br />
         </td>
         <td>
+          <a href="models/quechua.fst">models/quechua.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Quechua/Quechua_wikipedia_symboltable.html">Quechua/Quechua_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -1889,14 +2226,17 @@
           rar<br />
         </td>
         <td>
+          Rarotongan<br />
           Cook Islands Maori<br />
         </td>
         <td>
-          <a href="Cookislands-Maori/Cookislands-Maori_wikipedia_symboltable.html">Cookislands-Maori/Cookislands-Maori_wikipedia_symboltable.html</a><br />
         </td>
         <td>
-          <a href="Cookislands-Maori/text_sbs_20150418.html">Cookislands-Maori/text_sbs_20150418.html</a><br />
-          <a href="Cookislands-Maori/Cookislands-Maori_swadesh_list.html">Cookislands-Maori/Cookislands-Maori_swadesh_list.html</a><br />
+          <a href="Rarotongan/Rarotongan_wikipedia_symboltable.html">Rarotongan/Rarotongan_wikipedia_symboltable.html</a><br />
+        </td>
+        <td>
+          <a href="Rarotongan/text_sbs_20150418.html">Rarotongan/text_sbs_20150418.html</a><br />
+          <a href="Rarotongan/Rarotongan_swadesh_list.html">Rarotongan/Rarotongan_swadesh_list.html</a><br />
         </td>
         <td>
           <a href="http://en.wikipedia.org/wiki/Cook_Islands_Maori">http://en.wikipedia.org/wiki/Cook_Islands_Maori</a><br />
@@ -1909,6 +2249,9 @@
         </td>
         <td>
           Rohingya<br />
+        </td>
+        <td>
+          <a href="models/rohingya.fst">models/rohingya.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Rohingya/Rohingya_wikipedia_symboltable.html">Rohingya/Rohingya_wikipedia_symboltable.html</a><br />
@@ -1926,6 +2269,9 @@
         </td>
         <td>
           Romanian<br />
+        </td>
+        <td>
+          <a href="models/romanian.fst">models/romanian.fst</a>(11.8)<br />
         </td>
         <td>
           <a href="Romanian/Romanian_wikipedia_symboltable.html">Romanian/Romanian_wikipedia_symboltable.html</a><br />
@@ -1949,8 +2295,11 @@
           rn<br />
         </td>
         <td>
-          Kirundi<br />
           Rundi<br />
+          Kirundi<br />
+        </td>
+        <td>
+          <a href="models/rundi.fst">models/rundi.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Rundi/Rundi_wikipedia_symboltable.html">Rundi/Rundi_wikipedia_symboltable.html</a><br />
@@ -1970,6 +2319,9 @@
         </td>
         <td>
           Russian<br />
+        </td>
+        <td>
+          <a href="models/russian.fst">models/russian.fst</a>(7.0)<br />
         </td>
         <td>
           <a href="Russian/Russian_wikipedia_symboltable.html">Russian/Russian_wikipedia_symboltable.html</a><br />
@@ -1996,6 +2348,9 @@
           Sinhala<br />
         </td>
         <td>
+          <a href="models/sinhala.fst">models/sinhala.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Sinhala/Sinhala_wikipedia_symboltable.html">Sinhala/Sinhala_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2020,6 +2375,9 @@
           Slovak<br />
         </td>
         <td>
+          <a href="models/slovak.fst">models/slovak.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Slovak/Slovak_wikipedia_symboltable.html">Slovak/Slovak_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2041,6 +2399,9 @@
         </td>
         <td>
           Slovenian<br />
+        </td>
+        <td>
+          <a href="models/slovenian.fst">models/slovenian.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Slovenian/Slovenian_wikipedia_symboltable.html">Slovenian/Slovenian_wikipedia_symboltable.html</a><br />
@@ -2067,6 +2428,9 @@
           Samoan<br />
         </td>
         <td>
+          <a href="models/samoan.fst">models/samoan.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Samoan/Samoan_wikipedia_symboltable.html">Samoan/Samoan_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2088,6 +2452,9 @@
           Shona<br />
         </td>
         <td>
+          <a href="models/shona.fst">models/shona.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Shona/Shona_wikipedia_symboltable.html">Shona/Shona_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2106,6 +2473,9 @@
         </td>
         <td>
           Somali<br />
+        </td>
+        <td>
+          <a href="models/somali.fst">models/somali.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Somali/Somali_wikipedia_symboltable.html">Somali/Somali_wikipedia_symboltable.html</a><br />
@@ -2132,6 +2502,9 @@
           Sotho<br />
         </td>
         <td>
+          <a href="models/sotho.fst">models/sotho.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Sotho/Sotho_wikipedia_symboltable.html">Sotho/Sotho_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2148,6 +2521,9 @@
         </td>
         <td>
           Spanish<br />
+        </td>
+        <td>
+          <a href="models/spanish.fst">models/spanish.fst</a>(10.4)<br />
         </td>
         <td>
           <a href="Spanish/Spanish_wikipedia_symboltable.html">Spanish/Spanish_wikipedia_symboltable.html</a><br />
@@ -2174,6 +2550,9 @@
           Albanian<br />
         </td>
         <td>
+          <a href="models/albanian.fst">models/albanian.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Albanian/Albanian_wikipedia_symboltable.html">Albanian/Albanian_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2196,6 +2575,9 @@
         </td>
         <td>
           Serbian<br />
+        </td>
+        <td>
+          <a href="models/serbian.fst">models/serbian.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Serbian/Serbian_wikipedia_symboltable.html">Serbian/Serbian_wikipedia_symboltable.html</a><br />
@@ -2221,6 +2603,9 @@
           Sundanese<br />
         </td>
         <td>
+          <a href="models/sundanese.fst">models/sundanese.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Sundanese/Sundanese_wikipedia_symboltable.html">Sundanese/Sundanese_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2238,6 +2623,9 @@
         </td>
         <td>
           Swedish<br />
+        </td>
+        <td>
+          <a href="models/swedish.fst">models/swedish.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Swedish/Swedish_wikipedia_symboltable.html">Swedish/Swedish_wikipedia_symboltable.html</a><br />
@@ -2264,6 +2652,9 @@
           Swahili<br />
         </td>
         <td>
+          <a href="models/swahili.fst">models/swahili.fst</a>(12.7)<br />
+        </td>
+        <td>
           <a href="Swahili/Swahili_wikipedia_symboltable.html">Swahili/Swahili_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2286,6 +2677,9 @@
         </td>
         <td>
           Tamil<br />
+        </td>
+        <td>
+          <a href="models/tamil.fst">models/tamil.fst</a>(9.4)<br />
         </td>
         <td>
           <a href="Tamil/Tamil_wikipedia_symboltable.html">Tamil/Tamil_wikipedia_symboltable.html</a><br />
@@ -2312,6 +2706,9 @@
           Tatar<br />
         </td>
         <td>
+          <a href="models/tatar.fst">models/tatar.fst</a>(15.1)<br />
+        </td>
+        <td>
           <a href="Tatar/Tatar_wikipedia_symboltable.html">Tatar/Tatar_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2330,6 +2727,9 @@
         </td>
         <td>
           Telugu<br />
+        </td>
+        <td>
+          <a href="models/telugu.fst">models/telugu.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Telugu/Telugu_wikipedia_symboltable.html">Telugu/Telugu_wikipedia_symboltable.html</a><br />
@@ -2351,6 +2751,9 @@
           Tajik<br />
         </td>
         <td>
+          <a href="models/tajik.fst">models/tajik.fst</a>(14.7)<br />
+        </td>
+        <td>
           <a href="Tajik/Tajik_wikipedia_symboltable.html">Tajik/Tajik_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2368,6 +2771,9 @@
         </td>
         <td>
           Tagalog<br />
+        </td>
+        <td>
+          <a href="models/tagalog.fst">models/tagalog.fst</a>(13.0)<br />
         </td>
         <td>
           <a href="Tagalog/Tagalog_wikipedia_symboltable.html">Tagalog/Tagalog_wikipedia_symboltable.html</a><br />
@@ -2391,6 +2797,9 @@
         </td>
         <td>
           Thai<br />
+        </td>
+        <td>
+          <a href="models/thai.fst">models/thai.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Thai/Thai_wikipedia_symboltable.html">Thai/Thai_wikipedia_symboltable.html</a><br />
@@ -2417,6 +2826,9 @@
           Tigrinya<br />
         </td>
         <td>
+          <a href="models/tigrinya.fst">models/tigrinya.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Tigrinya/Tigrinya_wikipedia_symboltable.html">Tigrinya/Tigrinya_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2441,6 +2853,9 @@
           Tonga<br />
         </td>
         <td>
+          <a href="models/tonga.fst">models/tonga.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Tonga/Tonga_wikipedia_symboltable.html">Tonga/Tonga_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2456,10 +2871,33 @@
       </tr>
       <tr>
         <td>
+          tpi<br />
+        </td>
+        <td>
+          Tok Pisin<br />
+        </td>
+        <td>
+          <a href="models/tok-pisin.fst">models/tok-pisin.fst</a>(18.4)<br />
+        </td>
+        <td>
+          <a href="Tok-Pisin/Tok-Pisin_wikipedia_symboltable.html">Tok-Pisin/Tok-Pisin_wikipedia_symboltable.html</a><br />
+        </td>
+        <td>
+        </td>
+        <td>
+          <a href="http://phoible.org/languages/tpi">http://phoible.org/languages/tpi</a><br />
+          <a href="https://en.wikipedia.org/wiki/Tok_Pisin">https://en.wikipedia.org/wiki/Tok_Pisin</a><br />
+        </td>
+      </tr>
+      <tr>
+        <td>
           tuk<br />
         </td>
         <td>
           Turkmen<br />
+        </td>
+        <td>
+          <a href="models/turkmen.fst">models/turkmen.fst</a>(14.9)<br />
         </td>
         <td>
           <a href="Turkmen/Turkmen_Cyrillic_wikipedia_symboltable.html">Turkmen/Turkmen_Cyrillic_wikipedia_symboltable.html</a><br />
@@ -2480,6 +2918,9 @@
         </td>
         <td>
           Turkish<br />
+        </td>
+        <td>
+          <a href="models/turkish.fst">models/turkish.fst</a>(9.3)<br />
         </td>
         <td>
           <a href="Turkish/Turkish_wikipedia_symboltable.html">Turkish/Turkish_wikipedia_symboltable.html</a><br />
@@ -2506,6 +2947,9 @@
           Uyghur<br />
         </td>
         <td>
+          <a href="models/uighur.fst">models/uighur.fst</a>(15.4)<br />
+        </td>
+        <td>
           <a href="Uighur/Uighur_Arabic_wikipedia_symboltable.html">Uighur/Uighur_Arabic_wikipedia_symboltable.html</a><br />
           <a href="Uighur/Uighur_Cyrillic_wikipedia_symboltable.html">Uighur/Uighur_Cyrillic_wikipedia_symboltable.html</a><br />
           <a href="Uighur/Uighur_Latin_wikipedia_symboltable.html">Uighur/Uighur_Latin_wikipedia_symboltable.html</a><br />
@@ -2525,6 +2969,9 @@
         </td>
         <td>
           Ukrainian<br />
+        </td>
+        <td>
+          <a href="models/ukrainian.fst">models/ukrainian.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Ukrainian/Ukrainian_wikipedia_symboltable.html">Ukrainian/Ukrainian_wikipedia_symboltable.html</a><br />
@@ -2551,6 +2998,9 @@
           Urdu<br />
         </td>
         <td>
+          <a href="models/urdu.fst">models/urdu.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Urdu/Urdu_wikipedia_symboltable.html">Urdu/Urdu_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2573,6 +3023,9 @@
           Uzbek<br />
         </td>
         <td>
+          <a href="models/uzbek.fst">models/uzbek.fst</a>(14.7)<br />
+        </td>
+        <td>
           <a href="Uzbek/Uzbek_Cyrillic_wikipedia_symboltable.html">Uzbek/Uzbek_Cyrillic_wikipedia_symboltable.html</a><br />
           <a href="Uzbek/Uzbek_Latin_wikipedia_symboltable.html">Uzbek/Uzbek_Latin_wikipedia_symboltable.html</a><br />
         </td>
@@ -2591,6 +3044,9 @@
         </td>
         <td>
           Vietnamese<br />
+        </td>
+        <td>
+          <a href="models/vietnamese.fst">models/vietnamese.fst</a>(38.0)<br />
         </td>
         <td>
           <a href="Vietnamese/Vietnamese_wikipedia_symboltable.html">Vietnamese/Vietnamese_wikipedia_symboltable.html</a><br />
@@ -2617,6 +3073,9 @@
           Wolof<br />
         </td>
         <td>
+          <a href="models/wolof.fst">models/wolof.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Wolof/Wolof_wikipedia_symboltable.html">Wolof/Wolof_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2636,6 +3095,8 @@
           Wu<br />
         </td>
         <td>
+        </td>
+        <td>
           <a href="Wu/Wu_Chinese_pronunciations.html">Wu/Wu_Chinese_pronunciations.html</a><br />
         </td>
         <td>
@@ -2652,6 +3113,9 @@
         </td>
         <td>
           Xhosa<br />
+        </td>
+        <td>
+          <a href="models/xhosa.fst">models/xhosa.fst</a>(N/A)<br />
         </td>
         <td>
           <a href="Xhosa/Xhosa_wikipedia_symboltable.html">Xhosa/Xhosa_wikipedia_symboltable.html</a><br />
@@ -2673,6 +3137,9 @@
           Yoruba<br />
         </td>
         <td>
+          <a href="models/yoruba.fst">models/yoruba.fst</a>(14.7)<br />
+        </td>
+        <td>
           <a href="Yoruba/Yoruba_wikipedia_symboltable.html">Yoruba/Yoruba_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2689,8 +3156,11 @@
           yue<br />
         </td>
         <td>
-          Cantonese<br />
           Yue<br />
+          Cantonese<br />
+        </td>
+        <td>
+          <a href="models/yue.fst">models/yue.fst</a>(17.7)<br />
         </td>
         <td>
           <a href="Yue/Yue_Jyutping_wikipedia_symboltable.html">Yue/Yue_Jyutping_wikipedia_symboltable.html</a><br />
@@ -2718,6 +3188,9 @@
           Malay<br />
         </td>
         <td>
+          <a href="models/malay.fst">models/malay.fst</a>(N/A)<br />
+        </td>
+        <td>
           <a href="Malay/Malay_wikipedia_symboltable.html">Malay/Malay_wikipedia_symboltable.html</a><br />
         </td>
         <td>
@@ -2740,6 +3213,9 @@
         </td>
         <td>
           Zulu<br />
+        </td>
+        <td>
+          <a href="models/zulu.fst">models/zulu.fst</a>(9.7)<br />
         </td>
         <td>
           <a href="Zulu/Zulu_wikipedia_symboltable.html">Zulu/Zulu_wikipedia_symboltable.html</a><br />
