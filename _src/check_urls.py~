@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+'''check_urls.py inputfile
+   Read inputfile, find all of the URLs, and report which ones are bad links.
+'''
+
