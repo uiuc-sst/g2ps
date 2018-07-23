@@ -1,0 +1,44 @@
+i	i
+ei	e
+uh	ə
+o	o
+u	u
+e	ɘ
+ah	a
+oh	ɔ
+ai	ai
+ia	ia
+ioo	iɔ
+ua	ua
+ui	ui
+au	au
+io	io
+iu	iu
+ue	ue						
+iau	iau
+uai	uai
+p	p
+ph	pʰ
+b	b
+g	g
+k	k
+kh	kʰ
+t	t
+th	tʰ	
+q	ʔ
+n	n
+m	m
+ng	ŋ
+s	s
+l	l
+h	h		
+tsi	tç i
+tsia	tç ia
+tsioo	tç iɔ 
+tsio	tç io
+tsiu	tç iu
+tsiau	tç iau
+tsh	tʃ
+dz	dʒ
+
+		
