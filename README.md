@@ -1,5 +1,5 @@
-    #LanguageNet Grapheme-to-Phoneme Transducers
-    ##Usage
+    # LanguageNet Grapheme-to-Phoneme Transducers
+    ## Usage
     * Download and install 
     [Phonetisaurus](https://github.com/AdolfVonKleist/Phonetisaurus)
     * Get your own copy of the G2Ps:
@@ -7,7 +7,8 @@
     * Test the installation:
     `phonetisaurus-g2pfst --model=g2ps/models/akan.fst --word=ahyiakwa`
     You should see the answer "ahyiakwa	21.7336	a ç i a ɥ a˥".
-    ##Description
+
+## Description
     * The column "FSTs" is a trained grapheme-to-phoneme transducer for use with
     phonetisaurus.   If the available lexicons were large enough to test the phone error
     rate (PER), then it is listed in parentheses.  As of this writing, PERs range from
@@ -19,7 +20,8 @@
     * The column "Pronlexes" lists pronunciation lexicons distributed on this
     site; most are just short symbol tables, but a few are longer.
     * Other columns are just pointers to sources.
-    ##Acknowledgments
+
+## Acknowledgments
 
         This project was funded from 2016-2019 as part of the <a
         [LanguageNet](http://www.isle.illinois.edu/sst/research/darpa2015/index.html).
