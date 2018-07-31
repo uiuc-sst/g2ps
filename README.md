@@ -5,7 +5,7 @@
 * Download and install
 [Phonetisaurus](https://github.com/AdolfVonKleist/Phonetisaurus)
 
-* Get your own copy of the G2Ps: `git clone https://uiuc-sst/g2ps`
+* Get your own copy of the G2Ps: `git clone https://github.com/uiuc-sst/g2ps`
 
 * Test the installation: `phonetisaurus-g2pfst --model=g2ps/models/akan.fst --word=ahyiakwa`
 You should see the answer "ahyiakwa	21.7336	a ç i a ɥ a˥".
@@ -29,7 +29,7 @@ this site; most are just short symbol tables, but a few are longer.
 
 ## Acknowledgments
 
-This project was funded from 2016-2019 as part of the <a
+This project was funded from 2016-2019 as part of the
 [LanguageNet](http://www.isle.illinois.edu/sst/research/darpa2015/index.html).
 Phonetisaurus G2Ps were trained using the lexicons listed here, and
 the lexicons in the LanguageNet.  Some languages had other sources:

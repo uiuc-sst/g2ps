@@ -25,7 +25,7 @@ htmlheader = <<ENDHEADER
     <li>Download and install 
     <a href="https://github.com/AdolfVonKleist/Phonetisaurus">Phonetisaurus</a></li>
     <li>Get your own copy of the G2Ps:
-    <code>git clone https://uiuc-sst/g2ps</code></li>
+    <code>git clone https://github.com/uiuc-sst/g2ps</code></li>
     <li>Test the installation:
     <code>phonetisaurus-g2pfst --model=g2ps/models/akan.fst --word=ahyiakwa</code><br />
     You should see the answer "ahyiakwa	21.7336	a ç i a ɥ a˥".</li>
