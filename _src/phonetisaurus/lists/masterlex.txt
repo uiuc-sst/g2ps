@@ -1,0 +1,2 @@
+#../../../../d/grants/darpa/15lorelei/data/masterlex/fra-eng.masterlex.txt
+#../../../../d/grants/darpa/15lorelei/data/masterlex/spa-eng.masterlex.txt

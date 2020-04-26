@@ -1,0 +1,1 @@
+#../../Korean/Korean_wikipedia_symboltable.txt

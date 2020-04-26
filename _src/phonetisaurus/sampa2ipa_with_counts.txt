@@ -1,0 +1,254 @@
+;;; This file contains X-SAMPA to IPA maps for the Babel languages
+;;; (All lines starting with ;;; are comment lines)
+;;;
+;;; Col 1: X-SAMPA symbols
+;;; Col 2: IPA symbols
+;;; 
+;;; Babel Languages are the following: 
+;;; BP (Base Period): Pashto (PSH), Turkish (TUR), Tagalog (TGL), Cantonese (CNT), Vietnamese (VTN)
+;;; OP (Optional Period): Haitian(HAI), Lao (LAO), Zulu (ZUL), Assamese (ASM), Bengali (BNG), Tamil (TAM)
+;;;
+;;; 
+;;; Some rules suggested by MHJ for mapping X-SAMPA phones to IPA:
+;;; (1) use diphthong acoustic models rather than component monophthong models wherever possible, e.g., at least for the dozen or so most common diphthongs in the world.
+;;; (2) in order to help match diphthong symbols across languages, use symbols with /i/ and /u/ instead of /j/ and /w/, e.g., /ai/ instead of /aj/, /au/ instead of /aw/.  If /y/ is used it should refer to the rounded front vowel, NOT the palatal approximant -- therefore it's unlikely to occur in a diphthong, and might be a bug worth investigating.
+;;;
+;;; Remarks: 
+;;; 1. Mapped ts` (in X_SAMPA) to t͡s˞ (in IPA) . The last symbol, a hook, is a diacritic to indicate retroflexion. This is a Vietnamese phone. It is close to voiceless postalveolar affricate ("ch" in CHain, IPA t͡ʃ). Do we map ts` to t͡ʃ   or t͡s˞ ? But retroflexion sound wasn't conclusive from listening tests. Since this is a rare phone, not found in other langs, would it be better to mark ts` as t͡ʃ to enable transfer learning?
+;;; 2. Mapped Hi (X-SAMPA) to  ɥ (IPA). Haitian phone. Mapping this to labial palatal approximant ɥ. This is the "ui" sound in "bon nuit" ("good night" in French). Confmd from listn test on Babel Haitian. 
+;;; 3. Note: The X-SAMPA diacritic for breathy voice is "_t", the corresponding IPA is two small dots "..". But it may be inconspicuous in some editors (like gedit). See the 2nd and 3rd examples. 
+;;;    E.g. 1. g_!\_t    ɡǃ̤     (two dots below !)
+;;;         2. g_|\_t    g|\̤    (two dots below \)
+;;;         3. g_|\|\_t  ɡǁ̤     (two dots below ǁ)
+;;; 4. Vietnamese has a large number (31) of dipthongs and tripthongs. Hence, each was split into constituent monopthongs according to existing Kaldi scripts. The last column of the IPA table is labeled "TOT". It keeps a count of the number of languages that each phone occurs in. For some phones, the count is 0. Those phones correspond to the dipthongs/triphongs specific to Vietnamese. Since we are splitting those into monopthongs, the count is 0.
+;;;    "i@U" "i ə ʊ" 
+;;;    "oaI" "o a ɪ" 
+;;;    "oaI:" "o a ɪː" 
+;;;    "u@I" "u ə ɪ" 
+;;;    "uI@" "u ɪ ə" 
+;;;    "1@I" "ɨ ə ɪ"  
+;;;    "1@U" "ɨ ə ʊ" 
+;;;    "a:I" "aː ɪ" 
+;;;    "a:U" "aː ʊ" 
+;;;    "aU"  "a ʊ"
+;;;    "@U"  "ə ʊ" 
+;;;    "aI"  "a ɪ"
+;;;    "@I"  "ə ɪ" 
+;;;    "EU"  "ɛ ʊ" 
+;;;    "eU"  "e ʊ" 
+;;;    "i@"  "i ə" 
+;;;    "iU"  "i ʊ" 
+;;;    "Oa:" "ɔ aː" 
+;;;    "Oa"  "ɔ a" 
+;;;    "OE"  "ɔ ɛ" 
+;;;    "OI"  "ɔ ɪ"
+;;;    "oI"  "o ɪ"
+;;;    "@:I" "əː ɪ"
+;;;    "u@"  "u ə"
+;;;    "1@"  "ɨ ə"
+;;;    "ue"  "u e"
+;;;    "uI"  "u ɪ"
+;;;    "1I"  "ɨ ɪ"
+;;;    "u@:" "u əː"
+;;;    "1U"  "ɨ ʊ"
+;;;    "ui:" "u iː"
+;;;
+;;; Utilities: (These perl utis were used to generate IPA symbols from unicode codepoints and vice-versa)
+;;; (1) Convert Unicode symbol to Unicode codepoint (hex):
+;;; echo "æ"| perl -ane 'use Encode qw(encode decode); chomp $_; my @unicode_txt = split(//, decode("utf-8", $_)); my @unicode_hex = map {sprintf("0x%x", ord($_))} @unicode_txt; $sym = encode("utf-8", "@unicode_txt"); print "$sym  : @unicode_hex\n";'
+;;;  Output: æ  : 0xe6
+;;;  Note: The unicode codepoints (hex values) can be found in [2,3,4].
+;;;
+;;; (2) Convert Unicode codepoint (hex) to Unicode symbol: 
+;;; perl -e 'use Encode qw(encode decode); $uni_1  = "\x{0064}\x{0292}\x{0361}\x{02B1}"; $utf8_1 = encode('\''utf-8'\'', $uni_1); print "\n$utf8_1\n";'
+;;; Output: dʒ͡ʱ
+;;; 
+;;; References:
+;;; [1] X-SAMPA to IPA: http://en.wikipedia.org/wiki/X-SAMPA
+;;; [2] IPA to Unicode Table: http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm#spac
+;;; [3] IPA to Unicode Chart: http://westonruter.github.io/ipa-chart/keyboard/
+;;; [4] Global Unicode Table: http://unicode-table.com/en/
+;;; [5] Unicode to UTF-8 Conversion: http://en.wikipedia.org/wiki/UTF-8
+;;; 
+;;; 
+;;; X-SAMPA	IPA	CNT	ASM	BNG	PSH	TUR	TGL	VTN	HAI	LAO	TAM	ZUL	TOT
+!\ 		 ǃ	0	0	0	0	0	0	0	0	0	0	1	1	
+!\_h 		 ǃʰ	0	0	0	0	0	0	0	0	0	0	1	1	
+1 		 ɨ	0	0	0	0	1	0	1	0	0	0	0	2	
+1: 		 ɨː	0	0	0	0	1	0	0	0	0	0	0	1	
+1@ 		 ɨə	0	0	0	0	0	0	0	0	0	0	0	0	
+1I 		 ɨɪ	0	0	0	0	0	0	0	0	0	0	0	0	
+1U 		 ɨʊ	0	0	0	0	0	0	0	0	0	0	0	0	
+2 		 ø	0	0	0	0	1	0	0	0	0	0	0	1	
+2: 		 øː	0	0	0	0	1	0	0	0	0	0	0	1	
+3 		 ɜ	0	0	0	0	0	1	0	0	0	0	0	1	
+4 		 ɾ	0	0	0	1	0	0	0	0	0	1	0	2	
+5 		 lˠ	0	0	0	0	1	0	0	0	0	0	0	1	
+6 		 ɐ	1	0	0	0	0	1	0	0	0	0	0	2	
+6j 		 ɐi	1	0	0	0	0	1	0	0	0	0	0	2	
+6w 		 ɐu	1	0	0	0	0	1	0	0	0	0	0	2	
+7 		 ɤ	0	0	0	0	0	0	0	0	1	0	0	1	
+7: 		 ɤː	0	0	0	0	0	0	0	0	1	0	0	1	
+9: 		 œː	1	0	0	0	0	0	0	0	0	0	0	1	
+9y 		 œy	1	0	0	0	0	0	0	0	0	0	0	1	
+<eps> 		 <eps>	1	1	1	1	1	1	1	1	1	1	1	11	
+<oov> 		 <oov>	1	1	1	1	1	1	1	1	1	1	1	11	
+<sss> 		 <sss>	1	1	1	1	1	1	1	1	1	1	1	11	
+<vns> 		 <vns>	1	1	1	1	1	1	1	1	1	1	1	11	
+? 		 ʔ	0	0	0	1	1	1	0	0	1	0	0	4	
+@ 		 ə	0	0	1	1	0	1	1	0	0	0	0	4	
+@: 		 əː	0	0	0	0	0	0	1	0	0	0	0	1	
+@:I 		 əːɪ	0	0	0	0	0	0	0	0	0	0	0	0	
+@I 		 əɪ	0	0	0	0	0	0	0	0	0	0	0	0	
+@U 		 əʊ	0	0	0	0	0	0	0	0	0	0	0	0	
+A 		 ɑ	0	0	0	1	0	1	0	0	1	0	0	3	
+A: 		 ɑː	0	0	0	0	0	0	0	0	1	0	0	1	
+Ao 		 ɑo	0	0	0	0	0	0	0	0	1	0	0	1	
+C 		 ç	0	0	0	1	0	0	0	0	0	0	0	1	
+D 		 ð	0	0	0	0	0	1	0	0	0	0	0	1	
+E 		 ɛ	0	1	0	0	0	1	1	1	1	0	0	5	
+E: 		 ɛː	1	0	0	0	0	0	0	0	1	0	0	2	
+EU 		 ɛʊ	0	0	0	0	0	0	0	0	0	0	0	0	
+E~ 		 ɛ̃	0	1	0	0	0	0	0	0	0	0	0	1	
+G 		 ɣ	0	0	0	1	0	0	1	1	0	0	0	3	
+Hi 		 ɥ	0	0	0	0	0	0	0	1	0	0	0	1	
+I 		 ɪ	0	0	0	0	0	1	1	0	0	0	0	2	
+I: 		 ɪː	0	0	0	0	0	0	1	0	0	0	0	1	
+J 		 ɲ	0	0	0	0	0	0	1	0	1	1	1	4	
+J\ 		 ʄ	0	0	0	0	0	0	1	0	0	0	0	1	
+K 		 ɬ	0	0	0	0	0	0	0	0	0	0	1	1	
+K\ 		 ɮ	0	0	0	0	0	0	0	0	0	0	1	1	
+M 		 ɯ	0	0	0	0	0	0	0	0	1	0	0	1	
+M: 		 ɯː	0	0	0	0	0	0	0	0	1	0	0	1	
+M@ 		 ɯə	0	0	0	0	0	0	0	0	1	0	0	1	
+N 		 ŋ	1	1	1	1	1	1	1	1	1	1	1	11	
+O 		 ɔ	0	1	1	0	0	0	1	1	1	0	1	6	
+O: 		 ɔː	1	0	0	0	0	0	0	0	1	0	0	2	
+O:j 		 ɔːi	1	0	0	0	0	0	0	0	0	0	0	1	
+OE 		 ɔɛ	0	0	0	0	0	0	0	0	0	0	0	0	
+OI 		 ɔɪ	0	0	0	0	0	0	0	0	0	0	0	0	
+Oa 		 ɔa	0	0	0	0	0	0	0	0	0	0	0	0	
+Oa: 		 ɔaː	0	0	0	0	0	0	0	0	0	0	0	0	
+O~ 		 ɔ̃	0	1	1	0	0	0	0	1	0	0	0	3	
+S 		 ʃ	0	1	1	1	1	1	0	1	0	1	1	8	
+SIL 		 SIL	1	1	1	1	1	1	1	1	1	1	1	11	
+T 		 θ	0	0	0	0	0	1	0	0	0	0	0	1	
+U 		 ʊ	0	1	0	0	0	1	1	0	0	0	0	3	
+U~ 		 ʊ̃	0	1	0	0	0	0	0	0	0	0	0	1	
+V 		 ʌ	0	0	0	0	0	1	0	0	0	0	0	1	
+Z 		 ʒ	0	1	1	1	1	1	0	1	0	0	0	6	
+a 		 a	0	1	1	1	1	1	1	1	0	1	1	9	
+a: 		 aː	1	0	0	0	1	0	1	0	0	1	0	4	
+a:I 		 aːɪ	0	0	0	0	0	0	0	0	0	0	0	0	
+a:U 		 aːʊ	0	0	0	0	0	0	0	0	0	0	0	0	
+a:j 		 aːi	1	0	0	0	0	0	0	0	0	0	0	1	
+a:w 		 aːu	1	0	0	0	0	0	0	0	0	0	0	1	
+aI 		 aɪ	0	0	0	0	0	0	0	0	0	0	0	0	
+aU 		 aʊ	0	0	0	0	0	0	0	0	0	0	0	0	
+ai 		 ai	0	0	0	0	0	0	0	0	0	1	0	1	
+aj 		 ai	0	0	0	0	0	1	0	0	0	0	0	1	
+au 		 au	0	0	0	0	0	0	0	0	0	1	0	1	
+aw 		 au	0	0	0	0	0	1	0	0	0	0	0	1	
+a~ 		 ã	0	1	1	0	0	0	0	1	0	0	0	3	
+b 		 b	1	1	1	1	1	1	0	1	1	0	1	9	
+b_< 		 ɓ	0	0	0	0	0	0	1	0	0	0	0	1	
+b_h 		 bʱ	0	1	1	0	0	0	0	0	0	0	0	2	
+c 		 c	0	0	0	0	1	0	1	0	1	0	0	3	
+d 		 d	1	1	1	1	1	1	0	1	1	0	1	9	
+dZ 		 d͡ʒ	0	1	1	1	1	1	0	0	0	1	1	7	
+dZ_h 		 d͡ʒʱ	0	0	1	0	0	0	0	0	0	0	0	1	
+d_< 		 ɗ	0	0	0	0	0	0	1	0	0	0	0	1	
+d_h 		 dʱ	0	1	1	0	0	0	0	0	0	0	0	2	
+d` 		 ɖ	0	0	1	1	0	0	0	0	0	0	0	2	
+d`_h 		 ɖʱ	0	0	1	0	0	0	0	0	0	0	0	1	
+dz 		 d͡z	1	0	0	1	0	0	0	0	0	0	0	2	
+e 		 e	0	1	1	1	1	1	1	1	1	1	1	10	
+e: 		 eː	0	0	0	0	1	0	0	0	1	1	0	3	
+eU 		 eʊ	0	0	0	0	0	0	0	0	0	0	0	0	
+ej 		 ei	1	0	0	0	0	1	0	0	0	0	0	2	
+e~ 		 ẽ	0	0	1	0	0	0	0	1	0	0	0	2	
+f 		 f	1	1	1	1	1	1	1	1	1	1	1	11	
+g 		 ɡ	1	1	1	1	1	1	0	1	0	0	1	8	
+g_!\_t 		 ɡǃ̤	0	0	0	0	0	0	0	0	0	0	1	1	
+g_< 		 ɠ	0	0	0	0	0	0	0	0	0	0	1	1	
+g_h 		 ɡʱ	0	1	1	0	0	0	0	0	0	0	0	2	
+g_|\_t 		 g|\̤	0	0	0	0	0	0	0	0	0	0	1	1	
+g_|\|\_t 	 ɡǁ̤	0	0	0	0	0	0	0	0	0	0	1	1	
+gj 		 ɡj	0	0	0	0	1	0	0	0	0	0	0	1	
+gw 		 ɡu	1	0	0	0	0	0	0	0	0	0	0	1	
+h 		 h	1	1	1	1	1	1	1	1	1	1	1	11	
+h\ 		 ɦ	0	0	0	0	0	0	0	0	0	0	1	1	
+i 		 i	0	1	1	1	1	1	1	1	1	1	1	10	
+i: 		 iː	1	0	0	1	1	0	1	0	1	1	0	6	
+i@ 		 iə	0	0	0	0	0	0	0	0	1	0	0	1	
+iU 		 iʊ	0	0	0	0	0	0	0	0	0	0	0	0	
+iw 		 iu	1	0	0	0	0	1	0	0	0	0	0	2	
+i~ 		 ĩ	0	1	1	0	0	0	0	0	0	0	0	2	
+j 		 j	1	1	1	1	1	1	1	1	1	1	1	11	
+j\ 		 ʝ	0	1	0	1	0	0	0	0	0	0	0	2	
+j\_h 		 ʝʱ	0	1	0	0	0	0	0	0	0	0	0	1	
+k 		 k	1	1	1	1	1	1	1	1	1	1	0	10	
+k_> 		 kʼ	0	0	0	0	0	0	0	0	0	0	0	0	
+k_h 		 kʰ	0	1	1	0	0	0	0	0	1	0	1	4	
+kw 		 ku	1	0	0	0	0	0	0	0	0	0	0	1	
+kx 		 kx	0	0	0	0	0	0	0	0	0	0	1	1	
+l 		 l	1	1	1	1	1	1	1	1	1	1	1	11	
+l` 		 ɭ	0	0	0	0	0	0	0	0	0	1	0	1	
+m 		 m	1	1	1	1	1	1	1	1	1	1	1	11	
+n 		 n	1	1	1	1	1	1	1	1	1	1	1	11	
+n` 		 ɳ	0	0	0	1	0	0	0	0	0	1	0	2	
+o 		 o	0	1	1	1	1	1	1	1	1	1	0	9	
+o: 		 oː	0	0	0	0	1	0	0	0	1	1	0	3	
+oI 		 oɪ	0	0	0	0	0	0	0	0	0	0	0	0	
+oi 		 oi	0	1	1	0	0	0	0	0	0	0	0	2	
+oj 		 oi	0	0	0	0	0	1	0	0	0	0	0	1	
+ou 		 ou	0	1	1	0	0	0	0	0	0	0	0	2	
+ou~ 		 oũ	0	1	1	0	0	0	0	0	0	0	0	2	
+ow 		 ou	1	0	0	0	0	1	0	0	0	0	0	2	
+o~ 		 õ	0	1	1	0	0	0	0	0	0	0	0	2	
+p 		 p	1	1	1	1	1	1	1	1	1	1	0	10	
+p_> 		 pʼ	0	0	0	0	0	0	0	0	0	0	1	1	
+p_h 		 pʰ	0	1	1	0	0	0	0	0	1	0	1	4	
+q 		 q	0	0	0	1	0	0	0	0	0	0	0	1	
+r 		 r	0	1	1	0	1	1	0	0	0	1	0	5	
+r\ 		 ɹ	0	0	0	0	0	0	1	0	0	0	0	1	
+r\` 		 ɻ	0	0	0	0	0	0	0	0	0	1	0	1	
+r` 		 ɽ	0	1	1	1	1	0	0	0	0	0	0	4	
+s 		 s	1	1	1	1	1	1	1	1	1	1	1	11	
+s` 		 ʂ	0	0	0	1	0	0	1	0	0	0	0	2	
+t 		 t	1	1	1	1	1	1	1	1	1	1	0	10	
+tS 		 t͡ʃ	0	1	1	1	1	1	0	0	0	1	0	6	
+tS_> 		 t͡ʃʼ	0	0	0	0	0	0	0	0	0	0	1	1	
+tS_h 		 t͡ʃʰ	0	0	1	0	0	0	0	0	0	0	0	1	
+t_> 		 tʼ	0	0	0	0	0	0	0	0	0	0	0	0	
+t_h 		 tʰ	0	1	1	0	0	0	1	0	1	0	1	5	
+t` 		 ʈ	0	0	1	1	0	0	0	0	0	1	0	3	
+t`_h 		 ʈʰ	0	0	1	0	0	0	0	0	0	0	0	1	
+ts 		 t͡s	1	0	0	1	0	0	0	0	0	0	0	2	
+ts\ 		 t͡ɕ	0	0	0	0	0	0	1	0	0	0	0	1	
+ts` 		 t͡s˞	0	0	0	0	0	0	1	0	0	0	0	1	
+u 		 u	0	1	1	1	1	1	1	1	1	1	1	10	
+u: 		 uː	1	0	0	1	1	0	0	0	1	1	0	5	
+u:j 		 uːi	1	0	0	0	0	0	0	0	0	0	0	1	
+u@ 		 uə	0	0	0	0	0	0	0	0	1	0	0	1	
+u@: 		 uəː	0	0	0	0	0	0	0	0	0	0	0	0	
+uI 		 uɪ	0	0	0	0	0	0	0	0	0	0	0	0	
+ue 		 ue	0	0	0	0	0	0	0	0	0	0	0	0	
+ui: 		 uiː	0	0	0	0	0	0	0	0	0	0	0	0	
+uj 		 ui	0	0	0	0	0	1	0	0	0	0	0	1	
+u~ 		 ũ	0	1	1	0	0	0	0	1	0	0	0	3	
+v 		 v	0	1	1	0	0	1	1	1	0	0	1	6	
+v\ 		 ʋ	0	0	0	0	0	0	0	0	0	1	0	1	
+w 		 w	1	1	1	1	1	1	1	1	1	0	1	10	
+x 		 x	0	1	0	1	0	0	1	0	0	0	0	3	
+y 		 y	0	0	0	0	1	0	0	0	0	0	0	1	
+y: 		 yː	1	0	0	0	1	0	0	0	0	0	0	2	
+z 		 z	0	1	1	1	1	1	1	1	0	0	1	8	
+z` 		 ʐ	0	0	0	1	0	0	0	0	0	0	0	1	
+{ 		 æ	0	0	1	0	0	1	0	0	0	0	0	2	
+{~ 		 æ̃	0	0	1	0	0	0	0	0	0	0	0	1	
+|\ 		 ǀ	0	0	0	0	0	0	0	0	0	0	1	1	
+|\_h 		 ǀʰ	0	0	0	0	0	0	0	0	0	0	1	1	
+|\|\ 		 ǁ	0	0	0	0	0	0	0	0	0	0	1	1	
+|\|\_h 		 ǁʰ	0	0	0	0	0	0	0	0	0	0	1	1	
+;TOT 		 	42	55	58	49	47	53	46	37	47	39	46	

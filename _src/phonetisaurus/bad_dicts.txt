@@ -1,0 +1,2 @@
+mandarin_15lorelei_data_masterlex_eng.txt
+vietnamese_data_g2ps_wikipedia_symboltable.txt
