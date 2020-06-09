@@ -163,11 +163,25 @@ _extra_languages = [
     extra_language('yue','Cantonese'),
     extra_language('eng','American-English'),
 ]
+extra_languages = { x.name:x.alpha_3 for x in _extra_languages }
 
 # ISO 639-3 uses these geographical modifiers to subdivide dialect continua.
 # They are cumbersome, and unnecessary if one doesn't need to distinguish the subdivided dialects.
 _words2delete = set(('chinese', 'iranian', 'south', 'southern', 'central', 'modern', 'north'))
 
+def language_to_alpha3(language):
+    '''convert language name to alpha_3'''
+    if pycountry.languages.get(name=language) != None:
+        return(pycountry.languages.get(name=language).alpha_3)
+    if language in extra_languages:
+        return(extra_languages[language])
+    sys.stderr.print('Unable to find alpha3 for language name %s; using qaa'%(language))
+    return('qaa')
+
+def alpha3_to_language(alpha3):
+    '''convert alpha_3 to language name'''
+    return(pycountry.languages.get(alpha_3=alpha3).name)
+    
 def normalize_filename(infile, nametype):
     '''(outfile, language) = normalize_filename(infile, nametype)
     Divide infile at word and directory boundaries; rm duplicates, extensions, and 'eng'.
@@ -242,9 +256,9 @@ babel_pcols = {
     'vietnamese':1,
     'zulu':1
 }
-def normalize_babel(infile,outfile, L):
+def normalize_babel(infile,outfile, language, alpha3):
     # Sometimes pcol==1, sometimes pcol==2, so we split 
-    S1 = read_babel_dictfile(infile,babel_pcols[L])
+    S1 = read_babel_dictfile(infile,babel_pcols[language])
     S2 = []
     for pair in S1:
         inphones = pair[1]
@@ -252,60 +266,60 @@ def normalize_babel(infile,outfile, L):
         for phone in inphones:
             # Look up a tone, attach it to vowel if possible, else most recent phone
             if re.match(r'_\d',phone):
-                op.append(phonecodes.tone2ipa(phone, L))
+                op.append(phonecodes.tone2ipa(phone, alpha3))
             # Everything else is assumed to be X-SAMPA
             else:  
-                op.append( phonecodes.xsampa2ipa(phone, L) )
+                op.append( phonecodes.xsampa2ipa(phone) )
         S2.append((pair[0],op))
     write_dictfile(S2, outfile)
         
 ###########################################################
-def normalize_celex(infile,outfile,L):
-    if L=='english':
+def normalize_celex(infile,outfile,language, alpha3):
+    if language=='english':
         S1 = read_arbitrary_dictfile(infile, '\\', 1, 6, '\\', addspaces=True)
     else:
         S1 = read_arbitrary_dictfile(infile, '\\', 1, 4, '\\', addspaces=True)
     S2 = []
     for pair in S1:
         try:
-            outphones = [ phonecodes.disc2ipa(x, L) for x in pair[1] ]
+            outphones = [ phonecodes.disc2ipa(x, alpha3) for x in pair[1] ]
         except KeyError:
             print('Missing a key: {} in {}'.format(pair,infile))
         S2.append((pair[0],outphones))
     write_dictfile(S2, outfile)
         
 ###########################################################
-def normalize_callhome(infile,outfile,L):
+def normalize_callhome(infile,outfile,language,alpha3):
     S2 = []
-    if L=='egyptian-arabic':
-        S1 = read_callhome_dict(infile, 1, 2, 3, r'([@aiu%AIOUE])', L)
-    elif L=='mandarin':
-        S1 = read_callhome_dict(infile, 0, 3, 2, r'([iI%eEU&a@o>uR])', L)
-    elif L=='spanish':
-        S1 = read_callhome_dict(infile, 0, 2, 3, r'([aeiou]+)', L)
+    if language=='egyptian-arabic':
+        S1 = read_callhome_dict(infile, 1, 2, 3, r'([@aiu%AIOUE])', language)
+    elif language=='mandarin':
+        S1 = read_callhome_dict(infile, 0, 3, 2, r'([iI%eEU&a@o>uR])', language)
+    elif language=='spanish':
+        S1 = read_callhome_dict(infile, 0, 2, 3, r'([aeiou]+)', language)
     for pair in S1:
         inphones = pair[1]
         op = []
         for phone in inphones:
             if re.match(r'_\d',phone):
-                op.append(phonecodes.tone2ipa(phone, L))
+                op.append(phonecodes.tone2ipa(phone, alpha3))
             else:
-                op.append( phonecodes.callhome2ipa(phone, L) )
+                op.append( phonecodes.callhome2ipa(phone, alpha3) )
         S2.append((pair[0],op))
     write_dictfile(S2,outfile)
         
 ###########################################################
-def normalize_masterlex(infile,outfile,L):
+def normalize_masterlex(infile,outfile):
     napat = re.compile(r'N/A')
     S1 = read_arbitrary_dictfile(infile,'\t',0,4,',',True,napat)
     if len(S1) > 0:
         write_dictfile(S1, outfile)
 
 ###########################################################
-def normalize_ipa(infile,outfile,L):
+def normalize_ipa(infile,outfile):
     S = read_ipa_dictfile(infile)
     write_dictfile(S, outfile)
-        
+
 ###########################################################
 if __name__=="__main__":
     if len(sys.argv) < 3:
@@ -332,12 +346,15 @@ if __name__=="__main__":
                     print('Normalizing file {} to {}'.format(infile,outfile))
                 
                     if dicttype=='callhome':
-                        normalize_callhome(infile,outfile,language)
+                        alpha3 = language_to_alpha3(language)
+                        normalize_callhome(infile,outfile,language,alpha3)
                     elif dicttype=='babel':
-                        normalize_babel(infile,outfile,language)
+                        alpha3 = language_to_alpha3(language)
+                        normalize_babel(infile,outfile,language, alpha3)
                     elif dicttype=='celex':
-                        normalize_celex(infile,outfile,language)
+                        alpha3 = language_to_alpha3(language)
+                        normalize_celex(infile,outfile,language, alpha3)
                     elif dicttype=='masterlex':
-                        normalize_masterlex(infile,outfile,language)
+                        normalize_masterlex(infile,outfile)
                     else:
-                        normalize_ipa(infile,outfile,language)
+                        normalize_ipa(infile,outfile)

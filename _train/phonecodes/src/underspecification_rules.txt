@@ -1,0 +1,12 @@
+generally speaking, 'u' is NOT used just to "save bits", e.g., /a/ is not unspecified for stridency; it is [-strident].
+'u' is only used if the phone is the same regardless of whether or not the acoustic correlates of that feature are present,
+e.g., nonspeech is still nonspeech, even if vowel-like or fricative-like or click-like sounds show up.
+Similarly, a vowel unspecified for hightone and lowtone can be produced with either; -hightone -lowtone means that it must be mid-tone.
+
+if -speech:
+   all others u
+
+if +continuant,+sonorant (or if -consonantal; do we need consonantal for this?):
+   lips=u
+   blade=u
+

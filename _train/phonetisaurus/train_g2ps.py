@@ -4,14 +4,10 @@
    If dev/dictionary also exists, then use it to calculate phone error rate.
 '''
 
-import os,sys,re,subprocess
+import os,sys,re,subprocess, itertools
 
-if __name__=="__main__":
-    if len(sys.argv)<2:
-        print(__doc__)
-        exit(0)
-    workdir=sys.argv[1]
-    
+######################################################################################################
+def phonetisaurus_train(workdir):
     os.makedirs(os.path.join(workdir,'models'),exist_ok=True)
     os.makedirs(os.path.join(workdir,'dev_wlists'),exist_ok=True)
     os.makedirs(os.path.join(workdir,'dev_hyps'),exist_ok=True)
@@ -22,14 +18,16 @@ if __name__=="__main__":
     # First, phonetisaurus-align
     print('Starting the phonetisaurus-align processes')
     alignprocs = {}
+    align_cmd = ['phonetisaurus-align','--seq1_del=false','--seq2_del=false','--grow=true']
     for (language,traindictfile) in lang2dict.items():
-        for (seq1_max,seq2_max,model_order) in itertools.product((2, 3, 4),(2,3,4),(1,2,4,8)):
-	    modelname='%s_%d_%d_%d'%(language,model_order,seq1_max,seq2_max)
+        dictfile_cmd = align_cmd + ['--input='+os.path.join(workdir,'train',traindictfile)]
+        for params in itertools.product((2, 3, 4),(2,3,4),(1,2,4,8)):
+            cmd = dictfile_cmd + ['--seq1_max=%d'%params[0]]
+            cmd += ['--seq2_max=%d'%params[1]]
+            cmd += ['--model_order=%d'%params[2]]
+            modelname = language+'_'+'_'.join([str(p) for p in params])
+            cmd += ['--ofile='+os.path.join(workdir,'models',modelname+'.corpus')]
             with open(os.path.join('logs',modelname+'.log'),'w') as logfile:
-		cmd=['phonetisaurus-align','--input='+os.path.join(workdir,'train',traindictfile)]
-                cmd += ['--ofile='+os.path.join(workdir,'models',modelname+'.corpus')]
-                cmd += ['--seq1_del=false','--seq2_del=false','--seq1_max=%d'%seq1_max]
-                cmd += ['--seq2_max=%d'%seq2_max,'--grow=true']
                 alignprocs[modelname] = subprocess.Popen(cmd, stdout=logfile, stderr=logfile)
                         
     # Second, estimate-ngram
@@ -38,7 +36,7 @@ if __name__=="__main__":
     while len(alignprocs) > 0:
         for modelname in alignprocs.keys():
             alignproc = alignprocs[modelname]
-            if alignproc.poll() ne None:
+            if alignproc.poll() != None:
                 params = modelname.split('_')
                 corpusname=os.path.join(workdir,'models',modelname+'.corpus')
                 if os.path.isfile(corpusname):
@@ -46,7 +44,7 @@ if __name__=="__main__":
                             '-t',corpusname,'-wl',os.path.join(workdir,'models',modelname+'.arpa') ]
                     estimateprocs[modelname]=subprocess.Popen(cmd,stdout=alignproc.stdout,
                                                               stderr=alignproc.stderr)
-                del modelname from alignprocs  # delete it from the list once its done
+                del alignprocs[modelname]  # delete it from the list once its done
                 print('Done: align %s, %d align procs remaining'%(modelname,len(alignprocs)))
 
     # Third, phonetisaurus-arpa2wfst
@@ -55,7 +53,7 @@ if __name__=="__main__":
     while len(estimateprocs) > 0:
         for modelname in estimateprocs.keys():
             estimateproc = estimateprocs[modelname]
-            if estimateproc.poll() ne None:
+            if estimateproc.poll() != None:
                 params = modelname.split('_')
                 arpaname=os.path.join('models',modelname+'.arpa')
                 if os.path.isfile(arpaname):
@@ -64,7 +62,7 @@ if __name__=="__main__":
                     ]
                     arpaprocs[modelname]=subprocess.Popen(cmd,stdout=estimateproc.stdout,
                                                               stderr=estimateproc.stderr)
-                del modelname from estimateprocs  # delete it from the list once its done
+                del estimateprocs[modelname]  # delete it from the list once its done
                 print('Done: arpa2wfst %s, %d estimate procs remaining'%(modelname,len(estimateprocs)))
 
     # Fourth, phonetisaurus-g2pwfst
@@ -73,7 +71,7 @@ if __name__=="__main__":
     while len(arpaprocs) > 0:
         for modelname in arpaprocs.keys():
             arpaproc = arpaprocs[modelname]
-            if arpaproc.poll() ne None:
+            if arpaproc.poll() != None:
                 params = modelname.split('_')
                 fstname=os.path.join(workdir,'models',modelname+'.fst')
                 devname=os.path.join(workdir,'dev',language+'.txt')
@@ -87,6 +85,15 @@ if __name__=="__main__":
                             ]
                             g2pprocs[modelname]=subprocess.Popen(cmd,stdout=dev_hyp,
                                                                  stderr=arpaproc.stderr)
-                del modelname from arpaprocs  # delete it from the list once its done
+                del arpaprocs[modelname]  # delete it from the list once its done
                 print('Done: g2pwfst %s, %d arpa2fst procs remaining'%(modelname,len(arpaprocs)))
 
+####################################################################################
+if __name__=="__main__":
+    if len(sys.argv)<2:
+        print(__doc__)
+        exit(0)
+    workdir=sys.argv[1]
+
+    phonetisaurus_train(workdir)
+    

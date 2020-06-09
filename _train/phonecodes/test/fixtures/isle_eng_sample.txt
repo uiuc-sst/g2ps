@@ -1,0 +1,4 @@
+a(dt) # ə #
+is(vbz) # ɪ z #
+test(nn,nnp,vb,vbp) # t ˈɛ s t #
+this(dt,prp,rb) # ð ɪ s #

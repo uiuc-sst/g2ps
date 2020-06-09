@@ -1,0 +1,4 @@
+es	es	es	1
+esto	esto	es to	10
+prueba	prueba	prwe Ba	10
+una	una	u na 	10

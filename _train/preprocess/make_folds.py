@@ -14,20 +14,9 @@ import sys,os,re
 
 dash = re.compile(r'_')
 bracket = re.compile(r'[\}\|]')
-
-if __name__=="__main__":
-    if len(sys.argv)<4:
-        print(__doc__)
-        exit(0)
-
-    inputdir = sys.argv[1]
-    workingdir = sys.argv[2]
-    bad_dicts_file = sys.argv[3]
+##########################################################################################
+def make_train_dev_eval(inputdir, workingdir, bad_dicts):
     inputfiles = os.listdir(inputdir)
-
-    # Read the list of bad_dicts
-    with open(bad_dicts_file) as f:
-        bad_dicts = set([ os.path.basename(x.strip()) for x in f.readlines() ])
 
     traindir = os.path.join(workingdir,'train')
     os.makedirs(traindir,exist_ok=True)
@@ -70,9 +59,19 @@ if __name__=="__main__":
                                     elif n%5==4:
                                         evalfile.write(lines[n])
 
-                                
-                                
-                            
-                
-            
-            
+####################################################################################
+if __name__=="__main__":
+    if len(sys.argv)<4:
+        print(__doc__)
+        exit(0)
+
+    inputdir = sys.argv[1]
+    workingdir = sys.argv[2]
+    bad_dicts_file = sys.argv[3]
+
+    # Read the list of bad_dicts
+    with open(bad_dicts_file) as f:
+        bad_dicts = set([ os.path.basename(x.strip()) for x in f.readlines() ])
+    
+    make_train_dev_eval(inputdir, workingdir, bad_dicts)
+    

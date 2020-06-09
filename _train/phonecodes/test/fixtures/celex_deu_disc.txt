@@ -1,0 +1,4 @@
+Test	t 'E s t
+dies	d 'i s
+ein	'W n
+ist	'I s t

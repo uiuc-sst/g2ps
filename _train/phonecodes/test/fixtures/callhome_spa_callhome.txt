@@ -1,0 +1,4 @@
+es	e1 s
+esto	e1 s t o
+prueba	p r w e1 B a
+una	u1 n a
