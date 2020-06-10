@@ -39,9 +39,9 @@ def convert_pronlexes_to_ipa(fullpaths, languages, outputdir):
             elif dicttype=='celex':
                 preprocess.normalize_dicts.normalize_celex(infile,outfile,L,alpha3)
             elif dicttype=='masterlex':
-                preprocess.normalize_dicts.normalize_masterlex(infile,outfile,L,alpha3)
+                preprocess.normalize_dicts.normalize_masterlex(infile,outfile)
             else:
-                preprocess.normalize_dicts.normalize_ipa(infile,outfile,L,alpha3)
+                preprocess.normalize_dicts.normalize_ipa(infile,outfile,mode='a')
 
 ###########################################################
 if __name__=="__main__":
@@ -80,7 +80,7 @@ if __name__=="__main__":
         languages = set(args.language)
     if args.languagelist:
         with open(args.languagelist) as f:
-            languages.add(f.read().split())
+            languages |= set(f.read().split())
     if len(languages) == 0:
         languages.add('ALL')
     pronlexes = []
@@ -89,7 +89,9 @@ if __name__=="__main__":
     if args.pronlexlist:
         with open(args.pronlexlist) as f:
             for line in f:
-                pronlexes.append(line.rstrip().split())
+                if len(line) > 0:
+                    if line[0] != '#':
+                        pronlexes.append(line.rstrip().split())
     datapath = args.datapath.split(':')
     dictsdir = os.path.join(args.workingdir, 'dicts')
     os.makedirs(dictsdir, exist_ok=True)

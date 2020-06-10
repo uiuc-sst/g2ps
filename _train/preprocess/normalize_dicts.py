@@ -102,10 +102,10 @@ def read_callhome_dict(filename, gcol, pcol, tcol, vowelpat, L):
 #comb_fore=re.compile('^[%s]+$'%phonecodes.stressmarkers)   # These "phones" combine to the next vowel
 #comb_back=re.compile('^[%s%s]+$'%(phonecodes.diacritics,phonecodes.tonecharacters))  # These combine to prev vowel
 
-def write_dictfile(S, filename):
+def write_dictfile(S, filename, mode='w'):
     '''Write a (word,phones) list to dictfile'''
     written = set()
-    with open(filename,"w") as f:
+    with open(filename,mode) as f:
         for pair in sorted(S):
             if len(pair[0])>0 and len(pair[1])>0:
                 plist = [ p for p in pair[1] if not p.isspace() and len(p)>0 ]   # First, eliminate spaces
@@ -161,7 +161,10 @@ class extra_language:
 _extra_languages = [
     extra_language('ber','Berber'),
     extra_language('yue','Cantonese'),
+    extra_language('yue','Yue'),
     extra_language('eng','American-English'),
+    extra_language('swh','Swahili'),
+    extra_language('luo','Luo'),
 ]
 extra_languages = { x.name:x.alpha_3 for x in _extra_languages }
 
@@ -173,9 +176,12 @@ def language_to_alpha3(language):
     '''convert language name to alpha_3'''
     if pycountry.languages.get(name=language) != None:
         return(pycountry.languages.get(name=language).alpha_3)
+    L = ' '.join([ w[0].upper()+w[1:] for w in language.split('-') ])
+    if pycountry.languages.get(name=L) != None:
+        return(pycountry.languages.get(name=L).alpha_3)
     if language in extra_languages:
         return(extra_languages[language])
-    sys.stderr.print('Unable to find alpha3 for language name %s; using qaa'%(language))
+    raise Warning('Unable to find alpha3 for language name %s; using qaa\n'%(language))
     return('qaa')
 
 def alpha3_to_language(alpha3):
@@ -316,9 +322,9 @@ def normalize_masterlex(infile,outfile):
         write_dictfile(S1, outfile)
 
 ###########################################################
-def normalize_ipa(infile,outfile):
+def normalize_ipa(infile,outfile, mode='w'):
     S = read_ipa_dictfile(infile)
-    write_dictfile(S, outfile)
+    write_dictfile(S, outfile, mode)
 
 ###########################################################
 if __name__=="__main__":
