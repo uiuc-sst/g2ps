@@ -3,45 +3,44 @@ import preprocess
 import phonetisaurus
 
 ###########################################################
-def find_inputfiles(datapath, input_pronlexes):
+def find_inputfiles(datapath, input_pronlexes, languages, dicttypes):
     output_pronlexes = []
     for spec in input_pronlexes:
-        for d in datapath:
-            candidate = os.path.join(d,spec[2])
-            if os.path.exists(candidate):
-                output_pronlexes.append([spec[0], spec[1], candidate])
+        (language, dicttype, filename) = (spec[0], spec[1], spec[2])
+        if dicttype=='masterlex':
+            language = preprocess.normalize_dicts.alpha3_to_language(language)
+        if language in languages or 'ALL' in languages:
+            if dicttype in dicttypes or 'ALL' in dicttypes:
+                for d in datapath:
+                    candidate = os.path.join(d,spec[2])
+                    if os.path.exists(candidate):
+                        output_pronlexes.append([spec[0], spec[1], candidate])
     return(output_pronlexes)
 
 ###########################################################
-def convert_pronlexes_to_ipa(fullpaths, languages, outputdir):
-    langset=set(languages)
+def convert_pronlexes_to_ipa(fullpaths, outputdir):
     for spec in fullpaths:
-        dicttype=spec[1]
-        language=spec[0]
-        infile=spec[2]
+        (language, dicttype, infile) = (spec[0], spec[1], spec[2])
         # Find language name and alpha3
         if dicttype=='masterlex':
-            alpha3 = language
-            language = preprocess.normalize_dicts.alpha3_to_language(alpha3)
+            (alpha3, language) = (language, preprocess.normalize_dicts.alpha3_to_language(language))
         else:
             alpha3 = preprocess.normalize_dicts.language_to_alpha3(language)
                   
         # Call the appropriate type of normalization, to convert to IPA
-        if language in langset or 'ALL' in langset:
-            L = language.lower()
-            outfile = os.path.join(outputdir,language+'_'+dicttype+'.txt')
-            print('Normalizing file {} to {}'.format(infile,outfile))
-                
-            if dicttype=='callhome':
-                preprocess.normalize_dicts.normalize_callhome(infile,outfile,L,alpha3)
-            elif dicttype=='babel':
-                preprocess.normalize_dicts.normalize_babel(infile,outfile,L,alpha3)
-            elif dicttype=='celex':
-                preprocess.normalize_dicts.normalize_celex(infile,outfile,L,alpha3)
-            elif dicttype=='masterlex':
-                preprocess.normalize_dicts.normalize_masterlex(infile,outfile)
-            else:
-                preprocess.normalize_dicts.normalize_ipa(infile,outfile,mode='a')
+        outfile = os.path.join(outputdir,language+'.txt')
+        print('Normalizing file {} to {}'.format(infile,outfile))
+        
+        if dicttype=='callhome':
+            preprocess.normalize_dicts.normalize_callhome(infile,outfile,language,alpha3)
+        elif dicttype=='babel':
+            preprocess.normalize_dicts.normalize_babel(infile,outfile,language,alpha3)
+        elif dicttype=='celex':
+            preprocess.normalize_dicts.normalize_celex(infile,outfile,language,alpha3)
+        elif dicttype=='masterlex':
+            preprocess.normalize_dicts.normalize_masterlex(infile,outfile)
+        else:
+            preprocess.normalize_dicts.normalize_ipa(infile,outfile,mode='a')
 
 ###########################################################
 if __name__=="__main__":
@@ -58,6 +57,10 @@ if __name__=="__main__":
                         default=default_datapath,
                         help='''Paths (colon-separated) in which to search for pronlexes.
                         Default: %s'''%(default_datapath))
+    parser.add_argument('--dicttypes',
+                        help='''dictionary types to be processed, if not all.
+                        Multiple dicttypes may be colon-separated, e.g., babel:ipa:celex.
+                        (Default: all)''')
     parser.add_argument('-l','--language',nargs='*',
                         help='''Language(s) for which you want to train G2Ps.
                         Default: all the languages in the pronlexlist''')
@@ -95,10 +98,19 @@ if __name__=="__main__":
     datapath = args.datapath.split(':')
     dictsdir = os.path.join(args.workingdir, 'dicts')
     os.makedirs(dictsdir, exist_ok=True)
-    
+
+    # List of formats
+    if args.dicttypes == None:
+        dicttypes = ['ALL']
+    else:
+        dicttypes = args.dicttypes.split(':')
+        for dt in dicttypes:
+            if dt not in preprocess.normalize_dicts.known_dicttypes:
+                raise NotImplementedError('dicttype %s unknown; known dicttypes are %s'%(dt,preprocess.normalize_dicts.known_dicttypes))
+                                                                                 
     # Convert pronlexes to IPA, put them in dictsdir
-    fullpaths = find_inputfiles(datapath, pronlexes)    
-    convert_pronlexes_to_ipa(fullpaths, languages, dictsdir)
+    fullpaths = find_inputfiles(datapath, pronlexes, languages, dicttypes)
+    convert_pronlexes_to_ipa(fullpaths, dictsdir)
 
     # Make folds, with bad_dicts=[]
     #preprocess.make_folds.make_train_dev_eval(dictsdir, args.workingdir, [])

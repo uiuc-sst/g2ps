@@ -93,7 +93,7 @@ def xsampa2ipa(x):
 ######################################################################
 # Language-dependent lexical tones and stress markers
 def tone2ipa(n, alpha3):
-    return(phonecode_tables._tone2ipa[alpha3][n[1:]])
+    return(phonecode_tables._tone2ipa[alpha3][n])
 
 #####################################################################
 # DISC, the system used by CELEX
@@ -129,13 +129,9 @@ def ipa2disc_old(x):
 def callhome2ipa(x,alpha3):
     '''Convert callhome phone symbol x into IPA for language alpha3'''
     (il,ttf)=translate_string(x,phonecode_tables._callhome2ipa[alpha3])
-    if alpha3=='arz':
-        ol = attach_tones_to_vowels(il,phonecode_tables._ipa_stressmarkers,
-                                    phonecode_tables._ipa_vowels,-1,-1)
-    elif alpha3=='cmn':
-        ol=attach_tones_to_vowels(il,phonecode_tables._ipa_tones,
-                                  phonecode_tables._ipa_vowels,-1,1)
-    elif alpha3=='spa':
+    if alpha3=='cmn':
+        ol=attach_tones_to_vowels(il,phonecode_tables._ipa_tones,phonecode_tables._ipa_vowels,-1,1)
+    else:
         ol=attach_tones_to_vowels(il,phonecode_tables._ipa_stressmarkers,
                                   phonecode_tables._ipa_vowels,-1,-1)
     return(''.join(ol))
@@ -143,12 +139,10 @@ def callhome2ipa(x,alpha3):
 def ipa2callhome(x,alpha3):
     '''Convert IPA symbol x into callhome notation, for language alpha3'''
     (il,ttf)=translate_string(x,phonecode_tables._ipa2callhome[alpha3])
-    if alpha3=='arz':
-        ol=attach_tones_to_vowels(il,'012',phonecode_tables._callhome_vowels['arz'],1,1)
-    elif alpha3=='cmn':
+    if alpha3=='cmn':
         ol=attach_tones_to_vowels(il,'012345',phonecode_tables._callhome_vowels['cmn'],-1,1)
-    elif alpha3=='spa':
-        ol=attach_tones_to_vowels(il,'012',phonecode_tables._callhome_vowels['spa'],1,1)
+    else:
+        ol=attach_tones_to_vowels(il,'012',phonecode_tables._callhome_vowels[alpha3],1,1)
     return(''.join(ol))
 
 #########################################################################

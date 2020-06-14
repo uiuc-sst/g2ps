@@ -209,6 +209,8 @@ _ipa2xsampa = { v:k for (k,v) in _xsampa_and_diac2ipa.items() }
 _tone2ipa = {
     'arz' : { '0':'', '1':'ˈ', '2':'ˌ' },
     'eng' : { '0':'', '1':'ˈ', '2':'ˌ' },
+    'deu' : { '0':'', '1':'ˈ', '2':'ˌ' },
+    'jpn' : { '0':'', '1':'ˈ', '2':'ˌ' },
     'yue' : { '0':'', '1':'˥', '2':'˧˥', '3':'˧', '4':'˨˩', '5':'˩˧', '6':'˨' },
     'lao' : { '0':'', '1':'˧', '2':'˥˧', '3':'˧˩', '4':'˥', '5':'˩˧', '6':'˩' },
     'cmn' : { '0':'', '1':'˥', '2':'˧˥', '3':'˨˩˦', '4':'˥˩', '5':'' },
@@ -458,6 +460,94 @@ _callhome2ipa['spa'] = {
 _callhome2ipa['spa'].update(_tone2ipa['spa'])
 _callhome_vowels['spa']=set('aieou')
 
+_callhome2ipa['jpn'] = {
+    'a':'a',
+    'i':'i',
+    'u':'ɯ',
+    'e':'ɛ',
+    'o':'o',
+    'k':'k',
+    'K':'kj',
+    'g':'ɡ',
+    'G':'ɡj',
+    's':'s',
+    'S':'ʃ',
+    'z':'z',
+    'j':'dʒ',
+    'J':'dʒ',
+    't':'t',
+    'C':'tʃ',
+    'c':'ts',
+    'd':'d',
+    'D':'dʒ',
+    'n':'n',
+    'Y':'nj',
+    'h':'h',
+    'H':'hj',
+    'f':'f',
+    'b':'b',
+    'B':'bj',
+    'p':'p',
+    'P':'pj',
+    'm':'m',
+    'M':'mj',
+    'y':'j',
+    'r':'ɾ',
+    'R':'ɾj',
+    'w':'w',
+    'N':'ɴ',
+    '?':'ʔ',
+}
+_callhome2ipa['jpn'].update(_tone2ipa['jpn'])
+_callhome_vowels['jpn']=set('aieou')
+
+_callhome2ipa['deu'] = {
+    'a':'a',
+    'e':'ɛ',
+    'i':'ɪ',
+    'o':'ɔ',
+    'u':'ʊ',
+    'A':'aː',
+    '@':'eː',
+    'E':'ɛː',
+    'I':'iː',
+    'O':'oː',
+    'U':'uː',
+    'W':'øː',
+    'w':'ø',
+    'Y':'y',
+    'y':'ʏ',
+    '&':'ə',
+    'p':'p',
+    'b':'b',
+    't':'t',
+    'd':'d',
+    'k':'k',
+    'g':'ɡ',
+    'G':'ŋ',
+    'm':'m',
+    'n':'n',
+    'l':'l',
+    'r':'r',
+    'f':'f',
+    'v':'v',
+    's':'s',
+    'z':'z',
+    'S':'ʃ',
+    'Z':'ʒ',
+    'j':'j',
+    'x':'x',
+    'h':'h',
+    'V':'w',
+    '$':'a',
+    'w~':'œ̃',
+    'a~':'ɑ̃',
+    '$~':'ã',
+    'O~':'ɔ̃'
+}
+_callhome2ipa['deu'].update(_tone2ipa['deu'])
+_callhome_vowels['deu']=set('aAiIeEoOuUwWyY@&$')|set(('w~','a~','$~','O~'))
+
 _ipa2callhome={l:{v:k for (k,v) in d.items()}for (l,d) in _callhome2ipa.items()}
 #special cases, e.g., define best choice for ambiguous mappings
 _ipa2callhome['arz']['a']='a'
@@ -556,7 +646,7 @@ _timit2ipa.update({
 
 #######################################################################
 # IPA
-_ipa_vowels = set('aeiouyɑɒɛɪɔʘʊʌʏəɘæʉɨøɜɞɐɤɵœɶ')|set(('ɪ̈','ʊ̈'))
+_ipa_vowels = set('aeiouyɑɒɛɪɔʘʊʌʏəɘæʉɨøɜɞɐɤɵœɶɚ')|set(('ɪ̈','ʊ̈'))
 _ipa_consonants = set('bɓcdɖɗfɡɠhɦjʝklɭɺmnɳpɸqrɽɹɻsʂɕtʈvʋwxɧzʐʑβʙçðɱɣɢʛɥʜɲɟʄɬɮʎʟɯɰŋɴʋɒʁʀʃθʍχħʒɾɫʔʕʢʡꜛꜜǃ|ǀ‖ǁǂ')
 _ipa_diacritics = set(re.sub(r'◌','','◌̈◌̟◌̠◌̌◌̥◌̩◌◌◌̂◌̯◌̚◌◌̃◌̘◌̺◌̏◌◌̜◌̪◌̴◌̂◌◌́◌◌◌◌̰◌̀◌◌̄◌̻◌̼◌◌̹◌̞◌̙◌̌◌◌̝◌̋◌̤◌̬◌◌̆◌̽ːʰˀʷʱʼʲˤ'))
 _ipa_stressmarkers = set("ˈˌ")

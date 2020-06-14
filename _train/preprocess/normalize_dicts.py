@@ -14,143 +14,197 @@
    
 import sys,os,os.path,shutil,re
 import phonecodes
+import phonecodes.src.phonecode_tables as phonecode_tables
 import pycountry
+from collections import deque
+
+known_dicttypes = set(['callhome','babel','celex','ipa','masterlex'])
 
 ###########################################################
 def read_ipa_dictfile(filename):
     '''Read from IPA-formatted dictfile; eliminate extra spaces and parens, insert a tab'''
-    S = []
+    S = set()
     with open(filename) as f:
         for line in f:
-            words = re.split(r'\s+',re.sub(r'\(.*\)','',line.strip()))
-            S.append((words[0], words[1:]))
+            S.add(standardize_ipa_entry_string(re.sub(r'\(.*\)','',line)))
     return(S)
 
 def read_babel_dictfile(filename, pcol):
     '''Read from a Babel dict, whose phones start in pcol.
     '''
-    S = []
+    S = set()
     with open(filename) as f:
         for line in f:
             words = re.split(r'\s+',line.rstrip(), pcol)
             options = words[pcol].split('\t')
             for option in options:
-                S.append((words[0], option.split()))
+                op = []
+                for phone in option:
+                    # Look up a tone, attach it to vowel if possible, else most recent phone
+                    if re.match(r'_\d',phone):
+                        op.append(phonecodes.tone2ipa(phone[1:], alpha3))
+                    # Everything else is assumed to be X-SAMPA
+                    else:  
+                        op.append( phonecodes.xsampa2ipa(phone) )
+                if len(op)>0:
+                    S.add(standardize_ipa_entry_list(words[0],op))
     return(S)
 
-def read_arbitrary_dictfile(filename, splitchar, gcol, pcol, optchar, addspaces=False, napat=None):
+def read_arbitrary_dictfile(fname, splitc, gcol, pcol, optc, napat=None, cfunc=None):
     '''From dictfile, read a set of (word,phones) pairs.
-    splitchar -- character to split columns
+    splitc -- character to split columns
     gcol -- column containing the word
     pcol -- column containing the phones
-    optchar -- character to split options, within the phones column (same as splitchar==unused)
-    addspaces -- true if spaces should be added betweeen consecutive characters in phone string
+    optc -- character to split options, within the phones column (same as splitc==unused)
     napat -- ignore the line if re.search(napat,word) or re.search(napat,phones), if len(napat)>0
+    conversion -- convert every phone using this function, if possible
     '''
-    S = []
-    with open(filename) as f:
+    S = set()
+    with open(fname) as f:
         for line in f:
-            words = re.sub(r'-','',line).rstrip().split(splitchar)
+            words = re.sub(r'-','',line).rstrip().split(splitc)
             if napat and (re.search(napat,words[gcol]) or re.search(napat,words[pcol])):
                 pass
             else:
                 word = re.sub(r'\s+','_',words[gcol])
-                options = words[pcol].split(optchar)
+                options = words[pcol].split(optc)
                 for option in options:
-                    if addspaces:
-                        S.append((word, list(option)))
+                    if cfunc:
+                        S.add(standardize_ipa_entry_list(word, [ cfunc(x) for x in option ]))
                     else:
-                        S.append((word, option.split()))
+                        S.add(standardize_ipa_entry_list(word, list(option)))
     return(S)
                     
-def read_callhome_dict(filename, gcol, pcol, tcol, vowelpat, L):
-    '''Read a callhome dictionary: gcol=word, pcol=phones, tcol=tones or stress.
-    vowelpat is a pattern with one parenthesis, specifying what should be called a vowel,
-    for example, r'([aeiou]+)\s+'
+_callhome_params = {
+    'arz':(1,2,3,-1,'//','//','iso_8859_6'),
+    'cmn':(0,3,2,1,'//','//','gb2312'),
+    'spa':(0,2,3,-1,'//','//','latin_1'),
+    'deu':(0,2,3,-1,'||','||','latin_1'),
+    'jpn':(0,3,None,-1,'/','/','euc_jp')
+    }
+def read_callhome_dict(filename, alpha3):
+    '''Read a callhome dictionary: 
+    params = (column(word), column(phones), column(tone|stress), istone?, pat(syloptions), pat(toneopts))
+    vowelpat = pattern with one parenthesis specifying what should be called vowel,e.g., r'([aeiou]+)\s+'
     '''
-    S = []
-    with open(filename) as f:
+    S = set()
+    vowelpat = re.compile('(%s)' % '|'.join(phonecode_tables._callhome_vowels[alpha3]))
+    (gcol,pcol,tcol,tdir,spat,tpat,encoding) = _callhome_params[alpha3]
+    with open(filename, encoding=encoding) as f:
         for line in f:
             words = line.rstrip().split('\t')  # Split at tabs
-            tone_options = re.sub(r'\s+','',words[tcol]).split('//')
-            syl_options = re.sub(r'\s+','',words[pcol]).split('//') 
-            if len(tone_options)==1:
-                options=[ (tone_options[0], s) for s in syl_options ]
-            elif len(tone_options)==len(syl_options):
-                options=[ (tone_options[n], syl_options[n]) for n in range(0,len(syl_options)) ]
+
+            # If there are more than one possible pronunciations, get all options
+            if tcol == None:
+                tone_options = ['0']
             else:
+                tone_options = re.sub(r'\s+','',words[tcol]).split(tpat)
+            syl_options = re.sub(r'\s+','',words[pcol]).split(spat) 
+            if len(tone_options)==1:
+                tone_options = tone_options *  len(syl_options)
+            elif len(syl_options)==1:
+                syl_options = syl_options * len(tone_options)
+            elif len(tone_options) != len(syl_options):
                 raise KeyError('tone_options and syl_options mismatched: {}'.format(line.rstrip()))
-            for option in options: 
-                syls = re.split(vowelpat,option[1])
-                tones = list(option[0])
+
+            # For each option, generate a tone/stress-marked pronunciation, and store it
+            for (tones,pron) in zip(tone_options,syl_options):
+                syls = re.split(vowelpat,pron)
+                cons = [ list(x) for x in syls[0::2] ]  # split consonants
+                vows = syls[1::2] # keep vowels whole; might be some dipththongs 
+                tones = [ '_'+t for t in tones ]
                 phones = []
-                for n in range(0,len(tones)):  # should match number of syllables
-                    if 2*n < len(syls) and len(syls[2*n])>0:
-                        phones.extend(list(syls[2*n]))    # should be onset consonants
-                    if L=='spanish' or L=='egyptian-arabic':
-                        phones.append('_'+tones[n])  # stress marker goes before the vowel
-                    if 2*n+1 < len(syls) and len(syls[2*n+1])>0:
-                        phones.extend(list(syls[2*n+1]))    # should be the vowel
-                    if L=='mandarin':
-                        phones.append('_'+tones[n])  # tone marker goes after the vowel
-                for m in range(2*len(tones), len(syls)):  # extra consonants after last syllable?
-                    if len(syls[m])>0:
-                        phones.extend(list(syls[m]))  
-                S.append((words[gcol], phones))
+                for n in range(max(len(vows),len(cons),len(tones))):
+                    if n < len(cons):
+                        phones.extend(cons[n])
+                    if n < len(tones) and tdir < 0:
+                        phones.append(tones[n])
+                    if n < len(vows):
+                        phones.append(vows[n])
+                    if n < len(tones) and tdir > 0:
+                        phones.append(tones[n])
+
+                op = []
+                for phone in phones:
+                    if re.match(r'_\d',phone):
+                        op.append(phonecodes.tone2ipa(phone[1:], alpha3))
+                    else:
+                        op.append( phonecodes.callhome2ipa(phone, alpha3) )
+                S.add(standardize_ipa_entry_list(words[gcol],op))
     return(S)
 
-#comb_fore=re.compile('^[%s]+$'%phonecodes.stressmarkers)   # These "phones" combine to the next vowel
-#comb_back=re.compile('^[%s%s]+$'%(phonecodes.diacritics,phonecodes.tonecharacters))  # These combine to prev vowel
+def standardize_ipa_entry_string(entry):
+    'Split the entry, then call standardize_ipa_entry_list'
+    plist = entry.lstrip().rstrip().split()
+    if len(plist) > 1:
+        word = plist[0]
+        plist = plist[1:]
+        return(standardize_ipa_entry_list(word, plist))
+    else:
+        return('')
+
+def standardize_ipa_entry_list(word, inputlist):
+    '''Standardize an IPA entry.
+    word = string
+    plist = list of phones
+    Standardization means:
+    (1) some non-standard characters replaced by more standard versions, or removed
+    (2) tab after word, spaces between phones
+    (3) stress attached before the next vowel
+    (4) diacritic attached to previous phone, whatever it was
+    (5) tone attached after the previous vowel
+    If these changes result in a zero-length pronunciation string, return value is empty string.
+    '''
+    op = []
+    plist = [ p for p in inputlist if len(p)>0 ]
+    for pn in range(len(plist)):
+        # First, normalize non-standard IPA characters
+        if plist[pn]=="'":
+            plist[pn]="ˈ"
+        # Second, deal with various combining characters in the IPA
+        if len(op)>1 and op[-1]=='͡':   # combiner character
+            op[-2] += plist[pn]
+            del op[-1]
+        elif plist[pn] in phonecodes.stressmarkers: # lone stress marker attaches to next vowel
+            if pn<len(plist)-1 and plist[pn+1][0] in phonecodes.vowels:
+                plist[pn+1] = plist[pn]+plist[pn+1]
+            elif pn<len(plist)-2 and plist[pn+2][0] in phonecodes.vowels:
+                plist[pn+2] = plist[pn]+plist[pn+2]
+            elif pn<len(plist)-3 and plist[pn+3][0] in phonecodes.vowels:
+                plist[pn+3] = plist[pn]+plist[pn+3]
+            elif pn<len(plist)-4 and plist[pn+4][0] in phonecodes.vowels:
+                plist[pn+4] = plist[pn]+plist[pn+4]
+            else:
+                op.append(plist[pn])
+        elif plist[pn][0] in phonecodes.diacritics and len(op)>0:
+            op[-1] += plist[pn]
+        elif plist[pn][0] in phonecodes.tonecharacters and len(op)>0: # attaches to previous vowel
+            if len(op)>0 and op[-1][0] in phonecodes.vowels:
+                op[-1] += plist[pn]
+            elif len(op)>1 and op[-2][0] in phonecodes.vowels:
+                op[-2] += plist[pn]
+            elif len(op)>2 and op[-3][0] in phonecodes.vowels:
+                op[-3] += plist[pn]
+            else:
+                op.append(plist[pn])
+        else:  # any other symbol is a regular phone
+            op.append(plist[pn])
+
+    pstr = ' '.join([ p for p in op if p != '' ])
+    if len(pstr) > 0:
+        return(word + '\t' + pstr)
+    else:
+        return('')
 
 def write_dictfile(S, filename, mode='w'):
     '''Write a (word,phones) list to dictfile'''
     written = set()
     with open(filename,mode) as f:
-        for pair in sorted(S):
-            if len(pair[0])>0 and len(pair[1])>0:
-                plist = [ p for p in pair[1] if not p.isspace() and len(p)>0 ]   # First, eliminate spaces
-                for pn in range(0,len(plist)):
-                    # First, normalize non-standard IPA characters
-                    if plist[pn]=="'":
-                        plist[pn]="ˈ"
-                    # Second, deal with various combining characters in the IPA
-                    if plist[pn]=='͡':     # combiner character
-                        if pn>0 and pn<len(plist)-1:
-                            plist[pn+1] = plist[pn-1]+plist[pn+1]
-                            plist[pn-1] = ''
-                            plist[pn]=''
-                    elif plist[pn] in phonecodes.stressmarkers:    # stress marker attaches to next vowel
-                        if pn<len(plist)-1 and plist[pn+1][0] in phonecodes.vowels:
-                            plist[pn+1] = plist[pn]+plist[pn+1]
-                        elif pn<len(plist)-2 and plist[pn+2][0] in phonecodes.vowels:
-                            plist[pn+2] = plist[pn]+plist[pn+2]
-                        elif pn<len(plist)-3 and plist[pn+3][0] in phonecodes.vowels:
-                            plist[pn+3] = plist[pn]+plist[pn+3]
-                        elif pn<len(plist)-4 and plist[pn+4][0] in phonecodes.vowels:
-                            plist[pn+4] = plist[pn]+plist[pn+4]
-                        plist[pn]=''
-                    elif plist[pn][0] in phonecodes.diacritics:  # diacritic attaches to previous phone
-                        if pn>0:
-                            plist[pn-1] = plist[pn-1]+plist[pn]
-                            plist[pn]=''
-                    elif plist[pn][0] in phonecodes.tonecharacters: # tone attaches to previous vowel
-                        if pn>0 and len(plist[pn-1])>0 and plist[pn-1][0] in phonecodes.vowels:
-                            plist[pn-1] = plist[pn-1]+plist[pn]
-                        elif pn>1 and len(plist[pn-2])>0 and plist[pn-2][0] in phonecodes.vowels:
-                            plist[pn-2] = plist[pn-2]+plist[pn]
-                        elif pn>2 and len(plist[pn-3])>0 and plist[pn-3][0] in phonecodes.vowels:
-                            plist[pn-3] = plist[pn-3]+plist[pn]
-                        elif pn>0:
-                            plist[pn-1] = plist[pn-1]+plist[pn]                            
-                        plist[pn]=''
-                    pn += 1
-
-                pstr = ' '.join([ p for p in plist if p != '' ])
-                if len(pstr) > 0:
-                    writeline = '%s\t%s\n' % (pair[0],pstr)
-                    if writeline not in written:
-                        f.write('{}\t{}\n'.format(pair[0], ' '.join([ p for p in plist if p != '' ])))
-                        written.add(writeline)
+        for entry in sorted(S):
+            standardized = standardize_ipa_entry_string(entry)
+            if len(standardized)>0 and standardized not in written:
+                f.write(standardized+'\n')
+                written.add(standardized)
 
 ###########################################################
 class extra_language:
@@ -159,14 +213,14 @@ class extra_language:
         self.name = name
 
 _extra_languages = [
-    extra_language('ber','Berber'),
-    extra_language('yue','Cantonese'),
-    extra_language('yue','Yue'),
-    extra_language('eng','American-English'),
-    extra_language('swh','Swahili'),
-    extra_language('luo','Luo'),
+    extra_language('ber','Berber')
 ]
+for L in pycountry.languages:
+    n=re.sub(r'\s*\(.*\)','',L.name)
+    if n != L.name:
+        _extra_languages.append(extra_language(L.alpha_3, n))
 extra_languages = { x.name:x.alpha_3 for x in _extra_languages }
+extra_alpha3 = { x.alpha_3:x.name for x in _extra_languages }
 
 # ISO 639-3 uses these geographical modifiers to subdivide dialect continua.
 # They are cumbersome, and unnecessary if one doesn't need to distinguish the subdivided dialects.
@@ -174,6 +228,7 @@ _words2delete = set(('chinese', 'iranian', 'south', 'southern', 'central', 'mode
 
 def language_to_alpha3(language):
     '''convert language name to alpha_3'''
+    language = re.sub(r'_',' ',language)
     if pycountry.languages.get(name=language) != None:
         return(pycountry.languages.get(name=language).alpha_3)
     L = ' '.join([ w[0].upper()+w[1:] for w in language.split('-') ])
@@ -181,18 +236,27 @@ def language_to_alpha3(language):
         return(pycountry.languages.get(name=L).alpha_3)
     if language in extra_languages:
         return(extra_languages[language])
-    raise Warning('Unable to find alpha3 for language name %s; using qaa\n'%(language))
+    raise NotImplementedError('Unable to find alpha3 for language name %s; using qaa\n'%(language))
     return('qaa')
 
 def alpha3_to_language(alpha3):
     '''convert alpha_3 to language name'''
-    return(pycountry.languages.get(alpha_3=alpha3).name)
+    L = pycountry.languages.get(alpha_3=alpha3)
+    if L:
+        return(re.sub(r'\s+','_',re.sub(r'\s*\(.*\)','',L.name)))
+    elif alpha3 in extra_alpha3:
+        return(extra_alpha3[alpha3])
+    else:
+        raise NotImplementedError("Unknown ISO 639-3 code: %s"%(alpha3))
+    
     
 def normalize_filename(infile, nametype):
     '''(outfile, language) = normalize_filename(infile, nametype)
     Divide infile at word and directory boundaries; rm duplicates, extensions, and 'eng'.
     If nametype=='alpha_3', search for ISO 639-3, else search for language name.
     Move language name to the front of the filename, end the filename with .txt.
+    
+    This code is old, it might not work any more.
     '''
     fileparts = [ x.lower() for  x in  re.split(r'[\W_]+',os.path.splitext(infile)[0]) if x != '' ]
     partset = set()
@@ -237,94 +301,81 @@ def normalize_filename(infile, nametype):
 
 ###########################################################
 babel_pcols = {
-    'amharic':2,
-    'assamese':2,
-    'bengali':2,
-    'yue':2,
-    'cantonese':2,
-    'cebuano':1,
-    'luo':1,
-    'georgian':2,
-    'guarani':1,
-    'haitian':1,
-    'igbo':1,
-    'javanese':1,
-    'kurdish':1,
-    'lao':2,
-    'lithuanian':1,
-    'mongolian':2,
-    'pushto':2,
-    'swahili':1,
-    'tagalog':1,
-    'tamil':2,
-    'tok-pisin':1,
-    'turkish':1,
-    'vietnamese':1,
-    'zulu':1
+    'Amharic':2,
+    'Assamese':2,
+    'Bengali':2,
+    'Yue_Chinese':2,
+    'Cantonese':2,
+    'Cebuano':1,
+    'Luo':1,
+    'Georgian':2,
+    'Guarani':1,
+    'Haitian':1,
+    'Igbo':1,
+    'Javanese':1,
+    'Kurdish':1,
+    'Lao':2,
+    'Lithuanian':1,
+    'Mongolian':2,
+    'Pushto':2,
+    'Swahili':1,
+    'Tagalog':1,
+    'Tamil':2,
+    'Tok-Pisin':1,
+    'Turkish':1,
+    'Vietnamese':1,
+    'Zulu':1
 }
 def normalize_babel(infile,outfile, language, alpha3):
-    # Sometimes pcol==1, sometimes pcol==2, so we split 
-    S1 = read_babel_dictfile(infile,babel_pcols[language])
-    S2 = []
-    for pair in S1:
-        inphones = pair[1]
-        op = []
-        for phone in inphones:
-            # Look up a tone, attach it to vowel if possible, else most recent phone
-            if re.match(r'_\d',phone):
-                op.append(phonecodes.tone2ipa(phone, alpha3))
-            # Everything else is assumed to be X-SAMPA
-            else:  
-                op.append( phonecodes.xsampa2ipa(phone) )
-        S2.append((pair[0],op))
+    try:
+        S2 = read_ipa_dictfile(outfile)
+    except:
+        S2 = set()
+    S2 |= read_babel_dictfile(infile,babel_pcols[language])
     write_dictfile(S2, outfile)
         
 ###########################################################
 def normalize_celex(infile,outfile,language, alpha3):
+    try:
+        S2 = read_ipa_dictfile(outfile)
+    except:
+        S2 = set()
     if language=='english':
-        S1 = read_arbitrary_dictfile(infile, '\\', 1, 6, '\\', addspaces=True)
+        S2 |= read_arbitrary_dictfile(infile, '\\', 1, 6, '\\',
+                                      cfunc=lambda x: phonecodes.disc2ipa(x,alpha3))
     else:
-        S1 = read_arbitrary_dictfile(infile, '\\', 1, 4, '\\', addspaces=True)
-    S2 = []
-    for pair in S1:
-        try:
-            outphones = [ phonecodes.disc2ipa(x, alpha3) for x in pair[1] ]
-        except KeyError:
-            print('Missing a key: {} in {}'.format(pair,infile))
-        S2.append((pair[0],outphones))
+        S2 |= read_arbitrary_dictfile(infile, '\\', 1, 4, '\\',
+                                      cfunc=lambda x: phonecodes.disc2ipa(x,alpha3))
     write_dictfile(S2, outfile)
         
 ###########################################################
 def normalize_callhome(infile,outfile,language,alpha3):
-    S2 = []
-    if language=='egyptian-arabic':
-        S1 = read_callhome_dict(infile, 1, 2, 3, r'([@aiu%AIOUE])', language)
-    elif language=='mandarin':
-        S1 = read_callhome_dict(infile, 0, 3, 2, r'([iI%eEU&a@o>uR])', language)
-    elif language=='spanish':
-        S1 = read_callhome_dict(infile, 0, 2, 3, r'([aeiou]+)', language)
-    for pair in S1:
-        inphones = pair[1]
-        op = []
-        for phone in inphones:
-            if re.match(r'_\d',phone):
-                op.append(phonecodes.tone2ipa(phone, alpha3))
-            else:
-                op.append( phonecodes.callhome2ipa(phone, alpha3) )
-        S2.append((pair[0],op))
+    try:
+        S2 = read_ipa_dictfile(outfile)
+    except:
+        S2 = set()
+    S2 |= read_callhome_dict(infile,alpha3)
     write_dictfile(S2,outfile)
         
 ###########################################################
 def normalize_masterlex(infile,outfile):
+    try:
+        S2 = read_ipa_dictfile(outfile)
+    except:
+        S2 = set()
     napat = re.compile(r'N/A')
-    S1 = read_arbitrary_dictfile(infile,'\t',0,4,',',True,napat)
-    if len(S1) > 0:
-        write_dictfile(S1, outfile)
+    S2 |= read_arbitrary_dictfile(infile,'\t',0,4,',',napat=napat)
+    if len(S2) > 0:
+        write_dictfile(S2, outfile)
 
 ###########################################################
 def normalize_ipa(infile,outfile, mode='w'):
-    S = read_ipa_dictfile(infile)
-    write_dictfile(S, outfile, mode)
+    try:
+        S2 = read_ipa_dictfile(outfile)
+    except:
+        S2 = set()
+    S2 |= read_ipa_dictfile(infile)
+    write_dictfile(S2, outfile, mode)
 
 ###########################################################
 if __name__=="__main__":
@@ -334,7 +385,7 @@ if __name__=="__main__":
     inputdir = sys.argv[1]
     outputdir = sys.argv[2]
 
-    for dicttype in ['callhome','babel','celex','ipa','masterlex']:
+    for dicttype in known_dicttypes:
         listfile = os.path.join(inputdir,'%s.txt'%dicttype)
         if os.path.isfile(listfile):
             outfiles = {}
