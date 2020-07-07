@@ -7,23 +7,23 @@
 ㅅ	s
 ㅇ 	∅
 ㅇ 	ŋ
-ㅈ	t̠ʃ
-ㅊ	t̠ʃʰ
+ㅈ	tʃ
+ㅊ	tʃʰ
 ㅋ	kʰ
 ㅌ	tʰ
 ㅍ	pʰ
 ㅎ	h
-ㄲ	kˀ
-ㄸ	tˀ
-ㅃ	pˀ
-ㅆ	sˀ
-ㅉ	t̠ʃˀ
+ㄲ	kː
+ㄸ	tː
+ㅃ	pː
+ㅆ	sː
+ㅉ	t̠ʃː
 ㄳ 	g s
 ㄵ	n t̠ʃ
 ㄶ	n h
 ㄺ	l k
 ㄻ	l m
-ㄼl 	p
+ㄼ	l p
 ㄽ	l s
 ㄾ	l tʰ
 ㄿ	l pʰ
@@ -45,9 +45,321 @@
 ㅖ	j e
 ㅘ	w a
 ㅙ	w æ
-ㅝ	w o
+ㅝ	w ɤ
 ㅞ	w e
 ㅚ	ø
 ㅟ	y
 ㅢ	ɯ i
+0	j ɤ ŋ
+1	h a n a
+2	t u l
+3	s e t
+4	n e t
+5	t a s ɤ t 
+6	j ɤ s ɤ t 
+7	i l k o p
+8	j ɤ t ɤ l 
+9	a h o p
+가	k a
+각	k a k
+간	k a n
+강	k a ŋ
+같	k a tʰ
+개	k æ
+거	k ɤ
+건	k ɤ n
+것	k ɤ t
+게	k e
+격	k j ɤ k
+견	k j ɤ n
+결	k j ɤ l
+경	k j ɤ ŋ
+계	k j e
+고	k o
+공	k o ŋ
+과	k w a
+관	k w a n
+괴	k ø
+교	k j o
+구	k u
+국	k u k
+굴	k u l
+권	k w ɤ n
+규	k j u
+그	k ɯ
+근	k ɯ n
+금	k ɯ m
+급	k ɯ p
+기	k i
+까	kː a
+나	n a
+난	n a n
+날	n a l
+남	n a m
+내	n æ
+냐	n j a
+넓	n ɤ l p
+녀	n j ɤ
+념	n j ɤ m
+녕	n j ɤ ŋ
+노	n o
+놓	n o h
+누	n u
+느	n ɯ
+는	n ɯ n
+능	n ɯ ŋ
+니	n i
+다	t a
+단	t a n
+달	t a l
+담	t a m
+당	t a ŋ
+대	t æ
+더	t ɤ
+덕	t ɤ k
+던	t ɤ n
+도	t o
+독	t o k
+돌	t o l
+동	t o ŋ
+되	t ø
+된	t ø n
+될	t ø l
+든	t ɯ n
+들	t ɯ l
+등	t ɯ ŋ
+디	t i
+따	tː a 
+때	tː æ
+떠	tː ɤ
+떤	tː ɤ n
+또	tː o
+라	l a
+란	l a n
+람	l a m
+래	l æ
+러	l ɤ
+런	l ɤ n
+려	l j ɤ
+력	l j ɤ k
+령	l j ɤ ŋ
+로	l o
+록	l o k
+론	l o n
+롭	l o p
+료	l j o
+룰	l j o l
+류	l j u
+률	l j u l
+른	l ɯ n
+를	l ɯ l
+리	l i
+린	l i n
+릴	l i l
+립	l i p
+마	m a
+막	m a k
+만	m a n
+망	m a ŋ
+매	m æ
+머	m ɤ
+며	m j ɤ
+면	m j ɤ n
+멸	m j ɤ l
+명	m j ɤ ŋ
+모	m o
+목	m o k
+무	m u
+문	m u n
+물	m u l
+므	m ɯ
+민	m i n
+밀	m i l
+및	m i tʃʰ
+박	p a k
+반	p a n
+받	p a t
+발	p a l
+방	p a ŋ
+배	p æ
+벌	p ɤ l
+범	p ɤ m
+법	p ɤ p
+변	p j ɤ n
+별	p j ɤ l
+병	p j ɤ ŋ
+보	p o
+복	p o k
+본	p o n
+부	p u
+분	p u  n
+불	p u l
+비	p p i
+뿐	p p u n
+사	s a
+산	s a n	
+상	s a ŋ
+색	s æ k
+생	s æ ŋ
+서	s ɤ 
+석	s ɤ k
+선	s ɤ n
+섭	s ɤ p
+성	s ɤ ŋ
+세	s e
+소	s o
+속	s o k
+수	s u
+술	s u l
+스	s ɯ
+습	s ɯ p
+시	s i
+식	s i k
+신	s i n
+실	s i l
+심	s i m
+아	a
+안	a n
+않	a n h
+압	a p
+았	a sː
+앙	a ŋ
+앞	a pʰ
+애	æ
+야	j a
+약	j a k
+양	j a ŋ 
+어	ɤ
+억	ɤ k
+언	ɤ n
+얻	ɤ t
+엄	ɤ m
+업	ɤ p
+없	ɤ p s
+었	ɤ sː
+에	e
+여	j ɤ
+역	j ɤ k
+연	j ɤ n
+열	j ɤ l
+였	j ɤ sː
+영	j ɤ ŋ 
+예	j e
+올	j e l
+와	w a
+완	w a n
+왔	w a sː
+요	j o
+욕	j o k
+용	j o ŋ 
+우	u
+운	u  n
+원	w ɤ n
+위	y
+유	j u
+육	j u k
+으	ɯ
+은	ɯ n
+을	ɯ l
+응	ɯ ŋ 
+의	ɯ i
+이	i
+익	i k
+인	i n
+일	i l
+임	i m
+입	i p
+있	i sː
+자	tʃ a
+작	tʃ a k
+잔	tʃ a n
+장	tʃ a ŋ 
+재	tʃ æ
+적	tʃ ɤ k
+전	tʃ ɤ n
+절	tʃ ɤ l
+점	tʃ ɤ m
+접	tʃ ɤ p
+정	tʃ ɤ ŋ 
+제	tʃ e
+조	tʃ o
+족	tʃ o k
+존	tʃ o n
+종	tʃ o ŋ 
+죄	tʃ ø
+주	tʃ u
+준	tʃ u n
+중	tʃ u ŋ 
+증	tʃ ɯ ŋ 
+지	tʃ i
+직	tʃ i k
+진	tʃ i n
+질	tʃ i l
+짐	tʃ i m
+집	tʃ i p
+차	tʃʰ a
+참	tʃʰ a m
+창	tʃʰ a ŋ 
+처	tʃʰ ɤ 
+천	tʃʰ ɤ n
+체	tʃʰ e
+초	tʃʰ o
+촉	tʃʰ o k
+총	tʃʰ o ŋ 
+최	tʃʰ ø
+추	tʃʰ u
+출	tʃʰ u l
+충	tʃʰ u ŋ 
+취	tʃʰ y
+치	tʃʰ i
+칙	tʃʰ i k
+침	tʃʰ i m
+키 	kː i
+타	tʰ a
+탁	tʰ a k
+탈	tʰ a l
+태	tʰ æ
+택	tʰ æ k
+터	tʰ ɤ
+토	tʰ o
+통	tʰ o ŋ 
+투	tʰ u
+특	tʰ u k
+파	pʰ a
+판	pʰ a k
+편	pʰ a n
+평	pʰ a ŋ 
+포	pʰ o
+폭	pʰ o k
+표	pʰ j o
+피	pʰ i
+필	pʰ i l
+핍	pʰ i p
+하	h a
+학	h a k
+한	h a n
+할	h a l
+함	h a m
+합	h a p
+항	h a ŋ 
+해	h æ
+행	h æ ŋ 
+향	h j a ŋ 
+헌	h ɤ n
+현	h j ɤ j 
+혐	h j ɤ m
+협	h j ɤ p
+형	h j ɤ ŋ 
+혜	h j e
+호	h o
+혹	h o k
+혼	h o n
+화	h w a
+확	h w a k
+활	h w a l
+황	h w a ŋ 
+회	h ø
+효	h j o
+휴	h j u
+히	h i
 

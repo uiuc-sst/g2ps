@@ -1,4 +1,4 @@
-import argparse, tempfile, os, sys
+import argparse, tempfile, os, sys, shutil
 import preprocess
 import phonetisaurus
 
@@ -45,13 +45,16 @@ def convert_pronlexes_to_ipa(fullpaths, outputdir):
 ###########################################################
 if __name__=="__main__":
     parser = argparse.ArgumentParser(description='Train some G2Ps.',
-                                     epilog='Either -p or -P must be specified.')
+                                     epilog='If -N, -P, -p not specified, there must already be train/dev/eval splits in the workingdir.')
     parser.add_argument('-p','--pronlex',nargs='*',
                         help='Pathname(s) (relative to DATAPATH) of pronlex with the training data')
     parser.add_argument('-P','--pronlexlist',
                         help='''Filename of text file with a list of pronlexes, one per line.
                         Each line should contain three columns: language format pathname,
                         where pathname can be relative to the DATAPATH.''')
+    parser.add_argument('-N','--normalizedlist',
+                        help='''Filename of text file with a list of normalized pronlexes.
+                        Each of the files should be a normalized pronlex w/IPA prons.''')
     default_datapath='.:..:'+os.path.expanduser('~/data/dicts')
     parser.add_argument('-d','--datapath',
                         default=default_datapath,
@@ -72,10 +75,10 @@ if __name__=="__main__":
                         help='Pathname of the working directory. Default: '+default_workingdir)
     args = parser.parse_args()
 
-    # If no -p or -P, exit
-    if args.pronlex==None and args.pronlexlist==None:
-        parser.print_help()
-        sys.exit(0)
+    # If no -N or -P, exit
+    #if args.normalizedlist==None and args.pronlexlist==None and args.pronlex==None:
+    #    parser.print_help()
+    #    sys.exit(0)
 
     # Generate configuration lists from command line options
     languages = set()
@@ -96,8 +99,17 @@ if __name__=="__main__":
                     if line[0] != '#':
                         pronlexes.append(line.rstrip().split())
     datapath = args.datapath.split(':')
+
+    # If normalizedlist specified, put its dictionaries into dictsdir
     dictsdir = os.path.join(args.workingdir, 'dicts')
     os.makedirs(dictsdir, exist_ok=True)
+    if args.normalizedlist != None:
+        with open(args.normalizedlist) as f:
+            for line in f:
+                sourcefile = line.strip()
+                destfile = os.path.join(dictsdir, os.path.basename(sourcefile))
+                if not os.path.samefile(sourcefile, destfile):
+                    shutil.copyfile(sourcefile, destfile)
 
     # List of formats
     if args.dicttypes == None:
@@ -108,12 +120,14 @@ if __name__=="__main__":
             if dt not in preprocess.normalize_dicts.known_dicttypes:
                 raise NotImplementedError('dicttype %s unknown; known dicttypes are %s'%(dt,preprocess.normalize_dicts.known_dicttypes))
                                                                                  
-    # Convert pronlexes to IPA, put them in dictsdir
-    fullpaths = find_inputfiles(datapath, pronlexes, languages, dicttypes)
-    convert_pronlexes_to_ipa(fullpaths, dictsdir)
+    # If -p or -P specified, Convert pronlexes to IPA, put them in dictsdir
+    if len(pronlexes) > 0:
+        fullpaths = find_inputfiles(datapath, pronlexes, languages, dicttypes)
+        convert_pronlexes_to_ipa(fullpaths, dictsdir)
 
     # Make folds, with bad_dicts=[]
-    #preprocess.make_folds.make_train_dev_eval(dictsdir, args.workingdir, [])
+    if len(pronlexes) > 0 or args.normalizedlist != None:
+        preprocess.make_folds.make_train_dev_eval(dictsdir, args.workingdir, [])
 
     # Try to do phonetisaurus training
-    #phonetisaurus.train_g2ps.phonetisaurus_train(args.workingdir)
+    phonetisaurus.train_g2ps.phonetisaurus_train(args.workingdir)

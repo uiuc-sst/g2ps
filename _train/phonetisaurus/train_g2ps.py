@@ -8,10 +8,14 @@ import os,sys,re,subprocess, itertools
 
 ######################################################################################################
 def phonetisaurus_train(workdir):
-    os.makedirs(os.path.join(workdir,'models'),exist_ok=True)
-    os.makedirs(os.path.join(workdir,'dev_wlists'),exist_ok=True)
-    os.makedirs(os.path.join(workdir,'dev_hyps'),exist_ok=True)
-    os.makedirs(os.path.join(workdir,'logs'),exist_ok=True)
+    models=os.path.join(workdir,'models')
+    os.makedirs(models,exist_ok=True)
+    dev_wlists=os.path.join(workdir,'dev_wlists')
+    os.makedirs(dev_wlists,exist_ok=True)
+    dev_hyps=os.path.join(workdir,'dev_hyps')
+    os.makedirs(dev_hyps,exist_ok=True)
+    logs=os.path.join(workdir,'logs')
+    os.makedirs(logs,exist_ok=True)
     
     lang2dict = { re.sub(r'_.*.txt','',x.strip()):x.strip() for x in os.listdir(os.path.join(workdir,'train')) }
     
@@ -21,13 +25,16 @@ def phonetisaurus_train(workdir):
     align_cmd = ['phonetisaurus-align','--seq1_del=false','--seq2_del=false','--grow=true']
     for (language,traindictfile) in lang2dict.items():
         dictfile_cmd = align_cmd + ['--input='+os.path.join(workdir,'train',traindictfile)]
-        for params in itertools.product((2, 3, 4),(2,3,4),(1,2,4,8)):
-            cmd = dictfile_cmd + ['--seq1_max=%d'%params[0]]
-            cmd += ['--seq2_max=%d'%params[1]]
-            cmd += ['--model_order=%d'%params[2]]
+        for params in itertools.product((0,2, 3, 4),(0,2,3, 4)):
+            cmd = dictfile_cmd
+            if params[0]>0:
+                cmd.append('--seq1_max=%d'%params[0])
+            if params[1]>0:
+                cmd.append('--seq2_max=%d'%params[1])
             modelname = language+'_'+'_'.join([str(p) for p in params])
-            cmd += ['--ofile='+os.path.join(workdir,'models',modelname+'.corpus')]
-            with open(os.path.join('logs',modelname+'.log'),'w') as logfile:
+            cmd.append('--ofile='+os.path.join(models,modelname+'.corpus'))
+            with open(os.path.join(logs,modelname+'.log'),'w') as logfile:
+                print(' '.join(cmd))
                 alignprocs[modelname] = subprocess.Popen(cmd, stdout=logfile, stderr=logfile)
                         
     # Second, estimate-ngram
@@ -38,10 +45,10 @@ def phonetisaurus_train(workdir):
             alignproc = alignprocs[modelname]
             if alignproc.poll() != None:
                 params = modelname.split('_')
-                corpusname=os.path.join(workdir,'models',modelname+'.corpus')
+                corpusname=os.path.join(models,modelname+'.corpus')
                 if os.path.isfile(corpusname):
                     cmd = [ 'estimate-ngram','-o',params[1].to_s,
-                            '-t',corpusname,'-wl',os.path.join(workdir,'models',modelname+'.arpa') ]
+                            '-t',corpusname,'-wl',os.path.join(models,modelname+'.arpa') ]
                     estimateprocs[modelname]=subprocess.Popen(cmd,stdout=alignproc.stdout,
                                                               stderr=alignproc.stderr)
                 del alignprocs[modelname]  # delete it from the list once its done
@@ -55,10 +62,10 @@ def phonetisaurus_train(workdir):
             estimateproc = estimateprocs[modelname]
             if estimateproc.poll() != None:
                 params = modelname.split('_')
-                arpaname=os.path.join('models',modelname+'.arpa')
+                arpaname=os.path.join(models,modelname+'.arpa')
                 if os.path.isfile(arpaname):
                     cmd = [ 'phonetisaurus-arpa2wfst', '--lm='+arpaname ,
-                            '--ofile='+os.path.join(workdir,'models',modelname+'.fst')
+                            '--ofile='+os.path.join(models,modelname+'.fst')
                     ]
                     arpaprocs[modelname]=subprocess.Popen(cmd,stdout=estimateproc.stdout,
                                                               stderr=estimateproc.stderr)
@@ -73,15 +80,15 @@ def phonetisaurus_train(workdir):
             arpaproc = arpaprocs[modelname]
             if arpaproc.poll() != None:
                 params = modelname.split('_')
-                fstname=os.path.join(workdir,'models',modelname+'.fst')
-                devname=os.path.join(workdir,'dev',language+'.txt')
+                fstname=os.path.join(models,modelname+'.fst')
+                devname=os.path.join(os.path.join(workdir,'dev'),language+'.txt')
                 if os.path.isfile(fstname):
                     if os.path.isfile(devname):
-                        with open(os.path.join(workdir,'dev_hyps',modelname+'.txt'),'w') as dev_hyp:
+                        with open(os.path.join(dev_hyps,modelname+'.txt'),'w') as dev_hyp:
                             cmd = [ 'phonetisaurus-g2pfst','--model='+fstname,
                                     '--nbest=1','--beam=10000','--thresh=99.0',
                                     '--accumulate=false','--pmass=0.0','--nlog_probs=true',
-                                    '--wordlist='+os.path.join(workdir,'dev_wlists',language+'.wlist')
+                                    '--wordlist='+os.path.join(dev_wlists,language+'.wlist')
                             ]
                             g2pprocs[modelname]=subprocess.Popen(cmd,stdout=dev_hyp,
                                                                  stderr=arpaproc.stderr)

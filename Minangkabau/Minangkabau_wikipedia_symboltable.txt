@@ -1,0 +1,35 @@
+p	p
+t	t
+k	k	
+'	ʔ 
+b	b
+d	d	
+g	ɡ 
+s	s
+h	h
+c	tʃ 
+j	dʒ 
+m	m
+n	n
+ny	ɲ 
+ng	ŋ
+l	l
+r	r
+w	w
+y	j
+i	i
+u	u
+e	e
+o	o
+a	a
+1	tʃ i e ʔ
+2	d u o
+3	t i ɡ o
+r	a m p e ʔ
+5	l i m o
+6	a n a m
+7	t u dʒ u a
+8	l a p a n
+9	s a m b i l a n
+10	s a b a l e h
+100	s a r a t u i h

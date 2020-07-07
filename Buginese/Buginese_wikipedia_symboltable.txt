@@ -1,0 +1,93 @@
+k	k
+g	g
+ng	ŋ
+ngka	ŋ k
+p	p
+b	b
+m	m
+mp	m p
+t	t
+d	d
+n	n
+nr	n r
+ᨀ	k
+ᨁ     	g
+ᨂ     	ŋ
+ᨃ     	ŋ k
+ᨄ     	p
+ᨅ     	b
+ᨆ     	m
+ᨇ     	m p
+ᨈ     	t
+ᨉ     	d
+ᨊ     	n
+ᨋ     	n r
+c     	c
+j     	ɟ	  
+ny    	ɲ
+nc    	ɲ c
+y     	j
+r     	r
+l     	l
+w     	w
+s     	s
+a     	a
+h     	h
+ᨌ    	c
+ᨍ    	ɟ
+ᨎ    	ɲ
+ᨏ    	ɲ c
+ᨐ    	j
+ᨑ    	r
+ᨒ    	l
+ᨓ    	w
+ᨔ    	s
+ᨕ    	a
+ᨖ    	h
+ᨀ   	a
+ᨀᨗ   	i
+ᨀᨘ   	u
+ᨀᨙ  	e
+ᨀᨛ  	ə
+ᨀᨚ  	o
+ᨗ	ʔ
+ᨛ	ŋ
+᨞   	,
+᨟   	. 
+ᨊᨀᨚ 	n a k o
+ᨕᨛᨃ 	ə ŋ k a
+ᨈᨕᨘᨄᨔᨒ᨞ 	t a u p a s a l a ,
+ᨕᨍ	a j a
+ᨆᨘᨄᨈᨒᨒᨚᨓᨗ	m u p a t a l a l o w i
+ᨄᨌᨒᨆᨘ	p a c a l a m u
+ᨑᨗᨈᨚᨄᨔᨒᨕᨙ᨞ r i t o p a s a l a e . 
+ᨄᨔᨗᨈᨘᨍᨘᨓᨗᨆᨘᨈᨚᨓᨗᨔ  p a s i t u j u w i m u t o w i s a
+ᨕᨔᨒᨊ	      a s a l a n a 
+ᨄᨌᨒᨆᨘ᨞	      p a c a l a m u , 
+ᨕᨄ	      a p a
+ᨕᨗᨀᨚᨊᨈᨘ	      i k o n a t u
+ᨊᨁᨗᨒᨗ	      n a g i l i
+ᨉᨙᨓᨈᨕᨙ᨞	      d e w a t a e , 
+ᨊᨀᨚ	      n a k o 
+ᨅᨕᨗᨌᨘᨆᨘᨄᨗ  	      b a i c u m u p i 
+ᨕᨔᨒᨊ 	      a s a l a n a
+ᨈᨕᨘᨓᨙ᨞  	      t a u w e ,
+ᨆᨘᨄᨙᨑᨍᨕᨗᨔ       m u p e r a j a i s a
+ᨄᨉᨈᨚᨓᨗ᨞        p a d a t o w i .
+ᨊᨀᨚ   	      n a k o
+ᨄᨔᨒᨕᨗ 	      p a s a l a i
+ᨈᨕᨘᨓᨙ᨞         t a u w e ,
+ᨕᨍ   	      a j a
+ᨈᨗᨆᨘᨌᨒᨕᨗ         t i m u c a l a i
+ᨑᨗᨔᨗᨈᨗᨊᨍᨊᨕᨙᨈᨚᨔ   r i s i t i n  a j a n a e t o s a
+ᨕᨔᨒᨊ᨞        a s a l a n  a .
+ᨕᨛᨛᨃ   	     ə ŋ k a
+ᨁ ᨙᨑ᨞        ɡ a r e , 
+ ᨙᨔᨕᨘᨓ  	     s e u w a
+ᨓᨛᨈᨘ᨞         w ə t t u , 
+ᨕᨑᨘ    	     a r u ŋ
+ᨆᨀᨘᨋᨕᨗ   	     m a k u n r a i
+ᨑᨗ      	     r i
+ᨒᨘᨓᨘ᨞   	     l u w u ,
+ᨆᨔᨒ   	     m a s a l a
+ᨕᨘᨒᨗ᨞   	     u l i .

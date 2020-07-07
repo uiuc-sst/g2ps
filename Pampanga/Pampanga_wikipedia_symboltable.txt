@@ -1,0 +1,33 @@
+m	m
+n	n
+ng	ŋ
+p	p
+t	t
+c	tʃ
+k	k
+'	ʔ
+b	b
+d	f
+j	dʒ
+g	g
+s	s
+sh	ʃ
+r	ɾ
+l	l
+y	j
+w	w
+a	a
+i	i
+e	e
+o	o
+u	u
+1	i s a
+2	a d u a
+3	a t l u
+4	a p a t
+5	l i m a
+6	a n a m
+7	p i t u
+8	u a l u
+9	s ʔ j a m
+10	a p u l u

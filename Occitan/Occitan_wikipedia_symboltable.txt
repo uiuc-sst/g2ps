@@ -1,0 +1,40 @@
+a	a
+à	ɔ
+b	b
+ba	β a
+bo 	β u
+c	s
+ch	tʃ
+d	d
+da	ð ɔ
+do	ð u
+e	e
+efa	ɛ f ɔ
+ge	dʒ e
+h	h
+acha	a tʃ ɔ
+i	i
+j	dʒ
+k	k
+l	l
+ela	ɛ l ɔ
+m	m
+n	n
+o	u
+ò	ɔ
+p	p
+cu	k y
+q	k
+r	r
+s	s
+t	t
+u	y
+v	b 
+va	β a
+vo	β u
+w	v
+x	ts
+y	i
+grèga	ɣ ɾ ɛ ɣ ɔ
+è	ɛ
+z	z
