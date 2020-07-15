@@ -118,7 +118,7 @@ Maori                ipa       Maori/Maori_wikipedia_symboltable.txt
 Marathi              ipa       Marathi/Marathi_Balbodh_wikipedia_symboltable.txt
 Min_Nan_Chinese      ipa       Min-Nan/Min-Nan_Hokkien_symboltable.txt
 Mongolian            ipa       Mongolian/Mongolian_wikipedia_symboltable.txt
-North_Ndebele        ipa       Ndebele/Ndebele_wikipedia_symboltable.txt
+South_Ndebele        ipa       Ndebele/Ndebele_wikipedia_symboltable.txt
 Nepali               ipa       Nepali/Nepali_wikipedia_symboltable.txt
 Norwegian            ipa       Norwegian/Norwegian_wikipedia_symboltable.txt
 Oromo                ipa       Oromo/Oromo_wikipedia_symboltable.txt
