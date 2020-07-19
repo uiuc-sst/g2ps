@@ -1,6 +1,8 @@
-import csv,os,glob,logging,subprocess,shutil,re,pycountry,itertools
+import csv,os,glob,logging,subprocess,shutil,re,pycountry,itertools,math
 import phonetisaurus
 import numpy as np
+
+logging.basicConfig(level=logging.ERROR)
 
 phone2feat = {}
 phone2feat_file = '../_config/phoibletable.csv'
@@ -30,81 +32,114 @@ class Phone():
             return(d/self.nf)
 
 class Word():
-    def __init__(self, chars, phones):
-        '''A Word is a sequence of characters, and a sequence of phones'''
+    def __init__(self, chars, phonelist):
+        '''A Word is a sequence of characters, and a list of different possible pronunciations.
+        Each pronunciation is a list of Phones.'''
         self.chars = chars
-        self.phones = [ Phone(p) for p in phones ]
+        self.prons = []
+        for pron in phonelist:
+            self.prons.append([ Phone(p) for p in pron ])
     def dist(self,other):
-        '''Distance between words = Levenshtein distance of their phones'''
-        # substitution distances
-        sub = [ [ p1.dist(p2) for p2 in other.phones ] for p1  in self.phones  ]
-        # total distance: initialize using  insert-delete-only  distance
-        tot = [ [ n1+n2 for n2  in  range(len(other.phones)+1) ] for n1 in range(len(self.phones)+1) ]
-        # total distance = min(substitution, insertion, deletion)
-        for n1 in range(1,len(self.phones)+1):
-            for n2 in range(1,len(other.phones)+1):
-                tot[n1][n2] = min(tot[n1-1][n2-1]+sub[n1-1][n2-1], tot[n1][n2-1]+1, tot[n1-1][n2]+1)
-        # return tot distance at the end of the word
-        return(tot[-1][-1])
+        '''Distance between words = Levenshtein distance of their phones,
+        divided by the number of correct phones in longer of the two pronunciations,
+        averaged over the possible pronunciations of each of the two words.
+        '''
+        totd = 0
+        totn = 0
+        for pron1 in self.prons:
+            for pron2 in other.prons:
+                maxlen = max(len(pron1),len(pron2))
+                # substitution distances
+                sub = [ [ p1.dist(p2) for p2 in pron2 ] for p1  in pron1  ]
+                # total distance: initialize using  insert-delete-only  distance
+                tot = [ [ n1+n2 for n2  in  range(len(pron2)+1) ] for n1 in range(len(pron1)+1) ]
+                # total distance = min(substitution, insertion, deletion)
+                for n1 in range(1,len(pron1)+1):
+                    for n2 in range(1,len(pron2)+1):
+                        tot[n1][n2] = min(tot[n1-1][n2-1]+sub[n1-1][n2-1],
+                                          tot[n1][n2-1]+1, tot[n1-1][n2]+1)
+                # Add this distance to totd
+                totd += tot[-1][-1]/maxlen
+                totn += 1
+        return(totd/totn)
 
 class Cluster():
-    def __init__(self, child1, child2, name):
+    def __init__(self, child1, child2, name, dist):
         self.child1 = child1
         self.child2 = child2
         self.name = name
-        if type(child1)==Cluster():
+        self.dist = dist
+        if type(child1)==Cluster:
             N1 = child1.N
         else:
             N1 = 1
-        if type(child2)==Cluster():
+        if type(child2)==Cluster:
             N2 = child2.N
         else:
             N2 = 1
         self.N = N1+N2
-    def __str__(self,level):
-        return('[' + str(child1,level+1)+',\n' + ' '*(level+1) + str(child2,level+1) + ']')
+    def ppr(self,level):
+        return('[' + self.child1.ppr(level+1)+',\n' +
+               ' '*(level+1) + str(self.dist) +'\n'  +
+               ' '*(level+1) + self.child2.ppr(level+1) + ']'
+        )
 
-def dist2wordlist(L1,L2):
-    sumd = 0
-    wordlist = [ k for k in L1.pronlex.keys() ]
-    prons = L2.apply_g2p(wordlist)
-    n = 0
-    for w in L1.pronlex.keys():
+def languagedist(self,other):
+    prons = other.apply_g2p(self.wordlist,self.name)
+    distances = {}
+    for w in self.wordlist:
         if w in prons:
-            n += 1
-            sumd += Word(w,L1.pronlex[w]).dist(Word(w,prons[w]))
-    print('Comparing %s dict to %s g2p: %d words'%(L1.name,L2.name,n))
-    return(sumd/n)
+            distances[w] = Word(w,self.pronlex[w]).dist(Word(w,prons[w]))
+    if len(distances)>0:
+        aved = sum([d for d in distances.values()]) / len(distances)
+    else:
+        aved = 1
+    return(aved, prons, distances)
+phonetisaurus.Language.dist = languagedist
 
+MAX_WORDLIST_LEN=1000    
 def agglomerate(dict2dat):
     '''Create an agglomerative clustering of a set of g2ps,
     using the corresponding dictionaries to define the distance measure'''
     clusters = [ phonetisaurus.Language(dat[1],'qqq',dat[0],dic) for (dic,dat) in dict2dat.items() ]
-    indices = [ n for n in range(len(clusters)) ]
-    nums = [ 1 for n in range(len(clusters)) ]
     for c in clusters:
-        c.load_pronlex()
-    # Calculate the dist matrix
-    dist = np.zeros((len(clusters),len(clusters)))
+        c.load_charset()
+        c.wordlist=c.wordlist[::max(1,int(len(c.wordlist)/MAX_WORDLIST_LEN))] #downsample
+        
+    # Calculate the dist matrix: distance to self is always np.inf, to avoid trivial clusters
+    dist = np.tile(np.inf,(len(clusters),len(clusters)))
+    os.makedirs('exp/distances',exist_ok=True)
     for (n1,n2) in itertools.combinations(range(len(clusters)),2):
-        d12 = dist2wordlist(clusters[n1],clusters[n2])
-        d21 = dist2wordlist(clusters[n2],clusters[n1])
-        dist[n1][n2] = d12+d21
-        dist[n2][n1] = d12+d21
+        L1 = clusters[n1]
+        L2 = clusters[n2]
+        print('Calculating dist(%d: %s, %d: %s)'%(n1,L1.name,n2,L2.name))
+        d12, prons12, dw12 = L1.dist(L2)
+        d21, prons21, dw21 = L2.dist(L1)
+        dist[n1][n2] = (d12+d21)/2
+        dist[n2][n1] = (d12+d21)/2
+        # Write the comparative dict, and word distances
+        with open(os.path.join('exp','distances','%s_%s_%g.txt'%(L1.name,L2.name,d12)),'w') as f:
+            for w in prons12.keys():
+                f.write('%s\t%s\t%g\t%s\n'%(str(w),str(L1.pronlex[w]),dw12[w],str(prons12[w])))
+        with open(os.path.join('exp','distances','%s_%s_%g.txt'%(L2.name,L1.name,d21)),'w') as f:
+            for w in prons21.keys():
+                f.write('%s\t%s\t%g\t%s\n'%(str(w),str(L2.pronlex[w]),dw21[w],str(prons21[w])))
+            
     # Now cluster them
     while len(clusters)>1:
-        md = math.inf
-        for (n1,n2) in itertools.combinations(indices,2):
-            if dist[n1][n2] < mindist:
-                md = dist[n1][n2]
-                mp = (n1,n2)
-        # Compute average of distances to each other language
-        dist[mp[0]] = (nums[mp[0]]*dist[mp[0]]+nums[mp[1]]*dist[mp[1]])/(nums[mp[0]]+nums[mp[1]])
-        nums[mp[0]] += nums[mp[1]]
-        nums[mp[1]] = 0
-        indices.pop(mp[1])
-        clusters[mp[0]] = Cluster(clusters[mp[0]],clusters[mp[1]],'cluster%d'%(len(clusters)))
-        clusters.pop(mp[1])
+        m1=np.argmin(np.min(dist,axis=1),axis=0)    # row number of min-distance pair
+        m2=np.argmin(dist[m1,:])                    # column number of min-distance pair
+        md = dist[m1,m2]
+        N1 = clusters[m1].N
+        N2 = clusters[m2].N
+        avgdist = (N1*dist[m1,:]+N2*dist[m2,:])/(N1+N2) # avg of distances to all other clusters
+        dist[m1,:] = avgdist
+        dist[:,m1] = avgdist
+        dist = np.delete(np.delete(dist,m2,1),m2,0)
+        clustername = 'cluster%d'%(len(clusters))
+        print('Merging %s and %s at %g to form %s'%(clusters[m1].name,clusters[m2].name,md,clustername))
+        clusters[m1] = Cluster(clusters[m1],clusters[m2],clustername,md)
+        clusters.pop(m2)
     # Return the clusters
     return(clusters)
 
@@ -134,12 +169,16 @@ special_case_modelnames = {
 # try to match them, then call cluster
 if  __name__=="__main__":
     language2dict = {}
+    # Keep these dicts
     for dictfile in glob.glob('../_train/exp/dicts/*.txt'):
         languagename = os.path.splitext(os.path.basename(dictfile))[0]
         language2dict[languagename] = [ dictfile ]
     dict2dat = {}
     os.makedirs('exp/models',exist_ok=True)
-    for modelpath in glob.glob('../models/*.gz'):
+    #
+    # Instead of these models, use only the wikipedia models?
+    models = glob.glob('../models/*.gz')
+    for modelpath in models:
         modelname = os.path.splitext(os.path.basename(modelpath))[0]
         modelfile = os.path.join('exp','models',modelname)
         if not os.path.exists(modelfile):
@@ -154,5 +193,6 @@ if  __name__=="__main__":
             for dictfile in language2dict[languagename]:
                 dict2dat[dictfile] = [ modelfile, languagename ]
     clusters = agglomerate(dict2dat)
+    # TODO: Find some better way to write out the clustering results!!
     with open('outputfile.txt','w') as f:
-        f.write(str(clusters[0]))    
+        f.write(clusters[0].ppr(0))    
