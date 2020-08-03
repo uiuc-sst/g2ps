@@ -1,546 +1,683 @@
-m	m
-n	n		
-b	p
-d	t	
-g	k
-p 	pʰ
-t	tʰ	
-k	kʰ
-z	ts
-zh	ʈʂ
-j	tɕ
-c	tsʰ
-ch	ʈʂʰ
-q	tɕʰ
-f 	f
-s 	s
-sh	ʂ
-r	ʐ
-r	ɻ
-x	ɕ
-h	x
-l 	l		
-y	j
-w	w
-zi	ts ɨ
-ci	tsʰ ɨ
-si	s ɨ
-zhi	ʈʂ ɯ
-chi	ʈʂʰ ɯ
-shi	ʂ ɯ
-ri	ʐ ɯ
-a	a
-e	e
-e	ə
-ai	aɪ
-ei	eɪ
-ao	ɑʊ
-ou	oʊ
-an	a n
-en	ə n
-ang	ɑ ŋ
-eng	ɤ ŋ
-er	ɑɻ
-i	i
-yi	i
-y	i
-in	i n	
-yin	i n
-ing	i ŋ	
-ying	i ŋ
-u	u
-w	u
-wu	u
-o	uɔ	
-wo 	uɔ	
-uai	uai
-wai	uai
-ui	uei
-wei	uei
-uan	ua n	
-wan	ua n
-un	uə n	
-wen	uə n
-uang	uɔ ŋ	
-wang	uɔ ŋ
-ong	ʊ ŋ
-ong	uə ŋ	
-weng	uə ŋ
-ü	y
-v	y
-yu	y
-ue	yœ
-üe	yœ
-yue	yœ
-uan	y ɛ n
-yuan	y ɛ n
-un	y n	
-yun	y n
-iong	iʊ ŋ	
-yong	iʊ ŋ
-ê	ɛ
-o	ɔ
-zi1	ts ɨ˥
-ci1	tsʰ ɨ˥
-si1	s ɨ˥
-zhi1	ʈʂ ɯ˥
-chi1	ʈʂʰ ɯ˥
-shi1	ʂ ɯ˥
-ri1	ʐ ɯ˥
-a1	a˥
-e1	e˥
-e1	ə˥
-ai1	aɪ˥
-ei1	eɪ˥
-ao1	ɑʊ˥
-ou1	oʊ˥
-an1	a˥ n
+m	m 
+n	n 
+b	p 
+d	t 
+g	k 
+p	pʰ 
+t	tʰ 
+k	kʰ 
+z	ts 
+zh	ʈʂ 
+j	tɕ 
+c	tsʰ 
+ch	ʈʂʰ 
+q	tɕʰ 
+f	f 
+s	s 
+sh	ʂ 
+r	ɻ 
+x	ɕ 
+h	h 
+l	l 
+y	j 
+w	w 
+ī	ɨ˥ 
+ē	ɤ˥ 
+hē	x ɤ˥ 
+ā	a˥ 
+ēi	ei˥ 
+āi	ai˥ 
+ōu	ou˥ 
+āo	au˥ 
+ēn	ə˥ n
+ān	a˥ n
+ōng	ʊ˥ ŋ
+ēng	ə˥ ŋ
+āng	ɑ˥ ŋ
+yī	i˥ 
+yē	j e˥ 
+yā	j a˥ 
+iā	j a˥ 
+yōu	j ou˥ 
+iū	j ou˥ 
+yāo	j au˥ 
+iāo	j au˥ 
+yīn	i˥ n
+īn	i˥ n
+yān	j ɛ˥ n
+iān	j ɛ˥ n
+yōng	j ʊ˥ ŋ
+iōng	j ʊ˥ ŋ
+yīng	i˥ ŋ
+īng	i˥ ŋ
+yāng	j a˥ ŋ
+iāng	j a˥ ŋ
+wū	u˥ 
+ū	u˥ 
+wō	w ɔ˥ 
+uō	w o˥ 
+wā	w a˥ 
+uā	w a˥ 
+wēi	w ei˥ 
+uī	w ei˥ 
+wāi	w ai˥ 
+uāi	w ai˥ 
+wēn	w ə˥ n
+ūn	w ə˥ n
+wān	w a˥ n
+uān	w a˥ n
+wēng	w ə˥ ŋ
+wāng	w a˥ ŋ
+uāng	w a˥ ŋ
+yū	y˥ 
+ǖ	y˥ 
+yuē	ɥe˥ 
+üē	ɥe˥ 
+yūn	y˥ n
+ǖn	y˥ n
+yuān	ɥ ɛ˥ n
+üān	ɥ ɛ˥ n
+ēr	a ɚ˥ 
+zī	ts ɨ˥ 
+cī	tsʰ ɨ˥ 
+sī	s ɨ˥ 
+zhī	ʈʂ ɯ˥ 
+chī	ʈʂʰ ɯ˥ 
+shī	ʂ ɯ˥ 
+rī	ʐ ɯ˥ 
+n̄g	ŋ˥ 
+n̄	n˥ 
+i1	ɨ˥ 
+e1	ɤ˥ 
+he1	x ɤ˥ 
+a1	a˥ 
+ei1	ei˥ 
+ai1	ai˥ 
+ou1	ou˥ 
+ao1	au˥ 
 en1	ə˥ n
-ang1	ɑ˥ ŋ
-eng1	ɤ˥ ŋ
-er1	ɑɻ˥ 
-i1	i˥
-yi1	i˥
-y1	i˥
-in1	i˥ n	
-yin1	i˥ n
-ing1	i˥ ŋ	
-ying1	i˥ ŋ
-u1	u˥
-w1	u˥
-wu1	u˥
-o1	uɔ˥
-wo1 	uɔ˥
-uai1	uai˥
-wai1	uai˥
-ui1	uei˥
-wei1	uei˥
-uan1	ua˥ n	
-wan1	ua˥ n
-un1	uə˥ n	
-wen1	uə˥ n
-uang1	uɔ˥ ŋ	
-wang1	uɔ˥ ŋ
+an1	a˥ n
 ong1	ʊ˥ ŋ
-ong1	uə˥ ŋ	
-weng	uə˥ ŋ
-ü1	y˥
-v1	y˥
-yu1	y˥
-ue1	yœ˥
-üe1	yœ˥
-yue1	yœ˥
-uan1	y ɛ˥ n
-yuan1	y ɛ˥ n
-un1	y˥ n	
+eng1	ə˥ ŋ
+ang1	ɑ˥ ŋ
+yi1	i˥ 
+ye1	j e˥ 
+ya1	j a˥ 
+ia1	j a˥ 
+you1	j ou˥ 
+iu1	j ou˥ 
+yao1	j au˥ 
+iao1	j au˥ 
+yin1	i˥ n
+in1	i˥ n
+yan1	j ɛ˥ n
+ian1	j ɛ˥ n
+yong1	j ʊ˥ ŋ
+iong1	j ʊ˥ ŋ
+ying1	i˥ ŋ
+ing1	i˥ ŋ
+yang1	j a˥ ŋ
+iang1	j a˥ ŋ
+wu1	u˥ 
+u1	u˥ 
+wo1	w ɔ˥ 
+uo1	w o˥ 
+wa1	w a˥ 
+ua1	w a˥ 
+wei1	w ei˥ 
+ui1	w ei˥ 
+wai1	w ai˥ 
+uai1	w ai˥ 
+wen1	w ə˥ n
+un1	w ə˥ n
+wan1	w a˥ n
+uan1	w a˥ n
+weng1	w ə˥ ŋ
+wang1	w a˥ ŋ
+uang1	w a˥ ŋ
+yu1	y˥ 
+ü1	y˥ 
+yue1	ɥe˥ 
+üe1	ɥe˥ 
 yun1	y˥ n
-iong1	iʊ˥ ŋ	
-yong1	iʊ˥ ŋ
-ê1	ɛ˥
-o1	ɔ˥
-ziˉ	ts ɨ˥
-ciˉ	tsʰ ɨ˥
-siˉ	s ɨ˥
-zhiˉ	ʈʂ ɯ˥
-chiˉ	ʈʂʰ ɯ˥
-shiˉ	ʂ ɯ˥
-riˉ	ʐ ɯ˥
-aˉ	a˥
-eˉ	e˥
-eˉ	ə˥
-aiˉ	aɪ˥
-eiˉ	eɪ˥
-aoˉ	ɑʊ˥
-ouˉ	oʊ˥
-anˉ	a˥ n
-enˉ	ə˥ n
-angˉ	ɑ˥ ŋ
-engˉ	ɤ˥ ŋ
-erˉ	ɑɻ˥
-iˉ	i˥
-yiˉ	i˥
-yˉ	i˥
-inˉ	i˥ n	
-yinˉ	i˥ n
-ingˉ	i˥ ŋ	
-yingˉ	i˥ ŋ
-uˉ	u˥
-wˉ	u˥
-wuˉ	u˥
-oˉ	uɔ˥
-woˉ 	uɔ˥
-uaiˉ	uai˥
-waiˉ	uai˥
-uiˉ	uei˥
-weiˉ	uei˥
-uanˉ	ua˥ n	
-wanˉ	ua˥ n
-unˉ	uə˥ n	
-wenˉ	uə˥ n
-uangˉ	uɔ˥ ŋ	
-wangˉ	uɔ˥ ŋ
-ongˉ	ʊ˥ ŋ
-ongˉ	uə˥ ŋ	
-wengˉ	uə˥ ŋ
-üˉ	y˥
-vˉ	y˥
-yuˉ	y˥
-ueˉ	yœ˥
-üeˉ	yœ˥
-yueˉ	yœ˥
-uanˉ	y ɛ˥ n
-yuanˉ	y ɛ˥ n
-unˉ	y˥ n	
-yunˉ	y˥ n
-iongˉ	iʊ˥ ŋ	
-yongˉ	iʊ˥ ŋ
-êˉ	ɛ˥
-oˉ	ɔ˥
-zi2	ts ɨ˧˥
-ci2	tsʰ ɨ˧˥
-si2	s ɨ˧˥
-zhi2	ʈʂ ɯ˧˥
-chi2	ʈʂʰ ɯ˧˥
-shi2	ʂ ɯ˧˥
-ri2	ʐ ɯ˧˥
-a2	a˧˥
-e2	e˧˥
-e2	ə˧˥
-ai2	aɪ˧˥
-ei2	eɪ˧˥
-ao2	ɑʊ˧˥
-ou2	oʊ˧˥
-an22	a˧˥ n
+ün1	y˥ n
+yuan1	ɥ ɛ˥ n
+üan1	ɥ ɛ˥ n
+er1	a ɚ˥ 
+zi1	ts ɨ˥ 
+ci1	tsʰ ɨ˥ 
+si1	s ɨ˥ 
+zhi1	ʈʂ ɯ˥ 
+chi1	ʈʂʰ ɯ˥ 
+shi1	ʂ ɯ˥ 
+ri1	ʐ ɯ˥ 
+ng1	ŋ˥ 
+n1	n˥ 
+í	ɨ˧˥ 
+é	ɤ˧˥ 
+hé	x ɤ˧˥ 
+á	a˧˥ 
+éi	ei˧˥ 
+ái	ai˧˥ 
+óu	ou˧˥ 
+áo	au˧˥ 
+én	ə˧˥ n
+án	a˧˥ n
+óng	ʊ˧˥ ŋ
+éng	ə˧˥ ŋ
+áng	ɑ˧˥ ŋ
+yí	i˧˥ 
+yé	j e˧˥ 
+yá	j a˧˥ 
+iá	j a˧˥ 
+yóu	j ou˧˥ 
+iú	j ou˧˥ 
+yáo	j au˧˥ 
+iáo	j au˧˥ 
+yín	i˧˥ n
+ín	i˧˥ n
+yán	j ɛ˧˥ n
+ián	j ɛ˧˥ n
+yóng	j ʊ˧˥ ŋ
+ióng	j ʊ˧˥ ŋ
+yíng	i˧˥ ŋ
+íng	i˧˥ ŋ
+yáng	j a˧˥ ŋ
+iáng	j a˧˥ ŋ
+wú	u˧˥ 
+ú	u˧˥ 
+wó	w ɔ˧˥ 
+uó	w o˧˥ 
+wá	w a˧˥ 
+uá	w a˧˥ 
+wéi	w ei˧˥ 
+uí	w ei˧˥ 
+wái	w ai˧˥ 
+uái	w ai˧˥ 
+wén	w ə˧˥ n
+ún	w ə˧˥ n
+wán	w a˧˥ n
+uán	w a˧˥ n
+wéng	w ə˧˥ ŋ
+wáng	w a˧˥ ŋ
+uáng	w a˧˥ ŋ
+yú	y˧˥ 
+ǘ	y˧˥ 
+yué	ɥe˧˥ 
+üé	ɥe˧˥ 
+yún	y˧˥ n
+ǘn	y˧˥ n
+yuán	ɥ ɛ˧˥ n
+üán	ɥ ɛ˧˥ n
+ér	a ɚ˧˥ 
+zí	ts ɨ˧˥ 
+cí	tsʰ ɨ˧˥ 
+sí	s ɨ˧˥ 
+zhí	ʈʂ ɯ˧˥ 
+chí	ʈʂʰ ɯ˧˥ 
+shí	ʂ ɯ˧˥ 
+rí	ʐ ɯ˧˥ 
+ńg	ŋ˧˥ 
+ń	n˧˥ 
+i2	ɨ˧˥ 
+e2	ɤ˧˥ 
+he2	x ɤ˧˥ 
+a2	a˧˥ 
+ei2	ei˧˥ 
+ai2	ai˧˥ 
+ou2	ou˧˥ 
+ao2	au˧˥ 
 en2	ə˧˥ n
-ang2	ɑ˧˥ ŋ
-eng2	ɤ˧˥ ŋ
-er2	ɑɻ˧˥
-i2	i˧˥
-yi2	i˧˥
-y2	i˧˥
-in2	i˧˥ n
-yin2	i˧˥ n
-ing2	i˧˥ ŋ
-ying2	i˧˥ ŋ
-u2	u˧˥
-w2	u˧˥
-wu2	u˧˥
-o2	uɔ˧˥
-wo2 	uɔ˧˥
-uai2	uai˧˥
-wai2	uai˧˥
-ui2	uei˧˥
-wei2	uei˧˥
-uan2	ua˧˥ n
-wan2	ua˧˥ n
-un2	uə˧˥ n
-wen2	uə˧˥ n
-uang2	uɔ˧˥ ŋ
-wang2	uɔ˧˥ ŋ
+an2	a˧˥ n
 ong2	ʊ˧˥ ŋ
-ong2	uə˧˥ ŋ
-weng2	uə˧˥ ŋ
-ü2	y˧˥
-v2	y˧˥
-yu2	y˧˥
-ue2	yœ˧˥
-üe2	yœ˧˥
-yue2	yœ˧˥
-uan2	y ɛ˧˥ n
-yuan2	y ɛ˧˥ n
-un2	y˧˥ n
+eng2	ə˧˥ ŋ
+ang2	ɑ˧˥ ŋ
+yi2	i˧˥ 
+ye2	j e˧˥ 
+ya2	j a˧˥ 
+ia2	j a˧˥ 
+you2	j ou˧˥ 
+iu2	j ou˧˥ 
+yao2	j au˧˥ 
+iao2	j au˧˥ 
+yin2	i˧˥ n
+in2	i˧˥ n
+yan2	j ɛ˧˥ n
+ian2	j ɛ˧˥ n
+yong2	j ʊ˧˥ ŋ
+iong2	j ʊ˧˥ ŋ
+ying2	i˧˥ ŋ
+ing2	i˧˥ ŋ
+yang2	j a˧˥ ŋ
+iang2	j a˧˥ ŋ
+wu2	u˧˥ 
+u2	u˧˥ 
+wo2	w ɔ˧˥ 
+uo2	w o˧˥ 
+wa2	w a˧˥ 
+ua2	w a˧˥ 
+wei2	w ei˧˥ 
+ui2	w ei˧˥ 
+wai2	w ai˧˥ 
+uai2	w ai˧˥ 
+wen2	w ə˧˥ n
+un2	w ə˧˥ n
+wan2	w a˧˥ n
+uan2	w a˧˥ n
+weng2	w ə˧˥ ŋ
+wang2	w a˧˥ ŋ
+uang2	w a˧˥ ŋ
+yu2	y˧˥ 
+ü2	y˧˥ 
+yue2	ɥe˧˥ 
+üe2	ɥe˧˥ 
 yun2	y˧˥ n
-iong2	iʊ˧˥ ŋ
-yong2	iʊ˧˥ ŋ
-ê2	ɛ˧˥
-o2	ɔ˧˥
-ziˊ	ts ɨ˧˥
-ciˊ	tsʰ ɨ˧˥
-siˊ	s ɨ˧˥
-zhiˊ	ʈʂ ɯ˧˥
-chiˊ	ʈʂʰ ɯ˧˥
-shiˊ	ʂ ɯ˧˥
-riˊ	ʐ ɯ˧˥
-aˊ	a˧˥
-eˊ	e˧˥
-eˊ	ə˧˥
-aiˊ	aɪ˧˥
-eiˊ	eɪ˧˥
-aoˊ	ɑʊ˧˥
-ouˊ	oʊ˧˥
-anˊ	a˧˥ n
-enˊ	ə˧˥ n
-angˊ	ɑ˧˥ ŋ
-engˊ	ɤ˧˥ ŋ
-erˊ	ɑɻ˧˥
-iˊ	i˧˥
-yiˊ	i˧˥
-yˊ	i˧˥
-inˊ	i˧˥ n
-yinˊ	i˧˥ n
-ingˊ	i ŋ	˧˥
-yingˊ	i˧˥ ŋ
-uˊ	u˧˥
-wˊ	u˧˥
-wuˊ	u˧˥
-oˊ	uɔ˧˥
-woˊ 	uɔ˧˥
-uaiˊ	uai˧˥
-waiˊ	uai˧˥
-uiˊ	uei˧˥
-weiˊ	uei˧˥
-uanˊ	ua˧˥ n
-wanˊ	ua˧˥ n
-unˊ	uə˧˥ n
-wenˊ	uə˧˥ n
-uangˊ	uɔ˧˥ ŋ
-wangˊ	uɔ˧˥ ŋ
-ongˊ	ʊ˧˥ ŋ
-ongˊ	uə˧˥ ŋ
-wengˊ	uə˧˥ ŋ
-üˊ	y˧˥
-vˊ	y˧˥
-yuˊ	y˧˥
-ueˊ	yœ˧˥
-üeˊ	yœ˧˥
-yueˊ	yœ˧˥
-uanˊ	y ɛ˧˥ n
-yuanˊ	y ɛ˧˥ n
-unˊ	y˧˥ n
-yunˊ	y˧˥ n
-iongˊ	iʊ˧˥ ŋ
-yongˊ	iʊ˧˥ ŋ
-êˊ	ɛ˧˥
-oˊ	ɔ˧˥
-zi3	ts ɨ˨˩˦
-ci3	tsʰ ɨ˨˩˦
-si3	s ɨ˨˩˦
-zhi3	ʈʂ ɯ˨˩˦
-chi3	ʈʂʰ ɯ˨˩˦
-shi3	ʂ ɯ˨˩˦
-ri3	ʐ ɯ˨˩˦
-a3	a˨˩˦
-e3	e˨˩˦
-e3	ə˨˩˦
-ai3	aɪ˨˩˦
-ei3	eɪ˨˩˦
-ao3	ɑʊ˨˩˦
-ou3	oʊ˨˩˦
-an3	a˨˩˦ n
+ün2	y˧˥ n
+yuan2	ɥ ɛ˧˥ n
+üan2	ɥ ɛ˧˥ n
+er2	a ɚ˧˥ 
+zi2	ts ɨ˧˥ 
+ci2	tsʰ ɨ˧˥ 
+si2	s ɨ˧˥ 
+zhi2	ʈʂ ɯ˧˥ 
+chi2	ʈʂʰ ɯ˧˥ 
+shi2	ʂ ɯ˧˥ 
+ri2	ʐ ɯ˧˥ 
+ng2	ŋ˧˥ 
+n2	n˧˥ 
+ǐ	ɨ˨˩˦ 
+ě	ɤ˨˩˦ 
+hě	x ɤ˨˩˦ 
+ǎ	a˨˩˦ 
+ěi	ei˨˩˦ 
+ǎi	ai˨˩˦ 
+ǒu	ou˨˩˦ 
+ǎo	au˨˩˦ 
+ěn	ə˨˩˦ n
+ǎn	a˨˩˦ n
+ǒng	ʊ˨˩˦ ŋ
+ěng	ə˨˩˦ ŋ
+ǎng	ɑ˨˩˦ ŋ
+yǐ	i˨˩˦ 
+yě	j e˨˩˦ 
+yǎ	j a˨˩˦ 
+iǎ	j a˨˩˦ 
+yǒu	j ou˨˩˦ 
+iǔ	j ou˨˩˦ 
+yǎo	j au˨˩˦ 
+iǎo	j au˨˩˦ 
+yǐn	i˨˩˦ n
+ǐn	i˨˩˦ n
+yǎn	j ɛ˨˩˦ n
+iǎn	j ɛ˨˩˦ n
+yǒng	j ʊ˨˩˦ ŋ
+iǒng	j ʊ˨˩˦ ŋ
+yǐng	i˨˩˦ ŋ
+ǐng	i˨˩˦ ŋ
+yǎng	j a˨˩˦ ŋ
+iǎng	j a˨˩˦ ŋ
+wǔ	u˨˩˦ 
+ǔ	u˨˩˦ 
+wǒ	w ɔ˨˩˦ 
+uǒ	w o˨˩˦ 
+wǎ	w a˨˩˦ 
+uǎ	w a˨˩˦ 
+wěi	w ei˨˩˦ 
+uǐ	w ei˨˩˦ 
+wǎi	w ai˨˩˦ 
+uǎi	w ai˨˩˦ 
+wěn	w ə˨˩˦ n
+ǔn	w ə˨˩˦ n
+wǎn	w a˨˩˦ n
+uǎn	w a˨˩˦ n
+wěng	w ə˨˩˦ ŋ
+wǎng	w a˨˩˦ ŋ
+uǎng	w a˨˩˦ ŋ
+yǔ	y˨˩˦ 
+ǚ	y˨˩˦ 
+yuě	ɥe˨˩˦ 
+üě	ɥe˨˩˦ 
+yǔn	y˨˩˦ n
+ǚn	y˨˩˦ n
+yuǎn	ɥ ɛ˨˩˦ n
+üǎn	ɥ ɛ˨˩˦ n
+ěr	a ɚ˨˩˦ 
+zǐ	ts ɨ˨˩˦ 
+cǐ	tsʰ ɨ˨˩˦ 
+sǐ	s ɨ˨˩˦ 
+zhǐ	ʈʂ ɯ˨˩˦ 
+chǐ	ʈʂʰ ɯ˨˩˦ 
+shǐ	ʂ ɯ˨˩˦ 
+rǐ	ʐ ɯ˨˩˦ 
+ňg	ŋ˨˩˦ 
+ň	n˨˩˦ 
+i3	ɨ˨˩˦ 
+e3	ɤ˨˩˦ 
+he3	x ɤ˨˩˦ 
+a3	a˨˩˦ 
+ei3	ei˨˩˦ 
+ai3	ai˨˩˦ 
+ou3	ou˨˩˦ 
+ao3	au˨˩˦ 
 en3	ə˨˩˦ n
-ang3	ɑ˨˩˦ ŋ
-eng3	ɤ˨˩˦ ŋ
-er3	ɑɻ˨˩˦ 
-i3	i˨˩˦
-yi3	i˨˩˦
-y3	i˨˩˦
-in3	i˨˩˦ n
-yin3	i˨˩˦ n
-ing3	i˨˩˦ ŋ
-ying3	i˨˩˦ ŋ
-u3	u˨˩˦
-w3	u˨˩˦
-wu3	u˨˩˦
-o3	uɔ˨˩˦
-wo3 	uɔ˨˩˦
-uai3	uai˨˩˦
-wai3	uai˨˩˦
-ui3	uei˨˩˦
-wei3	uei˨˩˦
-uan3	ua˨˩˦ n
-wan3	ua˨˩˦ n
-un3	uə˨˩˦ n
-wen3	uə˨˩˦ n
-uang3	uɔ˨˩˦ ŋ
-wang3	uɔ˨˩˦ ŋ
+an3	a˨˩˦ n
 ong3	ʊ˨˩˦ ŋ
-ong3	uə˨˩˦ ŋ
-weng3	uə˨˩˦ ŋ
-ü3	y˨˩˦
-v3	y˨˩˦
-yu3	y˨˩˦
-ue3	yœ˨˩˦
-üe3	yœ˨˩˦
-yue3	yœ˨˩˦
-uan3	y ɛ˨˩˦ n
-yuan3	y ɛ˨˩˦ n
-un3	y˨˩˦ n
+eng3	ə˨˩˦ ŋ
+ang3	ɑ˨˩˦ ŋ
+yi3	i˨˩˦ 
+ye3	j e˨˩˦ 
+ya3	j a˨˩˦ 
+ia3	j a˨˩˦ 
+you3	j ou˨˩˦ 
+iu3	j ou˨˩˦ 
+yao3	j au˨˩˦ 
+iao3	j au˨˩˦ 
+yin3	i˨˩˦ n
+in3	i˨˩˦ n
+yan3	j ɛ˨˩˦ n
+ian3	j ɛ˨˩˦ n
+yong3	j ʊ˨˩˦ ŋ
+iong3	j ʊ˨˩˦ ŋ
+ying3	i˨˩˦ ŋ
+ing3	i˨˩˦ ŋ
+yang3	j a˨˩˦ ŋ
+iang3	j a˨˩˦ ŋ
+wu3	u˨˩˦ 
+u3	u˨˩˦ 
+wo3	w ɔ˨˩˦ 
+uo3	w o˨˩˦ 
+wa3	w a˨˩˦ 
+ua3	w a˨˩˦ 
+wei3	w ei˨˩˦ 
+ui3	w ei˨˩˦ 
+wai3	w ai˨˩˦ 
+uai3	w ai˨˩˦ 
+wen3	w ə˨˩˦ n
+un3	w ə˨˩˦ n
+wan3	w a˨˩˦ n
+uan3	w a˨˩˦ n
+weng3	w ə˨˩˦ ŋ
+wang3	w a˨˩˦ ŋ
+uang3	w a˨˩˦ ŋ
+yu3	y˨˩˦ 
+ü3	y˨˩˦ 
+yue3	ɥe˨˩˦ 
+üe3	ɥe˨˩˦ 
 yun3	y˨˩˦ n
-iong3	iʊ˨˩˦ ŋ
-yong3	iʊ˨˩˦ ŋ
-ê3	ɛ˨˩˦
-o3	ɔ˨˩˦
-ziˇ	ts ɨ˨˩˦
-ciˇ	tsʰ ɨ˨˩˦
-siˇ	s ɨ˨˩˦
-zhiˇ	ʈʂ ɯ˨˩˦
-chiˇ	ʈʂʰ ɯ˨˩˦
-shiˇ	ʂ ɯ˨˩˦
-riˇ	ʐ ɯ˨˩˦
-aˇ	a˨˩˦
-eˇ	e˨˩˦
-eˇ	ə˨˩˦
-aiˇ	aɪ˨˩˦
-eiˇ	eɪ˨˩˦
-aoˇ	ɑʊ˨˩˦
-ouˇ	oʊ˨˩˦
-anˇ	a˨˩˦ n
-enˇ	ə˨˩˦ n
-angˇ	ɑ˨˩˦ ŋ
-engˇ	ɤ˨˩˦ ŋ
-erˇ	ɑɻ˨˩˦ 
-iˇ	i˨˩˦
-yiˇ	i˨˩˦
-yˇ	i˨˩˦
-inˇ	i˨˩˦ n
-yinˇ	i˨˩˦ n
-ingˇ	i˨˩˦ ŋ
-yingˇ	i˨˩˦ ŋ
-uˇ	u˨˩˦
-wˇ	u˨˩˦
-wuˇ	u˨˩˦
-oˇ	uɔ˨˩˦
-woˇ 	uɔ˨˩˦
-uaiˇ	uai˨˩˦
-waiˇ	uai˨˩˦
-uiˇ	uei˨˩˦
-weiˇ	uei˨˩˦
-uanˇ	ua˨˩˦ n
-wanˇ	ua˨˩˦ n
-unˇ	uə˨˩˦ n
-wenˇ	uə˨˩˦ n
-uangˇ	uɔ˨˩˦ ŋ
-wangˇ	uɔ˨˩˦ ŋ
-ongˇ	ʊ˨˩˦ ŋ
-ongˇ	uə˨˩˦ ŋ
-wengˇ	uə˨˩˦ ŋ
-üˇ	y˨˩˦
-vˇ	y˨˩˦
-yuˇ	y˨˩˦
-ueˇ	yœ˨˩˦
-üeˇ	yœ˨˩˦
-yueˇ	yœ˨˩˦
-uanˇ	y ɛ˨˩˦ n
-yuanˇ	y ɛ˨˩˦ n
-unˇ	y˨˩˦ n
-yunˇ	y˨˩˦ n
-iongˇ	iʊ˨˩˦ ŋ
-yongˇ	iʊ˨˩˦ ŋ
-êˇ	ɛ˨˩˦
-oˇ	ɔ˨˩˦
-zi4	ts ɨ˥˩
-ci4	tsʰ ɨ˥˩
-si4	s ɨ˥˩
-zhi4	ʈʂ ɯ˥˩
-chi4	ʈʂʰ ɯ˥˩
-shi4	ʂ ɯ˥˩
-ri4	ʐ ɯ˥˩
-a4	a˥˩
-e4	e˥˩
-e4	ə˥˩
-ai4	aɪ˥˩
-ei4	eɪ˥˩
-ao4	ɑʊ˥˩
-ou4	oʊ˥˩
-an4	a˥˩ n
+ün3	y˨˩˦ n
+yuan3	ɥ ɛ˨˩˦ n
+üan3	ɥ ɛ˨˩˦ n
+er3	a ɚ˨˩˦ 
+zi3	ts ɨ˨˩˦ 
+ci3	tsʰ ɨ˨˩˦ 
+si3	s ɨ˨˩˦ 
+zhi3	ʈʂ ɯ˨˩˦ 
+chi3	ʈʂʰ ɯ˨˩˦ 
+shi3	ʂ ɯ˨˩˦ 
+ri3	ʐ ɯ˨˩˦ 
+ng3	ŋ˨˩˦ 
+n3	n˨˩˦ 
+ì	ɨ˥˩ 
+è	ɤ˥˩ 
+hè	x ɤ˥˩ 
+à	a˥˩ 
+èi	ei˥˩ 
+ài	ai˥˩ 
+òu	ou˥˩ 
+ào	au˥˩ 
+èn	ə˥˩ n
+àn	a˥˩ n
+òng	ʊ˥˩ ŋ
+èng	ə˥˩ ŋ
+àng	ɑ˥˩ ŋ
+yì	i˥˩ 
+yè	j e˥˩ 
+yà	j a˥˩ 
+ià	j a˥˩ 
+yòu	j ou˥˩ 
+iù	j ou˥˩ 
+yào	j au˥˩ 
+iào	j au˥˩ 
+yìn	i˥˩ n
+ìn	i˥˩ n
+yàn	j ɛ˥˩ n
+iàn	j ɛ˥˩ n
+yòng	j ʊ˥˩ ŋ
+iòng	j ʊ˥˩ ŋ
+yìng	i˥˩ ŋ
+ìng	i˥˩ ŋ
+yàng	j a˥˩ ŋ
+iàng	j a˥˩ ŋ
+wù	u˥˩ 
+ù	u˥˩ 
+wò	w ɔ˥˩ 
+uò	w o˥˩ 
+wà	w a˥˩ 
+uà	w a˥˩ 
+wèi	w ei˥˩ 
+uì	w ei˥˩ 
+wài	w ai˥˩ 
+uài	w ai˥˩ 
+wèn	w ə˥˩ n
+ùn	w ə˥˩ n
+wàn	w a˥˩ n
+uàn	w a˥˩ n
+wèng	w ə˥˩ ŋ
+wàng	w a˥˩ ŋ
+uàng	w a˥˩ ŋ
+yù	y˥˩ 
+ǜ	y˥˩ 
+yuè	ɥe˥˩ 
+üè	ɥe˥˩ 
+yùn	y˥˩ n
+ǜn	y˥˩ n
+yuàn	ɥ ɛ˥˩ n
+üàn	ɥ ɛ˥˩ n
+èr	a ɚ˥˩ 
+zì	ts ɨ˥˩ 
+cì	tsʰ ɨ˥˩ 
+sì	s ɨ˥˩ 
+zhì	ʈʂ ɯ˥˩ 
+chì	ʈʂʰ ɯ˥˩ 
+shì	ʂ ɯ˥˩ 
+rì	ʐ ɯ˥˩ 
+ǹg	ŋ˥˩ 
+ǹ	n˥˩ 
+i4	ɨ˥˩ 
+e4	ɤ˥˩ 
+he4	x ɤ˥˩ 
+a4	a˥˩ 
+ei4	ei˥˩ 
+ai4	ai˥˩ 
+ou4	ou˥˩ 
+ao4	au˥˩ 
 en4	ə˥˩ n
-ang4	ɑ˥˩ ŋ
-eng4	ɤ˥˩ ŋ
-er4	ɑɻ˥˩
-i4	i˥˩
-yi4	i˥˩
-y4	i˥˩
-in4	i˥˩ n
-yin4	i˥˩ n
-ing4	i˥˩ ŋ
-ying4	i˥˩ ŋ
-u4	u˥˩
-w4	u˥˩
-wu4	u˥˩
-o4	uɔ˥˩
-wo4 	uɔ˥˩
-uai4	uai˥˩
-wai4	uai˥˩
-ui4	uei˥˩
-wei4	uei˥˩
-uan4	ua˥˩ n
-wan4	ua˥˩ n
-un4	uə˥˩ n
-wen4	uə˥˩ n
-uang4	uɔ˥˩ ŋ
-wang4	uɔ˥˩ ŋ
+an4	a˥˩ n
 ong4	ʊ˥˩ ŋ
-ong4	uə˥˩ ŋ
-weng4	uə˥˩ ŋ
-ü4	y˥˩
-v4	y˥˩
-yu4	y˥˩
-ue4	yœ˥˩
-üe4	yœ˥˩
-yue4	yœ˥˩
-uan4	y ɛ˥˩ n
-yuan4	y ɛ˥˩ n
-un4	y˥˩ n
+eng4	ə˥˩ ŋ
+ang4	ɑ˥˩ ŋ
+yi4	i˥˩ 
+ye4	j e˥˩ 
+ya4	j a˥˩ 
+ia4	j a˥˩ 
+you4	j ou˥˩ 
+iu4	j ou˥˩ 
+yao4	j au˥˩ 
+iao4	j au˥˩ 
+yin4	i˥˩ n
+in4	i˥˩ n
+yan4	j ɛ˥˩ n
+ian4	j ɛ˥˩ n
+yong4	j ʊ˥˩ ŋ
+iong4	j ʊ˥˩ ŋ
+ying4	i˥˩ ŋ
+ing4	i˥˩ ŋ
+yang4	j a˥˩ ŋ
+iang4	j a˥˩ ŋ
+wu4	u˥˩ 
+u4	u˥˩ 
+wo4	w ɔ˥˩ 
+uo4	w o˥˩ 
+wa4	w a˥˩ 
+ua4	w a˥˩ 
+wei4	w ei˥˩ 
+ui4	w ei˥˩ 
+wai4	w ai˥˩ 
+uai4	w ai˥˩ 
+wen4	w ə˥˩ n
+un4	w ə˥˩ n
+wan4	w a˥˩ n
+uan4	w a˥˩ n
+weng4	w ə˥˩ ŋ
+wang4	w a˥˩ ŋ
+uang4	w a˥˩ ŋ
+yu4	y˥˩ 
+ü4	y˥˩ 
+yue4	ɥe˥˩ 
+üe4	ɥe˥˩ 
 yun4	y˥˩ n
-iong4	iʊ˥˩ ŋ
-yong4	iʊ˥˩ ŋ
-ê4	ɛ˥˩
-o4	ɔ˥˩
-ziˋ	ts ɨ˥˩
-ciˋ	tsʰ ɨ˥˩
-siˋ	s ɨ˥˩
-zhiˋ	ʈʂ ɯ˥˩
-chiˋ	ʈʂʰ ɯ˥˩
-shiˋ	ʂ ɯ˥˩
-riˋ	ʐ ɯ˥˩
-aˋ	a˥˩
-eˋ	e˥˩
-eˋ	ə˥˩
-aiˋ	aɪ˥˩
-eiˋ	eɪ˥˩
-aoˋ	ɑʊ˥˩
-ouˋ	oʊ˥˩
-anˋ	a˥˩ n
-enˋ	ə˥˩ n
-angˋ	ɑ˥˩ ŋ
-engˋ	ɤ˥˩ ŋ
-erˋ	ɑɻ˥˩
-iˋ	i˥˩
-yiˋ	i˥˩
-yˋ	i˥˩
-inˋ	i˥˩ n
-yinˋ	i˥˩ n
-ingˋ	i˥˩ ŋ
-yingˋ	i˥˩ ŋ
-uˋ	u˥˩
-wˋ	u˥˩
-wuˋ	u˥˩
-oˋ	uɔ˥˩
-woˋ 	uɔ˥˩
-uaiˋ	uai˥˩
-waiˋ	uai˥˩
-uiˋ	uei˥˩
-weiˋ	uei˥˩
-uanˋ	ua˥˩ n
-wanˋ	ua˥˩ n
-unˋ	uə˥˩ n
-wenˋ	uə˥˩ n
-uangˋ	uɔ˥˩ ŋ
-wangˋ	uɔ˥˩ ŋ
-ongˋ	ʊ˥˩ ŋ
-ongˋ	uə˥˩ ŋ
-wengˋ	uə˥˩ ŋ
-üˋ	y˥˩
-vˋ	y˥˩
-yuˋ	y˥˩
-ueˋ	yœ˥˩
-üeˋ	yœ˥˩
-yueˋ	yœ˥˩
-uanˋ	y ɛ˥˩ n
-yuanˋ	y ɛ˥˩ n
-unˋ	y˥˩ n
-yunˋ	y˥˩ n
-iongˋ	iʊ˥˩ ŋ
-yongˋ	iʊ˥˩ ŋ
-êˋ	ɛ˥˩
-oˋ	ɔ˥˩
+ün4	y˥˩ n
+yuan4	ɥ ɛ˥˩ n
+üan4	ɥ ɛ˥˩ n
+er4	a ɚ˥˩ 
+zi4	ts ɨ˥˩ 
+ci4	tsʰ ɨ˥˩ 
+si4	s ɨ˥˩ 
+zhi4	ʈʂ ɯ˥˩ 
+chi4	ʈʂʰ ɯ˥˩ 
+shi4	ʂ ɯ˥˩ 
+ri4	ʐ ɯ˥˩ 
+ng4	ŋ˥˩ 
+n4	n˥˩ 
+i	ɨ 
+e	ɤ 
+he	x ɤ 
+a	a 
+ei	ei 
+ai	ai 
+ou	ou 
+ao	au 
+en	ə n
+an	a n
+ong	ʊ ŋ
+eng	ə ŋ
+ang	ɑ ŋ
+yi	i 
+ye	j e 
+ya	j a 
+ia	j a 
+you	j ou 
+iu	j ou 
+yao	j au 
+iao	j au 
+yin	i n
+in	i n
+yan	j ɛ n
+ian	j ɛ n
+yong	j ʊ ŋ
+iong	j ʊ ŋ
+ying	i ŋ
+ing	i ŋ
+yang	j a ŋ
+iang	j a ŋ
+wu	u 
+u	u 
+wo	w ɔ 
+uo	w o 
+wa	w a 
+ua	w a 
+wei	w ei 
+ui	w ei 
+wai	w ai 
+uai	w ai 
+wen	w ə n
+un	w ə n
+wan	w a n
+uan	w a n
+weng	w ə ŋ
+wang	w a ŋ
+uang	w a ŋ
+yu	y 
+ü	y 
+yue	ɥe 
+üe	ɥe 
+yun	y n
+ün	y n
+yuan	ɥ ɛ n
+üan	ɥ ɛ n
+er	a ɚ 
+zi	ts ɨ 
+ci	tsʰ ɨ 
+si	s ɨ 
+zhi	ʈʂ ɯ 
+chi	ʈʂʰ ɯ 
+shi	ʂ ɯ 
+ri	ʐ ɯ 
+ng	ŋ 
+n	n 
+i5	ɨ 
+e5	ɤ 
+he5	x ɤ 
+a5	a 
+ei5	ei 
+ai5	ai 
+ou5	ou 
+ao5	au 
+en5	ə n
+an5	a n
+ong5	ʊ ŋ
+eng5	ə ŋ
+ang5	ɑ ŋ
+yi5	i 
+ye5	j e 
+ya5	j a 
+ia5	j a 
+you5	j ou 
+iu5	j ou 
+yao5	j au 
+iao5	j au 
+yin5	i n
+in5	i n
+yan5	j ɛ n
+ian5	j ɛ n
+yong5	j ʊ ŋ
+iong5	j ʊ ŋ
+ying5	i ŋ
+ing5	i ŋ
+yang5	j a ŋ
+iang5	j a ŋ
+wu5	u 
+u5	u 
+wo5	w ɔ 
+uo5	w o 
+wa5	w a 
+ua5	w a 
+wei5	w ei 
+ui5	w ei 
+wai5	w ai 
+uai5	w ai 
+wen5	w ə n
+un5	w ə n
+wan5	w a n
+uan5	w a n
+weng5	w ə ŋ
+wang5	w a ŋ
+uang5	w a ŋ
+yu5	y 
+ü5	y 
+yue5	ɥe 
+üe5	ɥe 
+yun5	y n
+ün5	y n
+yuan5	ɥ ɛ n
+üan5	ɥ ɛ n
+er5	a ɚ 
+zi5	ts ɨ 
+ci5	tsʰ ɨ 
+si5	s ɨ 
+zhi5	ʈʂ ɯ 
+chi5	ʈʂʰ ɯ 
+shi5	ʂ ɯ 
+ri5	ʐ ɯ 
+ng5	ŋ 
+n5	n 
