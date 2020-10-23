@@ -18,7 +18,7 @@ to test the phone error rate (PER), then it is listed in parentheses.
 As of this writing, PERs range from 7\% to 45\%.  Note: some of the
 trained models exceed git's file size limit, so they're not available
 on the github page; you can still find them at
-[http://isle.illinois.edu/sst/data/g2ps/](http://isle.illinois.edu/sst/data/g2ps/).
+[http://www.isle.illinois.edu/speech_web_lg/data/g2ps/](http://www.isle.illinois.edu/speech_web_lg/data/g2ps/).
 Currently those are (american-english, arabic, dutch, french, german,
 portuguese, russian, spanish, turkish).
 
