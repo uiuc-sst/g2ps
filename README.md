@@ -43,4 +43,3 @@ english, german), CALLHOME
 [mandarin](https://catalog.ldc.upenn.edu/LDC96L15),
 [spanish](https://catalog.ldc.upenn.edu/LDC96L16)).
 	
-![](./index.svg)
