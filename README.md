@@ -16,9 +16,9 @@ You should see the answer "ahyiakwa	21.7336	a ç i a ɥ a˥".
 use with phonetisaurus.  If the available lexicons were large enough
 to test the phone error rate (PER), then it is listed in parentheses.
 As of this writing, PERs range from 7\% to 45\%.  Note: some of the
-trained models exceed git's file size limit, so they're not available
-on the github page; you can still find them at
-[http://www.isle.illinois.edu/speech_web_lg/data/g2ps/](http://www.isle.illinois.edu/speech_web_lg/data/g2ps/).
+trained models exceed github's file size limit, so they're not available
+on the github page; instead, you can find them at
+[http://speechtechnology.web.illinois.edu/data/g2ps/](http://speechtechnology.web.illinois.edu/data/g2ps/)
 Currently those are (american-english, arabic, dutch, french, german,
 portuguese, russian, spanish, turkish).
 
